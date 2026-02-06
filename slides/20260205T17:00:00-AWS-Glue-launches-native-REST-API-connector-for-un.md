@@ -21,11 +21,14 @@ paginate: true
 
 ### 関連する最近の動向
 
-- **AWS Glue launches native REST API connector for universal data ...**
+- **AWS Glue launches native REST API connector ...**
   [詳細](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-glue-rest-api-connector)
 
-- **AWS Glue REST API Connector - Apix-Drive**
-  [詳細](https://apix-drive.com/en/blog/other/aws-glue-rest-api-connector)
+- **Connections API - AWS Glue**
+  [詳細](https://docs.aws.amazon.com/glue/latest/dg/aws-glue-api-catalog-connections.html)
+
+- **Create an AWS Glue data catalog policy**
+  [詳細](https://docs.informatica.com/cloud-common-services/administrator/cur...
 
 ---
 
@@ -55,5 +58,8 @@ paginate: true
 
 ### 関連情報
 
-- [AWS Glue launches native REST API connector for universal data ...](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-glue-rest-api-connector)
-- [AWS Glue REST API Connector - Apix-Drive](https://apix-drive.com/en/blog/other/aws-glue-rest-api-connector)
+- [AWS Glue launches native REST API connector ...](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-glue-rest-api-connector)
+- [Connections API - AWS Glue](https://docs.aws.amazon.com/glue/latest/dg/aws-glue-api-catalog-connections.html)
+- [Create an AWS Glue data catalog policy](https://docs.informatica.com/cloud-common-services/administrator/current-version/connections/amazon-athena-connection-properties/prepare-for-authentication/create-an-aws-glue-data-catalog-policy.html)
+- [Integration APIs in AWS Glue](https://docs.aws.amazon.com/glue/latest/dg/aws-glue-api-integrations.html)
+- [Using custom connectors and connections with AWS Glue](https://docs.aws.amazon.com/glue/latest/dg/connectors-chapter.html)
