@@ -1,0 +1,29 @@
+# AWS Network Firewall announces new price reductions
+
+**カテゴリ:** What's New
+**公開日:** 2026-02-06T08:00:00
+**元記事:** [https://aws.amazon.com/about-aws/whats-new/2026/02/aws-network-firewall-new-price-reduction/](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-network-firewall-new-price-reduction/)
+
+---
+
+## 要約
+
+AWS Network Firewallは、NAT Gatewayの割引をセカンダリエンドポイントにも拡大し、Advanced InspectionのTLS検査機能に関する追加データ処理料金を廃止することで、ネットワークセキュリティアーキテクチャのコスト削減を実現しました。これらの改善により、複数VPC保護とTLS検査をより経済的に実装できるようになります。
+
+## 詳細
+
+- AWS Network Firewallが2つの価格改善を導入したことが発表されました。
+
+- NAT Gatewayの時間単位および データ処理割引が、Network Firewallのセカンダリエンドポイントとサービスチェーンされた場合にも適用されるようになりました。
+
+- Advanced Inspectionの追加データ処理料金が廃止されました。これにより、暗号化されたネットワークトラフィックのTLS検査がコスト効率的になります。
+
+- 以前はNAT Gateway割引はプライマリエンドポイントのみに限定されていましたが、今後はプライマリおよびセカンダリの両方のファイアウォールエンドポイントに適用されます。
+
+- Advanced Inspectionの追加データ処理料金（GB当たり0.001ドルから0.009ドル）が、13のAWSリージョンで廃止されました。
+
+- 複数VPCエンドポイント機能により、1つのAvailability Zoneで最大50個のVPCを単一のNetwork Firewallに接続できます。
+
+- これらの価格改善は、Network Firewallが提供されているすべてのAWSリージョンで利用可能です。
+
+- 対象となる構成に対して自動的に適用されるため、顧客による追加のアクションは不要です。
