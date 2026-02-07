@@ -5,7 +5,7 @@ on:
     branches: [main]
 
 permissions:
-  contents: read      # リポジトリ内容: read/write/none
+  contents: write     # リポジトリ内容: read/write/none (pushするためwriteが必要)
   issues: write       # Issues: read/write/none
   pull-requests: write # PR: read/write/none
 
