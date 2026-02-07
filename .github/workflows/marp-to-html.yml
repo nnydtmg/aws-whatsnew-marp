@@ -70,9 +70,12 @@ jobs:
           # HTMLファイルが生成されているか確認
           if git status --porcelain | grep '\.html$'; then
             git add '**/*.html'
-            git commit -m "Auto-generate HTML from Marp markdown
+            git commit -m "$(cat <<'EOF'
+          Auto-generate HTML from Marp markdown
 
-Co-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>"
+          Co-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>
+          EOF
+          )"
             git push
           else
             echo "No HTML files were generated"
