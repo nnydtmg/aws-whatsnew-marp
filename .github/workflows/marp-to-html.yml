@@ -1,0 +1,79 @@
+name: Convert Marp to HTML
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**/*.md'
+      - '!**/*.summary.md'
+  workflow_dispatch: # 手動実行も可能
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2 # 変更されたファイルを検出するため
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Marp CLI
+        run: npm install -g @marp-team/marp-cli
+
+      - name: Detect changed MD files
+        id: changed-files
+        run: |
+          # 変更されたファイルを検出（.summary.mdを除外）
+          CHANGED_FILES=$(git diff --name-only HEAD^ HEAD | grep '\.md$' | grep -v '\.summary\.md$' || true)
+
+          if [ -z "$CHANGED_FILES" ]; then
+            echo "No markdown files to convert"
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "Changed files:"
+            echo "$CHANGED_FILES"
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            # 改行をスペースに置き換えて出力に保存
+            echo "files<<EOF" >> $GITHUB_OUTPUT
+            echo "$CHANGED_FILES" >> $GITHUB_OUTPUT
+            echo "EOF" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Convert Marp to HTML
+        if: steps.changed-files.outputs.has_changes == 'true'
+        run: |
+          # 変更された各MDファイルをHTMLに変換
+          echo "${{ steps.changed-files.outputs.files }}" | while read -r file; do
+            if [ -n "$file" ] && [ -f "$file" ]; then
+              # ファイルがMarpファイルかチェック（marp: trueが含まれているか）
+              if grep -q "^marp: true" "$file"; then
+                output_file="${file%.md}.html"
+                echo "Converting: $file -> $output_file"
+                marp "$file" -o "$output_file" --html
+              else
+                echo "Skipping non-Marp file: $file"
+              fi
+            fi
+          done
+
+      - name: Commit and push HTML files
+        if: steps.changed-files.outputs.has_changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          # HTMLファイルが生成されているか確認
+          if git status --porcelain | grep '\.html$'; then
+            git add '**/*.html'
+            git commit -m "Auto-generate HTML from Marp markdown
+
+Co-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>"
+            git push
+          else
+            echo "No HTML files were generated"
+          fi
