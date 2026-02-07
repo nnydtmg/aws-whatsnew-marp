@@ -20,7 +20,7 @@ const months = Object.keys(monthlyGroups).sort().reverse();
 const monthsJson = JSON.stringify(months).replace(/'/g, "'\\''");
 
 try {
-  execSync(`wrangler kv:key put --namespace-id="${KV_NAMESPACE_ID}" "metadata:months" '${monthsJson}'`, {
+  execSync(`wrangler kv key put "metadata:months" '${monthsJson}' --namespace-id="${KV_NAMESPACE_ID}"`, {
     stdio: 'inherit'
   });
   console.log(`✓ Uploaded metadata:months (${months.length} months)`);
@@ -42,7 +42,7 @@ for (const [key, articles] of Object.entries(monthlyGroups)) {
   const monthDataJson = JSON.stringify(monthData).replace(/'/g, "'\\''");
 
   try {
-    execSync(`wrangler kv:key put --namespace-id="${KV_NAMESPACE_ID}" "metadata:${key}" '${monthDataJson}'`, {
+    execSync(`wrangler kv key put "metadata:${key}" '${monthDataJson}' --namespace-id="${KV_NAMESPACE_ID}"`, {
       stdio: 'inherit'
     });
     console.log(`✓ Uploaded metadata:${key} (${articles.length} articles)`);

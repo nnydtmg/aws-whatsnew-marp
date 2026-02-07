@@ -35,10 +35,9 @@ jobs:
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           KV_NAMESPACE_ID: "bb277b979d88444da36a3140236b59b2"
         run: |
-          wrangler kv:key put \
-            --namespace-id="$KV_NAMESPACE_ID" \
-            "metadata:index" \
-            --path=metadata.json
+          wrangler kv key put "metadata:index" \
+            --path=metadata.json \
+            --namespace-id="$KV_NAMESPACE_ID"
           echo "✓ Main metadata uploaded"
 
       - name: Upload monthly metadata to KV
