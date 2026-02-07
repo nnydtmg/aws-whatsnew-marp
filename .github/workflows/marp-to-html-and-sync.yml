@@ -36,7 +36,7 @@ jobs:
       # メタデータを生成（全てのKVキー）
       - name: Generate metadata
         run: |
-          node scripts/generate-metadata.mjs . all > metadata-all.json
+          node .github/scripts/generate-metadata.mjs . all > metadata-all.json
           echo "Generated metadata for $(cat metadata-all.json | jq -r '."metadata:index".totalCount') articles"
 
       # Wrangler CLIでKVを更新
