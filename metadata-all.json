@@ -9,10 +9,19 @@
         "month": 2,
         "day": 7,
         "path": "2026/02/07/AWS-Builder-ID-now-supports-Sign-in-with-Apple"
+      },
+      {
+        "id": "2026-02-05-Claude-Opus-46-now-available-in-Amazon-Bedrock",
+        "title": "Claude Opus 4.6",
+        "date": "2026-02-05",
+        "year": 2026,
+        "month": 2,
+        "day": 5,
+        "path": "2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock"
       }
     ],
-    "updatedAt": "2026-02-07T11:25:26.736Z",
-    "totalCount": 1
+    "updatedAt": "2026-02-07T11:35:31.598Z",
+    "totalCount": 2
   },
   "metadata:months": [
     "2026/02"
@@ -29,6 +38,15 @@
         "month": 2,
         "day": 7,
         "path": "2026/02/07/AWS-Builder-ID-now-supports-Sign-in-with-Apple"
+      },
+      {
+        "id": "2026-02-05-Claude-Opus-46-now-available-in-Amazon-Bedrock",
+        "title": "Claude Opus 4.6",
+        "date": "2026-02-05",
+        "year": 2026,
+        "month": 2,
+        "day": 5,
+        "path": "2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock"
       }
     ],
     "totalPages": 1
