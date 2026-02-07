@@ -33,19 +33,19 @@ jobs:
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          KV_NAMESPACE_ID: "bb277b979d88444da36a3140236b59b2"
+          KV_NAMESPACE_ID: ${{ secrets.KV_NAMESPACE_ID}}
         run: |
-          wrangler kv:key put \
+          wrangler kv key put "metadata:index" \
+            --path=metadata.json \
             --namespace-id="$KV_NAMESPACE_ID" \
-            "metadata:index" \
-            --path=metadata.json
+            --remote
           echo "✓ Main metadata uploaded"
 
       - name: Upload monthly metadata to KV
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          KV_NAMESPACE_ID: "bb277b979d88444da36a3140236b59b2"
+          KV_NAMESPACE_ID: ${{ secrets.KV_NAMESPACE_ID}}
         run: |
           node .github/scripts/upload-monthly-metadata.mjs
           echo "✓ Monthly metadata uploaded"
