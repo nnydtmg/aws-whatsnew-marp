@@ -29,30 +29,41 @@ jobs:
 
       - name: Generate slide.html from slide.md
         run: |
+          converted_count=0
+          skipped_count=0
+
           if [ "${{ github.event_name }}" = "push" ]; then
             # pushイベント: 変更されたファイルのみ処理
             echo "Processing only changed files..."
-            git diff --name-only HEAD^ HEAD | grep 'slide\.md$' | while IFS= read -r file; do
+            while IFS= read -r file; do
               if [ -f "$file" ]; then
                 dir=$(dirname "$file")
-                echo "Converting $file..."
+                echo "  ✓ Converting $file..."
                 marp --html --allow-local-files "$file" -o "$dir/slide.html"
+                converted_count=$((converted_count + 1))
               fi
-            done
+            done < <(git diff --name-only HEAD^ HEAD | grep 'slide\.md$')
           else
             # schedule または workflow_dispatch: HTMLが存在しないファイルのみ処理
             echo "Processing slide.md files without HTML..."
-            find . -type f -name "slide.md" | while IFS= read -r file; do
+            while IFS= read -r file; do
               dir=$(dirname "$file")
               html_file="$dir/slide.html"
               if [ ! -f "$html_file" ]; then
-                echo "Converting $file..."
+                echo "  ✓ Converting $file..."
                 marp --html --allow-local-files "$file" -o "$html_file"
+                converted_count=$((converted_count + 1))
               else
-                echo "Skipping $file (HTML already exists)"
+                echo "  - Skipping $file (HTML already exists)"
+                skipped_count=$((skipped_count + 1))
               fi
-            done
+            done < <(find . -type f -name "slide.md")
           fi
+
+          echo ""
+          echo "=== Conversion Summary ==="
+          echo "Converted: $converted_count file(s)"
+          echo "Skipped:   $skipped_count file(s)"
 
       # メタデータを生成（全てのKVキー）
       - name: Generate metadata
