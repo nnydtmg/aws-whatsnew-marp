@@ -40,12 +40,17 @@ jobs:
               fi
             done
           else
-            # schedule または workflow_dispatch: 全ファイル処理
-            echo "Processing all slide.md files..."
+            # schedule または workflow_dispatch: HTMLが存在しないファイルのみ処理
+            echo "Processing slide.md files without HTML..."
             find . -type f -name "slide.md" | while IFS= read -r file; do
               dir=$(dirname "$file")
-              echo "Converting $file..."
-              marp --html --allow-local-files "$file" -o "$dir/slide.html"
+              html_file="$dir/slide.html"
+              if [ ! -f "$html_file" ]; then
+                echo "Converting $file..."
+                marp --html --allow-local-files "$file" -o "$html_file"
+              else
+                echo "Skipping $file (HTML already exists)"
+              fi
             done
           fi
 
