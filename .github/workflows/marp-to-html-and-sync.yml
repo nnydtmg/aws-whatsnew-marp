@@ -49,22 +49,25 @@ jobs:
 
           # metadata:index を更新
           cat metadata-all.json | jq '."metadata:index"' | \
-            wrangler kv:key put "metadata:index" \
+            wrangler kv key put "metadata:index" \
               --namespace-id=${{ secrets.KV_NAMESPACE_ID }} \
+              --remote \
               --path=/dev/stdin
 
           # metadata:months を更新
           cat metadata-all.json | jq '."metadata:months"' | \
-            wrangler kv:key put "metadata:months" \
+            wrangler kv key put "metadata:months" \
               --namespace-id=${{ secrets.KV_NAMESPACE_ID }} \
+              --remote \
               --path=/dev/stdin
 
           # 各月のメタデータを更新
           cat metadata-all.json | jq -r 'keys[] | select(startswith("metadata:") and (. != "metadata:index") and (. != "metadata:months"))' | while read key; do
             echo "Updating $key..."
             cat metadata-all.json | jq ".\"$key\"" | \
-              wrangler kv:key put "$key" \
+              wrangler kv key put "$key" \
                 --namespace-id=${{ secrets.KV_NAMESPACE_ID }} \
+                --remote \
                 --path=/dev/stdin
           done
 
