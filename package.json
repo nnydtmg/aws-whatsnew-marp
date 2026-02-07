@@ -1,0 +1,8 @@
+{
+"scripts": {
+    "build:html": "marp --html --allow-local-files --input-dir . --output ."
+},
+"devDependencies": {
+    "@marp-team/marp-cli": "^3.4.0"
+}
+}
