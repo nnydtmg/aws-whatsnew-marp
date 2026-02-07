@@ -22,7 +22,7 @@ const months = Object.keys(monthlyGroups).sort().reverse();
 writeFileSync('metadata-months.json', JSON.stringify(months));
 
 try {
-  execSync(`wrangler kv key put "metadata:months" --path=metadata-months.json --namespace-id="${KV_NAMESPACE_ID}"`, {
+  execSync(`wrangler kv key put "metadata:months" --path=metadata-months.json --namespace-id="${KV_NAMESPACE_ID}" --remote`, {
     stdio: 'inherit'
   });
   console.log(`✓ Uploaded metadata:months (${months.length} months)`);
@@ -46,7 +46,7 @@ for (const [key, articles] of Object.entries(monthlyGroups)) {
   writeFileSync(tempFile, JSON.stringify(monthData));
 
   try {
-    execSync(`wrangler kv key put "metadata:${key}" --path=${tempFile} --namespace-id="${KV_NAMESPACE_ID}"`, {
+    execSync(`wrangler kv key put "metadata:${key}" --path=${tempFile} --namespace-id="${KV_NAMESPACE_ID}" --remote`, {
       stdio: 'inherit'
     });
     console.log(`✓ Uploaded metadata:${key} (${articles.length} articles)`);
