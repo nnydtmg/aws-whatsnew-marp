@@ -3,6 +3,10 @@ name: Generate HTML and Update Metadata
 on:
   push:
     branches: [main]
+  schedule:
+    # 毎日 0:00 UTC (日本時間 9:00) に実行
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 手動実行を許可
 
 permissions:
   contents: write     # リポジトリ内容: read/write/none (pushするためwriteが必要)
@@ -25,13 +29,25 @@ jobs:
 
       - name: Generate slide.html from slide.md
         run: |
-          git diff --name-only HEAD^ HEAD | grep 'slide\.md$' | while IFS= read -r file; do
-            if [ -f "$file" ]; then
+          if [ "${{ github.event_name }}" = "push" ]; then
+            # pushイベント: 変更されたファイルのみ処理
+            echo "Processing only changed files..."
+            git diff --name-only HEAD^ HEAD | grep 'slide\.md$' | while IFS= read -r file; do
+              if [ -f "$file" ]; then
+                dir=$(dirname "$file")
+                echo "Converting $file..."
+                marp --html --allow-local-files "$file" -o "$dir/slide.html"
+              fi
+            done
+          else
+            # schedule または workflow_dispatch: 全ファイル処理
+            echo "Processing all slide.md files..."
+            find . -type f -name "slide.md" | while IFS= read -r file; do
               dir=$(dirname "$file")
               echo "Converting $file..."
               marp --html --allow-local-files "$file" -o "$dir/slide.html"
-            fi
-          done
+            done
+          fi
 
       # メタデータを生成（全てのKVキー）
       - name: Generate metadata
