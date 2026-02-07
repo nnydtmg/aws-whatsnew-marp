@@ -27,40 +27,38 @@ jobs:
       - name: Install Marp CLI
         run: npm install -g @marp-team/marp-cli
 
-      - name: Detect changed MD files
+      - name: Detect target slide.md files
         id: changed-files
         run: |
-          # 変更されたファイルを検出（.summary.mdを除外）
-          CHANGED_FILES=$(git diff --name-only HEAD^ HEAD | grep '\slide.md$' || true)
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            # 手動実行時は全てのslide.mdを対象にする
+            TARGET_FILES=$(find . -name 'slide.md' -type f | sed 's|^\./||' || true)
+          else
+            # push時は変更されたslide.mdのみを対象にする
+            TARGET_FILES=$(git diff --name-only HEAD^ HEAD | grep '/slide\.md$' || true)
+          fi
 
-          if [ -z "$CHANGED_FILES" ]; then
-            echo "No markdown files to convert"
+          if [ -z "$TARGET_FILES" ]; then
+            echo "No slide.md files to convert"
             echo "has_changes=false" >> $GITHUB_OUTPUT
           else
-            echo "Changed files:"
-            echo "$CHANGED_FILES"
+            echo "Target files:"
+            echo "$TARGET_FILES"
             echo "has_changes=true" >> $GITHUB_OUTPUT
-            # 改行をスペースに置き換えて出力に保存
             echo "files<<EOF" >> $GITHUB_OUTPUT
-            echo "$CHANGED_FILES" >> $GITHUB_OUTPUT
+            echo "$TARGET_FILES" >> $GITHUB_OUTPUT
             echo "EOF" >> $GITHUB_OUTPUT
           fi
 
-      - name: Convert Marp to HTML
+      - name: Convert slide.md to HTML
         if: steps.changed-files.outputs.has_changes == 'true'
         run: |
-          # 変更された各MDファイルをHTMLに変換
           while IFS= read -r file; do
             if [ -n "$file" ] && [ -f "$file" ]; then
-              echo "Checking file: $file"
-              # ファイルがMarpファイルかチェック（marp: trueが含まれているか）
-              if grep -q "^marp: true" "$file"; then
-                output_file="${file%.md}.html"
-                echo "Converting: $file -> $output_file"
-                npx @marp-team/marp-cli "$file" --html --output "$output_file"
-              else
-                echo "Skipping non-Marp file: $file"
-              fi
+              dir=$(dirname "$file")
+              output_file="${dir}/slide.html"
+              echo "Converting: $file -> $output_file"
+              npx @marp-team/marp-cli "$file" --html --output "$output_file"
             fi
           done <<< "${{ steps.changed-files.outputs.files }}"
 
@@ -70,16 +68,12 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
 
-          # HTMLファイルが生成されているか確認
-          if git status --porcelain | grep '\.html$'; then
-            git add .
-            git commit -m "$(cat <<'EOF'
-          Auto-generate HTML from Marp markdown
+          # 生成されたHTMLファイルのみをaddする
+          git add '**/slide.html'
 
-          Co-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>
-          EOF
-          )"
-            git push
-          else
+          if git diff --cached --quiet; then
             echo "No HTML files were generated"
+          else
+            git commit -m "Auto-generate slide.html from slide.md"
+            git push
           fi
