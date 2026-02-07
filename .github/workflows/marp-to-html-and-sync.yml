@@ -1,8 +1,6 @@
 name: Generate HTML and Update Metadata
 
 on:
-  push:
-    branches: [main]
   schedule:
     # 毎日 0:00 UTC (日本時間 9:00) に実行
     - cron: '0 0 * * *'
@@ -32,33 +30,19 @@ jobs:
           converted_count=0
           skipped_count=0
 
-          if [ "${{ github.event_name }}" = "push" ]; then
-            # pushイベント: 変更されたファイルのみ処理
-            echo "Processing only changed files..."
-            while IFS= read -r file; do
-              if [ -f "$file" ]; then
-                dir=$(dirname "$file")
-                echo "  ✓ Converting $file..."
-                marp --html --allow-local-files "$file" -o "$dir/slide.html"
-                converted_count=$((converted_count + 1))
-              fi
-            done < <(git diff --name-only HEAD^ HEAD | grep 'slide\.md$')
-          else
-            # schedule または workflow_dispatch: HTMLが存在しないファイルのみ処理
-            echo "Processing slide.md files without HTML..."
-            while IFS= read -r file; do
-              dir=$(dirname "$file")
-              html_file="$dir/slide.html"
-              if [ ! -f "$html_file" ]; then
-                echo "  ✓ Converting $file..."
-                marp --html --allow-local-files "$file" -o "$html_file"
-                converted_count=$((converted_count + 1))
-              else
-                echo "  - Skipping $file (HTML already exists)"
-                skipped_count=$((skipped_count + 1))
-              fi
-            done < <(find . -type f -name "slide.md")
-          fi
+          echo "Processing slide.md files without HTML..."
+          while IFS= read -r file; do
+            dir=$(dirname "$file")
+            html_file="$dir/slide.html"
+            if [ ! -f "$html_file" ]; then
+              echo "  ✓ Converting $file..."
+              marp --html --allow-local-files "$file" -o "$html_file"
+              converted_count=$((converted_count + 1))
+            else
+              echo "  - Skipping $file (HTML already exists)"
+              skipped_count=$((skipped_count + 1))
+            fi
+          done < <(find . -type f -name "slide.md")
 
           echo ""
           echo "=== Conversion Summary ==="
