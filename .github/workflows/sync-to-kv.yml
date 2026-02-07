@@ -37,7 +37,8 @@ jobs:
         run: |
           wrangler kv key put "metadata:index" \
             --path=metadata.json \
-            --namespace-id="$KV_NAMESPACE_ID"
+            --namespace-id="$KV_NAMESPACE_ID" \
+            --remote
           echo "✓ Main metadata uploaded"
 
       - name: Upload monthly metadata to KV
