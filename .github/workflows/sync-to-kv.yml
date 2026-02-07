@@ -1,15 +1,21 @@
 name: Sync to Cloudflare KV
 
 on:
+  workflow_run:
+    workflows: ["Convert Marp to HTML"]
+    types: [completed]
   push:
     branches: [main]
     paths:
       - '**/*.md'
+      - '!**/slide.md'  # slide.mdの変更はmarp-to-html完了後にworkflow_runで処理
   workflow_dispatch: # 手動実行も可能
 
 jobs:
   sync:
     runs-on: ubuntu-latest
+    # workflow_runトリガーの場合、成功時のみ実行
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
