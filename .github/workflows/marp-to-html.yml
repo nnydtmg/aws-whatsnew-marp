@@ -8,6 +8,9 @@ on:
       - '!**/*.summary.md'
   workflow_dispatch: # 手動実行も可能
 
+permissions:
+  contents: write
+
 jobs:
   convert:
     runs-on: ubuntu-latest
@@ -48,18 +51,19 @@ jobs:
         if: steps.changed-files.outputs.has_changes == 'true'
         run: |
           # 変更された各MDファイルをHTMLに変換
-          echo "${{ steps.changed-files.outputs.files }}" | while read -r file; do
+          while IFS= read -r file; do
             if [ -n "$file" ] && [ -f "$file" ]; then
+              echo "Checking file: $file"
               # ファイルがMarpファイルかチェック（marp: trueが含まれているか）
               if grep -q "^marp: true" "$file"; then
                 output_file="${file%.md}.html"
                 echo "Converting: $file -> $output_file"
-                marp "$file" -o "$output_file" --html
+                npx @marp-team/marp-cli "$file" --html --output "$output_file"
               else
                 echo "Skipping non-Marp file: $file"
               fi
             fi
-          done
+          done <<< "${{ steps.changed-files.outputs.files }}"
 
       - name: Commit and push HTML files
         if: steps.changed-files.outputs.has_changes == 'true'
@@ -69,7 +73,7 @@ jobs:
 
           # HTMLファイルが生成されているか確認
           if git status --porcelain | grep '\.html$'; then
-            git add '**/*.html'
+            git add .
             git commit -m "$(cat <<'EOF'
           Auto-generate HTML from Marp markdown
 
