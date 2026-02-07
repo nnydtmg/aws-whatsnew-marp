@@ -1,0 +1,62 @@
+name: Sync to Cloudflare KV
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**/*.md'
+  workflow_dispatch: # 手動実行も可能
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate metadata
+        id: metadata
+        run: |
+          node .github/scripts/generate-metadata.mjs > metadata.json
+          echo "Generated metadata:"
+          cat metadata.json
+
+      - name: Install Wrangler
+        run: npm install -g wrangler
+
+      - name: Upload main metadata to KV
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          KV_NAMESPACE_ID: "bb277b979d88444da36a3140236b59b2"
+        run: |
+          wrangler kv:key put \
+            --namespace-id="$KV_NAMESPACE_ID" \
+            "metadata:index" \
+            --path=metadata.json
+          echo "✓ Main metadata uploaded"
+
+      - name: Upload monthly metadata to KV
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          KV_NAMESPACE_ID: "bb277b979d88444da36a3140236b59b2"
+        run: |
+          node .github/scripts/upload-monthly-metadata.mjs
+          echo "✓ Monthly metadata uploaded"
+
+      - name: Notify Worker to clear cache
+        env:
+          WORKER_URL: ${{ secrets.WORKER_URL }}
+          SYNC_SECRET: ${{ secrets.SYNC_SECRET }}
+        run: |
+          curl -X POST "$WORKER_URL/api/sync" \
+            -H "X-Sync-Secret: $SYNC_SECRET" \
+            -H "Content-Type: application/json" \
+            -d '{"event":"metadata_updated","timestamp":"'"$(date -u +%Y-%m-%dT%H:%M:%SZ)"'"}' \
+            || echo "Warning: Failed to notify worker (this is non-critical)"
