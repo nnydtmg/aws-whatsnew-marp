@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import { readFileSync } from 'fs';
+import { readFileSync, writeFileSync } from 'fs';
 import { execSync } from 'child_process';
 
 const KV_NAMESPACE_ID = process.env.KV_NAMESPACE_ID || 'bb277b979d88444da36a3140236b59b2';
@@ -17,10 +17,12 @@ metadata.articles.forEach(article => {
 
 // metadata:months キー（利用可能な月一覧）
 const months = Object.keys(monthlyGroups).sort().reverse();
-const monthsJson = JSON.stringify(months).replace(/'/g, "'\\''");
+
+// 一時ファイルに書き出してアップロード
+writeFileSync('metadata-months.json', JSON.stringify(months));
 
 try {
-  execSync(`wrangler kv key put "metadata:months" '${monthsJson}' --namespace-id="${KV_NAMESPACE_ID}"`, {
+  execSync(`wrangler kv key put "metadata:months" --path=metadata-months.json --namespace-id="${KV_NAMESPACE_ID}"`, {
     stdio: 'inherit'
   });
   console.log(`✓ Uploaded metadata:months (${months.length} months)`);
@@ -39,10 +41,12 @@ for (const [key, articles] of Object.entries(monthlyGroups)) {
     totalPages: Math.ceil(articles.length / 10)
   };
 
-  const monthDataJson = JSON.stringify(monthData).replace(/'/g, "'\\''");
+  // 一時ファイルに書き出してアップロード
+  const tempFile = `metadata-${year}-${month}.json`;
+  writeFileSync(tempFile, JSON.stringify(monthData));
 
   try {
-    execSync(`wrangler kv key put "metadata:${key}" '${monthDataJson}' --namespace-id="${KV_NAMESPACE_ID}"`, {
+    execSync(`wrangler kv key put "metadata:${key}" --path=${tempFile} --namespace-id="${KV_NAMESPACE_ID}"`, {
       stdio: 'inherit'
     });
     console.log(`✓ Uploaded metadata:${key} (${articles.length} articles)`);
