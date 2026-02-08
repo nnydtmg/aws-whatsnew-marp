@@ -12,6 +12,26 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/07/AWS-Builder-ID-now-supports-Sign-in-with-Apple/thumbnail.png"
       },
       {
+        "id": "2026-02-07-AWS-Config-now-supports-30-new-resource-types",
+        "title": "AWS Config now supports 30 new resource types",
+        "date": "2026-02-07",
+        "year": 2026,
+        "month": 2,
+        "day": 7,
+        "path": "2026/02/07/AWS-Config-now-supports-30-new-resource-types",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/07/AWS-Config-now-supports-30-new-resource-types/thumbnail.png"
+      },
+      {
+        "id": "2026-02-07-AWS-Network-Firewall-announces-new-price-reduction",
+        "title": "AWS Network Firewall announces new price reductions",
+        "date": "2026-02-07",
+        "year": 2026,
+        "month": 2,
+        "day": 7,
+        "path": "2026/02/07/AWS-Network-Firewall-announces-new-price-reduction",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/07/AWS-Network-Firewall-announces-new-price-reduction/thumbnail.png"
+      },
+      {
         "id": "2026-02-05-Claude-Opus-46-now-available-in-Amazon-Bedrock",
         "title": "Claude Opus 4.6",
         "date": "2026-02-05",
@@ -22,8 +42,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-02-08T00:31:07.420Z",
-    "totalCount": 2
+    "updatedAt": "2026-02-08T00:34:37.151Z",
+    "totalCount": 4
   },
   "metadata:months": [
     "2026/02"
@@ -41,6 +61,26 @@
         "day": 7,
         "path": "2026/02/07/AWS-Builder-ID-now-supports-Sign-in-with-Apple",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/07/AWS-Builder-ID-now-supports-Sign-in-with-Apple/thumbnail.png"
+      },
+      {
+        "id": "2026-02-07-AWS-Config-now-supports-30-new-resource-types",
+        "title": "AWS Config now supports 30 new resource types",
+        "date": "2026-02-07",
+        "year": 2026,
+        "month": 2,
+        "day": 7,
+        "path": "2026/02/07/AWS-Config-now-supports-30-new-resource-types",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/07/AWS-Config-now-supports-30-new-resource-types/thumbnail.png"
+      },
+      {
+        "id": "2026-02-07-AWS-Network-Firewall-announces-new-price-reduction",
+        "title": "AWS Network Firewall announces new price reductions",
+        "date": "2026-02-07",
+        "year": 2026,
+        "month": 2,
+        "day": 7,
+        "path": "2026/02/07/AWS-Network-Firewall-announces-new-price-reduction",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/07/AWS-Network-Firewall-announces-new-price-reduction/thumbnail.png"
       },
       {
         "id": "2026-02-05-Claude-Opus-46-now-available-in-Amazon-Bedrock",
