@@ -29,28 +29,114 @@ jobs:
         run: |
           converted_count=0
           skipped_count=0
+          failed_count=0
+          converted_files=""
+          skipped_files=""
+          failed_files=""
 
           echo "Processing slide.md files without HTML..."
-          while IFS= read -r file; do
+          mapfile -d '' files < <(find . -type f -name "slide.md" -print0)
+          for file in "${files[@]}"; do
             dir=$(dirname "$file")
             html_file="$dir/slide.html"
             if [ ! -f "$html_file" ]; then
               echo "  ✓ Converting $file..."
-              marp --html --allow-local-files "$file" -o "$html_file"
-              converted_count=$((converted_count + 1))
+              if marp --html --allow-local-files "$file" -o "$html_file" < /dev/null; then
+                converted_count=$((converted_count + 1))
+                converted_files="${converted_files}\n  - ${file}"
+              else
+                echo "  ✗ Failed to convert $file"
+                failed_count=$((failed_count + 1))
+                failed_files="${failed_files}\n  - ${file}"
+              fi
             else
               echo "  - Skipping $file (HTML already exists)"
               skipped_count=$((skipped_count + 1))
+              skipped_files="${skipped_files}\n  - ${file}"
             fi
-          done < <(find . -type f -name "slide.md")
+          done
 
           echo ""
           echo "=== Conversion Summary ==="
           echo "Converted: $converted_count file(s)"
           echo "Skipped:   $skipped_count file(s)"
+          echo "Failed:    $failed_count file(s)"
+          if [ "$converted_count" -gt 0 ]; then
+            echo ""
+            echo "Converted files:"
+            printf "%b\n" "$converted_files"
+          fi
+          if [ "$skipped_count" -gt 0 ]; then
+            echo ""
+            echo "Skipped files:"
+            printf "%b\n" "$skipped_files"
+          fi
+          if [ "$failed_count" -gt 0 ]; then
+            echo ""
+            echo "Failed files:"
+            printf "%b\n" "$failed_files"
+          fi
+
+      # サムネイル生成（各スライドの1枚目をPNG化）
+      - name: Generate thumbnails from slide.md
+        run: |
+          set +e
+          shopt -s nullglob
+
+          generated_count=0
+          skipped_count=0
+          failed_count=0
+          generated_files=""
+          skipped_files=""
+          failed_files=""
+
+          mapfile -d '' files < <(find . -type f -name "slide.md" -print0)
+          for file in "${files[@]}"; do
+            dir=$(dirname "$file")
+            summary_md="$dir/summary.md"
+            slide_html="$dir/slide.html"
+            if [ -f "$summary_md" ] && [ -f "$slide_html" ]; then
+              echo "Generating thumbnail for $file..."
+              if marp --image png --allow-local-files "$file" -o "$dir/thumbnail.png" < /dev/null; then
+                generated_count=$((generated_count + 1))
+                generated_files="${generated_files}\n  - ${file}"
+              else
+                echo "  ✗ Failed to convert $file"
+                failed_count=$((failed_count + 1))
+                failed_files="${failed_files}\n  - ${file}"
+              fi
+            else
+              echo "Skipping $file (missing summary.md or slide.html)"
+              skipped_count=$((skipped_count + 1))
+              skipped_files="${skipped_files}\n  - ${file}"
+            fi
+          done
+
+          echo ""
+          echo "=== Thumbnail Summary ==="
+          echo "Generated: $generated_count file(s)"
+          echo "Skipped:   $skipped_count file(s)"
+          echo "Failed:    $failed_count file(s)"
+          if [ "$generated_count" -gt 0 ]; then
+            echo ""
+            echo "Generated files:"
+            printf "%b\n" "$generated_files"
+          fi
+          if [ "$skipped_count" -gt 0 ]; then
+            echo ""
+            echo "Skipped files:"
+            printf "%b\n" "$skipped_files"
+          fi
+          if [ "$failed_count" -gt 0 ]; then
+            echo ""
+            echo "Failed files:"
+            printf "%b\n" "$failed_files"
+          fi
 
       # メタデータを生成（全てのKVキー）
       - name: Generate metadata
+        env:
+          THUMBNAIL_BASE_URL: ${{ secrets.THUMBNAIL_BASE_URL }}
         run: |
           node .github/scripts/generate-metadata.mjs . all > metadata-all.json
           echo "Generated metadata for $(cat metadata-all.json | jq -r '."metadata:index".totalCount') articles"
@@ -86,6 +172,20 @@ jobs:
                 --remote \
                 --path=/dev/stdin
           done
+      
+      # 生成したサムネイルをR2にアップロード
+      - name: Upload thumbnails to R2
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          R2_BUCKET: ${{ secrets.R2_BUCKET }}
+        run: |
+          find . -type f -name "thumbnail.png" | while read file; do
+            # 例: 2026/02/06/Topic/thumbnail.png
+            key=${file#./}
+            echo "Uploading $file to R2 as $key..."
+            wrangler r2 object put "$R2_BUCKET/$key" --remote --file "$file"
+          done
 
       # HTMLファイルをコミット
       - name: Commit generated files
@@ -93,6 +193,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add "**/slide.html" metadata-all.json
+          git add "**/thumbnail.png" || true
           git diff --quiet && git diff --staged --quiet || \
             git commit -m "Generate HTML and metadata [skip ci]"
           git push
