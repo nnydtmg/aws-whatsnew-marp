@@ -29,6 +29,10 @@ jobs:
         run: |
           converted_count=0
           skipped_count=0
+          failed_count=0
+          converted_files=""
+          skipped_files=""
+          failed_files=""
 
           echo "Processing slide.md files without HTML..."
           while IFS= read -r file; do
@@ -36,11 +40,19 @@ jobs:
             html_file="$dir/slide.html"
             if [ ! -f "$html_file" ]; then
               echo "  ✓ Converting $file..."
-              marp --html --allow-local-files "$file" -o "$html_file"
-              converted_count=$((converted_count + 1))
+              # Output to directory to avoid marp CLI multi-input restriction
+              if marp --html --allow-local-files "$file" -o "$dir"; then
+                converted_count=$((converted_count + 1))
+                converted_files="${converted_files}\n  - ${file}"
+              else
+                echo "  ✗ Failed to convert $file"
+                failed_count=$((failed_count + 1))
+                failed_files="${failed_files}\n  - ${file}"
+              fi
             else
               echo "  - Skipping $file (HTML already exists)"
               skipped_count=$((skipped_count + 1))
+              skipped_files="${skipped_files}\n  - ${file}"
             fi
           done < <(find . -type f -name "slide.md")
 
@@ -48,6 +60,22 @@ jobs:
           echo "=== Conversion Summary ==="
           echo "Converted: $converted_count file(s)"
           echo "Skipped:   $skipped_count file(s)"
+          echo "Failed:    $failed_count file(s)"
+          if [ "$converted_count" -gt 0 ]; then
+            echo ""
+            echo "Converted files:"
+            printf "%b\n" "$converted_files"
+          fi
+          if [ "$skipped_count" -gt 0 ]; then
+            echo ""
+            echo "Skipped files:"
+            printf "%b\n" "$skipped_files"
+          fi
+          if [ "$failed_count" -gt 0 ]; then
+            echo ""
+            echo "Failed files:"
+            printf "%b\n" "$failed_files"
+          fi
 
       # サムネイル生成（各スライドの1枚目をPNG化）
       - name: Generate thumbnails from slide.md
