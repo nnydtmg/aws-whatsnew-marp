@@ -49,8 +49,25 @@ jobs:
           echo "Converted: $converted_count file(s)"
           echo "Skipped:   $skipped_count file(s)"
 
+      # サムネイル生成（各スライドの1枚目をPNG化）
+      - name: Generate thumbnails from slide.md
+        run: |
+          find . -type f -name "slide.md" | while read file; do
+            dir=$(dirname "$file")
+            summary_md="$dir/summary.md"
+            slide_html="$dir/slide.html"
+            if [ -f "$summary_md" ] && [ -f "$slide_html" ]; then
+              echo "Generating thumbnail for $file..."
+              marp --image png --allow-local-files "$file" -o "$dir/thumbnail.png"
+            else
+              echo "Skipping $file (missing summary.md or slide.html)"
+            fi
+          done
+
       # メタデータを生成（全てのKVキー）
       - name: Generate metadata
+        env:
+          THUMBNAIL_BASE_URL: ${{ secrets.THUMBNAIL_BASE_URL }}
         run: |
           node .github/scripts/generate-metadata.mjs . all > metadata-all.json
           echo "Generated metadata for $(cat metadata-all.json | jq -r '."metadata:index".totalCount') articles"
@@ -86,13 +103,27 @@ jobs:
                 --remote \
                 --path=/dev/stdin
           done
+      
+      # 生成したサムネイルをR2にアップロード
+      - name: Upload thumbnails to R2
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          R2_BUCKET: ${{ secrets.R2_BUCKET }}
+        run: |
+          find . -type f -name "thumbnail.png" | while read file; do
+            # 例: 2026/02/06/Topic/thumbnail.png
+            key=${file#./}
+            echo "Uploading $file to R2 as $key..."
+            wrangler r2 object put "$R2_BUCKET/$key" --file "$file"
+          done
 
       # HTMLファイルをコミット
       - name: Commit generated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add "**/slide.html" metadata-all.json
+          git add "**/slide.html" metadata-all.json "**/thumbnail.png"
           git diff --quiet && git diff --staged --quiet || \
             git commit -m "Generate HTML and metadata [skip ci]"
           git push

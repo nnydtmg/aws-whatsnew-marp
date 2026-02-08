@@ -18,7 +18,8 @@
  *         "year": yyyy,
  *         "month": mm,
  *         "day": dd,
- *         "path": "yyyy/mm/dd/title"
+ *         "path": "yyyy/mm/dd/title",
+ *         "thumbnailUrl": "https://thumbs.example.com/yyyy/mm/dd/title/thumbnail.png"
  *       }
  *     ],
  *     "updatedAt": "2026-02-07T10:00:00Z",
@@ -26,8 +27,8 @@
  *   }
  */
 
-import fs from 'fs';
-import path from 'path';
+const fs = require('fs');
+const path = require('path');
 
 /**
  * HTMLファイルからタイトルを抽出
@@ -67,6 +68,9 @@ function titleFromDirectory(dirname) {
  */
 function scanArticles(baseDir = '.') {
   const articles = [];
+  const thumbnailBaseUrl = process.env.THUMBNAIL_BASE_URL
+    ? process.env.THUMBNAIL_BASE_URL.replace(/\/+$/, '')
+    : null;
 
   // yyyy ディレクトリを検索
   const yearDirs = fs.readdirSync(baseDir)
@@ -118,6 +122,10 @@ function scanArticles(baseDir = '.') {
             // pathは yyyy/mm/dd/title 形式（.mdを含めない）
             const relativePath = path.relative(baseDir, articlePath).replace(/\\/g, '/');
 
+            const thumbnailUrl = thumbnailBaseUrl
+              ? `${thumbnailBaseUrl}/${relativePath}/thumbnail.png`
+              : undefined;
+
             articles.push({
               id,
               title,
@@ -125,7 +133,8 @@ function scanArticles(baseDir = '.') {
               year,
               month,
               day,
-              path: relativePath
+              path: relativePath,
+              thumbnailUrl
             });
 
             console.error(`Found article: ${id} - ${title}`);
