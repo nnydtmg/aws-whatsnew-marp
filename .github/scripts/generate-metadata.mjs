@@ -19,6 +19,7 @@
  *         "month": mm,
  *         "day": dd,
  *         "path": "yyyy/mm/dd/title",
+ *         "summary": "Summary text...",
  *         "thumbnailUrl": "https://thumbs.example.com/yyyy/mm/dd/title/thumbnail.png"
  *       }
  *     ],
@@ -61,6 +62,43 @@ function titleFromDirectory(dirname) {
   return dirname
     .replace(/-/g, ' ')
     .replace(/\b\w/g, char => char.toUpperCase());
+}
+
+/**
+ * summary.md から検索用のサマリ文字列を抽出
+ */
+function extractSummaryFromMarkdown(summaryPath, maxLength = 240) {
+  try {
+    const content = fs.readFileSync(summaryPath, 'utf-8');
+
+    const firstBlock = content
+      .replace(/\r\n/g, '\n')
+      .split(/\n\s*\n/)
+      .map(block => block.trim())
+      .find(block => block.length > 0) || '';
+
+    if (!firstBlock) {
+      return null;
+    }
+
+    const cleaned = firstBlock
+      .replace(/```[\s\S]*?```/g, ' ')
+      .replace(/`[^`]*`/g, ' ')
+      .replace(/!\[[^\]]*\]\([^)]*\)/g, ' ')
+      .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')
+      .replace(/[#>*_~\-]/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
+
+    if (!cleaned) {
+      return null;
+    }
+
+    return cleaned.length > maxLength ? `${cleaned.slice(0, maxLength)}...` : cleaned;
+  } catch (error) {
+    console.error(`Failed to extract summary from ${summaryPath}:`, error.message);
+    return null;
+  }
 }
 
 /**
@@ -112,6 +150,7 @@ function scanArticles(baseDir = '.') {
           if (fs.existsSync(slideHtml) && fs.existsSync(summaryMd)) {
             // タイトルをHTMLから抽出、失敗したらディレクトリ名から生成
             const title = extractTitleFromHtml(slideHtml) || titleFromDirectory(titleDir);
+            const summary = extractSummaryFromMarkdown(summaryMd);
 
             // 記事IDは yyyy-mm-dd-title 形式
             const id = `${yearDir}-${monthDir}-${dayDir}-${titleDir}`;
@@ -134,6 +173,7 @@ function scanArticles(baseDir = '.') {
               month,
               day,
               path: relativePath,
+              summary,
               thumbnailUrl
             });
 
