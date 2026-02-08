@@ -184,7 +184,7 @@ jobs:
             # 例: 2026/02/06/Topic/thumbnail.png
             key=${file#./}
             echo "Uploading $file to R2 as $key..."
-            wrangler r2 object put "$R2_BUCKET/$key" --file "$file"
+            wrangler r2 object put "$R2_BUCKET/$key" --file "$file --remote"
           done
 
       # HTMLファイルをコミット
