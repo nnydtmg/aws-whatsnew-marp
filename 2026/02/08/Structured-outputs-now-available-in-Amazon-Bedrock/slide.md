@@ -1,23 +1,25 @@
 ---
 marp: true
-theme: default
+theme: aws-whatsnew
 paginate: true
 ---
 
+<!-- _class: title -->
+
 # Structured outputs now available in Amazon Bedrock
 
-**What's New** | 2026-02-04T19:30:00
+**発表日: 2026年2月4日**
 
 ---
 
-## 概要
+# 概要
 
 - Amazon Bedrockの構造化出力機能により、定義されたJSONスキーマに準拠した機械可読応答が保証され、本番環境ワークフローの予測可能性が向上し、運用オーバーヘッドが削減されます。
 - この機能はAnthropicのClaude 4.5モデルと選定されたオープンウェイトモデルで一般提供されており、複数のAPIで利用可能です。
 
 ---
 
-## 前提・背景
+# 前提・背景
 
 ### 課題
 - フォーマットエラーによるダウンストリームシステムへの悪影響
@@ -30,20 +32,35 @@ paginate: true
 
 ---
 
-## 変更内容・新機能
+# 変更内容・新機能
+
+<div class="columns">
+<div>
 
 ### 構造化出力機能
-- **JSONスキーマに準拠した応答**: ユーザー定義のJSONスキーマに従った一貫性のある応答を保証
-- **ツール定義のサポート**: 厳密なツール定義を使用してツール呼び出しが仕様に一致することを保証
-- **複数API対応**: Converse、ConverseStream、InvokeModel、InvokeModelWithResponseStream APIで利用可能
+
+- **JSONスキーマ準拠**: ユーザー定義のJSONスキーマに従った一貫性のある応答を保証
+- **ツール定義のサポート**: 厳密なツール定義を使用してツール呼び出しが仕様に一致
+- **複数API対応**: Converse / ConverseStream / InvokeModel API で利用可能
+
+</div>
+<div>
 
 ### サポート対象
-- **モデル**: Anthropic Claude 4.5、選定されたオープンウェイトモデル
-- **リージョン**: Amazon Bedrockがサポートされているすべての商用AWSリージョン
+
+**モデル**
+- Anthropic Claude 4.5
+- 選定されたオープンウェイトモデル
+
+**リージョン**
+- Amazon Bedrockがサポートされるすべての商用AWSリージョン
+
+</div>
+</div>
 
 ---
 
-## ユースケース
+# ユースケース
 
 - キーフィールドの抽出タスク
 - APIツールを使用するワークフロー駆動
@@ -52,7 +69,7 @@ paginate: true
 
 ---
 
-## 効果・メリット
+# 効果・メリット
 
 - **運用オーバーヘッド削減**: カスタム検証ロジックの不要化
 - **エラー削減**: 失敗したリクエストと再試行の減少
@@ -61,7 +78,7 @@ paginate: true
 
 ---
 
-## まとめ
+# まとめ
 
 - Amazon Bedrockの構造化出力機能により、モデルの出力を完全にコントロール可能に
 - JSONスキーマベースの検証により、本番ワークフローの信頼性が大幅に向上
@@ -70,7 +87,7 @@ paginate: true
 
 ---
 
-## 参考URL
+# 参考URL
 
 - [元記事: Structured outputs now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/02/structured-outputs-available-amazon-bedrock/)
 - [AWS Bedrock Documentation](https://docs.aws.amazon.com/bedrock/latest/userguide/structured-output.html)

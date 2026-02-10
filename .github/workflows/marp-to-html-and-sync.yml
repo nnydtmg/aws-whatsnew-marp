@@ -41,7 +41,7 @@ jobs:
             html_file="$dir/slide.html"
             if [ ! -f "$html_file" ]; then
               echo "  ✓ Converting $file..."
-              if marp --html --allow-local-files "$file" -o "$html_file" < /dev/null; then
+              if marp --html --allow-local-files --theme ./themes/aws-whatsnew.css "$file" -o "$html_file" < /dev/null; then
                 converted_count=$((converted_count + 1))
                 converted_files="${converted_files}\n  - ${file}"
               else
@@ -97,7 +97,7 @@ jobs:
             slide_html="$dir/slide.html"
             if [ -f "$summary_md" ] && [ -f "$slide_html" ]; then
               echo "Generating thumbnail for $file..."
-              if marp --image png --allow-local-files "$file" -o "$dir/thumbnail.png" < /dev/null; then
+              if marp --image png --allow-local-files --theme ./themes/aws-whatsnew.css "$file" -o "$dir/thumbnail.png" < /dev/null; then
                 generated_count=$((generated_count + 1))
                 generated_files="${generated_files}\n  - ${file}"
               else

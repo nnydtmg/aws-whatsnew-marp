@@ -1,23 +1,25 @@
 ---
 marp: true
-theme: default
+theme: aws-whatsnew
 paginate: true
 ---
 
+<!-- _class: title -->
+
 # AWS Network Firewall announces new price reductions
 
-**What's New** | 2026-02-06T08:00:00
+**発表日: 2026年2月6日**
 
 ---
 
-## 概要
+# 概要
 
 - AWS Network Firewallは、NAT Gatewayの割引をセカンダリエンドポイントにも拡大し、Advanced InspectionのTLS検査機能に関する追加データ処理料金を廃止することで、ネットワークセキュリティアーキテクチャのコスト削減を実現しました。
 - これらの改善により、複数VPC保護とTLS検査をより経済的に実装できるようになります。
 
 ---
 
-## 前提・背景
+# 前提・背景
 
 ### これまでの課題
 
@@ -25,7 +27,7 @@ paginate: true
 
 ---
 
-### 関連する最近の動向
+# 関連する最近の動向
 
 - **AWS Network Firewall announces new price reductions**
   [詳細](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-network-firewall-new-price-reduction/)
@@ -38,7 +40,7 @@ paginate: true
 
 ---
 
-## 変更内容・新機能
+# 変更内容・新機能
 
 - AWS Network Firewallが2つの価格改善を導入したことが発表されました。
 
@@ -50,7 +52,7 @@ paginate: true
 
 ---
 
-## 効果・メリット
+# 効果・メリット
 
 - NAT Gateway割引をセカンダリエンドポイントにも適用により、複数エンドポイント構成でのコスト削減
 - TLS検査の追加料金廃止により、暗号化トラフィック検査のコスト効率向上
@@ -60,7 +62,7 @@ paginate: true
 
 ---
 
-## ユースケース
+# ユースケース
 
 - **多層セキュリティアーキテクチャ:** プライマリ・セカンダリ両エンドポイントでのコスト効率的な構成
 - **暗号化トラフィック検査:** TLS検査を無制限に活用した脅威検知
@@ -69,7 +71,7 @@ paginate: true
 
 ---
 
-## まとめ
+# まとめ
 
 - AWS Network Firewallの2つの価格改善により、セキュリティコストが大幅に削減
 - NAT Gateway割引とTLS検査料金廃止が実現
@@ -78,7 +80,7 @@ paginate: true
 
 ---
 
-## 参考URL
+# 参考URL
 
 - [元記事を開く](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-network-firewall-new-price-reduction/)
 
