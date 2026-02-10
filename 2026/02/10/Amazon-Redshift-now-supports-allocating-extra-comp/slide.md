@@ -39,6 +39,8 @@ paginate: true
 
 ---
 
+<!-- _class: small -->
+
 ## 主な機能と改善
 
 ### 1. 自動最適化機能（Autonomics）
@@ -74,6 +76,8 @@ paginate: true
 
 ---
 
+<!-- _class: small -->
+
 ## ユースケース
 
 ### 24時間稼働型ウェアハウス
@@ -102,6 +106,8 @@ paginate: true
 - 運用チームの手作業削減
 
 ---
+
+<!-- _class: small -->
 
 ## 効果・メリット
 
@@ -138,6 +144,8 @@ paginate: true
 
 ---
 
+<!-- _class: small -->
+
 ## まとめ
 
 ### Amazon Redshiftの位置づけ
@@ -156,6 +164,8 @@ paginate: true
 5. 本番環境への段階的展開
 
 ---
+
+<!-- _class: small -->
 
 ## 参考リソース
 
