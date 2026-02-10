@@ -26,6 +26,7 @@ section {
   padding: 110px 80px 70px;
   font-size: 24px;
   line-height: 1.6;
+  overflow: hidden;
 }
 
 /* ===== Title Slide (_class: title) ===== */
@@ -84,32 +85,40 @@ section:not(.title):not(.section) h1 {
   right: 80px;
 }
 
+/* 通常スライドのH2も左上に固定（H2をスライドタイトルとして使用する場合） */
+section:not(.title):not(.section) h2 {
+  position: absolute;
+  top: 50px;
+  left: 80px;
+  right: 80px;
+}
+
 h2 {
   color: var(--aws-orange);
   font-size: 38px;
   font-weight: 600;
-  margin-top: 40px;
-  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-bottom: 15px;
 }
 
 h3 {
   color: var(--aws-white);
   font-size: 32px;
   font-weight: 600;
-  margin-top: 30px;
-  margin-bottom: 15px;
+  margin-top: 12px;
+  margin-bottom: 10px;
   border-left: 4px solid var(--aws-accent-blue);
   padding-left: 20px;
 }
 
 /* ===== Lists ===== */
 ul, ol {
-  margin: 20px 0;
+  margin: 10px 0;
   padding-left: 40px;
 }
 
 li {
-  margin: 15px 0;
+  margin: 8px 0;
   line-height: 1.6;
 }
 
@@ -142,7 +151,7 @@ code {
 pre {
   background-color: rgba(37, 47, 62, 0.8);
   border-left: 4px solid var(--aws-orange);
-  padding: 20px;
+  padding: 12px;
   border-radius: 8px;
   overflow-x: auto;
 }
@@ -159,7 +168,7 @@ table {
   width: fit-content;
   max-width: 100%;
   display: table;
-  margin: 30px 0;
+  margin: 15px 0;
   font-size: 20px;
   background-color: var(--aws-white);
   color: #111111;
@@ -326,4 +335,38 @@ section.section p {
   top: 30px;
   right: 30px;
   opacity: 0.6;
+}
+
+/* ===== Small / Dense Slides ===== */
+/* Use: <!-- _class: small --> for content-heavy slides */
+section.small {
+  font-size: 18px;
+}
+
+section.small h3 {
+  font-size: 22px;
+  margin-top: 8px;
+  margin-bottom: 6px;
+}
+
+section.small li {
+  margin: 4px 0;
+}
+
+section.small ul,
+section.small ol {
+  margin: 6px 0;
+}
+
+section.small table {
+  margin: 10px 0;
+  font-size: 16px;
+}
+
+section.small pre {
+  padding: 8px;
+}
+
+section.small pre code {
+  font-size: 14px;
 }
