@@ -1,23 +1,25 @@
 ---
 marp: true
-theme: default
+theme: aws-whatsnew
 paginate: true
 ---
 
+<!-- _class: title -->
+
 # AWS Config now supports 30 new resource types
 
-**What's New** | 2026-02-06T16:00:00
+**発表日: 2026年2月6日**
 
 ---
 
-## 概要
+# 概要
 
 - AWS Configが30の新しいリソースタイプをサポートするようになり、Amazon EKS、Amazon Q、AWS IoTなどの主要サービスにおけるリソースの発見、評価、監査、修復がより効果的に実施できるようになりました。
 - このアップデートは、AWS環境全体の包括的な管理とコンプライアンス監視を必要とする組織に特に有益です。
 
 ---
 
-## 前提・背景
+# 前提・背景
 
 ### 関連する最近の動向
 
@@ -32,7 +34,7 @@ paginate: true
 
 ---
 
-## 変更内容・新機能
+# 変更内容・新機能
 
 - すべてのリソースタイプの記録を有効にしている場合、AWS Configは新しく追加されたリソースを自動的に追跡します。
 
@@ -42,7 +44,7 @@ paginate: true
 
 ---
 
-## 効果・メリット
+# 効果・メリット
 
 - AWS環境全体の発見、評価、監査、および修復をより効果的に実施できるようになります
 
@@ -52,7 +54,7 @@ paginate: true
 
 ---
 
-## 新しくサポートされるリソースタイプの例
+# 新しくサポートされるリソースタイプの例
 
 | リソースタイプ | 説明 |
 |---|---|
@@ -64,7 +66,7 @@ paginate: true
 
 ---
 
-## まとめ
+# まとめ
 
 - AWS Config now supports 30 new resource types について紹介しました
 - AWS環境全体のリソース監視カバレッジが大幅に拡大
@@ -72,7 +74,7 @@ paginate: true
 
 ---
 
-## 参考URL
+# 参考URL
 
 - [元記事を開く](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-config-new-resource-types)
 

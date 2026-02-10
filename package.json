@@ -1,6 +1,6 @@
 {
 "scripts": {
-    "build:html": "marp --html --allow-local-files --input-dir . --output ."
+    "build:html": "marp --html --allow-local-files --theme ./themes/aws-whatsnew.css --input-dir . --output ."
 },
 "devDependencies": {
     "@marp-team/marp-cli": "^3.4.0"

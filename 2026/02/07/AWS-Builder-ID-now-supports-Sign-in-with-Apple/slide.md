@@ -1,23 +1,25 @@
 ---
 marp: true
-theme: default
+theme: aws-whatsnew
 paginate: true
 ---
 
+<!-- _class: title -->
+
 # AWS Builder ID now supports Sign in with Apple
 
-**What's New** | 2026-02-05T19:20:00
+**発表日: 2026年2月5日**
 
 ---
 
-## 概要
+# 概要
 
 - AWS Builder ID が Apple Sign in に対応しました。
 - Google Sign in に続いて、Apple ユーザーが AWS Builder Center、AWS Training and Certification、AWS re:Post、AWS Startups、および Kiro へのアクセスを Apple Account 認証情報でシームレスに実行できるようになりました。
 
 ---
 
-## 前提・背景
+# 前提・背景
 
 ### これまでの課題
 
@@ -28,7 +30,7 @@ paginate: true
 
 ---
 
-## 新機能の詳細
+# 新機能の詳細
 
 ### Sign in with Apple の統合
 
@@ -38,7 +40,7 @@ paginate: true
 
 ---
 
-## 効果・メリット
+# 効果・メリット
 
 - **ユーザー体験の向上**
   - パスワード管理の複雑さを排除
@@ -52,7 +54,7 @@ paginate: true
 
 ---
 
-## ユースケース
+# ユースケース
 
 - **開発者・ビルダー向け:**
   - AWS Builder Center での開発リソースへのアクセス
@@ -63,7 +65,7 @@ paginate: true
 
 ---
 
-## まとめ
+# まとめ
 
 - AWS Builder ID に Sign in with Apple が追加
 - Apple ユーザーのシームレスなアクセスを実現
@@ -72,7 +74,7 @@ paginate: true
 
 ---
 
-## 参考URL
+# 参考URL
 
 - [AWS Builder ID now supports Sign in with Apple](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-builder-id-sign-in-apple)
 - [Create your AWS Builder ID](https://docs.aws.amazon.com/signin/latest/userguide/create-builder-id.html)

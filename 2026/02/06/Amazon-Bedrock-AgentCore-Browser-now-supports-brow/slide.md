@@ -1,23 +1,25 @@
 ---
 marp: true
-theme: default
+theme: aws-whatsnew
 paginate: true
 ---
 
+<!-- _class: title -->
+
 # Amazon Bedrock AgentCore Browser now supports browser profiles
 
-**What's New** | 2026-02-06
+**発表日: 2026年2月6日**
 
 ---
 
-## 概要
+# 概要
 
 - Amazon Bedrock AgentCore Browserのブラウザプロファイル機能により、複数のセッション間で認証状態を再利用でき、セットアップ時間を大幅に短縮することが可能になりました。
 - この機能は、大規模な自動ブラウザセッション処理を行うエンタープライズ顧客に特に有益です。
 
 ---
 
-## 前提・背景
+# 前提・背景
 
 ### 課題
 
@@ -31,38 +33,40 @@ paginate: true
 
 ---
 
-## 変更内容・新機能
+# 変更内容・新機能
+
+<div class="columns">
+<div>
 
 ### ブラウザプロファイル機能
 
-- Amazon Bedrock AgentCore Browserがブラウザプロファイル機能をサポート
 - ブラウザプロファイルにより、複数のブラウザセッション間で認証状態を再利用可能
-
-### データ永続化
-
 - クッキーとローカルストレージを含むブラウザデータを永続化
-- 複数セッション間でブラウザデータを再利用
-
-### セッション運用
-
-- ログイン流程の繰り返しが不要
-- セッションセットアップ時間が数分から数十秒に短縮
-- 一度Webサイトに認証してプロファイルに保存すれば、次のセッションでも認証状態が保持される
-- エージェントは手動ログイン介入なしで認証が必要なWebサイト上でタスクを実行可能
 
 ### セッションモード
 
 - 読み取り専用と永続的な操作の両方に対応した柔軟なセッションモード
 - 複数セッションが同じプロファイルを同時に使用する並列処理が可能
 
+</div>
+<div>
+
+### セッション運用
+
+- ログイン流程の繰り返しが不要
+- セッションセットアップ時間が**数分から数十秒**に短縮
+- 一度Webサイトに認証してプロファイルに保存すれば、次のセッションでも認証状態が保持される
+
 ### リージョン対応
 
-- Amazon Bedrock AgentCore Browserが利用可能な14のAWSリージョン全てで提供
-- 対応リージョン: 北米、アジア太平洋、ヨーロッパ、カナダ
+- Amazon Bedrock AgentCore Browserが利用可能な**14のAWSリージョン**全てで提供
+
+</div>
+</div>
 
 ---
 
-## 効果・メリット
+# 効果・メリット
 
 - **セットアップ時間の大幅短縮**: 数分から数十秒に削減
 - **運用効率の向上**: ログイン流程の繰り返しが不要
@@ -73,7 +77,7 @@ paginate: true
 
 ---
 
-## ユースケース
+# ユースケース
 
 ### 大規模自動ブラウザセッション処理
 
@@ -92,7 +96,7 @@ paginate: true
 
 ---
 
-## まとめ
+# まとめ
 
 - Amazon Bedrock AgentCore Browserがブラウザプロファイル機能をサポート
 - 複数セッション間での認証状態の再利用が可能に
@@ -102,7 +106,7 @@ paginate: true
 
 ---
 
-## 参考URL
+# 参考URL
 
 - [元記事: Amazon Bedrock AgentCore Browser now supports browser profiles](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-agentcore-browser-profiles)
 

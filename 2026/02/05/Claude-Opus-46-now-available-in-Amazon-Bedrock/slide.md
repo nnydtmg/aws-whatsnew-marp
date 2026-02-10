@@ -1,19 +1,19 @@
 ---
 marp: true
-theme: default
+theme: aws-whatsnew
 paginate: true
 ---
+
+<!-- _class: title -->
 
 # Claude Opus 4.6
 Amazon Bedrock で利用開始
 
-![bg right]()
-
-**2026年2月5日**
+**発表日: 2026年2月5日**
 
 ---
 
-## 概要
+# 概要
 
 ### Claude Opus 4.6 の3つの主要特徴
 
@@ -28,7 +28,7 @@ Amazon Bedrock で利用開始
 
 ---
 
-## 前提・背景
+# 前提・背景
 
 ### 市場の動向
 
@@ -44,7 +44,7 @@ Amazon Bedrock で利用開始
 
 ---
 
-## 主な機能と改善
+# 主な機能と改善
 
 ### 1. Agentic AI 機能
 
@@ -62,7 +62,7 @@ Amazon Bedrock で利用開始
 
 ---
 
-## 主な機能と改善 (続き)
+# 主な機能と改善 (続き)
 
 ### 3. Enterprise Workflows
 
@@ -77,7 +77,7 @@ Amazon Bedrock で利用開始
 
 ---
 
-## パフォーマンス指標
+# パフォーマンス指標
 
 ### ベンチマーク結果
 
@@ -91,7 +91,7 @@ Amazon Bedrock で利用開始
 
 ---
 
-## 利用可能なプラットフォーム
+# 利用可能なプラットフォーム
 
 ### Amazon Bedrock での提供
 
@@ -109,7 +109,7 @@ Amazon Bedrock で利用開始
 
 ---
 
-## ユースケース
+# ユースケース
 
 ### 1. ソフトウェア開発
 
@@ -131,7 +131,7 @@ Amazon Bedrock で利用開始
 
 ---
 
-## 実装のポイント
+# 実装のポイント
 
 ### 導入前の検討事項
 
@@ -148,7 +148,7 @@ Amazon Bedrock で利用開始
 
 ---
 
-## 効果・メリット
+# 効果・メリット
 
 ### ビジネス効果
 
@@ -165,7 +165,7 @@ Amazon Bedrock で利用開始
 
 ---
 
-## まとめ
+# まとめ
 
 ### Claude Opus 4.6 の位置づけ
 
@@ -182,7 +182,7 @@ Amazon Bedrock で利用開始
 
 ---
 
-## 参考リソース
+# 参考リソース
 
 - **AWS What's New**: https://aws.amazon.com/about-aws/whats-new/2026/2/claude-opus-4.6-available-amazon-bedrock/
 - **Anthropic Claude**: https://www.anthropic.com/claude/opus
