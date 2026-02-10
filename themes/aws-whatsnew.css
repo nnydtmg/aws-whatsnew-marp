@@ -21,7 +21,7 @@
 section {
   background: linear-gradient(135deg, var(--aws-squid-ink) 0%, #1a242f 100%);
   color: var(--aws-white);
-  font-family: 'Amazon Ember', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Amazon Ember', 'Helvetica Neue', Arial, 'Noto Sans CJK JP', 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', 'Yu Gothic', sans-serif;
   position: relative;
   padding: 110px 80px 70px;
   font-size: 24px;
