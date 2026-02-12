@@ -91,9 +91,11 @@ jobs:
           shopt -s nullglob
 
           generated_count=0
+          regenerated_count=0
           skipped_count=0
           failed_count=0
           generated_files=""
+          regenerated_files=""
           skipped_files=""
           failed_files=""
           newly_generated_list="/tmp/new_thumbnails.txt"
@@ -104,22 +106,37 @@ jobs:
             dir=$(dirname "$file")
             summary_md="$dir/summary.md"
             slide_html="$dir/slide.html"
+            is_regenerate=false
             if [ -f "$summary_md" ] && [ -f "$slide_html" ]; then
               if [ -f "$dir/thumbnail.png" ]; then
-                echo "Skipping $file (thumbnail already exists)"
-                skipped_count=$((skipped_count + 1))
-                skipped_files="${skipped_files}\n  - ${file}"
-              else
-                echo "Generating thumbnail for $file..."
-                if marp --image png --allow-local-files --theme ./themes/aws-whatsnew.css "$file" -o "$dir/thumbnail.png" < /dev/null; then
+                slide_time=$(git log -1 --format="%at" -- "$file")
+                thumb_time=$(git log -1 --format="%at" -- "$dir/thumbnail.png")
+                if [ -n "$slide_time" ] && [ -n "$thumb_time" ] && [ "$slide_time" -gt "$thumb_time" ]; then
+                  echo "  ↻ slide.md updated after thumbnail, regenerating: $file"
+                  rm "$dir/thumbnail.png"
+                  is_regenerate=true
+                  # fall through to generation
+                else
+                  echo "Skipping $file (thumbnail is up to date)"
+                  skipped_count=$((skipped_count + 1))
+                  skipped_files="${skipped_files}\n  - ${file}"
+                  continue
+                fi
+              fi
+              echo "Generating thumbnail for $file..."
+              if marp --image png --allow-local-files --theme ./themes/aws-whatsnew.css "$file" -o "$dir/thumbnail.png" < /dev/null; then
+                if [ "$is_regenerate" = "true" ]; then
+                  regenerated_count=$((regenerated_count + 1))
+                  regenerated_files="${regenerated_files}\n  - ${file}"
+                else
                   generated_count=$((generated_count + 1))
                   generated_files="${generated_files}\n  - ${file}"
-                  echo "$dir/thumbnail.png" >> "$newly_generated_list"
-                else
-                  echo "  ✗ Failed to convert $file"
-                  failed_count=$((failed_count + 1))
-                  failed_files="${failed_files}\n  - ${file}"
                 fi
+                echo "$dir/thumbnail.png" >> "$newly_generated_list"
+              else
+                echo "  ✗ Failed to convert $file"
+                failed_count=$((failed_count + 1))
+                failed_files="${failed_files}\n  - ${file}"
               fi
             else
               echo "Skipping $file (missing summary.md or slide.html)"
@@ -130,13 +147,19 @@ jobs:
 
           echo ""
           echo "=== Thumbnail Summary ==="
-          echo "Generated: $generated_count file(s)"
-          echo "Skipped:   $skipped_count file(s)"
-          echo "Failed:    $failed_count file(s)"
+          echo "Generated:    $generated_count file(s)"
+          echo "Regenerated:  $regenerated_count file(s)"
+          echo "Skipped:      $skipped_count file(s)"
+          echo "Failed:       $failed_count file(s)"
           if [ "$generated_count" -gt 0 ]; then
             echo ""
             echo "Generated files:"
             printf "%b\n" "$generated_files"
+          fi
+          if [ "$regenerated_count" -gt 0 ]; then
+            echo ""
+            echo "Regenerated files:"
+            printf "%b\n" "$regenerated_files"
           fi
           if [ "$skipped_count" -gt 0 ]; then
             echo ""
