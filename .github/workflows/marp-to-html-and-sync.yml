@@ -2,8 +2,8 @@ name: Generate HTML and Update Metadata
 
 on:
   schedule:
-    # 毎日 0:00 UTC (日本時間 9:00) に実行
-    - cron: '0 0 * * *'
+    # 毎日 9:00 に実行
+    - cron: '0 * * * *'
   workflow_dispatch: # 手動実行を許可
 
 permissions:
