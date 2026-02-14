@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-02-13-Amazon-Connect-now-provides-real-time-AI-powered-o",
+        "title": "Amazon Connect のタスク機能に",
+        "date": "2026-02-13",
+        "year": 2026,
+        "month": 2,
+        "day": 13,
+        "path": "2026/02/13/Amazon-Connect-now-provides-real-time-AI-powered-o",
+        "summary": "Amazon Connect now provides real time AI powered overviews and recommended next actions for Tasks",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/13/Amazon-Connect-now-provides-real-time-AI-powered-o/thumbnail.png"
+      },
+      {
         "id": "2026-02-12-AI-Troubleshooting-in-the-AWS-Support-Center-Conso",
         "title": "AWS Support Center Console",
         "date": "2026-02-12",
@@ -24,6 +35,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/12/AWS-Backup-adds-cross-Region-database-snapshot-cop/thumbnail.png"
       },
       {
+        "id": "2026-02-12-Amazon-Bedrock-expands-support-for-AWS-PrivateLink",
+        "title": "Amazon Bedrock が AWS PrivateLink に対応を拡張",
+        "date": "2026-02-12",
+        "year": 2026,
+        "month": 2,
+        "day": 12,
+        "path": "2026/02/12/Amazon-Bedrock-expands-support-for-AWS-PrivateLink",
+        "summary": "Amazon Bedrock expands support for AWS PrivateLink",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/12/Amazon-Bedrock-expands-support-for-AWS-PrivateLink/thumbnail.png"
+      },
+      {
         "id": "2026-02-11-AWS-Elastic-Beanstalk-now-supports-GitHub-Actions",
         "title": "AWS Elastic Beanstalk",
         "date": "2026-02-11",
@@ -44,6 +66,17 @@
         "path": "2026/02/11/Amazon-Bedrock-AgentCore-Browser-now-supports-prox",
         "summary": "Amazon Bedrock AgentCore Browser now supports proxy configuration",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/11/Amazon-Bedrock-AgentCore-Browser-now-supports-prox/thumbnail.png"
+      },
+      {
+        "id": "2026-02-10-AWS-CloudWatch-Alarm-Mute-Rules-eliminate-alert-fa",
+        "title": "CloudWatch アラームミュートルール",
+        "date": "2026-02-10",
+        "year": 2026,
+        "month": 2,
+        "day": 10,
+        "path": "2026/02/10/AWS-CloudWatch-Alarm-Mute-Rules-eliminate-alert-fa",
+        "summary": "AWS CloudWatch Alarm Mute Rules eliminate alert fatigue",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/10/AWS-CloudWatch-Alarm-Mute-Rules-eliminate-alert-fa/thumbnail.png"
       },
       {
         "id": "2026-02-10-AWS-HealthOmics-introduces-a-Kiro-Power-and-Kiro-I",
@@ -167,8 +200,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-02-14T07:27:52.330Z",
-    "totalCount": 15
+    "updatedAt": "2026-02-14T08:19:34.392Z",
+    "totalCount": 18
   },
   "metadata:months": [
     "2026/02"
@@ -177,6 +210,17 @@
     "year": 2026,
     "month": 2,
     "articles": [
+      {
+        "id": "2026-02-13-Amazon-Connect-now-provides-real-time-AI-powered-o",
+        "title": "Amazon Connect のタスク機能に",
+        "date": "2026-02-13",
+        "year": 2026,
+        "month": 2,
+        "day": 13,
+        "path": "2026/02/13/Amazon-Connect-now-provides-real-time-AI-powered-o",
+        "summary": "Amazon Connect now provides real time AI powered overviews and recommended next actions for Tasks",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/13/Amazon-Connect-now-provides-real-time-AI-powered-o/thumbnail.png"
+      },
       {
         "id": "2026-02-12-AI-Troubleshooting-in-the-AWS-Support-Center-Conso",
         "title": "AWS Support Center Console",
@@ -200,6 +244,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/12/AWS-Backup-adds-cross-Region-database-snapshot-cop/thumbnail.png"
       },
       {
+        "id": "2026-02-12-Amazon-Bedrock-expands-support-for-AWS-PrivateLink",
+        "title": "Amazon Bedrock が AWS PrivateLink に対応を拡張",
+        "date": "2026-02-12",
+        "year": 2026,
+        "month": 2,
+        "day": 12,
+        "path": "2026/02/12/Amazon-Bedrock-expands-support-for-AWS-PrivateLink",
+        "summary": "Amazon Bedrock expands support for AWS PrivateLink",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/12/Amazon-Bedrock-expands-support-for-AWS-PrivateLink/thumbnail.png"
+      },
+      {
         "id": "2026-02-11-AWS-Elastic-Beanstalk-now-supports-GitHub-Actions",
         "title": "AWS Elastic Beanstalk",
         "date": "2026-02-11",
@@ -220,6 +275,17 @@
         "path": "2026/02/11/Amazon-Bedrock-AgentCore-Browser-now-supports-prox",
         "summary": "Amazon Bedrock AgentCore Browser now supports proxy configuration",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/11/Amazon-Bedrock-AgentCore-Browser-now-supports-prox/thumbnail.png"
+      },
+      {
+        "id": "2026-02-10-AWS-CloudWatch-Alarm-Mute-Rules-eliminate-alert-fa",
+        "title": "CloudWatch アラームミュートルール",
+        "date": "2026-02-10",
+        "year": 2026,
+        "month": 2,
+        "day": 10,
+        "path": "2026/02/10/AWS-CloudWatch-Alarm-Mute-Rules-eliminate-alert-fa",
+        "summary": "AWS CloudWatch Alarm Mute Rules eliminate alert fatigue",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/10/AWS-CloudWatch-Alarm-Mute-Rules-eliminate-alert-fa/thumbnail.png"
       },
       {
         "id": "2026-02-10-AWS-HealthOmics-introduces-a-Kiro-Power-and-Kiro-I",
