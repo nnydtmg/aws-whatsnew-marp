@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-02-17-Amazon-EC2-supports-nested-virtualization-on-virtu",
+        "title": "Amazon EC2",
+        "date": "2026-02-17",
+        "year": 2026,
+        "month": 2,
+        "day": 17,
+        "path": "2026/02/17/Amazon-EC2-supports-nested-virtualization-on-virtu",
+        "summary": "Amazon EC2 supports nested virtualization on virtual Amazon EC2 instances",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/17/Amazon-EC2-supports-nested-virtualization-on-virtu/thumbnail.png"
+      },
+      {
         "id": "2026-02-13-Amazon-Connect-now-provides-real-time-AI-powered-o",
         "title": "Amazon Connect のタスク機能に",
         "date": "2026-02-13",
@@ -200,8 +211,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-02-17T05:51:33.439Z",
-    "totalCount": 18
+    "updatedAt": "2026-02-17T06:44:43.749Z",
+    "totalCount": 19
   },
   "metadata:months": [
     "2026/02"
@@ -210,6 +221,17 @@
     "year": 2026,
     "month": 2,
     "articles": [
+      {
+        "id": "2026-02-17-Amazon-EC2-supports-nested-virtualization-on-virtu",
+        "title": "Amazon EC2",
+        "date": "2026-02-17",
+        "year": 2026,
+        "month": 2,
+        "day": 17,
+        "path": "2026/02/17/Amazon-EC2-supports-nested-virtualization-on-virtu",
+        "summary": "Amazon EC2 supports nested virtualization on virtual Amazon EC2 instances",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/17/Amazon-EC2-supports-nested-virtualization-on-virtu/thumbnail.png"
+      },
       {
         "id": "2026-02-13-Amazon-Connect-now-provides-real-time-AI-powered-o",
         "title": "Amazon Connect のタスク機能に",
