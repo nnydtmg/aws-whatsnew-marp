@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-02-18-Claude-Sonnet-46-now-available-in-Amazon-Bedrock",
+        "title": "Claude Sonnet 4.6",
+        "date": "2026-02-18",
+        "year": 2026,
+        "month": 2,
+        "day": 18,
+        "path": "2026/02/18/Claude-Sonnet-46-now-available-in-Amazon-Bedrock",
+        "summary": "Claude Sonnet 4.6 now available in Amazon Bedrock",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/18/Claude-Sonnet-46-now-available-in-Amazon-Bedrock/thumbnail.png"
+      },
+      {
+        "id": "2026-02-17-Amazon-Bedrock-reinforcement-fine-tuning-adds-supp",
+        "title": "Amazon Bedrock",
+        "date": "2026-02-17",
+        "year": 2026,
+        "month": 2,
+        "day": 17,
+        "path": "2026/02/17/Amazon-Bedrock-reinforcement-fine-tuning-adds-supp",
+        "summary": "Amazon Bedrock reinforcement fine tuning adds support for open weight models with OpenAI compatible APIs",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/17/Amazon-Bedrock-reinforcement-fine-tuning-adds-supp/thumbnail.png"
+      },
+      {
         "id": "2026-02-17-Amazon-EC2-supports-nested-virtualization-on-virtu",
         "title": "Amazon EC2",
         "date": "2026-02-17",
@@ -211,8 +233,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-02-18T06:49:42.193Z",
-    "totalCount": 19
+    "updatedAt": "2026-02-18T07:43:57.850Z",
+    "totalCount": 21
   },
   "metadata:months": [
     "2026/02"
@@ -222,6 +244,28 @@
     "month": 2,
     "articles": [
       {
+        "id": "2026-02-18-Claude-Sonnet-46-now-available-in-Amazon-Bedrock",
+        "title": "Claude Sonnet 4.6",
+        "date": "2026-02-18",
+        "year": 2026,
+        "month": 2,
+        "day": 18,
+        "path": "2026/02/18/Claude-Sonnet-46-now-available-in-Amazon-Bedrock",
+        "summary": "Claude Sonnet 4.6 now available in Amazon Bedrock",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/18/Claude-Sonnet-46-now-available-in-Amazon-Bedrock/thumbnail.png"
+      },
+      {
+        "id": "2026-02-17-Amazon-Bedrock-reinforcement-fine-tuning-adds-supp",
+        "title": "Amazon Bedrock",
+        "date": "2026-02-17",
+        "year": 2026,
+        "month": 2,
+        "day": 17,
+        "path": "2026/02/17/Amazon-Bedrock-reinforcement-fine-tuning-adds-supp",
+        "summary": "Amazon Bedrock reinforcement fine tuning adds support for open weight models with OpenAI compatible APIs",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/17/Amazon-Bedrock-reinforcement-fine-tuning-adds-supp/thumbnail.png"
+      },
+      {
         "id": "2026-02-17-Amazon-EC2-supports-nested-virtualization-on-virtu",
         "title": "Amazon EC2",
         "date": "2026-02-17",
@@ -431,6 +475,6 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "totalPages": 2
+    "totalPages": 3
   }
 }
