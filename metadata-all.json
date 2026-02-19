@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-02-19-Amazon-Aurora-DSQL-now-integrates-with-Kiro-powers",
+        "title": "Amazon Aurora DSQL",
+        "date": "2026-02-19",
+        "year": 2026,
+        "month": 2,
+        "day": 19,
+        "path": "2026/02/19/Amazon-Aurora-DSQL-now-integrates-with-Kiro-powers",
+        "summary": "Amazon Aurora DSQL now integrates with Kiro powers and AI agent skills",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/19/Amazon-Aurora-DSQL-now-integrates-with-Kiro-powers/thumbnail.png"
+      },
+      {
         "id": "2026-02-18-Claude-Sonnet-46-now-available-in-Amazon-Bedrock",
         "title": "Claude Sonnet 4.6",
         "date": "2026-02-18",
@@ -233,8 +244,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-02-19T09:35:13.019Z",
-    "totalCount": 21
+    "updatedAt": "2026-02-19T10:33:13.501Z",
+    "totalCount": 22
   },
   "metadata:months": [
     "2026/02"
@@ -243,6 +254,17 @@
     "year": 2026,
     "month": 2,
     "articles": [
+      {
+        "id": "2026-02-19-Amazon-Aurora-DSQL-now-integrates-with-Kiro-powers",
+        "title": "Amazon Aurora DSQL",
+        "date": "2026-02-19",
+        "year": 2026,
+        "month": 2,
+        "day": 19,
+        "path": "2026/02/19/Amazon-Aurora-DSQL-now-integrates-with-Kiro-powers",
+        "summary": "Amazon Aurora DSQL now integrates with Kiro powers and AI agent skills",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/19/Amazon-Aurora-DSQL-now-integrates-with-Kiro-powers/thumbnail.png"
+      },
       {
         "id": "2026-02-18-Claude-Sonnet-46-now-available-in-Amazon-Bedrock",
         "title": "Claude Sonnet 4.6",
