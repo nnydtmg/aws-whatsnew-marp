@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-02-19-AWS-Certificate-Manager-updates-default-certificat",
+        "title": "AWS Certificate Manager",
+        "date": "2026-02-19",
+        "year": 2026,
+        "month": 2,
+        "day": 19,
+        "path": "2026/02/19/AWS-Certificate-Manager-updates-default-certificat",
+        "summary": "AWS Certificate Manager updates default certificate validity to comply with new guidelines",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/19/AWS-Certificate-Manager-updates-default-certificat/thumbnail.png"
+      },
+      {
         "id": "2026-02-19-Amazon-Aurora-DSQL-now-integrates-with-Kiro-powers",
         "title": "Amazon Aurora DSQL",
         "date": "2026-02-19",
@@ -244,8 +255,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-02-19T17:42:31.214Z",
-    "totalCount": 22
+    "updatedAt": "2026-02-19T18:39:08.025Z",
+    "totalCount": 23
   },
   "metadata:months": [
     "2026/02"
@@ -254,6 +265,17 @@
     "year": 2026,
     "month": 2,
     "articles": [
+      {
+        "id": "2026-02-19-AWS-Certificate-Manager-updates-default-certificat",
+        "title": "AWS Certificate Manager",
+        "date": "2026-02-19",
+        "year": 2026,
+        "month": 2,
+        "day": 19,
+        "path": "2026/02/19/AWS-Certificate-Manager-updates-default-certificat",
+        "summary": "AWS Certificate Manager updates default certificate validity to comply with new guidelines",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/19/AWS-Certificate-Manager-updates-default-certificat/thumbnail.png"
+      },
       {
         "id": "2026-02-19-Amazon-Aurora-DSQL-now-integrates-with-Kiro-powers",
         "title": "Amazon Aurora DSQL",
