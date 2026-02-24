@@ -2,6 +2,39 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-02-24-AWS-IAM-Policy-Autopilot-is-now-available-as-a-Kir",
+        "title": "AWS IAM Policy Autopilot",
+        "date": "2026-02-24",
+        "year": 2026,
+        "month": 2,
+        "day": 24,
+        "path": "2026/02/24/AWS-IAM-Policy-Autopilot-is-now-available-as-a-Kir",
+        "summary": "AWS IAM Policy Autopilot is now available as a Kiro Power",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/24/AWS-IAM-Policy-Autopilot-is-now-available-as-a-Kir/thumbnail.png"
+      },
+      {
+        "id": "2026-02-24-AWS-Trusted-Advisor-now-delivers-more-accurate-unu",
+        "title": "AWS Trusted Advisor",
+        "date": "2026-02-24",
+        "year": 2026,
+        "month": 2,
+        "day": 24,
+        "path": "2026/02/24/AWS-Trusted-Advisor-now-delivers-more-accurate-unu",
+        "summary": "AWS Trusted Advisor now delivers more accurate unused NAT Gateway checks powered by AWS Compute Optimizer",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/24/AWS-Trusted-Advisor-now-delivers-more-accurate-unu/thumbnail.png"
+      },
+      {
+        "id": "2026-02-24-Amazon-announces-generative-AI-based-artifacts-in",
+        "title": "Amazon Q Developer での生成AI ベースアーティファクト",
+        "date": "2026-02-24",
+        "year": 2026,
+        "month": 2,
+        "day": 24,
+        "path": "2026/02/24/Amazon-announces-generative-AI-based-artifacts-in",
+        "summary": "Amazon announces generative AI based artifacts in Amazon Q Developer for visualizing resource and cost data",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/24/Amazon-announces-generative-AI-based-artifacts-in/thumbnail.png"
+      },
+      {
         "id": "2026-02-19-AWS-Certificate-Manager-updates-default-certificat",
         "title": "AWS Certificate Manager",
         "date": "2026-02-19",
@@ -255,8 +288,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-02-24T01:08:01.642Z",
-    "totalCount": 23
+    "updatedAt": "2026-02-24T04:08:47.193Z",
+    "totalCount": 26
   },
   "metadata:months": [
     "2026/02"
@@ -265,6 +298,39 @@
     "year": 2026,
     "month": 2,
     "articles": [
+      {
+        "id": "2026-02-24-AWS-IAM-Policy-Autopilot-is-now-available-as-a-Kir",
+        "title": "AWS IAM Policy Autopilot",
+        "date": "2026-02-24",
+        "year": 2026,
+        "month": 2,
+        "day": 24,
+        "path": "2026/02/24/AWS-IAM-Policy-Autopilot-is-now-available-as-a-Kir",
+        "summary": "AWS IAM Policy Autopilot is now available as a Kiro Power",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/24/AWS-IAM-Policy-Autopilot-is-now-available-as-a-Kir/thumbnail.png"
+      },
+      {
+        "id": "2026-02-24-AWS-Trusted-Advisor-now-delivers-more-accurate-unu",
+        "title": "AWS Trusted Advisor",
+        "date": "2026-02-24",
+        "year": 2026,
+        "month": 2,
+        "day": 24,
+        "path": "2026/02/24/AWS-Trusted-Advisor-now-delivers-more-accurate-unu",
+        "summary": "AWS Trusted Advisor now delivers more accurate unused NAT Gateway checks powered by AWS Compute Optimizer",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/24/AWS-Trusted-Advisor-now-delivers-more-accurate-unu/thumbnail.png"
+      },
+      {
+        "id": "2026-02-24-Amazon-announces-generative-AI-based-artifacts-in",
+        "title": "Amazon Q Developer での生成AI ベースアーティファクト",
+        "date": "2026-02-24",
+        "year": 2026,
+        "month": 2,
+        "day": 24,
+        "path": "2026/02/24/Amazon-announces-generative-AI-based-artifacts-in",
+        "summary": "Amazon announces generative AI based artifacts in Amazon Q Developer for visualizing resource and cost data",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/24/Amazon-announces-generative-AI-based-artifacts-in/thumbnail.png"
+      },
       {
         "id": "2026-02-19-AWS-Certificate-Manager-updates-default-certificat",
         "title": "AWS Certificate Manager",
