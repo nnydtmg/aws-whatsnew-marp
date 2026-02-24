@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-02-24-AWS-Deadline-Cloud-now-supports-running-tasks-toge",
+        "title": "AWS Deadline Cloud",
+        "date": "2026-02-24",
+        "year": 2026,
+        "month": 2,
+        "day": 24,
+        "path": "2026/02/24/AWS-Deadline-Cloud-now-supports-running-tasks-toge",
+        "summary": "AWS Deadline Cloud now supports running tasks together in chunks",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/24/AWS-Deadline-Cloud-now-supports-running-tasks-toge/thumbnail.png"
+      },
+      {
+        "id": "2026-02-24-AWS-Elemental-Inferenceでライブ動画をモバイル視聴者向けに変換",
+        "title": "AWS Elemental Inference",
+        "date": "2026-02-24",
+        "year": 2026,
+        "month": 2,
+        "day": 24,
+        "path": "2026/02/24/AWS-Elemental-Inferenceでライブ動画をモバイル視聴者向けに変換",
+        "summary": "AWS Elemental Inferenceでライブ動画をモバイル視聴者向けに変換",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/24/AWS-Elemental-Inferenceでライブ動画をモバイル視聴者向けに変換/thumbnail.png"
+      },
+      {
         "id": "2026-02-24-AWS-IAM-Policy-Autopilot-is-now-available-as-a-Kir",
         "title": "AWS IAM Policy Autopilot",
         "date": "2026-02-24",
@@ -33,6 +55,28 @@
         "path": "2026/02/24/Amazon-announces-generative-AI-based-artifacts-in",
         "summary": "Amazon announces generative AI based artifacts in Amazon Q Developer for visualizing resource and cost data",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/24/Amazon-announces-generative-AI-based-artifacts-in/thumbnail.png"
+      },
+      {
+        "id": "2026-02-24-Announcing-AWS-Elemental-Inference",
+        "title": "AWS Elemental Inference",
+        "date": "2026-02-24",
+        "year": 2026,
+        "month": 2,
+        "day": 24,
+        "path": "2026/02/24/Announcing-AWS-Elemental-Inference",
+        "summary": "Announcing AWS Elemental Inference",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/24/Announcing-AWS-Elemental-Inference/thumbnail.png"
+      },
+      {
+        "id": "2026-02-24-Automated-Reasoning-policies-now-include-reference",
+        "title": "Automated Reasoning ポリシーでソースドキュメント参照をサポート",
+        "date": "2026-02-24",
+        "year": 2026,
+        "month": 2,
+        "day": 24,
+        "path": "2026/02/24/Automated-Reasoning-policies-now-include-reference",
+        "summary": "Automated Reasoning policies now include references to the source document",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/24/Automated-Reasoning-policies-now-include-reference/thumbnail.png"
       },
       {
         "id": "2026-02-19-AWS-Certificate-Manager-updates-default-certificat",
@@ -288,8 +332,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-02-24T22:23:04.062Z",
-    "totalCount": 26
+    "updatedAt": "2026-02-24T23:21:47.769Z",
+    "totalCount": 30
   },
   "metadata:months": [
     "2026/02"
@@ -298,6 +342,28 @@
     "year": 2026,
     "month": 2,
     "articles": [
+      {
+        "id": "2026-02-24-AWS-Deadline-Cloud-now-supports-running-tasks-toge",
+        "title": "AWS Deadline Cloud",
+        "date": "2026-02-24",
+        "year": 2026,
+        "month": 2,
+        "day": 24,
+        "path": "2026/02/24/AWS-Deadline-Cloud-now-supports-running-tasks-toge",
+        "summary": "AWS Deadline Cloud now supports running tasks together in chunks",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/24/AWS-Deadline-Cloud-now-supports-running-tasks-toge/thumbnail.png"
+      },
+      {
+        "id": "2026-02-24-AWS-Elemental-Inferenceでライブ動画をモバイル視聴者向けに変換",
+        "title": "AWS Elemental Inference",
+        "date": "2026-02-24",
+        "year": 2026,
+        "month": 2,
+        "day": 24,
+        "path": "2026/02/24/AWS-Elemental-Inferenceでライブ動画をモバイル視聴者向けに変換",
+        "summary": "AWS Elemental Inferenceでライブ動画をモバイル視聴者向けに変換",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/24/AWS-Elemental-Inferenceでライブ動画をモバイル視聴者向けに変換/thumbnail.png"
+      },
       {
         "id": "2026-02-24-AWS-IAM-Policy-Autopilot-is-now-available-as-a-Kir",
         "title": "AWS IAM Policy Autopilot",
@@ -330,6 +396,28 @@
         "path": "2026/02/24/Amazon-announces-generative-AI-based-artifacts-in",
         "summary": "Amazon announces generative AI based artifacts in Amazon Q Developer for visualizing resource and cost data",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/24/Amazon-announces-generative-AI-based-artifacts-in/thumbnail.png"
+      },
+      {
+        "id": "2026-02-24-Announcing-AWS-Elemental-Inference",
+        "title": "AWS Elemental Inference",
+        "date": "2026-02-24",
+        "year": 2026,
+        "month": 2,
+        "day": 24,
+        "path": "2026/02/24/Announcing-AWS-Elemental-Inference",
+        "summary": "Announcing AWS Elemental Inference",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/24/Announcing-AWS-Elemental-Inference/thumbnail.png"
+      },
+      {
+        "id": "2026-02-24-Automated-Reasoning-policies-now-include-reference",
+        "title": "Automated Reasoning ポリシーでソースドキュメント参照をサポート",
+        "date": "2026-02-24",
+        "year": 2026,
+        "month": 2,
+        "day": 24,
+        "path": "2026/02/24/Automated-Reasoning-policies-now-include-reference",
+        "summary": "Automated Reasoning policies now include references to the source document",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/24/Automated-Reasoning-policies-now-include-reference/thumbnail.png"
       },
       {
         "id": "2026-02-19-AWS-Certificate-Manager-updates-default-certificat",
