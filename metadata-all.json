@@ -13,6 +13,28 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/25/AWS-Observability-now-available-as-a-Kiro-power/thumbnail.png"
       },
       {
+        "id": "2026-02-25-AWS-Security-Agent-adds-support-for-penetration-te",
+        "title": "AWS Security Agent",
+        "date": "2026-02-25",
+        "year": 2026,
+        "month": 2,
+        "day": 25,
+        "path": "2026/02/25/AWS-Security-Agent-adds-support-for-penetration-te",
+        "summary": "AWS Security Agent adds support for penetration tests on shared VPCs across AWS accounts",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/25/AWS-Security-Agent-adds-support-for-penetration-te/thumbnail.png"
+      },
+      {
+        "id": "2026-02-25-AWS-WAF-announces-AI-activity-dashboard-for-visibi",
+        "title": "AWS WAF AI活動ダッシュボード",
+        "date": "2026-02-25",
+        "year": 2026,
+        "month": 2,
+        "day": 25,
+        "path": "2026/02/25/AWS-WAF-announces-AI-activity-dashboard-for-visibi",
+        "summary": "AWS WAF announces AI activity dashboard for visibility into AI bot and agent traffic",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/25/AWS-WAF-announces-AI-activity-dashboard-for-visibi/thumbnail.png"
+      },
+      {
         "id": "2026-02-24-AWS-Deadline-Cloud-now-supports-running-tasks-toge",
         "title": "AWS Deadline Cloud",
         "date": "2026-02-24",
@@ -354,8 +376,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-02-25T22:21:25.078Z",
-    "totalCount": 32
+    "updatedAt": "2026-02-25T23:20:38.135Z",
+    "totalCount": 34
   },
   "metadata:months": [
     "2026/02"
@@ -374,6 +396,28 @@
         "path": "2026/02/25/AWS-Observability-now-available-as-a-Kiro-power",
         "summary": "AWS Observability now available as a Kiro power",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/25/AWS-Observability-now-available-as-a-Kiro-power/thumbnail.png"
+      },
+      {
+        "id": "2026-02-25-AWS-Security-Agent-adds-support-for-penetration-te",
+        "title": "AWS Security Agent",
+        "date": "2026-02-25",
+        "year": 2026,
+        "month": 2,
+        "day": 25,
+        "path": "2026/02/25/AWS-Security-Agent-adds-support-for-penetration-te",
+        "summary": "AWS Security Agent adds support for penetration tests on shared VPCs across AWS accounts",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/25/AWS-Security-Agent-adds-support-for-penetration-te/thumbnail.png"
+      },
+      {
+        "id": "2026-02-25-AWS-WAF-announces-AI-activity-dashboard-for-visibi",
+        "title": "AWS WAF AI活動ダッシュボード",
+        "date": "2026-02-25",
+        "year": 2026,
+        "month": 2,
+        "day": 25,
+        "path": "2026/02/25/AWS-WAF-announces-AI-activity-dashboard-for-visibi",
+        "summary": "AWS WAF announces AI activity dashboard for visibility into AI bot and agent traffic",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/25/AWS-WAF-announces-AI-activity-dashboard-for-visibi/thumbnail.png"
       },
       {
         "id": "2026-02-24-AWS-Deadline-Cloud-now-supports-running-tasks-toge",
