@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-02-25-AWS-Observability-now-available-as-a-Kiro-power",
+        "title": "AWS Observability",
+        "date": "2026-02-25",
+        "year": 2026,
+        "month": 2,
+        "day": 25,
+        "path": "2026/02/25/AWS-Observability-now-available-as-a-Kiro-power",
+        "summary": "AWS Observability now available as a Kiro power",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/25/AWS-Observability-now-available-as-a-Kiro-power/thumbnail.png"
+      },
+      {
         "id": "2026-02-24-AWS-Deadline-Cloud-now-supports-running-tasks-toge",
         "title": "AWS Deadline Cloud",
         "date": "2026-02-24",
@@ -44,6 +55,17 @@
         "path": "2026/02/24/AWS-Trusted-Advisor-now-delivers-more-accurate-unu",
         "summary": "AWS Trusted Advisor now delivers more accurate unused NAT Gateway checks powered by AWS Compute Optimizer",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/24/AWS-Trusted-Advisor-now-delivers-more-accurate-unu/thumbnail.png"
+      },
+      {
+        "id": "2026-02-24-Amazon-Bedrock-now-supports-server-side-tool-execu",
+        "title": "Amazon Bedrock server-side tool execution",
+        "date": "2026-02-24",
+        "year": 2026,
+        "month": 2,
+        "day": 24,
+        "path": "2026/02/24/Amazon-Bedrock-now-supports-server-side-tool-execu",
+        "summary": "Amazon Bedrock now supports server side tool execution with AgentCore Gateway",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/24/Amazon-Bedrock-now-supports-server-side-tool-execu/thumbnail.png"
       },
       {
         "id": "2026-02-24-Amazon-announces-generative-AI-based-artifacts-in",
@@ -332,8 +354,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-02-24T23:21:47.769Z",
-    "totalCount": 30
+    "updatedAt": "2026-02-25T04:10:28.777Z",
+    "totalCount": 32
   },
   "metadata:months": [
     "2026/02"
@@ -343,6 +365,17 @@
     "month": 2,
     "articles": [
       {
+        "id": "2026-02-25-AWS-Observability-now-available-as-a-Kiro-power",
+        "title": "AWS Observability",
+        "date": "2026-02-25",
+        "year": 2026,
+        "month": 2,
+        "day": 25,
+        "path": "2026/02/25/AWS-Observability-now-available-as-a-Kiro-power",
+        "summary": "AWS Observability now available as a Kiro power",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/25/AWS-Observability-now-available-as-a-Kiro-power/thumbnail.png"
+      },
+      {
         "id": "2026-02-24-AWS-Deadline-Cloud-now-supports-running-tasks-toge",
         "title": "AWS Deadline Cloud",
         "date": "2026-02-24",
@@ -385,6 +418,17 @@
         "path": "2026/02/24/AWS-Trusted-Advisor-now-delivers-more-accurate-unu",
         "summary": "AWS Trusted Advisor now delivers more accurate unused NAT Gateway checks powered by AWS Compute Optimizer",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/24/AWS-Trusted-Advisor-now-delivers-more-accurate-unu/thumbnail.png"
+      },
+      {
+        "id": "2026-02-24-Amazon-Bedrock-now-supports-server-side-tool-execu",
+        "title": "Amazon Bedrock server-side tool execution",
+        "date": "2026-02-24",
+        "year": 2026,
+        "month": 2,
+        "day": 24,
+        "path": "2026/02/24/Amazon-Bedrock-now-supports-server-side-tool-execu",
+        "summary": "Amazon Bedrock now supports server side tool execution with AgentCore Gateway",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/24/Amazon-Bedrock-now-supports-server-side-tool-execu/thumbnail.png"
       },
       {
         "id": "2026-02-24-Amazon-announces-generative-AI-based-artifacts-in",
@@ -673,6 +717,6 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "totalPages": 3
+    "totalPages": 4
   }
 }
