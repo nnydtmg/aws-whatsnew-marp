@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-02-26-AWS-Security-Hub-Extended-offers-full-stack-enterp",
+        "title": "AWS Security Hub Extended",
+        "date": "2026-02-26",
+        "year": 2026,
+        "month": 2,
+        "day": 26,
+        "path": "2026/02/26/AWS-Security-Hub-Extended-offers-full-stack-enterp",
+        "summary": "AWS Security Hub Extended offers full stack enterprise security with curated partner solutions",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/26/AWS-Security-Hub-Extended-offers-full-stack-enterp/thumbnail.png"
+      },
+      {
+        "id": "2026-02-26-Amazon-Cognito-enhances-client-secret-management-w",
+        "title": "Amazon Cognito",
+        "date": "2026-02-26",
+        "year": 2026,
+        "month": 2,
+        "day": 26,
+        "path": "2026/02/26/Amazon-Cognito-enhances-client-secret-management-w",
+        "summary": "Amazon Cognito enhances client secret management with secret rotation and custom secrets",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/26/Amazon-Cognito-enhances-client-secret-management-w/thumbnail.png"
+      },
+      {
         "id": "2026-02-26-Amazon-Location-Service-introduces-LLM-Context-as",
         "title": "Amazon Location Service",
         "date": "2026-02-26",
@@ -420,8 +442,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-02-26T22:22:24.669Z",
-    "totalCount": 38
+    "updatedAt": "2026-02-26T23:20:44.481Z",
+    "totalCount": 40
   },
   "metadata:months": [
     "2026/02"
@@ -430,6 +452,28 @@
     "year": 2026,
     "month": 2,
     "articles": [
+      {
+        "id": "2026-02-26-AWS-Security-Hub-Extended-offers-full-stack-enterp",
+        "title": "AWS Security Hub Extended",
+        "date": "2026-02-26",
+        "year": 2026,
+        "month": 2,
+        "day": 26,
+        "path": "2026/02/26/AWS-Security-Hub-Extended-offers-full-stack-enterp",
+        "summary": "AWS Security Hub Extended offers full stack enterprise security with curated partner solutions",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/26/AWS-Security-Hub-Extended-offers-full-stack-enterp/thumbnail.png"
+      },
+      {
+        "id": "2026-02-26-Amazon-Cognito-enhances-client-secret-management-w",
+        "title": "Amazon Cognito",
+        "date": "2026-02-26",
+        "year": 2026,
+        "month": 2,
+        "day": 26,
+        "path": "2026/02/26/Amazon-Cognito-enhances-client-secret-management-w",
+        "summary": "Amazon Cognito enhances client secret management with secret rotation and custom secrets",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/26/Amazon-Cognito-enhances-client-secret-management-w/thumbnail.png"
+      },
       {
         "id": "2026-02-26-Amazon-Location-Service-introduces-LLM-Context-as",
         "title": "Amazon Location Service",
