@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-02-26-Amazon-Location-Service-introduces-LLM-Context-as",
+        "title": "Amazon Location Service",
+        "date": "2026-02-26",
+        "year": 2026,
+        "month": 2,
+        "day": 26,
+        "path": "2026/02/26/Amazon-Location-Service-introduces-LLM-Context-as",
+        "summary": "Amazon Location Service introduces LLM Context as a Kiro power and Claude Code plugin to improve AI performance",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/26/Amazon-Location-Service-introduces-LLM-Context-as/thumbnail.png"
+      },
+      {
+        "id": "2026-02-26-Aurora-DSQL-launches-new-support-for-Tortoise-Flyw",
+        "title": "Aurora DSQL",
+        "date": "2026-02-26",
+        "year": 2026,
+        "month": 2,
+        "day": 26,
+        "path": "2026/02/26/Aurora-DSQL-launches-new-support-for-Tortoise-Flyw",
+        "summary": "Aurora DSQL launches new support for Tortoise, Flyway, and Prisma",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/26/Aurora-DSQL-launches-new-support-for-Tortoise-Flyw/thumbnail.png"
+      },
+      {
         "id": "2026-02-25-AWS-Observability-now-available-as-a-Kiro-power",
         "title": "AWS Observability",
         "date": "2026-02-25",
@@ -33,6 +55,28 @@
         "path": "2026/02/25/AWS-WAF-announces-AI-activity-dashboard-for-visibi",
         "summary": "AWS WAF announces AI activity dashboard for visibility into AI bot and agent traffic",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/25/AWS-WAF-announces-AI-activity-dashboard-for-visibi/thumbnail.png"
+      },
+      {
+        "id": "2026-02-25-Amazon-S3-now-provides-AWS-source-region-informati",
+        "title": "Amazon S3 サーバーアクセスログに",
+        "date": "2026-02-25",
+        "year": 2026,
+        "month": 2,
+        "day": 25,
+        "path": "2026/02/25/Amazon-S3-now-provides-AWS-source-region-informati",
+        "summary": "Amazon S3 now provides AWS source region information in server access logs",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/25/Amazon-S3-now-provides-AWS-source-region-informati/thumbnail.png"
+      },
+      {
+        "id": "2026-02-25-Amazon-WorkSpaces-Applications-extends-support-for",
+        "title": "Amazon WorkSpaces Applications",
+        "date": "2026-02-25",
+        "year": 2026,
+        "month": 2,
+        "day": 25,
+        "path": "2026/02/25/Amazon-WorkSpaces-Applications-extends-support-for",
+        "summary": "Amazon WorkSpaces Applications extends support for 4K resolution",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/25/Amazon-WorkSpaces-Applications-extends-support-for/thumbnail.png"
       },
       {
         "id": "2026-02-24-AWS-Deadline-Cloud-now-supports-running-tasks-toge",
@@ -376,8 +420,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-02-25T23:20:38.135Z",
-    "totalCount": 34
+    "updatedAt": "2026-02-26T01:07:19.953Z",
+    "totalCount": 38
   },
   "metadata:months": [
     "2026/02"
@@ -386,6 +430,28 @@
     "year": 2026,
     "month": 2,
     "articles": [
+      {
+        "id": "2026-02-26-Amazon-Location-Service-introduces-LLM-Context-as",
+        "title": "Amazon Location Service",
+        "date": "2026-02-26",
+        "year": 2026,
+        "month": 2,
+        "day": 26,
+        "path": "2026/02/26/Amazon-Location-Service-introduces-LLM-Context-as",
+        "summary": "Amazon Location Service introduces LLM Context as a Kiro power and Claude Code plugin to improve AI performance",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/26/Amazon-Location-Service-introduces-LLM-Context-as/thumbnail.png"
+      },
+      {
+        "id": "2026-02-26-Aurora-DSQL-launches-new-support-for-Tortoise-Flyw",
+        "title": "Aurora DSQL",
+        "date": "2026-02-26",
+        "year": 2026,
+        "month": 2,
+        "day": 26,
+        "path": "2026/02/26/Aurora-DSQL-launches-new-support-for-Tortoise-Flyw",
+        "summary": "Aurora DSQL launches new support for Tortoise, Flyway, and Prisma",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/26/Aurora-DSQL-launches-new-support-for-Tortoise-Flyw/thumbnail.png"
+      },
       {
         "id": "2026-02-25-AWS-Observability-now-available-as-a-Kiro-power",
         "title": "AWS Observability",
@@ -418,6 +484,28 @@
         "path": "2026/02/25/AWS-WAF-announces-AI-activity-dashboard-for-visibi",
         "summary": "AWS WAF announces AI activity dashboard for visibility into AI bot and agent traffic",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/25/AWS-WAF-announces-AI-activity-dashboard-for-visibi/thumbnail.png"
+      },
+      {
+        "id": "2026-02-25-Amazon-S3-now-provides-AWS-source-region-informati",
+        "title": "Amazon S3 サーバーアクセスログに",
+        "date": "2026-02-25",
+        "year": 2026,
+        "month": 2,
+        "day": 25,
+        "path": "2026/02/25/Amazon-S3-now-provides-AWS-source-region-informati",
+        "summary": "Amazon S3 now provides AWS source region information in server access logs",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/25/Amazon-S3-now-provides-AWS-source-region-informati/thumbnail.png"
+      },
+      {
+        "id": "2026-02-25-Amazon-WorkSpaces-Applications-extends-support-for",
+        "title": "Amazon WorkSpaces Applications",
+        "date": "2026-02-25",
+        "year": 2026,
+        "month": 2,
+        "day": 25,
+        "path": "2026/02/25/Amazon-WorkSpaces-Applications-extends-support-for",
+        "summary": "Amazon WorkSpaces Applications extends support for 4K resolution",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/25/Amazon-WorkSpaces-Applications-extends-support-for/thumbnail.png"
       },
       {
         "id": "2026-02-24-AWS-Deadline-Cloud-now-supports-running-tasks-toge",
