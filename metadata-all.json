@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-02-27-Amazon-ECS-Managed-Instances-now-integrates-with-A",
+        "title": "Amazon ECS Managed Instances",
+        "date": "2026-02-27",
+        "year": 2026,
+        "month": 2,
+        "day": 27,
+        "path": "2026/02/27/Amazon-ECS-Managed-Instances-now-integrates-with-A",
+        "summary": "Amazon ECS Managed Instances now integrates with Amazon EC2 Capacity Reservations",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/27/Amazon-ECS-Managed-Instances-now-integrates-with-A/thumbnail.png"
+      },
+      {
         "id": "2026-02-26-AWS-Security-Hub-Extended-offers-full-stack-enterp",
         "title": "AWS Security Hub Extended",
         "date": "2026-02-26",
@@ -11,6 +22,17 @@
         "path": "2026/02/26/AWS-Security-Hub-Extended-offers-full-stack-enterp",
         "summary": "AWS Security Hub Extended offers full stack enterprise security with curated partner solutions",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/26/AWS-Security-Hub-Extended-offers-full-stack-enterp/thumbnail.png"
+      },
+      {
+        "id": "2026-02-26-Amazon-CloudWatch-now-provides-lock-contention-dia",
+        "title": "Amazon CloudWatch",
+        "date": "2026-02-26",
+        "year": 2026,
+        "month": 2,
+        "day": 26,
+        "path": "2026/02/26/Amazon-CloudWatch-now-provides-lock-contention-dia",
+        "summary": "Amazon CloudWatch lock contention diagnostics for RDS PostgreSQL",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/26/Amazon-CloudWatch-now-provides-lock-contention-dia/thumbnail.png"
       },
       {
         "id": "2026-02-26-Amazon-Cognito-enhances-client-secret-management-w",
@@ -442,8 +464,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-02-26T23:20:44.481Z",
-    "totalCount": 40
+    "updatedAt": "2026-02-27T01:06:47.594Z",
+    "totalCount": 42
   },
   "metadata:months": [
     "2026/02"
@@ -453,6 +475,17 @@
     "month": 2,
     "articles": [
       {
+        "id": "2026-02-27-Amazon-ECS-Managed-Instances-now-integrates-with-A",
+        "title": "Amazon ECS Managed Instances",
+        "date": "2026-02-27",
+        "year": 2026,
+        "month": 2,
+        "day": 27,
+        "path": "2026/02/27/Amazon-ECS-Managed-Instances-now-integrates-with-A",
+        "summary": "Amazon ECS Managed Instances now integrates with Amazon EC2 Capacity Reservations",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/27/Amazon-ECS-Managed-Instances-now-integrates-with-A/thumbnail.png"
+      },
+      {
         "id": "2026-02-26-AWS-Security-Hub-Extended-offers-full-stack-enterp",
         "title": "AWS Security Hub Extended",
         "date": "2026-02-26",
@@ -462,6 +495,17 @@
         "path": "2026/02/26/AWS-Security-Hub-Extended-offers-full-stack-enterp",
         "summary": "AWS Security Hub Extended offers full stack enterprise security with curated partner solutions",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/26/AWS-Security-Hub-Extended-offers-full-stack-enterp/thumbnail.png"
+      },
+      {
+        "id": "2026-02-26-Amazon-CloudWatch-now-provides-lock-contention-dia",
+        "title": "Amazon CloudWatch",
+        "date": "2026-02-26",
+        "year": 2026,
+        "month": 2,
+        "day": 26,
+        "path": "2026/02/26/Amazon-CloudWatch-now-provides-lock-contention-dia",
+        "summary": "Amazon CloudWatch lock contention diagnostics for RDS PostgreSQL",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/26/Amazon-CloudWatch-now-provides-lock-contention-dia/thumbnail.png"
       },
       {
         "id": "2026-02-26-Amazon-Cognito-enhances-client-secret-management-w",
@@ -893,6 +937,6 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "totalPages": 4
+    "totalPages": 5
   }
 }
