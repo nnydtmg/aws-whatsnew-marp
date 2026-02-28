@@ -2,6 +2,83 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-02-28-AWS-Resource-Access-Manager-now-supports-maintaini",
+        "title": "AWS Resource Access Manager",
+        "date": "2026-02-28",
+        "year": 2026,
+        "month": 2,
+        "day": 28,
+        "path": "2026/02/28/AWS-Resource-Access-Manager-now-supports-maintaini",
+        "summary": "AWS Resource Access Manager now supports maintaining shares when accounts change organizations",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/28/AWS-Resource-Access-Manager-now-supports-maintaini/thumbnail.png"
+      },
+      {
+        "id": "2026-02-28-Amazon-Bedrock-announces-OpenAI-compatible-Project",
+        "title": "Amazon Bedrock",
+        "date": "2026-02-28",
+        "year": 2026,
+        "month": 2,
+        "day": 28,
+        "path": "2026/02/28/Amazon-Bedrock-announces-OpenAI-compatible-Project",
+        "summary": "Amazon Bedrock announces OpenAI compatible Projects API",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/28/Amazon-Bedrock-announces-OpenAI-compatible-Project/thumbnail.png"
+      },
+      {
+        "id": "2026-02-28-Amazon-Bedrock-batch-inference-now-supports-the-Co",
+        "title": "Amazon Bedrock バッチ推論",
+        "date": "2026-02-28",
+        "year": 2026,
+        "month": 2,
+        "day": 28,
+        "path": "2026/02/28/Amazon-Bedrock-batch-inference-now-supports-the-Co",
+        "summary": "Amazon Bedrock batch inference now supports the Converse API format",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/28/Amazon-Bedrock-batch-inference-now-supports-the-Co/thumbnail.png"
+      },
+      {
+        "id": "2026-02-28-Amazon-CloudWatch-logs-centralization-rules-now-su",
+        "title": "CloudWatch Logs 集約ルール",
+        "date": "2026-02-28",
+        "year": 2026,
+        "month": 2,
+        "day": 28,
+        "path": "2026/02/28/Amazon-CloudWatch-logs-centralization-rules-now-su",
+        "summary": "Amazon CloudWatch logs centralization rules now support customizable destination log group structure",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/28/Amazon-CloudWatch-logs-centralization-rules-now-su/thumbnail.png"
+      },
+      {
+        "id": "2026-02-28-Amazon-Lightsail-expands-blueprint-selection-with",
+        "title": "Amazon Lightsail WordPress ブループリント",
+        "date": "2026-02-28",
+        "year": 2026,
+        "month": 2,
+        "day": 28,
+        "path": "2026/02/28/Amazon-Lightsail-expands-blueprint-selection-with",
+        "summary": "Amazon Lightsail expands blueprint selection with a new WordPress blueprint",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/28/Amazon-Lightsail-expands-blueprint-selection-with/thumbnail.png"
+      },
+      {
+        "id": "2026-02-27-ARC-Region-switchに3つの新機能を追加ポスト回復ワークフローRDSオーケストレーショ",
+        "title": "ARC Region switchの新機能",
+        "date": "2026-02-27",
+        "year": 2026,
+        "month": 2,
+        "day": 27,
+        "path": "2026/02/27/ARC-Region-switchに3つの新機能を追加ポスト回復ワークフローRDSオーケストレーショ",
+        "summary": "ARC Region switchに3つの新機能を追加：ポスト回復ワークフロー、RDSオーケストレーション、Terraform AWS プロバイダーサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/27/ARC-Region-switchに3つの新機能を追加ポスト回復ワークフローRDSオーケストレーショ/thumbnail.png"
+      },
+      {
+        "id": "2026-02-27-AWS-Network-Firewall-now-supports-firewall-state-c",
+        "title": "AWS Network Firewall",
+        "date": "2026-02-27",
+        "year": 2026,
+        "month": 2,
+        "day": 27,
+        "path": "2026/02/27/AWS-Network-Firewall-now-supports-firewall-state-c",
+        "summary": "AWS Network Firewall now supports firewall state change notifications through Amazon EventBridge",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/27/AWS-Network-Firewall-now-supports-firewall-state-c/thumbnail.png"
+      },
+      {
         "id": "2026-02-27-Amazon-ECS-Managed-Instances-now-integrates-with-A",
         "title": "Amazon ECS Managed Instances",
         "date": "2026-02-27",
@@ -464,8 +541,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-02-28T01:00:42.852Z",
-    "totalCount": 42
+    "updatedAt": "2026-02-28T03:46:03.028Z",
+    "totalCount": 49
   },
   "metadata:months": [
     "2026/02"
@@ -474,6 +551,83 @@
     "year": 2026,
     "month": 2,
     "articles": [
+      {
+        "id": "2026-02-28-AWS-Resource-Access-Manager-now-supports-maintaini",
+        "title": "AWS Resource Access Manager",
+        "date": "2026-02-28",
+        "year": 2026,
+        "month": 2,
+        "day": 28,
+        "path": "2026/02/28/AWS-Resource-Access-Manager-now-supports-maintaini",
+        "summary": "AWS Resource Access Manager now supports maintaining shares when accounts change organizations",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/28/AWS-Resource-Access-Manager-now-supports-maintaini/thumbnail.png"
+      },
+      {
+        "id": "2026-02-28-Amazon-Bedrock-announces-OpenAI-compatible-Project",
+        "title": "Amazon Bedrock",
+        "date": "2026-02-28",
+        "year": 2026,
+        "month": 2,
+        "day": 28,
+        "path": "2026/02/28/Amazon-Bedrock-announces-OpenAI-compatible-Project",
+        "summary": "Amazon Bedrock announces OpenAI compatible Projects API",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/28/Amazon-Bedrock-announces-OpenAI-compatible-Project/thumbnail.png"
+      },
+      {
+        "id": "2026-02-28-Amazon-Bedrock-batch-inference-now-supports-the-Co",
+        "title": "Amazon Bedrock バッチ推論",
+        "date": "2026-02-28",
+        "year": 2026,
+        "month": 2,
+        "day": 28,
+        "path": "2026/02/28/Amazon-Bedrock-batch-inference-now-supports-the-Co",
+        "summary": "Amazon Bedrock batch inference now supports the Converse API format",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/28/Amazon-Bedrock-batch-inference-now-supports-the-Co/thumbnail.png"
+      },
+      {
+        "id": "2026-02-28-Amazon-CloudWatch-logs-centralization-rules-now-su",
+        "title": "CloudWatch Logs 集約ルール",
+        "date": "2026-02-28",
+        "year": 2026,
+        "month": 2,
+        "day": 28,
+        "path": "2026/02/28/Amazon-CloudWatch-logs-centralization-rules-now-su",
+        "summary": "Amazon CloudWatch logs centralization rules now support customizable destination log group structure",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/28/Amazon-CloudWatch-logs-centralization-rules-now-su/thumbnail.png"
+      },
+      {
+        "id": "2026-02-28-Amazon-Lightsail-expands-blueprint-selection-with",
+        "title": "Amazon Lightsail WordPress ブループリント",
+        "date": "2026-02-28",
+        "year": 2026,
+        "month": 2,
+        "day": 28,
+        "path": "2026/02/28/Amazon-Lightsail-expands-blueprint-selection-with",
+        "summary": "Amazon Lightsail expands blueprint selection with a new WordPress blueprint",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/28/Amazon-Lightsail-expands-blueprint-selection-with/thumbnail.png"
+      },
+      {
+        "id": "2026-02-27-ARC-Region-switchに3つの新機能を追加ポスト回復ワークフローRDSオーケストレーショ",
+        "title": "ARC Region switchの新機能",
+        "date": "2026-02-27",
+        "year": 2026,
+        "month": 2,
+        "day": 27,
+        "path": "2026/02/27/ARC-Region-switchに3つの新機能を追加ポスト回復ワークフローRDSオーケストレーショ",
+        "summary": "ARC Region switchに3つの新機能を追加：ポスト回復ワークフロー、RDSオーケストレーション、Terraform AWS プロバイダーサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/27/ARC-Region-switchに3つの新機能を追加ポスト回復ワークフローRDSオーケストレーショ/thumbnail.png"
+      },
+      {
+        "id": "2026-02-27-AWS-Network-Firewall-now-supports-firewall-state-c",
+        "title": "AWS Network Firewall",
+        "date": "2026-02-27",
+        "year": 2026,
+        "month": 2,
+        "day": 27,
+        "path": "2026/02/27/AWS-Network-Firewall-now-supports-firewall-state-c",
+        "summary": "AWS Network Firewall now supports firewall state change notifications through Amazon EventBridge",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/27/AWS-Network-Firewall-now-supports-firewall-state-c/thumbnail.png"
+      },
       {
         "id": "2026-02-27-Amazon-ECS-Managed-Instances-now-integrates-with-A",
         "title": "Amazon ECS Managed Instances",
