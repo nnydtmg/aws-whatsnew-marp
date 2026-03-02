@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-03-02-AWS-announces-pricing-for-VPC-Encryption-Controls",
+        "title": "VPC Encryption Controls",
+        "date": "2026-03-02",
+        "year": 2026,
+        "month": 3,
+        "day": 2,
+        "path": "2026/03/02/AWS-announces-pricing-for-VPC-Encryption-Controls",
+        "summary": "AWS announces pricing for VPC Encryption Controls",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/02/AWS-announces-pricing-for-VPC-Encryption-Controls/thumbnail.png"
+      },
+      {
         "id": "2026-02-28-AWS-Resource-Access-Manager-now-supports-maintaini",
         "title": "AWS Resource Access Manager",
         "date": "2026-02-28",
@@ -541,12 +552,31 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-03-02T10:35:00.596Z",
-    "totalCount": 49
+    "updatedAt": "2026-03-02T11:25:58.222Z",
+    "totalCount": 50
   },
   "metadata:months": [
+    "2026/03",
     "2026/02"
   ],
+  "metadata:2026/03": {
+    "year": 2026,
+    "month": 3,
+    "articles": [
+      {
+        "id": "2026-03-02-AWS-announces-pricing-for-VPC-Encryption-Controls",
+        "title": "VPC Encryption Controls",
+        "date": "2026-03-02",
+        "year": 2026,
+        "month": 3,
+        "day": 2,
+        "path": "2026/03/02/AWS-announces-pricing-for-VPC-Encryption-Controls",
+        "summary": "AWS announces pricing for VPC Encryption Controls",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/02/AWS-announces-pricing-for-VPC-Encryption-Controls/thumbnail.png"
+      }
+    ],
+    "totalPages": 1
+  },
   "metadata:2026/02": {
     "year": 2026,
     "month": 2,
