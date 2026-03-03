@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-03-03-Policy-in-Amazon-Bedrock-AgentCore-is-now-generall",
+        "title": "Policy in Amazon Bedrock AgentCore",
+        "date": "2026-03-03",
+        "year": 2026,
+        "month": 3,
+        "day": 3,
+        "path": "2026/03/03/Policy-in-Amazon-Bedrock-AgentCore-is-now-generall",
+        "summary": "Policy in Amazon Bedrock AgentCore is now generally available",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/03/Policy-in-Amazon-Bedrock-AgentCore-is-now-generall/thumbnail.png"
+      },
+      {
         "id": "2026-03-02-AWS-announces-pricing-for-VPC-Encryption-Controls",
         "title": "VPC Encryption Controls",
         "date": "2026-03-02",
@@ -563,8 +574,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-03-03T22:18:44.330Z",
-    "totalCount": 51
+    "updatedAt": "2026-03-03T23:16:57.769Z",
+    "totalCount": 52
   },
   "metadata:months": [
     "2026/03",
@@ -574,6 +585,17 @@
     "year": 2026,
     "month": 3,
     "articles": [
+      {
+        "id": "2026-03-03-Policy-in-Amazon-Bedrock-AgentCore-is-now-generall",
+        "title": "Policy in Amazon Bedrock AgentCore",
+        "date": "2026-03-03",
+        "year": 2026,
+        "month": 3,
+        "day": 3,
+        "path": "2026/03/03/Policy-in-Amazon-Bedrock-AgentCore-is-now-generall",
+        "summary": "Policy in Amazon Bedrock AgentCore is now generally available",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/03/Policy-in-Amazon-Bedrock-AgentCore-is-now-generall/thumbnail.png"
+      },
       {
         "id": "2026-03-02-AWS-announces-pricing-for-VPC-Encryption-Controls",
         "title": "VPC Encryption Controls",
