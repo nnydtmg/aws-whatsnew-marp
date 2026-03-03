@@ -145,6 +145,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/26/Amazon-Location-Service-introduces-LLM-Context-as/thumbnail.png"
       },
       {
+        "id": "2026-02-26-Application-Performance-Monitoring-Enabled-by-Defa",
+        "title": "CloudWatch Observability EKS Add-on",
+        "date": "2026-02-26",
+        "year": 2026,
+        "month": 2,
+        "day": 26,
+        "path": "2026/02/26/Application-Performance-Monitoring-Enabled-by-Defa",
+        "summary": "Application Performance Monitoring Enabled by Default in CloudWatch Observability EKS Add on",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/26/Application-Performance-Monitoring-Enabled-by-Defa/thumbnail.png"
+      },
+      {
         "id": "2026-02-26-Aurora-DSQL-launches-new-support-for-Tortoise-Flyw",
         "title": "Aurora DSQL",
         "date": "2026-02-26",
@@ -552,8 +563,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-03-02T23:16:19.461Z",
-    "totalCount": 50
+    "updatedAt": "2026-03-03T01:10:12.125Z",
+    "totalCount": 51
   },
   "metadata:months": [
     "2026/03",
@@ -712,6 +723,17 @@
         "path": "2026/02/26/Amazon-Location-Service-introduces-LLM-Context-as",
         "summary": "Amazon Location Service introduces LLM Context as a Kiro power and Claude Code plugin to improve AI performance",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/26/Amazon-Location-Service-introduces-LLM-Context-as/thumbnail.png"
+      },
+      {
+        "id": "2026-02-26-Application-Performance-Monitoring-Enabled-by-Defa",
+        "title": "CloudWatch Observability EKS Add-on",
+        "date": "2026-02-26",
+        "year": 2026,
+        "month": 2,
+        "day": 26,
+        "path": "2026/02/26/Application-Performance-Monitoring-Enabled-by-Defa",
+        "summary": "Application Performance Monitoring Enabled by Default in CloudWatch Observability EKS Add on",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/26/Application-Performance-Monitoring-Enabled-by-Defa/thumbnail.png"
       },
       {
         "id": "2026-02-26-Aurora-DSQL-launches-new-support-for-Tortoise-Flyw",
