@@ -2,6 +2,39 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-03-04-Amazon-Lightsail-now-offers-OpenClaw-a-private-sel",
+        "title": "Amazon Lightsail",
+        "date": "2026-03-04",
+        "year": 2026,
+        "month": 3,
+        "day": 4,
+        "path": "2026/03/04/Amazon-Lightsail-now-offers-OpenClaw-a-private-sel",
+        "summary": "Amazon Lightsail now offers OpenClaw, a private self hosted AI assistant",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/04/Amazon-Lightsail-now-offers-OpenClaw-a-private-sel/thumbnail.png"
+      },
+      {
+        "id": "2026-03-04-Amazon-OpenSearch-Ingestion-now-supports-Amazon-Ma",
+        "title": "Amazon OpenSearch Ingestion",
+        "date": "2026-03-04",
+        "year": 2026,
+        "month": 3,
+        "day": 4,
+        "path": "2026/03/04/Amazon-OpenSearch-Ingestion-now-supports-Amazon-Ma",
+        "summary": "Amazon OpenSearch Ingestion now supports Amazon Managed Service for Prometheus as a sink",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/04/Amazon-OpenSearch-Ingestion-now-supports-Amazon-Ma/thumbnail.png"
+      },
+      {
+        "id": "2026-03-04-Amazon-OpenSearch-Ingestion-now-supports-unified-i",
+        "title": "Amazon OpenSearch Ingestion",
+        "date": "2026-03-04",
+        "year": 2026,
+        "month": 3,
+        "day": 4,
+        "path": "2026/03/04/Amazon-OpenSearch-Ingestion-now-supports-unified-i",
+        "summary": "Amazon OpenSearch Ingestion now supports unified ingestion endpoint for OpenTelemetry data",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/04/Amazon-OpenSearch-Ingestion-now-supports-unified-i/thumbnail.png"
+      },
+      {
         "id": "2026-03-03-Policy-in-Amazon-Bedrock-AgentCore-is-now-generall",
         "title": "Policy in Amazon Bedrock AgentCore",
         "date": "2026-03-03",
@@ -574,8 +607,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-03-04T21:24:28.398Z",
-    "totalCount": 52
+    "updatedAt": "2026-03-04T22:21:43.181Z",
+    "totalCount": 55
   },
   "metadata:months": [
     "2026/03",
@@ -585,6 +618,39 @@
     "year": 2026,
     "month": 3,
     "articles": [
+      {
+        "id": "2026-03-04-Amazon-Lightsail-now-offers-OpenClaw-a-private-sel",
+        "title": "Amazon Lightsail",
+        "date": "2026-03-04",
+        "year": 2026,
+        "month": 3,
+        "day": 4,
+        "path": "2026/03/04/Amazon-Lightsail-now-offers-OpenClaw-a-private-sel",
+        "summary": "Amazon Lightsail now offers OpenClaw, a private self hosted AI assistant",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/04/Amazon-Lightsail-now-offers-OpenClaw-a-private-sel/thumbnail.png"
+      },
+      {
+        "id": "2026-03-04-Amazon-OpenSearch-Ingestion-now-supports-Amazon-Ma",
+        "title": "Amazon OpenSearch Ingestion",
+        "date": "2026-03-04",
+        "year": 2026,
+        "month": 3,
+        "day": 4,
+        "path": "2026/03/04/Amazon-OpenSearch-Ingestion-now-supports-Amazon-Ma",
+        "summary": "Amazon OpenSearch Ingestion now supports Amazon Managed Service for Prometheus as a sink",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/04/Amazon-OpenSearch-Ingestion-now-supports-Amazon-Ma/thumbnail.png"
+      },
+      {
+        "id": "2026-03-04-Amazon-OpenSearch-Ingestion-now-supports-unified-i",
+        "title": "Amazon OpenSearch Ingestion",
+        "date": "2026-03-04",
+        "year": 2026,
+        "month": 3,
+        "day": 4,
+        "path": "2026/03/04/Amazon-OpenSearch-Ingestion-now-supports-unified-i",
+        "summary": "Amazon OpenSearch Ingestion now supports unified ingestion endpoint for OpenTelemetry data",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/04/Amazon-OpenSearch-Ingestion-now-supports-unified-i/thumbnail.png"
+      },
       {
         "id": "2026-03-03-Policy-in-Amazon-Bedrock-AgentCore-is-now-generall",
         "title": "Policy in Amazon Bedrock AgentCore",
