@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-03-10-Amazon-Quick-Suite-launches-User-Preferences-for-c",
+        "title": "Amazon Quick Suite",
+        "date": "2026-03-10",
+        "year": 2026,
+        "month": 3,
+        "day": 10,
+        "path": "2026/03/10/Amazon-Quick-Suite-launches-User-Preferences-for-c",
+        "summary": "Amazon Quick Suite launches User Preferences for chat personalization",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/10/Amazon-Quick-Suite-launches-User-Preferences-for-c/thumbnail.png"
+      },
+      {
         "id": "2026-03-09-Amazon-CloudWatch-Logs-announces-increased-query-c",
         "title": "Amazon CloudWatch Logs",
         "date": "2026-03-09",
@@ -695,8 +706,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-03-10T11:24:53.008Z",
-    "totalCount": 63
+    "updatedAt": "2026-03-10T12:35:13.930Z",
+    "totalCount": 64
   },
   "metadata:months": [
     "2026/03",
@@ -706,6 +717,17 @@
     "year": 2026,
     "month": 3,
     "articles": [
+      {
+        "id": "2026-03-10-Amazon-Quick-Suite-launches-User-Preferences-for-c",
+        "title": "Amazon Quick Suite",
+        "date": "2026-03-10",
+        "year": 2026,
+        "month": 3,
+        "day": 10,
+        "path": "2026/03/10/Amazon-Quick-Suite-launches-User-Preferences-for-c",
+        "summary": "Amazon Quick Suite launches User Preferences for chat personalization",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/10/Amazon-Quick-Suite-launches-User-Preferences-for-c/thumbnail.png"
+      },
       {
         "id": "2026-03-09-Amazon-CloudWatch-Logs-announces-increased-query-c",
         "title": "Amazon CloudWatch Logs",
