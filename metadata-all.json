@@ -13,6 +13,28 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/10/AWS-Builder-ID-now-supports-Sign-in-with-GitHub-an/thumbnail.png"
       },
       {
+        "id": "2026-03-10-Amazon-Bedrock-AgentCore-Runtime-now-supports-stat",
+        "title": "Amazon Bedrock AgentCore Runtime",
+        "date": "2026-03-10",
+        "year": 2026,
+        "month": 3,
+        "day": 10,
+        "path": "2026/03/10/Amazon-Bedrock-AgentCore-Runtime-now-supports-stat",
+        "summary": "Amazon Bedrock AgentCore Runtime now supports stateful MCP server features",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/10/Amazon-Bedrock-AgentCore-Runtime-now-supports-stat/thumbnail.png"
+      },
+      {
+        "id": "2026-03-10-Amazon-Bedrock-now-supports-observability-of-First",
+        "title": "Amazon Bedrock",
+        "date": "2026-03-10",
+        "year": 2026,
+        "month": 3,
+        "day": 10,
+        "path": "2026/03/10/Amazon-Bedrock-now-supports-observability-of-First",
+        "summary": "Amazon Bedrock now supports observability of First Token Latency and Quota Consumption",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/10/Amazon-Bedrock-now-supports-observability-of-First/thumbnail.png"
+      },
+      {
         "id": "2026-03-10-Amazon-Quick-Suite-launches-User-Preferences-for-c",
         "title": "Amazon Quick Suite",
         "date": "2026-03-10",
@@ -728,8 +750,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-03-11T01:04:23.355Z",
-    "totalCount": 66
+    "updatedAt": "2026-03-11T04:00:18.984Z",
+    "totalCount": 68
   },
   "metadata:months": [
     "2026/03",
@@ -749,6 +771,28 @@
         "path": "2026/03/10/AWS-Builder-ID-now-supports-Sign-in-with-GitHub-an",
         "summary": "AWS Builder ID now supports Sign in with GitHub and Amazon",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/10/AWS-Builder-ID-now-supports-Sign-in-with-GitHub-an/thumbnail.png"
+      },
+      {
+        "id": "2026-03-10-Amazon-Bedrock-AgentCore-Runtime-now-supports-stat",
+        "title": "Amazon Bedrock AgentCore Runtime",
+        "date": "2026-03-10",
+        "year": 2026,
+        "month": 3,
+        "day": 10,
+        "path": "2026/03/10/Amazon-Bedrock-AgentCore-Runtime-now-supports-stat",
+        "summary": "Amazon Bedrock AgentCore Runtime now supports stateful MCP server features",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/10/Amazon-Bedrock-AgentCore-Runtime-now-supports-stat/thumbnail.png"
+      },
+      {
+        "id": "2026-03-10-Amazon-Bedrock-now-supports-observability-of-First",
+        "title": "Amazon Bedrock",
+        "date": "2026-03-10",
+        "year": 2026,
+        "month": 3,
+        "day": 10,
+        "path": "2026/03/10/Amazon-Bedrock-now-supports-observability-of-First",
+        "summary": "Amazon Bedrock now supports observability of First Token Latency and Quota Consumption",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/10/Amazon-Bedrock-now-supports-observability-of-First/thumbnail.png"
       },
       {
         "id": "2026-03-10-Amazon-Quick-Suite-launches-User-Preferences-for-c",
