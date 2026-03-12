@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-03-12-Introducing-account-regional-namespaces-for-Amazon",
+        "title": "Amazon S3 アカウント地域ネームスペース",
+        "date": "2026-03-12",
+        "year": 2026,
+        "month": 3,
+        "day": 12,
+        "path": "2026/03/12/Introducing-account-regional-namespaces-for-Amazon",
+        "summary": "Introducing account regional namespaces for Amazon S3 general purpose buckets",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/12/Introducing-account-regional-namespaces-for-Amazon/thumbnail.png"
+      },
+      {
         "id": "2026-03-10-AWS-Builder-ID-now-supports-Sign-in-with-GitHub-an",
         "title": "AWS Builder ID",
         "date": "2026-03-10",
@@ -750,8 +761,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-03-12T22:14:57.591Z",
-    "totalCount": 68
+    "updatedAt": "2026-03-12T23:18:10.957Z",
+    "totalCount": 69
   },
   "metadata:months": [
     "2026/03",
@@ -761,6 +772,17 @@
     "year": 2026,
     "month": 3,
     "articles": [
+      {
+        "id": "2026-03-12-Introducing-account-regional-namespaces-for-Amazon",
+        "title": "Amazon S3 アカウント地域ネームスペース",
+        "date": "2026-03-12",
+        "year": 2026,
+        "month": 3,
+        "day": 12,
+        "path": "2026/03/12/Introducing-account-regional-namespaces-for-Amazon",
+        "summary": "Introducing account regional namespaces for Amazon S3 general purpose buckets",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/12/Introducing-account-regional-namespaces-for-Amazon/thumbnail.png"
+      },
       {
         "id": "2026-03-10-AWS-Builder-ID-now-supports-Sign-in-with-GitHub-an",
         "title": "AWS Builder ID",
