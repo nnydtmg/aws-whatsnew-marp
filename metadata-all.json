@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-03-12-Amazon-Bedrock-AgentCore-Memory-announces-streamin",
+        "title": "Amazon Bedrock AgentCore Memory",
+        "date": "2026-03-12",
+        "year": 2026,
+        "month": 3,
+        "day": 12,
+        "path": "2026/03/12/Amazon-Bedrock-AgentCore-Memory-announces-streamin",
+        "summary": "Amazon Bedrock AgentCore Memory announces streaming notifications for long term memory",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/12/Amazon-Bedrock-AgentCore-Memory-announces-streamin/thumbnail.png"
+      },
+      {
         "id": "2026-03-12-Introducing-account-regional-namespaces-for-Amazon",
         "title": "Amazon S3 アカウント地域ネームスペース",
         "date": "2026-03-12",
@@ -761,8 +772,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-03-12T23:18:10.957Z",
-    "totalCount": 69
+    "updatedAt": "2026-03-13T01:07:14.826Z",
+    "totalCount": 70
   },
   "metadata:months": [
     "2026/03",
@@ -772,6 +783,17 @@
     "year": 2026,
     "month": 3,
     "articles": [
+      {
+        "id": "2026-03-12-Amazon-Bedrock-AgentCore-Memory-announces-streamin",
+        "title": "Amazon Bedrock AgentCore Memory",
+        "date": "2026-03-12",
+        "year": 2026,
+        "month": 3,
+        "day": 12,
+        "path": "2026/03/12/Amazon-Bedrock-AgentCore-Memory-announces-streamin",
+        "summary": "Amazon Bedrock AgentCore Memory announces streaming notifications for long term memory",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/12/Amazon-Bedrock-AgentCore-Memory-announces-streamin/thumbnail.png"
+      },
       {
         "id": "2026-03-12-Introducing-account-regional-namespaces-for-Amazon",
         "title": "Amazon S3 アカウント地域ネームスペース",
