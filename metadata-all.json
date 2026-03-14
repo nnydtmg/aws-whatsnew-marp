@@ -2,6 +2,39 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-03-14-AWS-Lambda-Managed-Instances-now-supports-Rust",
+        "title": "AWS Lambda Managed Instances",
+        "date": "2026-03-14",
+        "year": 2026,
+        "month": 3,
+        "day": 14,
+        "path": "2026/03/14/AWS-Lambda-Managed-Instances-now-supports-Rust",
+        "summary": "AWS Lambda Managed Instances now supports Rust",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/14/AWS-Lambda-Managed-Instances-now-supports-Rust/thumbnail.png"
+      },
+      {
+        "id": "2026-03-14-Amazon-CloudWatch-Application-Signals-adds-new-SLO",
+        "title": "Amazon CloudWatch Application Signals",
+        "date": "2026-03-14",
+        "year": 2026,
+        "month": 3,
+        "day": 14,
+        "path": "2026/03/14/Amazon-CloudWatch-Application-Signals-adds-new-SLO",
+        "summary": "Amazon CloudWatch Application Signals adds new SLO capabilities",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/14/Amazon-CloudWatch-Application-Signals-adds-new-SLO/thumbnail.png"
+      },
+      {
+        "id": "2026-03-14-New-LZA-MCP-Server-for-AI-assisted-configuration-m",
+        "title": "Landing Zone Accelerator MCP Server",
+        "date": "2026-03-14",
+        "year": 2026,
+        "month": 3,
+        "day": 14,
+        "path": "2026/03/14/New-LZA-MCP-Server-for-AI-assisted-configuration-m",
+        "summary": "New LZA MCP Server for AI assisted configuration management",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/14/New-LZA-MCP-Server-for-AI-assisted-configuration-m/thumbnail.png"
+      },
+      {
         "id": "2026-03-13-AWS-CDK-Mixins-is-now-generally-available",
         "title": "AWS CDK Mixins",
         "date": "2026-03-13",
@@ -11,6 +44,17 @@
         "path": "2026/03/13/AWS-CDK-Mixins-is-now-generally-available",
         "summary": "AWS CDK Mixins is now generally available",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/13/AWS-CDK-Mixins-is-now-generally-available/thumbnail.png"
+      },
+      {
+        "id": "2026-03-13-Accelerate-serverless-application-development-with",
+        "title": "AWS SAM Kiro Power",
+        "date": "2026-03-13",
+        "year": 2026,
+        "month": 3,
+        "day": 13,
+        "path": "2026/03/13/Accelerate-serverless-application-development-with",
+        "summary": "Accelerate serverless application development with new SAM Kiro power",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/13/Accelerate-serverless-application-development-with/thumbnail.png"
       },
       {
         "id": "2026-03-13-Amazon-S3-introduces-account-regional-namespaces-f",
@@ -794,8 +838,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-03-14T01:06:22.390Z",
-    "totalCount": 72
+    "updatedAt": "2026-03-14T01:42:26.829Z",
+    "totalCount": 76
   },
   "metadata:months": [
     "2026/03",
@@ -806,6 +850,39 @@
     "month": 3,
     "articles": [
       {
+        "id": "2026-03-14-AWS-Lambda-Managed-Instances-now-supports-Rust",
+        "title": "AWS Lambda Managed Instances",
+        "date": "2026-03-14",
+        "year": 2026,
+        "month": 3,
+        "day": 14,
+        "path": "2026/03/14/AWS-Lambda-Managed-Instances-now-supports-Rust",
+        "summary": "AWS Lambda Managed Instances now supports Rust",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/14/AWS-Lambda-Managed-Instances-now-supports-Rust/thumbnail.png"
+      },
+      {
+        "id": "2026-03-14-Amazon-CloudWatch-Application-Signals-adds-new-SLO",
+        "title": "Amazon CloudWatch Application Signals",
+        "date": "2026-03-14",
+        "year": 2026,
+        "month": 3,
+        "day": 14,
+        "path": "2026/03/14/Amazon-CloudWatch-Application-Signals-adds-new-SLO",
+        "summary": "Amazon CloudWatch Application Signals adds new SLO capabilities",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/14/Amazon-CloudWatch-Application-Signals-adds-new-SLO/thumbnail.png"
+      },
+      {
+        "id": "2026-03-14-New-LZA-MCP-Server-for-AI-assisted-configuration-m",
+        "title": "Landing Zone Accelerator MCP Server",
+        "date": "2026-03-14",
+        "year": 2026,
+        "month": 3,
+        "day": 14,
+        "path": "2026/03/14/New-LZA-MCP-Server-for-AI-assisted-configuration-m",
+        "summary": "New LZA MCP Server for AI assisted configuration management",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/14/New-LZA-MCP-Server-for-AI-assisted-configuration-m/thumbnail.png"
+      },
+      {
         "id": "2026-03-13-AWS-CDK-Mixins-is-now-generally-available",
         "title": "AWS CDK Mixins",
         "date": "2026-03-13",
@@ -815,6 +892,17 @@
         "path": "2026/03/13/AWS-CDK-Mixins-is-now-generally-available",
         "summary": "AWS CDK Mixins is now generally available",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/13/AWS-CDK-Mixins-is-now-generally-available/thumbnail.png"
+      },
+      {
+        "id": "2026-03-13-Accelerate-serverless-application-development-with",
+        "title": "AWS SAM Kiro Power",
+        "date": "2026-03-13",
+        "year": 2026,
+        "month": 3,
+        "day": 13,
+        "path": "2026/03/13/Accelerate-serverless-application-development-with",
+        "summary": "Accelerate serverless application development with new SAM Kiro power",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/13/Accelerate-serverless-application-development-with/thumbnail.png"
       },
       {
         "id": "2026-03-13-Amazon-S3-introduces-account-regional-namespaces-f",
