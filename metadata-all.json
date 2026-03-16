@@ -57,6 +57,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/13/Accelerate-serverless-application-development-with/thumbnail.png"
       },
       {
+        "id": "2026-03-13-Amazon-Bedrock-AgentCore-Runtime-now-supports-the",
+        "title": "Amazon Bedrock AgentCore Runtime",
+        "date": "2026-03-13",
+        "year": 2026,
+        "month": 3,
+        "day": 13,
+        "path": "2026/03/13/Amazon-Bedrock-AgentCore-Runtime-now-supports-the",
+        "summary": "Amazon Bedrock AgentCore Runtime now supports the AG UI protocol",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/13/Amazon-Bedrock-AgentCore-Runtime-now-supports-the/thumbnail.png"
+      },
+      {
         "id": "2026-03-13-Amazon-S3-introduces-account-regional-namespaces-f",
         "title": "Amazon S3 アカウント地域別ネームスペース",
         "date": "2026-03-13",
@@ -838,8 +849,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-03-16T22:22:44.618Z",
-    "totalCount": 76
+    "updatedAt": "2026-03-16T23:21:41.328Z",
+    "totalCount": 77
   },
   "metadata:months": [
     "2026/03",
@@ -903,6 +914,17 @@
         "path": "2026/03/13/Accelerate-serverless-application-development-with",
         "summary": "Accelerate serverless application development with new SAM Kiro power",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/13/Accelerate-serverless-application-development-with/thumbnail.png"
+      },
+      {
+        "id": "2026-03-13-Amazon-Bedrock-AgentCore-Runtime-now-supports-the",
+        "title": "Amazon Bedrock AgentCore Runtime",
+        "date": "2026-03-13",
+        "year": 2026,
+        "month": 3,
+        "day": 13,
+        "path": "2026/03/13/Amazon-Bedrock-AgentCore-Runtime-now-supports-the",
+        "summary": "Amazon Bedrock AgentCore Runtime now supports the AG UI protocol",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/13/Amazon-Bedrock-AgentCore-Runtime-now-supports-the/thumbnail.png"
       },
       {
         "id": "2026-03-13-Amazon-S3-introduces-account-regional-namespaces-f",
