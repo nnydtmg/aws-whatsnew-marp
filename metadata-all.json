@@ -2,6 +2,50 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-03-17-Amazon-CloudWatch-Logs-now-supports-log-ingestion",
+        "title": "Amazon CloudWatch Logs が HTTP ベースのログ取り込みに対応",
+        "date": "2026-03-17",
+        "year": 2026,
+        "month": 3,
+        "day": 17,
+        "path": "2026/03/17/Amazon-CloudWatch-Logs-now-supports-log-ingestion",
+        "summary": "Amazon CloudWatch Logs now supports log ingestion using HTTP based protocol",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/17/Amazon-CloudWatch-Logs-now-supports-log-ingestion/thumbnail.png"
+      },
+      {
+        "id": "2026-03-17-Amazon-CloudWatch-introduces-organization-wide-EC2",
+        "title": "Amazon CloudWatch",
+        "date": "2026-03-17",
+        "year": 2026,
+        "month": 3,
+        "day": 17,
+        "path": "2026/03/17/Amazon-CloudWatch-introduces-organization-wide-EC2",
+        "summary": "Amazon CloudWatch introduces organization wide EC2 detailed monitoring enablement",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/17/Amazon-CloudWatch-introduces-organization-wide-EC2/thumbnail.png"
+      },
+      {
+        "id": "2026-03-17-Announcing-AWS-Partner-Central-agents-to-accelerat",
+        "title": "AWS Partner Central Agents",
+        "date": "2026-03-17",
+        "year": 2026,
+        "month": 3,
+        "day": 17,
+        "path": "2026/03/17/Announcing-AWS-Partner-Central-agents-to-accelerat",
+        "summary": "Announcing AWS Partner Central agents to accelerate co sell",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/17/Announcing-AWS-Partner-Central-agents-to-accelerat/thumbnail.png"
+      },
+      {
+        "id": "2026-03-16-Announcing-AWS-Partner-Central-agents-to-accelerat",
+        "title": "AWS Partner Central agents",
+        "date": "2026-03-16",
+        "year": 2026,
+        "month": 3,
+        "day": 16,
+        "path": "2026/03/16/Announcing-AWS-Partner-Central-agents-to-accelerat",
+        "summary": "Announcing AWS Partner Central agents to accelerate co sell",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/16/Announcing-AWS-Partner-Central-agents-to-accelerat/thumbnail.png"
+      },
+      {
         "id": "2026-03-14-AWS-Lambda-Managed-Instances-now-supports-Rust",
         "title": "AWS Lambda Managed Instances",
         "date": "2026-03-14",
@@ -849,8 +893,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-03-17T08:39:08.508Z",
-    "totalCount": 77
+    "updatedAt": "2026-03-17T09:44:27.973Z",
+    "totalCount": 81
   },
   "metadata:months": [
     "2026/03",
@@ -860,6 +904,50 @@
     "year": 2026,
     "month": 3,
     "articles": [
+      {
+        "id": "2026-03-17-Amazon-CloudWatch-Logs-now-supports-log-ingestion",
+        "title": "Amazon CloudWatch Logs が HTTP ベースのログ取り込みに対応",
+        "date": "2026-03-17",
+        "year": 2026,
+        "month": 3,
+        "day": 17,
+        "path": "2026/03/17/Amazon-CloudWatch-Logs-now-supports-log-ingestion",
+        "summary": "Amazon CloudWatch Logs now supports log ingestion using HTTP based protocol",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/17/Amazon-CloudWatch-Logs-now-supports-log-ingestion/thumbnail.png"
+      },
+      {
+        "id": "2026-03-17-Amazon-CloudWatch-introduces-organization-wide-EC2",
+        "title": "Amazon CloudWatch",
+        "date": "2026-03-17",
+        "year": 2026,
+        "month": 3,
+        "day": 17,
+        "path": "2026/03/17/Amazon-CloudWatch-introduces-organization-wide-EC2",
+        "summary": "Amazon CloudWatch introduces organization wide EC2 detailed monitoring enablement",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/17/Amazon-CloudWatch-introduces-organization-wide-EC2/thumbnail.png"
+      },
+      {
+        "id": "2026-03-17-Announcing-AWS-Partner-Central-agents-to-accelerat",
+        "title": "AWS Partner Central Agents",
+        "date": "2026-03-17",
+        "year": 2026,
+        "month": 3,
+        "day": 17,
+        "path": "2026/03/17/Announcing-AWS-Partner-Central-agents-to-accelerat",
+        "summary": "Announcing AWS Partner Central agents to accelerate co sell",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/17/Announcing-AWS-Partner-Central-agents-to-accelerat/thumbnail.png"
+      },
+      {
+        "id": "2026-03-16-Announcing-AWS-Partner-Central-agents-to-accelerat",
+        "title": "AWS Partner Central agents",
+        "date": "2026-03-16",
+        "year": 2026,
+        "month": 3,
+        "day": 16,
+        "path": "2026/03/16/Announcing-AWS-Partner-Central-agents-to-accelerat",
+        "summary": "Announcing AWS Partner Central agents to accelerate co sell",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/16/Announcing-AWS-Partner-Central-agents-to-accelerat/thumbnail.png"
+      },
       {
         "id": "2026-03-14-AWS-Lambda-Managed-Instances-now-supports-Rust",
         "title": "AWS Lambda Managed Instances",
@@ -1158,7 +1246,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/02/AWS-announces-pricing-for-VPC-Encryption-Controls/thumbnail.png"
       }
     ],
-    "totalPages": 3
+    "totalPages": 4
   },
   "metadata:2026/02": {
     "year": 2026,
