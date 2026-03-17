@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-03-17-Amazon-Bedrock-AgentCore-Runtime-now-supports-shel",
+        "title": "Amazon Bedrock AgentCore Runtime",
+        "date": "2026-03-17",
+        "year": 2026,
+        "month": 3,
+        "day": 17,
+        "path": "2026/03/17/Amazon-Bedrock-AgentCore-Runtime-now-supports-shel",
+        "summary": "Amazon Bedrock AgentCore Runtime now supports shell command execution",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/17/Amazon-Bedrock-AgentCore-Runtime-now-supports-shel/thumbnail.png"
+      },
+      {
         "id": "2026-03-17-Amazon-CloudWatch-Logs-now-supports-log-ingestion",
         "title": "Amazon CloudWatch Logs が HTTP ベースのログ取り込みに対応",
         "date": "2026-03-17",
@@ -893,8 +904,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-03-17T21:27:28.528Z",
-    "totalCount": 81
+    "updatedAt": "2026-03-17T22:23:15.815Z",
+    "totalCount": 82
   },
   "metadata:months": [
     "2026/03",
@@ -904,6 +915,17 @@
     "year": 2026,
     "month": 3,
     "articles": [
+      {
+        "id": "2026-03-17-Amazon-Bedrock-AgentCore-Runtime-now-supports-shel",
+        "title": "Amazon Bedrock AgentCore Runtime",
+        "date": "2026-03-17",
+        "year": 2026,
+        "month": 3,
+        "day": 17,
+        "path": "2026/03/17/Amazon-Bedrock-AgentCore-Runtime-now-supports-shel",
+        "summary": "Amazon Bedrock AgentCore Runtime now supports shell command execution",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/17/Amazon-Bedrock-AgentCore-Runtime-now-supports-shel/thumbnail.png"
+      },
       {
         "id": "2026-03-17-Amazon-CloudWatch-Logs-now-supports-log-ingestion",
         "title": "Amazon CloudWatch Logs が HTTP ベースのログ取り込みに対応",
