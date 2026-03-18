@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-03-18-AWS-Config-launches-75-new-managed-rules",
+        "title": "AWS Config が 75 個の新しいマネージドルールをリリース",
+        "date": "2026-03-18",
+        "year": 2026,
+        "month": 3,
+        "day": 18,
+        "path": "2026/03/18/AWS-Config-launches-75-new-managed-rules",
+        "summary": "AWS Config launches 75 new managed rules",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/18/AWS-Config-launches-75-new-managed-rules/thumbnail.png"
+      },
+      {
+        "id": "2026-03-18-Amazon-ECR-now-supports-pull-through-cache-for-Cha",
+        "title": "Amazon ECR",
+        "date": "2026-03-18",
+        "year": 2026,
+        "month": 3,
+        "day": 18,
+        "path": "2026/03/18/Amazon-ECR-now-supports-pull-through-cache-for-Cha",
+        "summary": "Amazon ECR now supports pull through cache for Chainguard",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/18/Amazon-ECR-now-supports-pull-through-cache-for-Cha/thumbnail.png"
+      },
+      {
         "id": "2026-03-17-Amazon-Bedrock-AgentCore-Runtime-now-supports-shel",
         "title": "Amazon Bedrock AgentCore Runtime",
         "date": "2026-03-17",
@@ -904,8 +926,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-03-18T22:23:24.744Z",
-    "totalCount": 82
+    "updatedAt": "2026-03-18T23:22:38.995Z",
+    "totalCount": 84
   },
   "metadata:months": [
     "2026/03",
@@ -915,6 +937,28 @@
     "year": 2026,
     "month": 3,
     "articles": [
+      {
+        "id": "2026-03-18-AWS-Config-launches-75-new-managed-rules",
+        "title": "AWS Config が 75 個の新しいマネージドルールをリリース",
+        "date": "2026-03-18",
+        "year": 2026,
+        "month": 3,
+        "day": 18,
+        "path": "2026/03/18/AWS-Config-launches-75-new-managed-rules",
+        "summary": "AWS Config launches 75 new managed rules",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/18/AWS-Config-launches-75-new-managed-rules/thumbnail.png"
+      },
+      {
+        "id": "2026-03-18-Amazon-ECR-now-supports-pull-through-cache-for-Cha",
+        "title": "Amazon ECR",
+        "date": "2026-03-18",
+        "year": 2026,
+        "month": 3,
+        "day": 18,
+        "path": "2026/03/18/Amazon-ECR-now-supports-pull-through-cache-for-Cha",
+        "summary": "Amazon ECR now supports pull through cache for Chainguard",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/18/Amazon-ECR-now-supports-pull-through-cache-for-Cha/thumbnail.png"
+      },
       {
         "id": "2026-03-17-Amazon-Bedrock-AgentCore-Runtime-now-supports-shel",
         "title": "Amazon Bedrock AgentCore Runtime",
