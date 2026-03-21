@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-03-21-Amazon-Bedrock-AgentCore-Runtime-adds-WebRTC-suppo",
+        "title": "Amazon Bedrock AgentCore Runtime",
+        "date": "2026-03-21",
+        "year": 2026,
+        "month": 3,
+        "day": 21,
+        "path": "2026/03/21/Amazon-Bedrock-AgentCore-Runtime-adds-WebRTC-suppo",
+        "summary": "Amazon Bedrock AgentCore Runtime adds WebRTC support for real time bidirectional streaming",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/21/Amazon-Bedrock-AgentCore-Runtime-adds-WebRTC-suppo/thumbnail.png"
+      },
+      {
         "id": "2026-03-19-AWS-Lambda-now-supports-Availability-Zone-metadata",
         "title": "AWS Lambda now supports Availability Zone metadata",
         "date": "2026-03-19",
@@ -937,8 +948,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-03-21T01:04:11.244Z",
-    "totalCount": 85
+    "updatedAt": "2026-03-21T03:55:27.738Z",
+    "totalCount": 86
   },
   "metadata:months": [
     "2026/03",
@@ -948,6 +959,17 @@
     "year": 2026,
     "month": 3,
     "articles": [
+      {
+        "id": "2026-03-21-Amazon-Bedrock-AgentCore-Runtime-adds-WebRTC-suppo",
+        "title": "Amazon Bedrock AgentCore Runtime",
+        "date": "2026-03-21",
+        "year": 2026,
+        "month": 3,
+        "day": 21,
+        "path": "2026/03/21/Amazon-Bedrock-AgentCore-Runtime-adds-WebRTC-suppo",
+        "summary": "Amazon Bedrock AgentCore Runtime adds WebRTC support for real time bidirectional streaming",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/21/Amazon-Bedrock-AgentCore-Runtime-adds-WebRTC-suppo/thumbnail.png"
+      },
       {
         "id": "2026-03-19-AWS-Lambda-now-supports-Availability-Zone-metadata",
         "title": "AWS Lambda now supports Availability Zone metadata",
