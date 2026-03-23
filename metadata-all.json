@@ -24,6 +24,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/19/AWS-Lambda-now-supports-Availability-Zone-metadata/thumbnail.png"
       },
       {
+        "id": "2026-03-19-AWS-MCP-Server-Preview---Enhanced-Monitoring-and-S",
+        "title": "AWS MCP Server (Preview)",
+        "date": "2026-03-19",
+        "year": 2026,
+        "month": 3,
+        "day": 19,
+        "path": "2026/03/19/AWS-MCP-Server-Preview---Enhanced-Monitoring-and-S",
+        "summary": "AWS MCP Server (Preview) Enhanced Monitoring and Semantic Search",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/19/AWS-MCP-Server-Preview---Enhanced-Monitoring-and-S/thumbnail.png"
+      },
+      {
         "id": "2026-03-18-AWS-Config-launches-75-new-managed-rules",
         "title": "AWS Config が 75 個の新しいマネージドルールをリリース",
         "date": "2026-03-18",
@@ -948,8 +959,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-03-23T14:07:37.668Z",
-    "totalCount": 86
+    "updatedAt": "2026-03-23T15:52:00.069Z",
+    "totalCount": 87
   },
   "metadata:months": [
     "2026/03",
@@ -980,6 +991,17 @@
         "path": "2026/03/19/AWS-Lambda-now-supports-Availability-Zone-metadata",
         "summary": "AWS Lambda now supports Availability Zone metadata",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/19/AWS-Lambda-now-supports-Availability-Zone-metadata/thumbnail.png"
+      },
+      {
+        "id": "2026-03-19-AWS-MCP-Server-Preview---Enhanced-Monitoring-and-S",
+        "title": "AWS MCP Server (Preview)",
+        "date": "2026-03-19",
+        "year": 2026,
+        "month": 3,
+        "day": 19,
+        "path": "2026/03/19/AWS-MCP-Server-Preview---Enhanced-Monitoring-and-S",
+        "summary": "AWS MCP Server (Preview) Enhanced Monitoring and Semantic Search",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/19/AWS-MCP-Server-Preview---Enhanced-Monitoring-and-S/thumbnail.png"
       },
       {
         "id": "2026-03-18-AWS-Config-launches-75-new-managed-rules",
