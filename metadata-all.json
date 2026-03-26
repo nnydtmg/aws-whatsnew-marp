@@ -2,6 +2,83 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-03-26-Amazon-Bedrock-AgentCore-adds-support-for-Chrome-p",
+        "title": "Amazon Bedrock AgentCore",
+        "date": "2026-03-26",
+        "year": 2026,
+        "month": 3,
+        "day": 26,
+        "path": "2026/03/26/Amazon-Bedrock-AgentCore-adds-support-for-Chrome-p",
+        "summary": "Amazon Bedrock AgentCore adds support for Chrome policies and custom root CA",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/26/Amazon-Bedrock-AgentCore-adds-support-for-Chrome-p/thumbnail.png"
+      },
+      {
+        "id": "2026-03-26-Amazon-Quick-Now-Available-in-the-AWS-Tokyo-Region",
+        "title": "Amazon Quick",
+        "date": "2026-03-26",
+        "year": 2026,
+        "month": 3,
+        "day": 26,
+        "path": "2026/03/26/Amazon-Quick-Now-Available-in-the-AWS-Tokyo-Region",
+        "summary": "Amazon Quick Now Available in the AWS Tokyo Region",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/26/Amazon-Quick-Now-Available-in-the-AWS-Tokyo-Region/thumbnail.png"
+      },
+      {
+        "id": "2026-03-26-Amazon-Route-53-Profiles-now-supports-granular-IAM",
+        "title": "Amazon Route 53 Profiles",
+        "date": "2026-03-26",
+        "year": 2026,
+        "month": 3,
+        "day": 26,
+        "path": "2026/03/26/Amazon-Route-53-Profiles-now-supports-granular-IAM",
+        "summary": "Amazon Route 53 Profiles now supports granular IAM permissions for resource and VPC associations",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/26/Amazon-Route-53-Profiles-now-supports-granular-IAM/thumbnail.png"
+      },
+      {
+        "id": "2026-03-26-Announcing-Amazon-Aurora-PostgreSQL-serverless-dat",
+        "title": "Amazon Aurora PostgreSQL",
+        "date": "2026-03-26",
+        "year": 2026,
+        "month": 3,
+        "day": 26,
+        "path": "2026/03/26/Announcing-Amazon-Aurora-PostgreSQL-serverless-dat",
+        "summary": "Announcing Amazon Aurora PostgreSQL serverless database creation in seconds",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/26/Announcing-Amazon-Aurora-PostgreSQL-serverless-dat/thumbnail.png"
+      },
+      {
+        "id": "2026-03-25-Accelerate-AI-assisted-development-with-Agent-Plug",
+        "title": "AWS Serverless Agent Plugin",
+        "date": "2026-03-25",
+        "year": 2026,
+        "month": 3,
+        "day": 25,
+        "path": "2026/03/25/Accelerate-AI-assisted-development-with-Agent-Plug",
+        "summary": "Accelerate AI assisted development with Agent Plugin for AWS Serverless",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/25/Accelerate-AI-assisted-development-with-Agent-Plug/thumbnail.png"
+      },
+      {
+        "id": "2026-03-25-Amazon-Aurora-PostgreSQL-now-available-with-the-AW",
+        "title": "Amazon Aurora PostgreSQL",
+        "date": "2026-03-25",
+        "year": 2026,
+        "month": 3,
+        "day": 25,
+        "path": "2026/03/25/Amazon-Aurora-PostgreSQL-now-available-with-the-AW",
+        "summary": "Amazon Aurora PostgreSQL now available with the AWS Free Tier",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/25/Amazon-Aurora-PostgreSQL-now-available-with-the-AW/thumbnail.png"
+      },
+      {
+        "id": "2026-03-25-Amazon-Bedrock-AgentCore-Runtime-now-supports-mana",
+        "title": "Amazon Bedrock AgentCore Runtime",
+        "date": "2026-03-25",
+        "year": 2026,
+        "month": 3,
+        "day": 25,
+        "path": "2026/03/25/Amazon-Bedrock-AgentCore-Runtime-now-supports-mana",
+        "summary": "Amazon Bedrock AgentCore Runtime now supports managed session storage for persistent agent filesystem state",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/25/Amazon-Bedrock-AgentCore-Runtime-now-supports-mana/thumbnail.png"
+      },
+      {
         "id": "2026-03-21-Amazon-Bedrock-AgentCore-Runtime-adds-WebRTC-suppo",
         "title": "Amazon Bedrock AgentCore Runtime",
         "date": "2026-03-21",
@@ -959,8 +1036,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-03-26T01:16:49.309Z",
-    "totalCount": 87
+    "updatedAt": "2026-03-26T04:24:21.946Z",
+    "totalCount": 94
   },
   "metadata:months": [
     "2026/03",
@@ -970,6 +1047,83 @@
     "year": 2026,
     "month": 3,
     "articles": [
+      {
+        "id": "2026-03-26-Amazon-Bedrock-AgentCore-adds-support-for-Chrome-p",
+        "title": "Amazon Bedrock AgentCore",
+        "date": "2026-03-26",
+        "year": 2026,
+        "month": 3,
+        "day": 26,
+        "path": "2026/03/26/Amazon-Bedrock-AgentCore-adds-support-for-Chrome-p",
+        "summary": "Amazon Bedrock AgentCore adds support for Chrome policies and custom root CA",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/26/Amazon-Bedrock-AgentCore-adds-support-for-Chrome-p/thumbnail.png"
+      },
+      {
+        "id": "2026-03-26-Amazon-Quick-Now-Available-in-the-AWS-Tokyo-Region",
+        "title": "Amazon Quick",
+        "date": "2026-03-26",
+        "year": 2026,
+        "month": 3,
+        "day": 26,
+        "path": "2026/03/26/Amazon-Quick-Now-Available-in-the-AWS-Tokyo-Region",
+        "summary": "Amazon Quick Now Available in the AWS Tokyo Region",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/26/Amazon-Quick-Now-Available-in-the-AWS-Tokyo-Region/thumbnail.png"
+      },
+      {
+        "id": "2026-03-26-Amazon-Route-53-Profiles-now-supports-granular-IAM",
+        "title": "Amazon Route 53 Profiles",
+        "date": "2026-03-26",
+        "year": 2026,
+        "month": 3,
+        "day": 26,
+        "path": "2026/03/26/Amazon-Route-53-Profiles-now-supports-granular-IAM",
+        "summary": "Amazon Route 53 Profiles now supports granular IAM permissions for resource and VPC associations",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/26/Amazon-Route-53-Profiles-now-supports-granular-IAM/thumbnail.png"
+      },
+      {
+        "id": "2026-03-26-Announcing-Amazon-Aurora-PostgreSQL-serverless-dat",
+        "title": "Amazon Aurora PostgreSQL",
+        "date": "2026-03-26",
+        "year": 2026,
+        "month": 3,
+        "day": 26,
+        "path": "2026/03/26/Announcing-Amazon-Aurora-PostgreSQL-serverless-dat",
+        "summary": "Announcing Amazon Aurora PostgreSQL serverless database creation in seconds",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/26/Announcing-Amazon-Aurora-PostgreSQL-serverless-dat/thumbnail.png"
+      },
+      {
+        "id": "2026-03-25-Accelerate-AI-assisted-development-with-Agent-Plug",
+        "title": "AWS Serverless Agent Plugin",
+        "date": "2026-03-25",
+        "year": 2026,
+        "month": 3,
+        "day": 25,
+        "path": "2026/03/25/Accelerate-AI-assisted-development-with-Agent-Plug",
+        "summary": "Accelerate AI assisted development with Agent Plugin for AWS Serverless",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/25/Accelerate-AI-assisted-development-with-Agent-Plug/thumbnail.png"
+      },
+      {
+        "id": "2026-03-25-Amazon-Aurora-PostgreSQL-now-available-with-the-AW",
+        "title": "Amazon Aurora PostgreSQL",
+        "date": "2026-03-25",
+        "year": 2026,
+        "month": 3,
+        "day": 25,
+        "path": "2026/03/25/Amazon-Aurora-PostgreSQL-now-available-with-the-AW",
+        "summary": "Amazon Aurora PostgreSQL now available with the AWS Free Tier",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/25/Amazon-Aurora-PostgreSQL-now-available-with-the-AW/thumbnail.png"
+      },
+      {
+        "id": "2026-03-25-Amazon-Bedrock-AgentCore-Runtime-now-supports-mana",
+        "title": "Amazon Bedrock AgentCore Runtime",
+        "date": "2026-03-25",
+        "year": 2026,
+        "month": 3,
+        "day": 25,
+        "path": "2026/03/25/Amazon-Bedrock-AgentCore-Runtime-now-supports-mana",
+        "summary": "Amazon Bedrock AgentCore Runtime now supports managed session storage for persistent agent filesystem state",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/25/Amazon-Bedrock-AgentCore-Runtime-now-supports-mana/thumbnail.png"
+      },
       {
         "id": "2026-03-21-Amazon-Bedrock-AgentCore-Runtime-adds-WebRTC-suppo",
         "title": "Amazon Bedrock AgentCore Runtime",
@@ -1378,7 +1532,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/02/AWS-announces-pricing-for-VPC-Encryption-Controls/thumbnail.png"
       }
     ],
-    "totalPages": 4
+    "totalPages": 5
   },
   "metadata:2026/02": {
     "year": 2026,
