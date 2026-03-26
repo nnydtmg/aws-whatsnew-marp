@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-03-26-AWS-AppConfig-adds-enhanced-targeting-during-featu",
+        "title": "AWS AppConfig",
+        "date": "2026-03-26",
+        "year": 2026,
+        "month": 3,
+        "day": 26,
+        "path": "2026/03/26/AWS-AppConfig-adds-enhanced-targeting-during-featu",
+        "summary": "AWS AppConfig adds enhanced targeting during feature flag rollout",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/26/AWS-AppConfig-adds-enhanced-targeting-during-featu/thumbnail.png"
+      },
+      {
         "id": "2026-03-26-Amazon-Bedrock-AgentCore-adds-support-for-Chrome-p",
         "title": "Amazon Bedrock AgentCore",
         "date": "2026-03-26",
@@ -88,6 +99,17 @@
         "path": "2026/03/21/Amazon-Bedrock-AgentCore-Runtime-adds-WebRTC-suppo",
         "summary": "Amazon Bedrock AgentCore Runtime adds WebRTC support for real time bidirectional streaming",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/21/Amazon-Bedrock-AgentCore-Runtime-adds-WebRTC-suppo/thumbnail.png"
+      },
+      {
+        "id": "2026-03-20-AWS-DMS-Schema-Conversion-with-GenAI-now-available",
+        "title": "AWS DMS Schema Conversion with GenAI",
+        "date": "2026-03-20",
+        "year": 2026,
+        "month": 3,
+        "day": 20,
+        "path": "2026/03/20/AWS-DMS-Schema-Conversion-with-GenAI-now-available",
+        "summary": "AWS DMS Schema Conversion with GenAI now available in 10 additional regions",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/20/AWS-DMS-Schema-Conversion-with-GenAI-now-available/thumbnail.png"
       },
       {
         "id": "2026-03-19-AWS-Lambda-now-supports-Availability-Zone-metadata",
@@ -1036,8 +1058,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-03-26T22:17:57.251Z",
-    "totalCount": 94
+    "updatedAt": "2026-03-26T23:21:20.288Z",
+    "totalCount": 96
   },
   "metadata:months": [
     "2026/03",
@@ -1047,6 +1069,17 @@
     "year": 2026,
     "month": 3,
     "articles": [
+      {
+        "id": "2026-03-26-AWS-AppConfig-adds-enhanced-targeting-during-featu",
+        "title": "AWS AppConfig",
+        "date": "2026-03-26",
+        "year": 2026,
+        "month": 3,
+        "day": 26,
+        "path": "2026/03/26/AWS-AppConfig-adds-enhanced-targeting-during-featu",
+        "summary": "AWS AppConfig adds enhanced targeting during feature flag rollout",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/26/AWS-AppConfig-adds-enhanced-targeting-during-featu/thumbnail.png"
+      },
       {
         "id": "2026-03-26-Amazon-Bedrock-AgentCore-adds-support-for-Chrome-p",
         "title": "Amazon Bedrock AgentCore",
@@ -1134,6 +1167,17 @@
         "path": "2026/03/21/Amazon-Bedrock-AgentCore-Runtime-adds-WebRTC-suppo",
         "summary": "Amazon Bedrock AgentCore Runtime adds WebRTC support for real time bidirectional streaming",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/21/Amazon-Bedrock-AgentCore-Runtime-adds-WebRTC-suppo/thumbnail.png"
+      },
+      {
+        "id": "2026-03-20-AWS-DMS-Schema-Conversion-with-GenAI-now-available",
+        "title": "AWS DMS Schema Conversion with GenAI",
+        "date": "2026-03-20",
+        "year": 2026,
+        "month": 3,
+        "day": 20,
+        "path": "2026/03/20/AWS-DMS-Schema-Conversion-with-GenAI-now-available",
+        "summary": "AWS DMS Schema Conversion with GenAI now available in 10 additional regions",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/20/AWS-DMS-Schema-Conversion-with-GenAI-now-available/thumbnail.png"
       },
       {
         "id": "2026-03-19-AWS-Lambda-now-supports-Availability-Zone-metadata",
