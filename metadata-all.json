@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-03-28-AWS-Management-Console-now-supports-settings-to-co",
+        "title": "AWS Management Console がサービスとリージョンの表示設定に対応",
+        "date": "2026-03-28",
+        "year": 2026,
+        "month": 3,
+        "day": 28,
+        "path": "2026/03/28/AWS-Management-Console-now-supports-settings-to-co",
+        "summary": "AWS Management Console now supports settings to control service and Region visibility",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/28/AWS-Management-Console-now-supports-settings-to-co/thumbnail.png"
+      },
+      {
         "id": "2026-03-26-AWS-AppConfig-adds-enhanced-targeting-during-featu",
         "title": "AWS AppConfig",
         "date": "2026-03-26",
@@ -11,6 +22,17 @@
         "path": "2026/03/26/AWS-AppConfig-adds-enhanced-targeting-during-featu",
         "summary": "AWS AppConfig adds enhanced targeting during feature flag rollout",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/26/AWS-AppConfig-adds-enhanced-targeting-during-featu/thumbnail.png"
+      },
+      {
+        "id": "2026-03-26-AWS-Step-Functions-adds-28-new-service-integration",
+        "title": "AWS Step Functions",
+        "date": "2026-03-26",
+        "year": 2026,
+        "month": 3,
+        "day": 26,
+        "path": "2026/03/26/AWS-Step-Functions-adds-28-new-service-integration",
+        "summary": "AWS Step Functions adds 28 new service integrations, including Amazon Bedrock AgentCore",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/26/AWS-Step-Functions-adds-28-new-service-integration/thumbnail.png"
       },
       {
         "id": "2026-03-26-Amazon-Bedrock-AgentCore-adds-support-for-Chrome-p",
@@ -1058,8 +1080,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-03-27T23:22:25.189Z",
-    "totalCount": 96
+    "updatedAt": "2026-03-28T01:10:26.475Z",
+    "totalCount": 98
   },
   "metadata:months": [
     "2026/03",
@@ -1070,6 +1092,17 @@
     "month": 3,
     "articles": [
       {
+        "id": "2026-03-28-AWS-Management-Console-now-supports-settings-to-co",
+        "title": "AWS Management Console がサービスとリージョンの表示設定に対応",
+        "date": "2026-03-28",
+        "year": 2026,
+        "month": 3,
+        "day": 28,
+        "path": "2026/03/28/AWS-Management-Console-now-supports-settings-to-co",
+        "summary": "AWS Management Console now supports settings to control service and Region visibility",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/28/AWS-Management-Console-now-supports-settings-to-co/thumbnail.png"
+      },
+      {
         "id": "2026-03-26-AWS-AppConfig-adds-enhanced-targeting-during-featu",
         "title": "AWS AppConfig",
         "date": "2026-03-26",
@@ -1079,6 +1112,17 @@
         "path": "2026/03/26/AWS-AppConfig-adds-enhanced-targeting-during-featu",
         "summary": "AWS AppConfig adds enhanced targeting during feature flag rollout",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/26/AWS-AppConfig-adds-enhanced-targeting-during-featu/thumbnail.png"
+      },
+      {
+        "id": "2026-03-26-AWS-Step-Functions-adds-28-new-service-integration",
+        "title": "AWS Step Functions",
+        "date": "2026-03-26",
+        "year": 2026,
+        "month": 3,
+        "day": 26,
+        "path": "2026/03/26/AWS-Step-Functions-adds-28-new-service-integration",
+        "summary": "AWS Step Functions adds 28 new service integrations, including Amazon Bedrock AgentCore",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/26/AWS-Step-Functions-adds-28-new-service-integration/thumbnail.png"
       },
       {
         "id": "2026-03-26-Amazon-Bedrock-AgentCore-adds-support-for-Chrome-p",
