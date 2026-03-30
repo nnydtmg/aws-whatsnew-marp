@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-03-30-AWS-Direct-Connect-adds-CloudWatch-metrics-for-BGP",
+        "title": "AWS Direct Connect CloudWatch メトリクス BGP 監視",
+        "date": "2026-03-30",
+        "year": 2026,
+        "month": 3,
+        "day": 30,
+        "path": "2026/03/30/AWS-Direct-Connect-adds-CloudWatch-metrics-for-BGP",
+        "summary": "AWS Direct Connect adds CloudWatch metrics for BGP monitoring",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/30/AWS-Direct-Connect-adds-CloudWatch-metrics-for-BGP/thumbnail.png"
+      },
+      {
         "id": "2026-03-28-AWS-Management-Console-now-supports-settings-to-co",
         "title": "AWS Management Console がサービスとリージョンの表示設定に対応",
         "date": "2026-03-28",
@@ -1080,8 +1091,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-03-30T22:24:27.731Z",
-    "totalCount": 98
+    "updatedAt": "2026-03-30T23:26:42.012Z",
+    "totalCount": 99
   },
   "metadata:months": [
     "2026/03",
@@ -1091,6 +1102,17 @@
     "year": 2026,
     "month": 3,
     "articles": [
+      {
+        "id": "2026-03-30-AWS-Direct-Connect-adds-CloudWatch-metrics-for-BGP",
+        "title": "AWS Direct Connect CloudWatch メトリクス BGP 監視",
+        "date": "2026-03-30",
+        "year": 2026,
+        "month": 3,
+        "day": 30,
+        "path": "2026/03/30/AWS-Direct-Connect-adds-CloudWatch-metrics-for-BGP",
+        "summary": "AWS Direct Connect adds CloudWatch metrics for BGP monitoring",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/30/AWS-Direct-Connect-adds-CloudWatch-metrics-for-BGP/thumbnail.png"
+      },
       {
         "id": "2026-03-28-AWS-Management-Console-now-supports-settings-to-co",
         "title": "AWS Management Console がサービスとリージョンの表示設定に対応",
