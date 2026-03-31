@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-03-31-Amazon-CloudWatch-now-supports-multi-account-and-r",
+        "title": "Amazon CloudWatch",
+        "date": "2026-03-31",
+        "year": 2026,
+        "month": 3,
+        "day": 31,
+        "path": "2026/03/31/Amazon-CloudWatch-now-supports-multi-account-and-r",
+        "summary": "Amazon CloudWatch now supports multi account and region log centralization based on data source",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/31/Amazon-CloudWatch-now-supports-multi-account-and-r/thumbnail.png"
+      },
+      {
         "id": "2026-03-30-AWS-Direct-Connect-adds-CloudWatch-metrics-for-BGP",
         "title": "AWS Direct Connect CloudWatch メトリクス BGP 監視",
         "date": "2026-03-30",
@@ -1091,8 +1102,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-03-31T04:27:15.617Z",
-    "totalCount": 99
+    "updatedAt": "2026-03-31T06:10:36.804Z",
+    "totalCount": 100
   },
   "metadata:months": [
     "2026/03",
@@ -1102,6 +1113,17 @@
     "year": 2026,
     "month": 3,
     "articles": [
+      {
+        "id": "2026-03-31-Amazon-CloudWatch-now-supports-multi-account-and-r",
+        "title": "Amazon CloudWatch",
+        "date": "2026-03-31",
+        "year": 2026,
+        "month": 3,
+        "day": 31,
+        "path": "2026/03/31/Amazon-CloudWatch-now-supports-multi-account-and-r",
+        "summary": "Amazon CloudWatch now supports multi account and region log centralization based on data source",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/31/Amazon-CloudWatch-now-supports-multi-account-and-r/thumbnail.png"
+      },
       {
         "id": "2026-03-30-AWS-Direct-Connect-adds-CloudWatch-metrics-for-BGP",
         "title": "AWS Direct Connect CloudWatch メトリクス BGP 監視",
