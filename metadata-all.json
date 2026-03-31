@@ -2,6 +2,105 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-03-31-AWS-DevOps-Agent-is-now-generally-available",
+        "title": "AWS DevOps Agent",
+        "date": "2026-03-31",
+        "year": 2026,
+        "month": 3,
+        "day": 31,
+        "path": "2026/03/31/AWS-DevOps-Agent-is-now-generally-available",
+        "summary": "AWS DevOps Agent is now generally available",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/31/AWS-DevOps-Agent-is-now-generally-available/thumbnail.png"
+      },
+      {
+        "id": "2026-03-31-AWS-End-User-Messaging-now-supports-RCS-for-Busine",
+        "title": "AWS End User Messaging",
+        "date": "2026-03-31",
+        "year": 2026,
+        "month": 3,
+        "day": 31,
+        "path": "2026/03/31/AWS-End-User-Messaging-now-supports-RCS-for-Busine",
+        "summary": "AWS End User Messaging now supports RCS for Business",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/31/AWS-End-User-Messaging-now-supports-RCS-for-Busine/thumbnail.png"
+      },
+      {
+        "id": "2026-03-31-AWS-Security-Agent-on-demand-penetration-testing-i",
+        "title": "AWS Security Agent",
+        "date": "2026-03-31",
+        "year": 2026,
+        "month": 3,
+        "day": 31,
+        "path": "2026/03/31/AWS-Security-Agent-on-demand-penetration-testing-i",
+        "summary": "AWS Security Agent on demand penetration testing is now generally available",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/31/AWS-Security-Agent-on-demand-penetration-testing-i/thumbnail.png"
+      },
+      {
+        "id": "2026-03-31-AWS-Service-Availability-Updates",
+        "title": "AWS Service Availability Updates",
+        "date": "2026-03-31",
+        "year": 2026,
+        "month": 3,
+        "day": 31,
+        "path": "2026/03/31/AWS-Service-Availability-Updates",
+        "summary": "AWS Service Availability Updates",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/31/AWS-Service-Availability-Updates/thumbnail.png"
+      },
+      {
+        "id": "2026-03-31-AWS-Transform-custom-announces-general-availabilit",
+        "title": "AWS Transform Custom",
+        "date": "2026-03-31",
+        "year": 2026,
+        "month": 3,
+        "day": 31,
+        "path": "2026/03/31/AWS-Transform-custom-announces-general-availabilit",
+        "summary": "AWS Transform custom announces general availability of automated codebase analysis",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/31/AWS-Transform-custom-announces-general-availabilit/thumbnail.png"
+      },
+      {
+        "id": "2026-03-31-AWS-announces-End-User-Messaging-Notify",
+        "title": "AWS End User Messaging Notify",
+        "date": "2026-03-31",
+        "year": 2026,
+        "month": 3,
+        "day": 31,
+        "path": "2026/03/31/AWS-announces-End-User-Messaging-Notify",
+        "summary": "AWS announces End User Messaging Notify",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/31/AWS-announces-End-User-Messaging-Notify/thumbnail.png"
+      },
+      {
+        "id": "2026-03-31-Amazon-Bedrock-AgentCore-Evaluations-is-now-genera",
+        "title": "Amazon Bedrock AgentCore Evaluations",
+        "date": "2026-03-31",
+        "year": 2026,
+        "month": 3,
+        "day": 31,
+        "path": "2026/03/31/Amazon-Bedrock-AgentCore-Evaluations-is-now-genera",
+        "summary": "Amazon Bedrock AgentCore Evaluations is now generally available",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/31/Amazon-Bedrock-AgentCore-Evaluations-is-now-genera/thumbnail.png"
+      },
+      {
+        "id": "2026-03-31-Amazon-CloudFront-now-supports-BYOIP-for-IPv6-thro",
+        "title": "CloudFront BYOIP for IPv6",
+        "date": "2026-03-31",
+        "year": 2026,
+        "month": 3,
+        "day": 31,
+        "path": "2026/03/31/Amazon-CloudFront-now-supports-BYOIP-for-IPv6-thro",
+        "summary": "Amazon CloudFront now supports BYOIP for IPv6 through VPC IPAM integration",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/31/Amazon-CloudFront-now-supports-BYOIP-for-IPv6-thro/thumbnail.png"
+      },
+      {
+        "id": "2026-03-31-Amazon-CloudWatch-Logs-introduces-lookup-query-com",
+        "title": "CloudWatch Logs lookup query command",
+        "date": "2026-03-31",
+        "year": 2026,
+        "month": 3,
+        "day": 31,
+        "path": "2026/03/31/Amazon-CloudWatch-Logs-introduces-lookup-query-com",
+        "summary": "Amazon CloudWatch Logs introduces lookup query command",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/31/Amazon-CloudWatch-Logs-introduces-lookup-query-com/thumbnail.png"
+      },
+      {
         "id": "2026-03-31-Amazon-CloudWatch-now-supports-multi-account-and-r",
         "title": "Amazon CloudWatch",
         "date": "2026-03-31",
@@ -1102,8 +1201,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-03-31T21:29:17.147Z",
-    "totalCount": 100
+    "updatedAt": "2026-03-31T23:21:26.191Z",
+    "totalCount": 109
   },
   "metadata:months": [
     "2026/03",
@@ -1113,6 +1212,105 @@
     "year": 2026,
     "month": 3,
     "articles": [
+      {
+        "id": "2026-03-31-AWS-DevOps-Agent-is-now-generally-available",
+        "title": "AWS DevOps Agent",
+        "date": "2026-03-31",
+        "year": 2026,
+        "month": 3,
+        "day": 31,
+        "path": "2026/03/31/AWS-DevOps-Agent-is-now-generally-available",
+        "summary": "AWS DevOps Agent is now generally available",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/31/AWS-DevOps-Agent-is-now-generally-available/thumbnail.png"
+      },
+      {
+        "id": "2026-03-31-AWS-End-User-Messaging-now-supports-RCS-for-Busine",
+        "title": "AWS End User Messaging",
+        "date": "2026-03-31",
+        "year": 2026,
+        "month": 3,
+        "day": 31,
+        "path": "2026/03/31/AWS-End-User-Messaging-now-supports-RCS-for-Busine",
+        "summary": "AWS End User Messaging now supports RCS for Business",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/31/AWS-End-User-Messaging-now-supports-RCS-for-Busine/thumbnail.png"
+      },
+      {
+        "id": "2026-03-31-AWS-Security-Agent-on-demand-penetration-testing-i",
+        "title": "AWS Security Agent",
+        "date": "2026-03-31",
+        "year": 2026,
+        "month": 3,
+        "day": 31,
+        "path": "2026/03/31/AWS-Security-Agent-on-demand-penetration-testing-i",
+        "summary": "AWS Security Agent on demand penetration testing is now generally available",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/31/AWS-Security-Agent-on-demand-penetration-testing-i/thumbnail.png"
+      },
+      {
+        "id": "2026-03-31-AWS-Service-Availability-Updates",
+        "title": "AWS Service Availability Updates",
+        "date": "2026-03-31",
+        "year": 2026,
+        "month": 3,
+        "day": 31,
+        "path": "2026/03/31/AWS-Service-Availability-Updates",
+        "summary": "AWS Service Availability Updates",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/31/AWS-Service-Availability-Updates/thumbnail.png"
+      },
+      {
+        "id": "2026-03-31-AWS-Transform-custom-announces-general-availabilit",
+        "title": "AWS Transform Custom",
+        "date": "2026-03-31",
+        "year": 2026,
+        "month": 3,
+        "day": 31,
+        "path": "2026/03/31/AWS-Transform-custom-announces-general-availabilit",
+        "summary": "AWS Transform custom announces general availability of automated codebase analysis",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/31/AWS-Transform-custom-announces-general-availabilit/thumbnail.png"
+      },
+      {
+        "id": "2026-03-31-AWS-announces-End-User-Messaging-Notify",
+        "title": "AWS End User Messaging Notify",
+        "date": "2026-03-31",
+        "year": 2026,
+        "month": 3,
+        "day": 31,
+        "path": "2026/03/31/AWS-announces-End-User-Messaging-Notify",
+        "summary": "AWS announces End User Messaging Notify",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/31/AWS-announces-End-User-Messaging-Notify/thumbnail.png"
+      },
+      {
+        "id": "2026-03-31-Amazon-Bedrock-AgentCore-Evaluations-is-now-genera",
+        "title": "Amazon Bedrock AgentCore Evaluations",
+        "date": "2026-03-31",
+        "year": 2026,
+        "month": 3,
+        "day": 31,
+        "path": "2026/03/31/Amazon-Bedrock-AgentCore-Evaluations-is-now-genera",
+        "summary": "Amazon Bedrock AgentCore Evaluations is now generally available",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/31/Amazon-Bedrock-AgentCore-Evaluations-is-now-genera/thumbnail.png"
+      },
+      {
+        "id": "2026-03-31-Amazon-CloudFront-now-supports-BYOIP-for-IPv6-thro",
+        "title": "CloudFront BYOIP for IPv6",
+        "date": "2026-03-31",
+        "year": 2026,
+        "month": 3,
+        "day": 31,
+        "path": "2026/03/31/Amazon-CloudFront-now-supports-BYOIP-for-IPv6-thro",
+        "summary": "Amazon CloudFront now supports BYOIP for IPv6 through VPC IPAM integration",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/31/Amazon-CloudFront-now-supports-BYOIP-for-IPv6-thro/thumbnail.png"
+      },
+      {
+        "id": "2026-03-31-Amazon-CloudWatch-Logs-introduces-lookup-query-com",
+        "title": "CloudWatch Logs lookup query command",
+        "date": "2026-03-31",
+        "year": 2026,
+        "month": 3,
+        "day": 31,
+        "path": "2026/03/31/Amazon-CloudWatch-Logs-introduces-lookup-query-com",
+        "summary": "Amazon CloudWatch Logs introduces lookup query command",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/31/Amazon-CloudWatch-Logs-introduces-lookup-query-com/thumbnail.png"
+      },
       {
         "id": "2026-03-31-Amazon-CloudWatch-now-supports-multi-account-and-r",
         "title": "Amazon CloudWatch",
@@ -1664,7 +1862,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/02/AWS-announces-pricing-for-VPC-Encryption-Controls/thumbnail.png"
       }
     ],
-    "totalPages": 5
+    "totalPages": 6
   },
   "metadata:2026/02": {
     "year": 2026,
