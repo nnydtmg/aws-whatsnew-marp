@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-04-02-Amazon-ECS-announces-Managed-Daemons-for-ECS-Manag",
+        "title": "Amazon ECS Managed Daemons",
+        "date": "2026-04-02",
+        "year": 2026,
+        "month": 4,
+        "day": 2,
+        "path": "2026/04/02/Amazon-ECS-announces-Managed-Daemons-for-ECS-Manag",
+        "summary": "Amazon ECS announces Managed Daemons for ECS Managed Instances",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/02/Amazon-ECS-announces-Managed-Daemons-for-ECS-Manag/thumbnail.png"
+      },
+      {
+        "id": "2026-04-02-Announcing-managed-daemon-support-for-Amazon-ECS-M",
+        "title": "Amazon ECS Managed Instances",
+        "date": "2026-04-02",
+        "year": 2026,
+        "month": 4,
+        "day": 2,
+        "path": "2026/04/02/Announcing-managed-daemon-support-for-Amazon-ECS-M",
+        "summary": "Announcing managed daemon support for Amazon ECS Managed Instances",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/02/Announcing-managed-daemon-support-for-Amazon-ECS-M/thumbnail.png"
+      },
+      {
         "id": "2026-04-01-AWS-Organizations-now-provides-organization-paths",
         "title": "AWS Organizations",
         "date": "2026-04-01",
@@ -44,6 +66,17 @@
         "path": "2026/03/31/AWS-DevOps-Agent-is-now-generally-available",
         "summary": "AWS DevOps Agent is now generally available",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/31/AWS-DevOps-Agent-is-now-generally-available/thumbnail.png"
+      },
+      {
+        "id": "2026-03-31-AWS-Direct-Connect-now-supports-AWS-CloudFormation",
+        "title": "AWS Direct Connect が CloudFormation に対応",
+        "date": "2026-03-31",
+        "year": 2026,
+        "month": 3,
+        "day": 31,
+        "path": "2026/03/31/AWS-Direct-Connect-now-supports-AWS-CloudFormation",
+        "summary": "AWS Direct Connect now supports AWS CloudFormation",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/31/AWS-Direct-Connect-now-supports-AWS-CloudFormation/thumbnail.png"
       },
       {
         "id": "2026-03-31-AWS-End-User-Messaging-now-supports-RCS-for-Busine",
@@ -1234,8 +1267,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-04-02T09:51:12.273Z",
-    "totalCount": 112
+    "updatedAt": "2026-04-02T10:42:19.087Z",
+    "totalCount": 115
   },
   "metadata:months": [
     "2026/04",
@@ -1246,6 +1279,28 @@
     "year": 2026,
     "month": 4,
     "articles": [
+      {
+        "id": "2026-04-02-Amazon-ECS-announces-Managed-Daemons-for-ECS-Manag",
+        "title": "Amazon ECS Managed Daemons",
+        "date": "2026-04-02",
+        "year": 2026,
+        "month": 4,
+        "day": 2,
+        "path": "2026/04/02/Amazon-ECS-announces-Managed-Daemons-for-ECS-Manag",
+        "summary": "Amazon ECS announces Managed Daemons for ECS Managed Instances",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/02/Amazon-ECS-announces-Managed-Daemons-for-ECS-Manag/thumbnail.png"
+      },
+      {
+        "id": "2026-04-02-Announcing-managed-daemon-support-for-Amazon-ECS-M",
+        "title": "Amazon ECS Managed Instances",
+        "date": "2026-04-02",
+        "year": 2026,
+        "month": 4,
+        "day": 2,
+        "path": "2026/04/02/Announcing-managed-daemon-support-for-Amazon-ECS-M",
+        "summary": "Announcing managed daemon support for Amazon ECS Managed Instances",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/02/Announcing-managed-daemon-support-for-Amazon-ECS-M/thumbnail.png"
+      },
       {
         "id": "2026-04-01-AWS-Organizations-now-provides-organization-paths",
         "title": "AWS Organizations",
@@ -1296,6 +1351,17 @@
         "path": "2026/03/31/AWS-DevOps-Agent-is-now-generally-available",
         "summary": "AWS DevOps Agent is now generally available",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/31/AWS-DevOps-Agent-is-now-generally-available/thumbnail.png"
+      },
+      {
+        "id": "2026-03-31-AWS-Direct-Connect-now-supports-AWS-CloudFormation",
+        "title": "AWS Direct Connect が CloudFormation に対応",
+        "date": "2026-03-31",
+        "year": 2026,
+        "month": 3,
+        "day": 31,
+        "path": "2026/03/31/AWS-Direct-Connect-now-supports-AWS-CloudFormation",
+        "summary": "AWS Direct Connect now supports AWS CloudFormation",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/03/31/AWS-Direct-Connect-now-supports-AWS-CloudFormation/thumbnail.png"
       },
       {
         "id": "2026-03-31-AWS-End-User-Messaging-now-supports-RCS-for-Busine",
