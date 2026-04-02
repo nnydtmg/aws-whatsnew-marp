@@ -13,6 +13,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/01/AWS-Organizations-now-provides-organization-paths/thumbnail.png"
       },
       {
+        "id": "2026-04-01-Amazon-CloudFront-now-supports-SHA-256-for-signed",
+        "title": "Amazon CloudFront",
+        "date": "2026-04-01",
+        "year": 2026,
+        "month": 4,
+        "day": 1,
+        "path": "2026/04/01/Amazon-CloudFront-now-supports-SHA-256-for-signed",
+        "summary": "Amazon CloudFront now supports SHA 256 for signed URLs and signed cookies",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/01/Amazon-CloudFront-now-supports-SHA-256-for-signed/thumbnail.png"
+      },
+      {
         "id": "2026-04-01-Amazon-CloudWatch-now-supports-ingesting-Security",
         "title": "Amazon CloudWatch",
         "date": "2026-04-01",
@@ -1223,8 +1234,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-04-01T23:27:43.179Z",
-    "totalCount": 111
+    "updatedAt": "2026-04-02T01:15:35.741Z",
+    "totalCount": 112
   },
   "metadata:months": [
     "2026/04",
@@ -1245,6 +1256,17 @@
         "path": "2026/04/01/AWS-Organizations-now-provides-organization-paths",
         "summary": "AWS Organizations now provides organization paths in API responses",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/01/AWS-Organizations-now-provides-organization-paths/thumbnail.png"
+      },
+      {
+        "id": "2026-04-01-Amazon-CloudFront-now-supports-SHA-256-for-signed",
+        "title": "Amazon CloudFront",
+        "date": "2026-04-01",
+        "year": 2026,
+        "month": 4,
+        "day": 1,
+        "path": "2026/04/01/Amazon-CloudFront-now-supports-SHA-256-for-signed",
+        "summary": "Amazon CloudFront now supports SHA 256 for signed URLs and signed cookies",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/01/Amazon-CloudFront-now-supports-SHA-256-for-signed/thumbnail.png"
       },
       {
         "id": "2026-04-01-Amazon-CloudWatch-now-supports-ingesting-Security",
