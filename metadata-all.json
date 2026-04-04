@@ -2,6 +2,39 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-04-04-AWS-Secrets-Manager-console-now-supports-custom-in",
+        "title": "AWS Secrets Manager コンソール",
+        "date": "2026-04-04",
+        "year": 2026,
+        "month": 4,
+        "day": 4,
+        "path": "2026/04/04/AWS-Secrets-Manager-console-now-supports-custom-in",
+        "summary": "AWS Secrets Manager console now supports custom input for AWS KMS keys",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/04/AWS-Secrets-Manager-console-now-supports-custom-in/thumbnail.png"
+      },
+      {
+        "id": "2026-04-04-Amazon-Bedrock-Guardrails-supports-cross-account-s",
+        "title": "Amazon Bedrock Guardrails",
+        "date": "2026-04-04",
+        "year": 2026,
+        "month": 4,
+        "day": 4,
+        "path": "2026/04/04/Amazon-Bedrock-Guardrails-supports-cross-account-s",
+        "summary": "Amazon Bedrock Guardrails supports cross account safeguards with centralized control and management",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/04/Amazon-Bedrock-Guardrails-supports-cross-account-s/thumbnail.png"
+      },
+      {
+        "id": "2026-04-03-Amazon-CloudWatch-introduces-PromQL-querying-with",
+        "title": "Amazon CloudWatch Query Studio",
+        "date": "2026-04-03",
+        "year": 2026,
+        "month": 4,
+        "day": 3,
+        "path": "2026/04/03/Amazon-CloudWatch-introduces-PromQL-querying-with",
+        "summary": "Amazon CloudWatch introduces PromQL querying with Query Studio Preview",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/03/Amazon-CloudWatch-introduces-PromQL-querying-with/thumbnail.png"
+      },
+      {
         "id": "2026-04-03-Amazon-CloudWatch-launches-OTel-Container-Insights",
         "title": "Amazon CloudWatch",
         "date": "2026-04-03",
@@ -11,6 +44,17 @@
         "path": "2026/04/03/Amazon-CloudWatch-launches-OTel-Container-Insights",
         "summary": "Amazon CloudWatch launches OTel Container Insights for Amazon EKS (Preview)",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/03/Amazon-CloudWatch-launches-OTel-Container-Insights/thumbnail.png"
+      },
+      {
+        "id": "2026-04-03-Partner-Revenue-Measurement-now-supports-User-Agen",
+        "title": "Partner Revenue Measurement",
+        "date": "2026-04-03",
+        "year": 2026,
+        "month": 4,
+        "day": 3,
+        "path": "2026/04/03/Partner-Revenue-Measurement-now-supports-User-Agen",
+        "summary": "Partner Revenue Measurement now supports User Agent string for certain AWS services",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/03/Partner-Revenue-Measurement-now-supports-User-Agen/thumbnail.png"
       },
       {
         "id": "2026-04-02-Amazon-CloudWatch-expands-auto-enablement-to-Amazo",
@@ -1311,8 +1355,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-04-03T23:24:46.738Z",
-    "totalCount": 119
+    "updatedAt": "2026-04-04T01:12:04.282Z",
+    "totalCount": 123
   },
   "metadata:months": [
     "2026/04",
@@ -1324,6 +1368,39 @@
     "month": 4,
     "articles": [
       {
+        "id": "2026-04-04-AWS-Secrets-Manager-console-now-supports-custom-in",
+        "title": "AWS Secrets Manager コンソール",
+        "date": "2026-04-04",
+        "year": 2026,
+        "month": 4,
+        "day": 4,
+        "path": "2026/04/04/AWS-Secrets-Manager-console-now-supports-custom-in",
+        "summary": "AWS Secrets Manager console now supports custom input for AWS KMS keys",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/04/AWS-Secrets-Manager-console-now-supports-custom-in/thumbnail.png"
+      },
+      {
+        "id": "2026-04-04-Amazon-Bedrock-Guardrails-supports-cross-account-s",
+        "title": "Amazon Bedrock Guardrails",
+        "date": "2026-04-04",
+        "year": 2026,
+        "month": 4,
+        "day": 4,
+        "path": "2026/04/04/Amazon-Bedrock-Guardrails-supports-cross-account-s",
+        "summary": "Amazon Bedrock Guardrails supports cross account safeguards with centralized control and management",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/04/Amazon-Bedrock-Guardrails-supports-cross-account-s/thumbnail.png"
+      },
+      {
+        "id": "2026-04-03-Amazon-CloudWatch-introduces-PromQL-querying-with",
+        "title": "Amazon CloudWatch Query Studio",
+        "date": "2026-04-03",
+        "year": 2026,
+        "month": 4,
+        "day": 3,
+        "path": "2026/04/03/Amazon-CloudWatch-introduces-PromQL-querying-with",
+        "summary": "Amazon CloudWatch introduces PromQL querying with Query Studio Preview",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/03/Amazon-CloudWatch-introduces-PromQL-querying-with/thumbnail.png"
+      },
+      {
         "id": "2026-04-03-Amazon-CloudWatch-launches-OTel-Container-Insights",
         "title": "Amazon CloudWatch",
         "date": "2026-04-03",
@@ -1333,6 +1410,17 @@
         "path": "2026/04/03/Amazon-CloudWatch-launches-OTel-Container-Insights",
         "summary": "Amazon CloudWatch launches OTel Container Insights for Amazon EKS (Preview)",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/03/Amazon-CloudWatch-launches-OTel-Container-Insights/thumbnail.png"
+      },
+      {
+        "id": "2026-04-03-Partner-Revenue-Measurement-now-supports-User-Agen",
+        "title": "Partner Revenue Measurement",
+        "date": "2026-04-03",
+        "year": 2026,
+        "month": 4,
+        "day": 3,
+        "path": "2026/04/03/Partner-Revenue-Measurement-now-supports-User-Agen",
+        "summary": "Partner Revenue Measurement now supports User Agent string for certain AWS services",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/03/Partner-Revenue-Measurement-now-supports-User-Agen/thumbnail.png"
       },
       {
         "id": "2026-04-02-Amazon-CloudWatch-expands-auto-enablement-to-Amazo",
@@ -1423,7 +1511,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/01/Amazon-CloudWatch-now-supports-ingesting-Security/thumbnail.png"
       }
     ],
-    "totalPages": 1
+    "totalPages": 2
   },
   "metadata:2026/03": {
     "year": 2026,
