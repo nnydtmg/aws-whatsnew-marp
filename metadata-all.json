@@ -2,6 +2,39 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-04-06-Amazon-S3-starts-rolling-out-new-security-best-pra",
+        "title": "Amazon S3の新しいデフォルトセキュリティ設定",
+        "date": "2026-04-06",
+        "year": 2026,
+        "month": 4,
+        "day": 6,
+        "path": "2026/04/06/Amazon-S3-starts-rolling-out-new-security-best-pra",
+        "summary": "Amazon S3 starts rolling out new security best practice to new and existing buckets by default",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/06/Amazon-S3-starts-rolling-out-new-security-best-pra/thumbnail.png"
+      },
+      {
+        "id": "2026-04-06-Amazon-Verified-Permissions-now-supports-policy-st",
+        "title": "Amazon Verified Permissions",
+        "date": "2026-04-06",
+        "year": 2026,
+        "month": 4,
+        "day": 6,
+        "path": "2026/04/06/Amazon-Verified-Permissions-now-supports-policy-st",
+        "summary": "Amazon Verified Permissions now supports policy store aliases and named policies and policy templates",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/06/Amazon-Verified-Permissions-now-supports-policy-st/thumbnail.png"
+      },
+      {
+        "id": "2026-04-06-Amazon-WorkSpaces-Personal-now-supports-unique-DNS",
+        "title": "Amazon WorkSpaces Personal",
+        "date": "2026-04-06",
+        "year": 2026,
+        "month": 4,
+        "day": 6,
+        "path": "2026/04/06/Amazon-WorkSpaces-Personal-now-supports-unique-DNS",
+        "summary": "Amazon WorkSpaces Personal now supports unique DNS names for PrivateLink",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/06/Amazon-WorkSpaces-Personal-now-supports-unique-DNS/thumbnail.png"
+      },
+      {
         "id": "2026-04-04-AWS-Secrets-Manager-console-now-supports-custom-in",
         "title": "AWS Secrets Manager コンソール",
         "date": "2026-04-04",
@@ -1355,8 +1388,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-04-06T22:24:48.756Z",
-    "totalCount": 123
+    "updatedAt": "2026-04-06T23:26:41.975Z",
+    "totalCount": 126
   },
   "metadata:months": [
     "2026/04",
@@ -1367,6 +1400,39 @@
     "year": 2026,
     "month": 4,
     "articles": [
+      {
+        "id": "2026-04-06-Amazon-S3-starts-rolling-out-new-security-best-pra",
+        "title": "Amazon S3の新しいデフォルトセキュリティ設定",
+        "date": "2026-04-06",
+        "year": 2026,
+        "month": 4,
+        "day": 6,
+        "path": "2026/04/06/Amazon-S3-starts-rolling-out-new-security-best-pra",
+        "summary": "Amazon S3 starts rolling out new security best practice to new and existing buckets by default",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/06/Amazon-S3-starts-rolling-out-new-security-best-pra/thumbnail.png"
+      },
+      {
+        "id": "2026-04-06-Amazon-Verified-Permissions-now-supports-policy-st",
+        "title": "Amazon Verified Permissions",
+        "date": "2026-04-06",
+        "year": 2026,
+        "month": 4,
+        "day": 6,
+        "path": "2026/04/06/Amazon-Verified-Permissions-now-supports-policy-st",
+        "summary": "Amazon Verified Permissions now supports policy store aliases and named policies and policy templates",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/06/Amazon-Verified-Permissions-now-supports-policy-st/thumbnail.png"
+      },
+      {
+        "id": "2026-04-06-Amazon-WorkSpaces-Personal-now-supports-unique-DNS",
+        "title": "Amazon WorkSpaces Personal",
+        "date": "2026-04-06",
+        "year": 2026,
+        "month": 4,
+        "day": 6,
+        "path": "2026/04/06/Amazon-WorkSpaces-Personal-now-supports-unique-DNS",
+        "summary": "Amazon WorkSpaces Personal now supports unique DNS names for PrivateLink",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/06/Amazon-WorkSpaces-Personal-now-supports-unique-DNS/thumbnail.png"
+      },
       {
         "id": "2026-04-04-AWS-Secrets-Manager-console-now-supports-custom-in",
         "title": "AWS Secrets Manager コンソール",
