@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-04-07-AWS-Certificate-Manager-now-supports-native-certif",
+        "title": "AWS Certificate Manager がネイティブ証明書検索に対応",
+        "date": "2026-04-07",
+        "year": 2026,
+        "month": 4,
+        "day": 7,
+        "path": "2026/04/07/AWS-Certificate-Manager-now-supports-native-certif",
+        "summary": "AWS Certificate Manager now supports native certificate search",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/07/AWS-Certificate-Manager-now-supports-native-certif/thumbnail.png"
+      },
+      {
         "id": "2026-04-07-AWS-Cost-Explorer-launches-Natural-Language-Query",
         "title": "AWS Cost Explorer",
         "date": "2026-04-07",
@@ -11,6 +22,28 @@
         "path": "2026/04/07/AWS-Cost-Explorer-launches-Natural-Language-Query",
         "summary": "AWS Cost Explorer launches Natural Language Query capabilities powered by Amazon Q",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/07/AWS-Cost-Explorer-launches-Natural-Language-Query/thumbnail.png"
+      },
+      {
+        "id": "2026-04-07-AWS-Lambda-expands-response-streaming-support-to-a",
+        "title": "AWS Lambda レスポンスストリーミング",
+        "date": "2026-04-07",
+        "year": 2026,
+        "month": 4,
+        "day": 7,
+        "path": "2026/04/07/AWS-Lambda-expands-response-streaming-support-to-a",
+        "summary": "AWS Lambda expands response streaming support to all commercial AWS Regions",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/07/AWS-Lambda-expands-response-streaming-support-to-a/thumbnail.png"
+      },
+      {
+        "id": "2026-04-07-Announcing-Amazon-S3-Files-making-S3-buckets-acces",
+        "title": "Amazon S3 Files",
+        "date": "2026-04-07",
+        "year": 2026,
+        "month": 4,
+        "day": 7,
+        "path": "2026/04/07/Announcing-Amazon-S3-Files-making-S3-buckets-acces",
+        "summary": "Announcing Amazon S3 Files, making S3 buckets accessible as file systems",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/07/Announcing-Amazon-S3-Files-making-S3-buckets-acces/thumbnail.png"
       },
       {
         "id": "2026-04-06-Amazon-S3-starts-rolling-out-new-security-best-pra",
@@ -1399,8 +1432,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-04-07T21:34:24.941Z",
-    "totalCount": 127
+    "updatedAt": "2026-04-07T22:28:00.851Z",
+    "totalCount": 130
   },
   "metadata:months": [
     "2026/04",
@@ -1412,6 +1445,17 @@
     "month": 4,
     "articles": [
       {
+        "id": "2026-04-07-AWS-Certificate-Manager-now-supports-native-certif",
+        "title": "AWS Certificate Manager がネイティブ証明書検索に対応",
+        "date": "2026-04-07",
+        "year": 2026,
+        "month": 4,
+        "day": 7,
+        "path": "2026/04/07/AWS-Certificate-Manager-now-supports-native-certif",
+        "summary": "AWS Certificate Manager now supports native certificate search",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/07/AWS-Certificate-Manager-now-supports-native-certif/thumbnail.png"
+      },
+      {
         "id": "2026-04-07-AWS-Cost-Explorer-launches-Natural-Language-Query",
         "title": "AWS Cost Explorer",
         "date": "2026-04-07",
@@ -1421,6 +1465,28 @@
         "path": "2026/04/07/AWS-Cost-Explorer-launches-Natural-Language-Query",
         "summary": "AWS Cost Explorer launches Natural Language Query capabilities powered by Amazon Q",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/07/AWS-Cost-Explorer-launches-Natural-Language-Query/thumbnail.png"
+      },
+      {
+        "id": "2026-04-07-AWS-Lambda-expands-response-streaming-support-to-a",
+        "title": "AWS Lambda レスポンスストリーミング",
+        "date": "2026-04-07",
+        "year": 2026,
+        "month": 4,
+        "day": 7,
+        "path": "2026/04/07/AWS-Lambda-expands-response-streaming-support-to-a",
+        "summary": "AWS Lambda expands response streaming support to all commercial AWS Regions",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/07/AWS-Lambda-expands-response-streaming-support-to-a/thumbnail.png"
+      },
+      {
+        "id": "2026-04-07-Announcing-Amazon-S3-Files-making-S3-buckets-acces",
+        "title": "Amazon S3 Files",
+        "date": "2026-04-07",
+        "year": 2026,
+        "month": 4,
+        "day": 7,
+        "path": "2026/04/07/Announcing-Amazon-S3-Files-making-S3-buckets-acces",
+        "summary": "Announcing Amazon S3 Files, making S3 buckets accessible as file systems",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/07/Announcing-Amazon-S3-Files-making-S3-buckets-acces/thumbnail.png"
       },
       {
         "id": "2026-04-06-Amazon-S3-starts-rolling-out-new-security-best-pra",
