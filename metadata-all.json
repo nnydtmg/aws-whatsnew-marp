@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-04-07-AWS-Cost-Explorer-launches-Natural-Language-Query",
+        "title": "AWS Cost Explorer",
+        "date": "2026-04-07",
+        "year": 2026,
+        "month": 4,
+        "day": 7,
+        "path": "2026/04/07/AWS-Cost-Explorer-launches-Natural-Language-Query",
+        "summary": "AWS Cost Explorer launches Natural Language Query capabilities powered by Amazon Q",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/07/AWS-Cost-Explorer-launches-Natural-Language-Query/thumbnail.png"
+      },
+      {
         "id": "2026-04-06-Amazon-S3-starts-rolling-out-new-security-best-pra",
         "title": "Amazon S3の新しいデフォルトセキュリティ設定",
         "date": "2026-04-06",
@@ -1388,8 +1399,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-04-07T06:13:01.213Z",
-    "totalCount": 126
+    "updatedAt": "2026-04-07T08:05:24.299Z",
+    "totalCount": 127
   },
   "metadata:months": [
     "2026/04",
@@ -1400,6 +1411,17 @@
     "year": 2026,
     "month": 4,
     "articles": [
+      {
+        "id": "2026-04-07-AWS-Cost-Explorer-launches-Natural-Language-Query",
+        "title": "AWS Cost Explorer",
+        "date": "2026-04-07",
+        "year": 2026,
+        "month": 4,
+        "day": 7,
+        "path": "2026/04/07/AWS-Cost-Explorer-launches-Natural-Language-Query",
+        "summary": "AWS Cost Explorer launches Natural Language Query capabilities powered by Amazon Q",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/07/AWS-Cost-Explorer-launches-Natural-Language-Query/thumbnail.png"
+      },
       {
         "id": "2026-04-06-Amazon-S3-starts-rolling-out-new-security-best-pra",
         "title": "Amazon S3の新しいデフォルトセキュリティ設定",
