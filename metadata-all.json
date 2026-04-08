@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-04-08-Launching-S3-Files-making-S3-buckets-accessible-as",
+        "title": "Amazon S3 Files",
+        "date": "2026-04-08",
+        "year": 2026,
+        "month": 4,
+        "day": 8,
+        "path": "2026/04/08/Launching-S3-Files-making-S3-buckets-accessible-as",
+        "summary": "Launching S3 Files, making S3 buckets accessible as file systems",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/08/Launching-S3-Files-making-S3-buckets-accessible-as/thumbnail.png"
+      },
+      {
         "id": "2026-04-07-AWS-Certificate-Manager-now-supports-native-certif",
         "title": "AWS Certificate Manager がネイティブ証明書検索に対応",
         "date": "2026-04-07",
@@ -33,6 +44,17 @@
         "path": "2026/04/07/AWS-Lambda-expands-response-streaming-support-to-a",
         "summary": "AWS Lambda expands response streaming support to all commercial AWS Regions",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/07/AWS-Lambda-expands-response-streaming-support-to-a/thumbnail.png"
+      },
+      {
+        "id": "2026-04-07-Amazon-Bedrock-now-offers-Claude-Mythos-Preview-Ga",
+        "title": "Claude Mythos Preview が Amazon Bedrock で利用開始",
+        "date": "2026-04-07",
+        "year": 2026,
+        "month": 4,
+        "day": 7,
+        "path": "2026/04/07/Amazon-Bedrock-now-offers-Claude-Mythos-Preview-Ga",
+        "summary": "Amazon Bedrock now offers Claude Mythos Preview (Gated Research Preview)",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/07/Amazon-Bedrock-now-offers-Claude-Mythos-Preview-Ga/thumbnail.png"
       },
       {
         "id": "2026-04-07-Announcing-Amazon-S3-Files-making-S3-buckets-acces",
@@ -1432,8 +1454,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-04-07T23:28:54.489Z",
-    "totalCount": 130
+    "updatedAt": "2026-04-08T01:19:59.176Z",
+    "totalCount": 132
   },
   "metadata:months": [
     "2026/04",
@@ -1444,6 +1466,17 @@
     "year": 2026,
     "month": 4,
     "articles": [
+      {
+        "id": "2026-04-08-Launching-S3-Files-making-S3-buckets-accessible-as",
+        "title": "Amazon S3 Files",
+        "date": "2026-04-08",
+        "year": 2026,
+        "month": 4,
+        "day": 8,
+        "path": "2026/04/08/Launching-S3-Files-making-S3-buckets-accessible-as",
+        "summary": "Launching S3 Files, making S3 buckets accessible as file systems",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/08/Launching-S3-Files-making-S3-buckets-accessible-as/thumbnail.png"
+      },
       {
         "id": "2026-04-07-AWS-Certificate-Manager-now-supports-native-certif",
         "title": "AWS Certificate Manager がネイティブ証明書検索に対応",
@@ -1476,6 +1509,17 @@
         "path": "2026/04/07/AWS-Lambda-expands-response-streaming-support-to-a",
         "summary": "AWS Lambda expands response streaming support to all commercial AWS Regions",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/07/AWS-Lambda-expands-response-streaming-support-to-a/thumbnail.png"
+      },
+      {
+        "id": "2026-04-07-Amazon-Bedrock-now-offers-Claude-Mythos-Preview-Ga",
+        "title": "Claude Mythos Preview が Amazon Bedrock で利用開始",
+        "date": "2026-04-07",
+        "year": 2026,
+        "month": 4,
+        "day": 7,
+        "path": "2026/04/07/Amazon-Bedrock-now-offers-Claude-Mythos-Preview-Ga",
+        "summary": "Amazon Bedrock now offers Claude Mythos Preview (Gated Research Preview)",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/07/Amazon-Bedrock-now-offers-Claude-Mythos-Preview-Ga/thumbnail.png"
       },
       {
         "id": "2026-04-07-Announcing-Amazon-S3-Files-making-S3-buckets-acces",
@@ -1665,7 +1709,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/01/Amazon-CloudWatch-now-supports-ingesting-Security/thumbnail.png"
       }
     ],
-    "totalPages": 2
+    "totalPages": 3
   },
   "metadata:2026/03": {
     "year": 2026,
