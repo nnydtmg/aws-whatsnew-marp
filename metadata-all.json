@@ -2,6 +2,50 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-04-08-Amazon-Bedrock-AgentCore-Browser-adds-OS-level-int",
+        "title": "Amazon Bedrock AgentCore Browser",
+        "date": "2026-04-08",
+        "year": 2026,
+        "month": 4,
+        "day": 8,
+        "path": "2026/04/08/Amazon-Bedrock-AgentCore-Browser-adds-OS-level-int",
+        "summary": "Amazon Bedrock AgentCore Browser adds OS level interaction capabilities",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/08/Amazon-Bedrock-AgentCore-Browser-adds-OS-level-int/thumbnail.png"
+      },
+      {
+        "id": "2026-04-08-Amazon-EKS-managed-node-groups-now-support-EC2-Aut",
+        "title": "Amazon EKS マネージドノードグループの EC2 Auto Scaling ウォームプール対応",
+        "date": "2026-04-08",
+        "year": 2026,
+        "month": 4,
+        "day": 8,
+        "path": "2026/04/08/Amazon-EKS-managed-node-groups-now-support-EC2-Aut",
+        "summary": "Amazon EKS managed node groups now support EC2 Auto Scaling warm pools",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/08/Amazon-EKS-managed-node-groups-now-support-EC2-Aut/thumbnail.png"
+      },
+      {
+        "id": "2026-04-08-Amazon-IVS-Real-Time-Streaming-now-supports-redund",
+        "title": "Amazon IVS Real-Time Streaming",
+        "date": "2026-04-08",
+        "year": 2026,
+        "month": 4,
+        "day": 8,
+        "path": "2026/04/08/Amazon-IVS-Real-Time-Streaming-now-supports-redund",
+        "summary": "Amazon IVS Real Time Streaming now supports redundant ingest",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/08/Amazon-IVS-Real-Time-Streaming-now-supports-redund/thumbnail.png"
+      },
+      {
+        "id": "2026-04-08-Amazon-WorkSpaces-Advisor-now-available-for-AI-pow",
+        "title": "Amazon WorkSpaces Advisor",
+        "date": "2026-04-08",
+        "year": 2026,
+        "month": 4,
+        "day": 8,
+        "path": "2026/04/08/Amazon-WorkSpaces-Advisor-now-available-for-AI-pow",
+        "summary": "Amazon WorkSpaces Advisor now available for AI powered troubleshooting",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/08/Amazon-WorkSpaces-Advisor-now-available-for-AI-pow/thumbnail.png"
+      },
+      {
         "id": "2026-04-08-Launching-S3-Files-making-S3-buckets-accessible-as",
         "title": "Amazon S3 Files",
         "date": "2026-04-08",
@@ -1454,8 +1498,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-04-08T22:29:25.325Z",
-    "totalCount": 132
+    "updatedAt": "2026-04-08T23:29:58.398Z",
+    "totalCount": 136
   },
   "metadata:months": [
     "2026/04",
@@ -1466,6 +1510,50 @@
     "year": 2026,
     "month": 4,
     "articles": [
+      {
+        "id": "2026-04-08-Amazon-Bedrock-AgentCore-Browser-adds-OS-level-int",
+        "title": "Amazon Bedrock AgentCore Browser",
+        "date": "2026-04-08",
+        "year": 2026,
+        "month": 4,
+        "day": 8,
+        "path": "2026/04/08/Amazon-Bedrock-AgentCore-Browser-adds-OS-level-int",
+        "summary": "Amazon Bedrock AgentCore Browser adds OS level interaction capabilities",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/08/Amazon-Bedrock-AgentCore-Browser-adds-OS-level-int/thumbnail.png"
+      },
+      {
+        "id": "2026-04-08-Amazon-EKS-managed-node-groups-now-support-EC2-Aut",
+        "title": "Amazon EKS マネージドノードグループの EC2 Auto Scaling ウォームプール対応",
+        "date": "2026-04-08",
+        "year": 2026,
+        "month": 4,
+        "day": 8,
+        "path": "2026/04/08/Amazon-EKS-managed-node-groups-now-support-EC2-Aut",
+        "summary": "Amazon EKS managed node groups now support EC2 Auto Scaling warm pools",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/08/Amazon-EKS-managed-node-groups-now-support-EC2-Aut/thumbnail.png"
+      },
+      {
+        "id": "2026-04-08-Amazon-IVS-Real-Time-Streaming-now-supports-redund",
+        "title": "Amazon IVS Real-Time Streaming",
+        "date": "2026-04-08",
+        "year": 2026,
+        "month": 4,
+        "day": 8,
+        "path": "2026/04/08/Amazon-IVS-Real-Time-Streaming-now-supports-redund",
+        "summary": "Amazon IVS Real Time Streaming now supports redundant ingest",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/08/Amazon-IVS-Real-Time-Streaming-now-supports-redund/thumbnail.png"
+      },
+      {
+        "id": "2026-04-08-Amazon-WorkSpaces-Advisor-now-available-for-AI-pow",
+        "title": "Amazon WorkSpaces Advisor",
+        "date": "2026-04-08",
+        "year": 2026,
+        "month": 4,
+        "day": 8,
+        "path": "2026/04/08/Amazon-WorkSpaces-Advisor-now-available-for-AI-pow",
+        "summary": "Amazon WorkSpaces Advisor now available for AI powered troubleshooting",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/08/Amazon-WorkSpaces-Advisor-now-available-for-AI-pow/thumbnail.png"
+      },
       {
         "id": "2026-04-08-Launching-S3-Files-making-S3-buckets-accessible-as",
         "title": "Amazon S3 Files",
