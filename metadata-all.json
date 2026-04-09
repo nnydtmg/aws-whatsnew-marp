@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-04-09-Amazon-Location-Service-announces-enhanced-map-sty",
+        "title": "Amazon Location Service",
+        "date": "2026-04-09",
+        "year": 2026,
+        "month": 4,
+        "day": 9,
+        "path": "2026/04/09/Amazon-Location-Service-announces-enhanced-map-sty",
+        "summary": "Amazon Location Service announces enhanced map styling with contour line density, traffic visualization, and 3D terrain",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/09/Amazon-Location-Service-announces-enhanced-map-sty/thumbnail.png"
+      },
+      {
         "id": "2026-04-08-Amazon-Bedrock-AgentCore-Browser-adds-OS-level-int",
         "title": "Amazon Bedrock AgentCore Browser",
         "date": "2026-04-08",
@@ -1498,8 +1509,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-04-09T01:10:07.454Z",
-    "totalCount": 136
+    "updatedAt": "2026-04-09T04:24:21.832Z",
+    "totalCount": 137
   },
   "metadata:months": [
     "2026/04",
@@ -1510,6 +1521,17 @@
     "year": 2026,
     "month": 4,
     "articles": [
+      {
+        "id": "2026-04-09-Amazon-Location-Service-announces-enhanced-map-sty",
+        "title": "Amazon Location Service",
+        "date": "2026-04-09",
+        "year": 2026,
+        "month": 4,
+        "day": 9,
+        "path": "2026/04/09/Amazon-Location-Service-announces-enhanced-map-sty",
+        "summary": "Amazon Location Service announces enhanced map styling with contour line density, traffic visualization, and 3D terrain",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/09/Amazon-Location-Service-announces-enhanced-map-sty/thumbnail.png"
+      },
       {
         "id": "2026-04-08-Amazon-Bedrock-AgentCore-Browser-adds-OS-level-int",
         "title": "Amazon Bedrock AgentCore Browser",
