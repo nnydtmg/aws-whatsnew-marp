@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-04-09-AWS-Agent-Registry-for-centralized-agent-discovery",
+        "title": "AWS Agent Registry",
+        "date": "2026-04-09",
+        "year": 2026,
+        "month": 4,
+        "day": 9,
+        "path": "2026/04/09/AWS-Agent-Registry-for-centralized-agent-discovery",
+        "summary": "AWS Agent Registry for centralized agent discovery and governance is now available in Preview",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/09/AWS-Agent-Registry-for-centralized-agent-discovery/thumbnail.png"
+      },
+      {
+        "id": "2026-04-09-Amazon-Bedrock-Data-Automation-now-supports-custom",
+        "title": "Amazon Bedrock Data Automation",
+        "date": "2026-04-09",
+        "year": 2026,
+        "month": 4,
+        "day": 9,
+        "path": "2026/04/09/Amazon-Bedrock-Data-Automation-now-supports-custom",
+        "summary": "Amazon Bedrock Data Automation now supports custom vocabulary",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/09/Amazon-Bedrock-Data-Automation-now-supports-custom/thumbnail.png"
+      },
+      {
         "id": "2026-04-09-Amazon-Location-Service-announces-enhanced-map-sty",
         "title": "Amazon Location Service",
         "date": "2026-04-09",
@@ -11,6 +33,28 @@
         "path": "2026/04/09/Amazon-Location-Service-announces-enhanced-map-sty",
         "summary": "Amazon Location Service announces enhanced map styling with contour line density, traffic visualization, and 3D terrain",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/09/Amazon-Location-Service-announces-enhanced-map-sty/thumbnail.png"
+      },
+      {
+        "id": "2026-04-09-Amazon-OpenSearch-Service-supports-Managed-Prometh",
+        "title": "Amazon OpenSearch Service",
+        "date": "2026-04-09",
+        "year": 2026,
+        "month": 4,
+        "day": 9,
+        "path": "2026/04/09/Amazon-OpenSearch-Service-supports-Managed-Prometh",
+        "summary": "Amazon OpenSearch Service supports Managed Prometheus and agent tracing",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/09/Amazon-OpenSearch-Service-supports-Managed-Prometh/thumbnail.png"
+      },
+      {
+        "id": "2026-04-09-Amazon-RDS-BlueGreen-Deployments-now-supports-Amaz",
+        "title": "Amazon RDS Blue/Green Deployments now supports Amazon RDS Proxy",
+        "date": "2026-04-09",
+        "year": 2026,
+        "month": 4,
+        "day": 9,
+        "path": "2026/04/09/Amazon-RDS-BlueGreen-Deployments-now-supports-Amaz",
+        "summary": "Amazon RDS Blue/Green Deployments now supports Amazon RDS Proxy",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/09/Amazon-RDS-BlueGreen-Deployments-now-supports-Amaz/thumbnail.png"
       },
       {
         "id": "2026-04-08-Amazon-Bedrock-AgentCore-Browser-adds-OS-level-int",
@@ -1509,8 +1553,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-04-09T21:38:14.074Z",
-    "totalCount": 137
+    "updatedAt": "2026-04-09T22:31:10.482Z",
+    "totalCount": 141
   },
   "metadata:months": [
     "2026/04",
@@ -1522,6 +1566,28 @@
     "month": 4,
     "articles": [
       {
+        "id": "2026-04-09-AWS-Agent-Registry-for-centralized-agent-discovery",
+        "title": "AWS Agent Registry",
+        "date": "2026-04-09",
+        "year": 2026,
+        "month": 4,
+        "day": 9,
+        "path": "2026/04/09/AWS-Agent-Registry-for-centralized-agent-discovery",
+        "summary": "AWS Agent Registry for centralized agent discovery and governance is now available in Preview",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/09/AWS-Agent-Registry-for-centralized-agent-discovery/thumbnail.png"
+      },
+      {
+        "id": "2026-04-09-Amazon-Bedrock-Data-Automation-now-supports-custom",
+        "title": "Amazon Bedrock Data Automation",
+        "date": "2026-04-09",
+        "year": 2026,
+        "month": 4,
+        "day": 9,
+        "path": "2026/04/09/Amazon-Bedrock-Data-Automation-now-supports-custom",
+        "summary": "Amazon Bedrock Data Automation now supports custom vocabulary",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/09/Amazon-Bedrock-Data-Automation-now-supports-custom/thumbnail.png"
+      },
+      {
         "id": "2026-04-09-Amazon-Location-Service-announces-enhanced-map-sty",
         "title": "Amazon Location Service",
         "date": "2026-04-09",
@@ -1531,6 +1597,28 @@
         "path": "2026/04/09/Amazon-Location-Service-announces-enhanced-map-sty",
         "summary": "Amazon Location Service announces enhanced map styling with contour line density, traffic visualization, and 3D terrain",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/09/Amazon-Location-Service-announces-enhanced-map-sty/thumbnail.png"
+      },
+      {
+        "id": "2026-04-09-Amazon-OpenSearch-Service-supports-Managed-Prometh",
+        "title": "Amazon OpenSearch Service",
+        "date": "2026-04-09",
+        "year": 2026,
+        "month": 4,
+        "day": 9,
+        "path": "2026/04/09/Amazon-OpenSearch-Service-supports-Managed-Prometh",
+        "summary": "Amazon OpenSearch Service supports Managed Prometheus and agent tracing",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/09/Amazon-OpenSearch-Service-supports-Managed-Prometh/thumbnail.png"
+      },
+      {
+        "id": "2026-04-09-Amazon-RDS-BlueGreen-Deployments-now-supports-Amaz",
+        "title": "Amazon RDS Blue/Green Deployments now supports Amazon RDS Proxy",
+        "date": "2026-04-09",
+        "year": 2026,
+        "month": 4,
+        "day": 9,
+        "path": "2026/04/09/Amazon-RDS-BlueGreen-Deployments-now-supports-Amaz",
+        "summary": "Amazon RDS Blue/Green Deployments now supports Amazon RDS Proxy",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/09/Amazon-RDS-BlueGreen-Deployments-now-supports-Amaz/thumbnail.png"
       },
       {
         "id": "2026-04-08-Amazon-Bedrock-AgentCore-Browser-adds-OS-level-int",
@@ -1819,7 +1907,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/01/Amazon-CloudWatch-now-supports-ingesting-Security/thumbnail.png"
       }
     ],
-    "totalPages": 3
+    "totalPages": 4
   },
   "metadata:2026/03": {
     "year": 2026,
