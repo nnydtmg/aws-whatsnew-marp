@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-04-10-AWS-Billing-and-Cost-Management-Dashboards-Now-Sup",
+        "title": "AWS Billing and Cost Management Dashboards",
+        "date": "2026-04-10",
+        "year": 2026,
+        "month": 4,
+        "day": 10,
+        "path": "2026/04/10/AWS-Billing-and-Cost-Management-Dashboards-Now-Sup",
+        "summary": "AWS Billing and Cost Management Dashboards Now Supports Scheduled Email Delivery",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/10/AWS-Billing-and-Cost-Management-Dashboards-Now-Sup/thumbnail.png"
+      },
+      {
         "id": "2026-04-10-Amazon-Bedrock-now-supports-cost-allocation-by-IAM",
         "title": "Amazon Bedrock",
         "date": "2026-04-10",
@@ -13,6 +24,28 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/10/Amazon-Bedrock-now-supports-cost-allocation-by-IAM/thumbnail.png"
       },
       {
+        "id": "2026-04-10-Amazon-CloudWatch-pipelines-introduces-new-complia",
+        "title": "Amazon CloudWatch パイプラインのコンプライアンス・ガバナンス機能強化",
+        "date": "2026-04-10",
+        "year": 2026,
+        "month": 4,
+        "day": 10,
+        "path": "2026/04/10/Amazon-CloudWatch-pipelines-introduces-new-complia",
+        "summary": "Amazon CloudWatch pipelines introduces new compliance and governance capabilities",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/10/Amazon-CloudWatch-pipelines-introduces-new-complia/thumbnail.png"
+      },
+      {
+        "id": "2026-04-10-Amazon-CloudWatch-pipelines-now-supports-drop-and",
+        "title": "Amazon CloudWatch Pipelines",
+        "date": "2026-04-10",
+        "year": 2026,
+        "month": 4,
+        "day": 10,
+        "path": "2026/04/10/Amazon-CloudWatch-pipelines-now-supports-drop-and",
+        "summary": "Amazon CloudWatch pipelines now supports drop and conditional processing",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/10/Amazon-CloudWatch-pipelines-now-supports-drop-and/thumbnail.png"
+      },
+      {
         "id": "2026-04-09-AWS-Agent-Registry-for-centralized-agent-discovery",
         "title": "AWS Agent Registry",
         "date": "2026-04-09",
@@ -22,6 +55,17 @@
         "path": "2026/04/09/AWS-Agent-Registry-for-centralized-agent-discovery",
         "summary": "AWS Agent Registry for centralized agent discovery and governance is now available in Preview",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/09/AWS-Agent-Registry-for-centralized-agent-discovery/thumbnail.png"
+      },
+      {
+        "id": "2026-04-09-AWS-Private-CA-now-supports-customer-managed-permi",
+        "title": "AWS Private CA",
+        "date": "2026-04-09",
+        "year": 2026,
+        "month": 4,
+        "day": 9,
+        "path": "2026/04/09/AWS-Private-CA-now-supports-customer-managed-permi",
+        "summary": "AWS Private CA now supports customer managed permissions for cross account sharing",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/09/AWS-Private-CA-now-supports-customer-managed-permi/thumbnail.png"
       },
       {
         "id": "2026-04-09-Amazon-Bedrock-Data-Automation-now-supports-custom",
@@ -1564,8 +1608,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-04-10T22:26:03.414Z",
-    "totalCount": 142
+    "updatedAt": "2026-04-11T01:15:32.978Z",
+    "totalCount": 146
   },
   "metadata:months": [
     "2026/04",
@@ -1576,6 +1620,17 @@
     "year": 2026,
     "month": 4,
     "articles": [
+      {
+        "id": "2026-04-10-AWS-Billing-and-Cost-Management-Dashboards-Now-Sup",
+        "title": "AWS Billing and Cost Management Dashboards",
+        "date": "2026-04-10",
+        "year": 2026,
+        "month": 4,
+        "day": 10,
+        "path": "2026/04/10/AWS-Billing-and-Cost-Management-Dashboards-Now-Sup",
+        "summary": "AWS Billing and Cost Management Dashboards Now Supports Scheduled Email Delivery",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/10/AWS-Billing-and-Cost-Management-Dashboards-Now-Sup/thumbnail.png"
+      },
       {
         "id": "2026-04-10-Amazon-Bedrock-now-supports-cost-allocation-by-IAM",
         "title": "Amazon Bedrock",
@@ -1588,6 +1643,28 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/10/Amazon-Bedrock-now-supports-cost-allocation-by-IAM/thumbnail.png"
       },
       {
+        "id": "2026-04-10-Amazon-CloudWatch-pipelines-introduces-new-complia",
+        "title": "Amazon CloudWatch パイプラインのコンプライアンス・ガバナンス機能強化",
+        "date": "2026-04-10",
+        "year": 2026,
+        "month": 4,
+        "day": 10,
+        "path": "2026/04/10/Amazon-CloudWatch-pipelines-introduces-new-complia",
+        "summary": "Amazon CloudWatch pipelines introduces new compliance and governance capabilities",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/10/Amazon-CloudWatch-pipelines-introduces-new-complia/thumbnail.png"
+      },
+      {
+        "id": "2026-04-10-Amazon-CloudWatch-pipelines-now-supports-drop-and",
+        "title": "Amazon CloudWatch Pipelines",
+        "date": "2026-04-10",
+        "year": 2026,
+        "month": 4,
+        "day": 10,
+        "path": "2026/04/10/Amazon-CloudWatch-pipelines-now-supports-drop-and",
+        "summary": "Amazon CloudWatch pipelines now supports drop and conditional processing",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/10/Amazon-CloudWatch-pipelines-now-supports-drop-and/thumbnail.png"
+      },
+      {
         "id": "2026-04-09-AWS-Agent-Registry-for-centralized-agent-discovery",
         "title": "AWS Agent Registry",
         "date": "2026-04-09",
@@ -1597,6 +1674,17 @@
         "path": "2026/04/09/AWS-Agent-Registry-for-centralized-agent-discovery",
         "summary": "AWS Agent Registry for centralized agent discovery and governance is now available in Preview",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/09/AWS-Agent-Registry-for-centralized-agent-discovery/thumbnail.png"
+      },
+      {
+        "id": "2026-04-09-AWS-Private-CA-now-supports-customer-managed-permi",
+        "title": "AWS Private CA",
+        "date": "2026-04-09",
+        "year": 2026,
+        "month": 4,
+        "day": 9,
+        "path": "2026/04/09/AWS-Private-CA-now-supports-customer-managed-permi",
+        "summary": "AWS Private CA now supports customer managed permissions for cross account sharing",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/09/AWS-Private-CA-now-supports-customer-managed-permi/thumbnail.png"
       },
       {
         "id": "2026-04-09-Amazon-Bedrock-Data-Automation-now-supports-custom",
