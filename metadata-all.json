@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-04-14-AWS-Transform-is-now-available-in-Kiro-and-VS-Code",
+        "title": "AWS Transform",
+        "date": "2026-04-14",
+        "year": 2026,
+        "month": 4,
+        "day": 14,
+        "path": "2026/04/14/AWS-Transform-is-now-available-in-Kiro-and-VS-Code",
+        "summary": "AWS Transform is now available in Kiro and VS Code",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/14/AWS-Transform-is-now-available-in-Kiro-and-VS-Code/thumbnail.png"
+      },
+      {
+        "id": "2026-04-14-Amazon-Quick-now-supports-document-level-access-co",
+        "title": "Amazon Quick",
+        "date": "2026-04-14",
+        "year": 2026,
+        "month": 4,
+        "day": 14,
+        "path": "2026/04/14/Amazon-Quick-now-supports-document-level-access-co",
+        "summary": "Amazon Quick now supports document level access controls for Google Drive knowledge bases",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/14/Amazon-Quick-now-supports-document-level-access-co/thumbnail.png"
+      },
+      {
         "id": "2026-04-10-AWS-Billing-and-Cost-Management-Dashboards-Now-Sup",
         "title": "AWS Billing and Cost Management Dashboards",
         "date": "2026-04-10",
@@ -44,6 +66,17 @@
         "path": "2026/04/10/Amazon-CloudWatch-pipelines-now-supports-drop-and",
         "summary": "Amazon CloudWatch pipelines now supports drop and conditional processing",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/10/Amazon-CloudWatch-pipelines-now-supports-drop-and/thumbnail.png"
+      },
+      {
+        "id": "2026-04-10-Amazon-Quick-now-supports-document-level-access-co",
+        "title": "Amazon Quick",
+        "date": "2026-04-10",
+        "year": 2026,
+        "month": 4,
+        "day": 10,
+        "path": "2026/04/10/Amazon-Quick-now-supports-document-level-access-co",
+        "summary": "Amazon Quick now supports document level access controls for ACL support for S3",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/10/Amazon-Quick-now-supports-document-level-access-co/thumbnail.png"
       },
       {
         "id": "2026-04-09-AWS-Agent-Registry-for-centralized-agent-discovery",
@@ -1608,8 +1641,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-04-14T22:36:32.058Z",
-    "totalCount": 146
+    "updatedAt": "2026-04-14T23:35:17.300Z",
+    "totalCount": 149
   },
   "metadata:months": [
     "2026/04",
@@ -1620,6 +1653,28 @@
     "year": 2026,
     "month": 4,
     "articles": [
+      {
+        "id": "2026-04-14-AWS-Transform-is-now-available-in-Kiro-and-VS-Code",
+        "title": "AWS Transform",
+        "date": "2026-04-14",
+        "year": 2026,
+        "month": 4,
+        "day": 14,
+        "path": "2026/04/14/AWS-Transform-is-now-available-in-Kiro-and-VS-Code",
+        "summary": "AWS Transform is now available in Kiro and VS Code",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/14/AWS-Transform-is-now-available-in-Kiro-and-VS-Code/thumbnail.png"
+      },
+      {
+        "id": "2026-04-14-Amazon-Quick-now-supports-document-level-access-co",
+        "title": "Amazon Quick",
+        "date": "2026-04-14",
+        "year": 2026,
+        "month": 4,
+        "day": 14,
+        "path": "2026/04/14/Amazon-Quick-now-supports-document-level-access-co",
+        "summary": "Amazon Quick now supports document level access controls for Google Drive knowledge bases",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/14/Amazon-Quick-now-supports-document-level-access-co/thumbnail.png"
+      },
       {
         "id": "2026-04-10-AWS-Billing-and-Cost-Management-Dashboards-Now-Sup",
         "title": "AWS Billing and Cost Management Dashboards",
@@ -1663,6 +1718,17 @@
         "path": "2026/04/10/Amazon-CloudWatch-pipelines-now-supports-drop-and",
         "summary": "Amazon CloudWatch pipelines now supports drop and conditional processing",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/10/Amazon-CloudWatch-pipelines-now-supports-drop-and/thumbnail.png"
+      },
+      {
+        "id": "2026-04-10-Amazon-Quick-now-supports-document-level-access-co",
+        "title": "Amazon Quick",
+        "date": "2026-04-10",
+        "year": 2026,
+        "month": 4,
+        "day": 10,
+        "path": "2026/04/10/Amazon-Quick-now-supports-document-level-access-co",
+        "summary": "Amazon Quick now supports document level access controls for ACL support for S3",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/10/Amazon-Quick-now-supports-document-level-access-co/thumbnail.png"
       },
       {
         "id": "2026-04-09-AWS-Agent-Registry-for-centralized-agent-discovery",
