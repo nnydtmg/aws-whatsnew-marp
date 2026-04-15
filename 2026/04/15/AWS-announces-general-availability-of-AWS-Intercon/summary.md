@@ -1,69 +1,102 @@
-# AWS announces general availability of AWS Interconnect - multicloud
+# AWS announces general availability of AWS Interconnect - last mile
 
-**カテゴリ:** What's New
-**公開日:** 2026-04-13
-**元記事:** https://aws.amazon.com/about-aws/whats-new/2026/04/aws-announces-ga-AWS-interconnect-multicloud/
+**カテゴリ:** What's New  
+**公開日:** 2026年4月13日  
+**元記事:** https://aws.amazon.com/about-aws/whats-new/2026/04/aws-announces-ga-AWS-interconnect-last-mile/
 
 ---
 
 ## 要約
 
-AWS Interconnect - multicloud は、マルチクラウド戦略を採用する顧客が AWS と他のクラウドプロバイダー間でシンプルで安全な高速プライベート接続を簡単に確立できる新しい目的別設計製品です。複数の VPC やリージョン間の接続スケーリングが大幅に短縮され、単一料金体系と無料のローカルインターコネクトオプションが提供されます。
+AWS Interconnect - last mileは、AWSコンソールから数クリックでブランチオフィスやデータセンターをAWSに接続できる完全管理型サービスであり、複雑なネットワーク設定の自動化とダイナミックなスケーリング機能を提供しています。このサービスは、ネットワーク接続の複雑性を軽減したいエンタープライズ組織、複数拠点を持つ企業、およびクラウド接続を迅速に実現する必要がある組織に最適です。
+
+---
 
 ## 詳細
 
-### 基本情報
+### サービスの概要
 
-- AWS Interconnect - multicloud は、AWS と他のクラウドサービスプロバイダー間でシンプルで回復力のある高速プライベート接続を提供する新機能です。
+- **AWS Interconnect - last mile**: AWSが発表した完全管理型の接続サービスであり、支社、データセンター、リモートロケーションからAWSへの接続を数クリックで実現できます
 
-- Google Cloud が最初のパートナーとして GA で利用可能になり、Microsoft Azure は 2026 年後半に対応予定です。
+- **Lumenとの協業**: AWSクラウドイノベーションとLumenの広大なネットワークフットプリントを組み合わせたサービスになっています
 
 ### 主な機能
 
-#### プライベート接続
+#### 1. シンプルな接続セットアップ
 
-- 顧客は専用帯域幅と組み込みの冗長性を備えた安全なプライベートネットワーク接続を Amazon VPC と他のクラウド環境間で迅速に確立できます。
+- AWSコンソールから、優先するAWSリージョン、帯域幅速度、Direct Connect Gateway ID、パートナーサブスクライバーIDを選択するだけでプライベートで高速な接続を即座に確立できます
 
-#### ネットワーキングサービスとの連携
+- 一度開始されると、AWSが自動的にアクティベーションキーを生成し、Lumenでのプロビジョニング完了までの手続きが簡単になります
 
-- AWS Transit Gateway や AWS Cloud WAN などのネットワーキングサービスと連携することで、複数の VPC やリージョン間の接続を数週間または数ヶ月ではなく迅速にスケーリングできます。
+#### 2. ネットワーク設定の自動化
 
-#### 料金体系
+- BGPピアリング、VLAN設定、ASN割り当てなどの複雑なネットワーク設定が自動化されており、ネットワークセットアップの複雑さが軽減されます
 
-- 新しい単一料金体系は、顧客が選択した帯域幅と地理的範囲に基づいており、5 月から各リージョンで 1 つの無料ローカル 500Mbps インターコネクトが利用可能です。
+- ネットワークチームの負担を大幅に削減し、設定時間を大幅に短縮できます
+
+#### 3. スケーラビリティと信頼性
+
+- 帯域幅を1 Gbpsから100 Gbpsまでダイナミックにスケーリングでき、ダウンタイムなしのメンテナンスが可能です
+
+- サービスは高可用性設計でSLAによってサポートされています
+
+#### 4. セキュリティ強化
+
+- MACsec暗号化がデフォルトで有効化され、AWSとパートナーデバイス間のセキュリティが強化されています
+
+- すべてのトラフィックはAWSグローバルバックボーン経由でプライベートに送信され、公開インターネットを経由しません
+
+### 提供内容と対応
+
+- **ローンチ**: 現在、米国でLumenをローンチパートナーとして利用可能です
+
+- **パートナー統合**: パートナーはGitHubで公開されているオープンAPIパッケージを通じて容易に導入できます
+
+- **今後の展開**: AT&TやMegaportなどの追加パートナーが進行中であり、さらなる地域への拡張が計画されています
+
+### 適用対象組織
+
+- ネットワーク接続の複雑性を排除したいエンタープライズ組織
+- 複数拠点を持ち、クラウドとの統合が必要な企業
+- 迅速なクラウド接続を実現する必要がある組織
+- レガシーシステムとのハイブリッド構成を必要とする企業
 
 ### 利用開始方法
 
-- AWS Management Console、CLI、API を使用して有効化でき、CSP は GitHub の公開 API パッケージを通じても採用できます。
+1. AWS Direct Connect コンソールにアクセス
+2. AWS Interconnect - last mileを選択
+3. 優先リージョン、帯域幅、Direct Connect Gateway IDなどを入力
+4. 完成後、Lumenでアクティベーション
 
-### 利用可能性
+---
 
-- 現在、5 つの AWS リージョンで利用可能です。
+## 技術仕様
 
-## メリット
+| 項目 | 仕様 |
+|-----|------|
+| 帯域幅範囲 | 1 Gbps～100 Gbps |
+| 暗号化方式 | MACsec（デフォルト有効） |
+| エッジレイテンシ | < 5ms |
+| 可用性 | SLA保証 |
+| メンテナンス | ダウンタイムなし |
+| 対応パートナー | Lumen（米国）、AT&T、Megaport（進行中） |
 
-### ビジネスメリット
+---
 
-- マルチクラウド環境の構築・運用コストを削減
-- クラウド間接続の展開時間を大幅に短縮
-- セキュアで信頼性の高いマルチクラウド環境を実現
+## 関連サービス
 
-### 技術的メリット
+### AWS Interconnect - multicloud
 
-- シンプルで管理しやすいプライベート接続
-- 高速な接続スピード
-- 複数クラウド間での統一的なネットワーク管理
+- **機能**: AWS と他のクラウドプロバイダー（Google Cloud、Microsoft Azure）間のプライベート接続
+- **提供状況**: Google Cloud との連携は5地域で提供中、Azure は2026年後半予定
+- **特徴**: 完全にプライベートで高速な接続、予測可能なレイテンシと一貫したスループット
 
-## 対応クラウドプロバイダー
+---
 
-| プロバイダー | ステータス | 利用開始時期 |
-|------------|---------|----------|
-| Google Cloud | GA | 現在利用可能 |
-| Microsoft Azure | 準備中 | 2026年後半 |
+## 参考リンク
 
-## 次のステップ
-
-1. 自社のマルチクラウド環境における接続需要を評価
-2. AWS Interconnect - multicloud の導入対象ワークロードを特定
-3. パイロットプロジェクトで検証
-4. 本番環境への段階的展開を計画
+- AWS What's New: https://aws.amazon.com/about-aws/whats-new/2026/04/aws-announces-ga-AWS-interconnect-last-mile/
+- AWS News Blog: https://aws.amazon.com/blogs/aws/aws-interconnect-is-now-generally-available-with-a-new-option-to-simplify-last-mile-connectivity/
+- Lumen Cloud 2.0 Blog: https://www.lumen.com/blog/en-us/future-next-gen-cloud-connectivity-aws
+- AWS Direct Connect ドキュメント: https://docs.aws.amazon.com/directconnect/
+- AWS Interconnect ドキュメント: https://docs.aws.amazon.com/directconnect/latest/userguide/interconnect.html
