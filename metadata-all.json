@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-04-15-AWS-Interconnect-is-now-generally-available-with-a",
+        "title": "AWS Interconnect",
+        "date": "2026-04-15",
+        "year": 2026,
+        "month": 4,
+        "day": 15,
+        "path": "2026/04/15/AWS-Interconnect-is-now-generally-available-with-a",
+        "summary": "AWS Interconnect is now generally available, with a new option to simplify last mile connectivity",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/15/AWS-Interconnect-is-now-generally-available-with-a/thumbnail.png"
+      },
+      {
+        "id": "2026-04-15-AWS-announces-general-availability-of-AWS-Intercon",
+        "title": "AWS Interconnect - last mile",
+        "date": "2026-04-15",
+        "year": 2026,
+        "month": 4,
+        "day": 15,
+        "path": "2026/04/15/AWS-announces-general-availability-of-AWS-Intercon",
+        "summary": "AWS announces general availability of AWS Interconnect last mile",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/15/AWS-announces-general-availability-of-AWS-Intercon/thumbnail.png"
+      },
+      {
         "id": "2026-04-14-AWS-Transform-is-now-available-in-Kiro-and-VS-Code",
         "title": "AWS Transform",
         "date": "2026-04-14",
@@ -1641,8 +1663,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-04-15T04:37:24.999Z",
-    "totalCount": 149
+    "updatedAt": "2026-04-15T06:27:02.886Z",
+    "totalCount": 151
   },
   "metadata:months": [
     "2026/04",
@@ -1653,6 +1675,28 @@
     "year": 2026,
     "month": 4,
     "articles": [
+      {
+        "id": "2026-04-15-AWS-Interconnect-is-now-generally-available-with-a",
+        "title": "AWS Interconnect",
+        "date": "2026-04-15",
+        "year": 2026,
+        "month": 4,
+        "day": 15,
+        "path": "2026/04/15/AWS-Interconnect-is-now-generally-available-with-a",
+        "summary": "AWS Interconnect is now generally available, with a new option to simplify last mile connectivity",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/15/AWS-Interconnect-is-now-generally-available-with-a/thumbnail.png"
+      },
+      {
+        "id": "2026-04-15-AWS-announces-general-availability-of-AWS-Intercon",
+        "title": "AWS Interconnect - last mile",
+        "date": "2026-04-15",
+        "year": 2026,
+        "month": 4,
+        "day": 15,
+        "path": "2026/04/15/AWS-announces-general-availability-of-AWS-Intercon",
+        "summary": "AWS announces general availability of AWS Interconnect last mile",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/15/AWS-announces-general-availability-of-AWS-Intercon/thumbnail.png"
+      },
       {
         "id": "2026-04-14-AWS-Transform-is-now-available-in-Kiro-and-VS-Code",
         "title": "AWS Transform",
@@ -2083,7 +2127,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/01/Amazon-CloudWatch-now-supports-ingesting-Security/thumbnail.png"
       }
     ],
-    "totalPages": 4
+    "totalPages": 5
   },
   "metadata:2026/03": {
     "year": 2026,
