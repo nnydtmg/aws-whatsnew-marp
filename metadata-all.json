@@ -13,6 +13,28 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/16/Amazon-Quick-Introduces-Sheet-Tooltips-for-Rich-Co/thumbnail.png"
       },
       {
+        "id": "2026-04-16-Amazon-Quick-now-supports-multi-account-sign-in-wi",
+        "title": "Amazon Quick マルチアカウントサインイン",
+        "date": "2026-04-16",
+        "year": 2026,
+        "month": 4,
+        "day": 16,
+        "path": "2026/04/16/Amazon-Quick-now-supports-multi-account-sign-in-wi",
+        "summary": "Amazon Quick now supports multi account sign in within the same browser",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/16/Amazon-Quick-now-supports-multi-account-sign-in-wi/thumbnail.png"
+      },
+      {
+        "id": "2026-04-16-Claude-Opus-47-is-now-available-in-Amazon-Bedrock",
+        "title": "Claude Opus 4.7",
+        "date": "2026-04-16",
+        "year": 2026,
+        "month": 4,
+        "day": 16,
+        "path": "2026/04/16/Claude-Opus-47-is-now-available-in-Amazon-Bedrock",
+        "summary": "Claude Opus 4.7 is now available in Amazon Bedrock",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/16/Claude-Opus-47-is-now-available-in-Amazon-Bedrock/thumbnail.png"
+      },
+      {
         "id": "2026-04-15-AWS-Interconnect-is-now-generally-available-with-a",
         "title": "AWS Interconnect",
         "date": "2026-04-15",
@@ -1674,8 +1696,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-04-16T21:33:58.687Z",
-    "totalCount": 152
+    "updatedAt": "2026-04-16T22:29:44.848Z",
+    "totalCount": 154
   },
   "metadata:months": [
     "2026/04",
@@ -1696,6 +1718,28 @@
         "path": "2026/04/16/Amazon-Quick-Introduces-Sheet-Tooltips-for-Rich-Co",
         "summary": "Amazon Quick Introduces Sheet Tooltips for Rich, Contextual Data Exploration",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/16/Amazon-Quick-Introduces-Sheet-Tooltips-for-Rich-Co/thumbnail.png"
+      },
+      {
+        "id": "2026-04-16-Amazon-Quick-now-supports-multi-account-sign-in-wi",
+        "title": "Amazon Quick マルチアカウントサインイン",
+        "date": "2026-04-16",
+        "year": 2026,
+        "month": 4,
+        "day": 16,
+        "path": "2026/04/16/Amazon-Quick-now-supports-multi-account-sign-in-wi",
+        "summary": "Amazon Quick now supports multi account sign in within the same browser",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/16/Amazon-Quick-now-supports-multi-account-sign-in-wi/thumbnail.png"
+      },
+      {
+        "id": "2026-04-16-Claude-Opus-47-is-now-available-in-Amazon-Bedrock",
+        "title": "Claude Opus 4.7",
+        "date": "2026-04-16",
+        "year": 2026,
+        "month": 4,
+        "day": 16,
+        "path": "2026/04/16/Claude-Opus-47-is-now-available-in-Amazon-Bedrock",
+        "summary": "Claude Opus 4.7 is now available in Amazon Bedrock",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/16/Claude-Opus-47-is-now-available-in-Amazon-Bedrock/thumbnail.png"
       },
       {
         "id": "2026-04-15-AWS-Interconnect-is-now-generally-available-with-a",
