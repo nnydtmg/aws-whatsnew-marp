@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-04-16-Amazon-Quick-Introduces-Sheet-Tooltips-for-Rich-Co",
+        "title": "Amazon QuickSight シートツールチップ機能",
+        "date": "2026-04-16",
+        "year": 2026,
+        "month": 4,
+        "day": 16,
+        "path": "2026/04/16/Amazon-Quick-Introduces-Sheet-Tooltips-for-Rich-Co",
+        "summary": "Amazon Quick Introduces Sheet Tooltips for Rich, Contextual Data Exploration",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/16/Amazon-Quick-Introduces-Sheet-Tooltips-for-Rich-Co/thumbnail.png"
+      },
+      {
         "id": "2026-04-15-AWS-Interconnect-is-now-generally-available-with-a",
         "title": "AWS Interconnect",
         "date": "2026-04-15",
@@ -1663,8 +1674,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-04-15T23:33:24.830Z",
-    "totalCount": 151
+    "updatedAt": "2026-04-16T01:26:56.997Z",
+    "totalCount": 152
   },
   "metadata:months": [
     "2026/04",
@@ -1675,6 +1686,17 @@
     "year": 2026,
     "month": 4,
     "articles": [
+      {
+        "id": "2026-04-16-Amazon-Quick-Introduces-Sheet-Tooltips-for-Rich-Co",
+        "title": "Amazon QuickSight シートツールチップ機能",
+        "date": "2026-04-16",
+        "year": 2026,
+        "month": 4,
+        "day": 16,
+        "path": "2026/04/16/Amazon-Quick-Introduces-Sheet-Tooltips-for-Rich-Co",
+        "summary": "Amazon Quick Introduces Sheet Tooltips for Rich, Contextual Data Exploration",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/16/Amazon-Quick-Introduces-Sheet-Tooltips-for-Rich-Co/thumbnail.png"
+      },
       {
         "id": "2026-04-15-AWS-Interconnect-is-now-generally-available-with-a",
         "title": "AWS Interconnect",
