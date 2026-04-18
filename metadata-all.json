@@ -13,6 +13,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/18/Amazon-CloudWatch-RUM-now-available-in-AWS-Europea/thumbnail.png"
       },
       {
+        "id": "2026-04-17-Amazon-ECR-Pull-Through-Cache-Now-Supports-Referre",
+        "title": "Amazon ECR プルスルーキャッシュ",
+        "date": "2026-04-17",
+        "year": 2026,
+        "month": 4,
+        "day": 17,
+        "path": "2026/04/17/Amazon-ECR-Pull-Through-Cache-Now-Supports-Referre",
+        "summary": "Amazon ECR Pull Through Cache Now Supports Referrer Discovery and Sync",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/17/Amazon-ECR-Pull-Through-Cache-Now-Supports-Referre/thumbnail.png"
+      },
+      {
         "id": "2026-04-16-Amazon-CloudWatch-now-supports-cross-region-teleme",
         "title": "Amazon CloudWatch",
         "date": "2026-04-16",
@@ -1718,8 +1729,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-04-18T01:18:16.641Z",
-    "totalCount": 156
+    "updatedAt": "2026-04-18T04:23:23.969Z",
+    "totalCount": 157
   },
   "metadata:months": [
     "2026/04",
@@ -1740,6 +1751,17 @@
         "path": "2026/04/18/Amazon-CloudWatch-RUM-now-available-in-AWS-Europea",
         "summary": "Amazon CloudWatch RUM now available in AWS European Sovereign Cloud",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/18/Amazon-CloudWatch-RUM-now-available-in-AWS-Europea/thumbnail.png"
+      },
+      {
+        "id": "2026-04-17-Amazon-ECR-Pull-Through-Cache-Now-Supports-Referre",
+        "title": "Amazon ECR プルスルーキャッシュ",
+        "date": "2026-04-17",
+        "year": 2026,
+        "month": 4,
+        "day": 17,
+        "path": "2026/04/17/Amazon-ECR-Pull-Through-Cache-Now-Supports-Referre",
+        "summary": "Amazon ECR Pull Through Cache Now Supports Referrer Discovery and Sync",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/17/Amazon-ECR-Pull-Through-Cache-Now-Supports-Referre/thumbnail.png"
       },
       {
         "id": "2026-04-16-Amazon-CloudWatch-now-supports-cross-region-teleme",
