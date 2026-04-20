@@ -2,6 +2,50 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-04-20-AWS-Managed-Microsoft-AD-is-now-available-on-Windo",
+        "title": "AWS Managed Microsoft AD",
+        "date": "2026-04-20",
+        "year": 2026,
+        "month": 4,
+        "day": 20,
+        "path": "2026/04/20/AWS-Managed-Microsoft-AD-is-now-available-on-Windo",
+        "summary": "AWS Managed Microsoft AD is now available on Windows functional level 2016",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/20/AWS-Managed-Microsoft-AD-is-now-available-on-Windo/thumbnail.png"
+      },
+      {
+        "id": "2026-04-20-Amazon-Connect-flow-modules-now-work-across-all-fl",
+        "title": "Amazon Connect フロー モジュール",
+        "date": "2026-04-20",
+        "year": 2026,
+        "month": 4,
+        "day": 20,
+        "path": "2026/04/20/Amazon-Connect-flow-modules-now-work-across-all-fl",
+        "summary": "Amazon Connect flow modules now work across all flow types and within other modules",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/20/Amazon-Connect-flow-modules-now-work-across-all-fl/thumbnail.png"
+      },
+      {
+        "id": "2026-04-20-Amazon-EKS-enhances-cluster-governance-with-new-IA",
+        "title": "Amazon EKS のクラスター管理が強化",
+        "date": "2026-04-20",
+        "year": 2026,
+        "month": 4,
+        "day": 20,
+        "path": "2026/04/20/Amazon-EKS-enhances-cluster-governance-with-new-IA",
+        "summary": "Amazon EKS enhances cluster governance with new IAM condition keys",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/20/Amazon-EKS-enhances-cluster-governance-with-new-IA/thumbnail.png"
+      },
+      {
+        "id": "2026-04-20-Amazon-S3-Express-One-Zone-now-supports-S3-Invento",
+        "title": "Amazon S3 Express One Zone",
+        "date": "2026-04-20",
+        "year": 2026,
+        "month": 4,
+        "day": 20,
+        "path": "2026/04/20/Amazon-S3-Express-One-Zone-now-supports-S3-Invento",
+        "summary": "Amazon S3 Express One Zone now supports S3 Inventory",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/20/Amazon-S3-Express-One-Zone-now-supports-S3-Invento/thumbnail.png"
+      },
+      {
         "id": "2026-04-18-Amazon-CloudWatch-RUM-now-available-in-AWS-Europea",
         "title": "Amazon CloudWatch RUM",
         "date": "2026-04-18",
@@ -1729,8 +1773,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-04-20T22:33:30.738Z",
-    "totalCount": 157
+    "updatedAt": "2026-04-20T23:33:55.413Z",
+    "totalCount": 161
   },
   "metadata:months": [
     "2026/04",
@@ -1741,6 +1785,50 @@
     "year": 2026,
     "month": 4,
     "articles": [
+      {
+        "id": "2026-04-20-AWS-Managed-Microsoft-AD-is-now-available-on-Windo",
+        "title": "AWS Managed Microsoft AD",
+        "date": "2026-04-20",
+        "year": 2026,
+        "month": 4,
+        "day": 20,
+        "path": "2026/04/20/AWS-Managed-Microsoft-AD-is-now-available-on-Windo",
+        "summary": "AWS Managed Microsoft AD is now available on Windows functional level 2016",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/20/AWS-Managed-Microsoft-AD-is-now-available-on-Windo/thumbnail.png"
+      },
+      {
+        "id": "2026-04-20-Amazon-Connect-flow-modules-now-work-across-all-fl",
+        "title": "Amazon Connect フロー モジュール",
+        "date": "2026-04-20",
+        "year": 2026,
+        "month": 4,
+        "day": 20,
+        "path": "2026/04/20/Amazon-Connect-flow-modules-now-work-across-all-fl",
+        "summary": "Amazon Connect flow modules now work across all flow types and within other modules",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/20/Amazon-Connect-flow-modules-now-work-across-all-fl/thumbnail.png"
+      },
+      {
+        "id": "2026-04-20-Amazon-EKS-enhances-cluster-governance-with-new-IA",
+        "title": "Amazon EKS のクラスター管理が強化",
+        "date": "2026-04-20",
+        "year": 2026,
+        "month": 4,
+        "day": 20,
+        "path": "2026/04/20/Amazon-EKS-enhances-cluster-governance-with-new-IA",
+        "summary": "Amazon EKS enhances cluster governance with new IAM condition keys",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/20/Amazon-EKS-enhances-cluster-governance-with-new-IA/thumbnail.png"
+      },
+      {
+        "id": "2026-04-20-Amazon-S3-Express-One-Zone-now-supports-S3-Invento",
+        "title": "Amazon S3 Express One Zone",
+        "date": "2026-04-20",
+        "year": 2026,
+        "month": 4,
+        "day": 20,
+        "path": "2026/04/20/Amazon-S3-Express-One-Zone-now-supports-S3-Invento",
+        "summary": "Amazon S3 Express One Zone now supports S3 Inventory",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/20/Amazon-S3-Express-One-Zone-now-supports-S3-Invento/thumbnail.png"
+      },
       {
         "id": "2026-04-18-Amazon-CloudWatch-RUM-now-available-in-AWS-Europea",
         "title": "Amazon CloudWatch RUM",
@@ -2259,7 +2347,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/01/Amazon-CloudWatch-now-supports-ingesting-Security/thumbnail.png"
       }
     ],
-    "totalPages": 5
+    "totalPages": 6
   },
   "metadata:2026/03": {
     "year": 2026,
