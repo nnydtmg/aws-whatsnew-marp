@@ -13,6 +13,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/20/AWS-Managed-Microsoft-AD-is-now-available-on-Windo/thumbnail.png"
       },
       {
+        "id": "2026-04-20-AWS-Managed-Microsoft-AD-now-supports-Kerberos-Enc",
+        "title": "AWS Managed Microsoft AD",
+        "date": "2026-04-20",
+        "year": 2026,
+        "month": 4,
+        "day": 20,
+        "path": "2026/04/20/AWS-Managed-Microsoft-AD-now-supports-Kerberos-Enc",
+        "summary": "AWS Managed Microsoft AD now supports Kerberos Encryption audit event logs",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/20/AWS-Managed-Microsoft-AD-now-supports-Kerberos-Enc/thumbnail.png"
+      },
+      {
         "id": "2026-04-20-Amazon-Connect-flow-modules-now-work-across-all-fl",
         "title": "Amazon Connect フロー モジュール",
         "date": "2026-04-20",
@@ -1773,8 +1784,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-04-21T01:24:13.313Z",
-    "totalCount": 161
+    "updatedAt": "2026-04-21T04:40:16.990Z",
+    "totalCount": 162
   },
   "metadata:months": [
     "2026/04",
@@ -1795,6 +1806,17 @@
         "path": "2026/04/20/AWS-Managed-Microsoft-AD-is-now-available-on-Windo",
         "summary": "AWS Managed Microsoft AD is now available on Windows functional level 2016",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/20/AWS-Managed-Microsoft-AD-is-now-available-on-Windo/thumbnail.png"
+      },
+      {
+        "id": "2026-04-20-AWS-Managed-Microsoft-AD-now-supports-Kerberos-Enc",
+        "title": "AWS Managed Microsoft AD",
+        "date": "2026-04-20",
+        "year": 2026,
+        "month": 4,
+        "day": 20,
+        "path": "2026/04/20/AWS-Managed-Microsoft-AD-now-supports-Kerberos-Enc",
+        "summary": "AWS Managed Microsoft AD now supports Kerberos Encryption audit event logs",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/20/AWS-Managed-Microsoft-AD-now-supports-Kerberos-Enc/thumbnail.png"
       },
       {
         "id": "2026-04-20-Amazon-Connect-flow-modules-now-work-across-all-fl",
