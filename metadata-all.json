@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-04-21-Amazon-Aurora-serverless-Up-to-30-better-performan",
+        "title": "Amazon Aurora Serverless",
+        "date": "2026-04-21",
+        "year": 2026,
+        "month": 4,
+        "day": 21,
+        "path": "2026/04/21/Amazon-Aurora-serverless-Up-to-30-better-performan",
+        "summary": "Amazon Aurora serverless: Up to 30% better performance, smarter scaling, and still scales to zero",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/21/Amazon-Aurora-serverless-Up-to-30-better-performan/thumbnail.png"
+      },
+      {
         "id": "2026-04-20-AWS-Managed-Microsoft-AD-is-now-available-on-Windo",
         "title": "AWS Managed Microsoft AD",
         "date": "2026-04-20",
@@ -1784,8 +1795,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-04-21T14:45:48.791Z",
-    "totalCount": 162
+    "updatedAt": "2026-04-21T16:03:51.547Z",
+    "totalCount": 163
   },
   "metadata:months": [
     "2026/04",
@@ -1796,6 +1807,17 @@
     "year": 2026,
     "month": 4,
     "articles": [
+      {
+        "id": "2026-04-21-Amazon-Aurora-serverless-Up-to-30-better-performan",
+        "title": "Amazon Aurora Serverless",
+        "date": "2026-04-21",
+        "year": 2026,
+        "month": 4,
+        "day": 21,
+        "path": "2026/04/21/Amazon-Aurora-serverless-Up-to-30-better-performan",
+        "summary": "Amazon Aurora serverless: Up to 30% better performance, smarter scaling, and still scales to zero",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/21/Amazon-Aurora-serverless-Up-to-30-better-performan/thumbnail.png"
+      },
       {
         "id": "2026-04-20-AWS-Managed-Microsoft-AD-is-now-available-on-Windo",
         "title": "AWS Managed Microsoft AD",
