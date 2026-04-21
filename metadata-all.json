@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-04-21-AWS-Backup-adds-Amazon-Redshift-Serverless-and-Aur",
+        "title": "AWS Backup",
+        "date": "2026-04-21",
+        "year": 2026,
+        "month": 4,
+        "day": 21,
+        "path": "2026/04/21/AWS-Backup-adds-Amazon-Redshift-Serverless-and-Aur",
+        "summary": "AWS Backup adds Amazon Redshift Serverless and Aurora DSQL support for AWS Organizations backup policies",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/21/AWS-Backup-adds-Amazon-Redshift-Serverless-and-Aur/thumbnail.png"
+      },
+      {
+        "id": "2026-04-21-AWS-Lambda-functions-can-now-mount-Amazon-S3-bucke",
+        "title": "AWS Lambda から Amazon S3 をファイルシステムとしてマウント",
+        "date": "2026-04-21",
+        "year": 2026,
+        "month": 4,
+        "day": 21,
+        "path": "2026/04/21/AWS-Lambda-functions-can-now-mount-Amazon-S3-bucke",
+        "summary": "AWS Lambda から Amazon S3 をファイルシステムとしてマウント",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/21/AWS-Lambda-functions-can-now-mount-Amazon-S3-bucke/thumbnail.png"
+      },
+      {
         "id": "2026-04-21-Amazon-Aurora-serverless-Up-to-30-better-performan",
         "title": "Amazon Aurora Serverless",
         "date": "2026-04-21",
@@ -1795,8 +1817,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-04-21T21:36:53.443Z",
-    "totalCount": 163
+    "updatedAt": "2026-04-21T22:30:27.470Z",
+    "totalCount": 165
   },
   "metadata:months": [
     "2026/04",
@@ -1807,6 +1829,28 @@
     "year": 2026,
     "month": 4,
     "articles": [
+      {
+        "id": "2026-04-21-AWS-Backup-adds-Amazon-Redshift-Serverless-and-Aur",
+        "title": "AWS Backup",
+        "date": "2026-04-21",
+        "year": 2026,
+        "month": 4,
+        "day": 21,
+        "path": "2026/04/21/AWS-Backup-adds-Amazon-Redshift-Serverless-and-Aur",
+        "summary": "AWS Backup adds Amazon Redshift Serverless and Aurora DSQL support for AWS Organizations backup policies",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/21/AWS-Backup-adds-Amazon-Redshift-Serverless-and-Aur/thumbnail.png"
+      },
+      {
+        "id": "2026-04-21-AWS-Lambda-functions-can-now-mount-Amazon-S3-bucke",
+        "title": "AWS Lambda から Amazon S3 をファイルシステムとしてマウント",
+        "date": "2026-04-21",
+        "year": 2026,
+        "month": 4,
+        "day": 21,
+        "path": "2026/04/21/AWS-Lambda-functions-can-now-mount-Amazon-S3-bucke",
+        "summary": "AWS Lambda から Amazon S3 をファイルシステムとしてマウント",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/21/AWS-Lambda-functions-can-now-mount-Amazon-S3-bucke/thumbnail.png"
+      },
       {
         "id": "2026-04-21-Amazon-Aurora-serverless-Up-to-30-better-performan",
         "title": "Amazon Aurora Serverless",
