@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-04-22-AWS-Glue-now-supports-OAuth-20-for-Snowflake-conne",
+        "title": "AWS Glue now supports OAuth 2.0 for Snowflake connectivity",
+        "date": "2026-04-22",
+        "year": 2026,
+        "month": 4,
+        "day": 22,
+        "path": "2026/04/22/AWS-Glue-now-supports-OAuth-20-for-Snowflake-conne",
+        "summary": "AWS Glue now supports OAuth 2.0 for Snowflake connectivity",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/22/AWS-Glue-now-supports-OAuth-20-for-Snowflake-conne/thumbnail.png"
+      },
+      {
+        "id": "2026-04-22-Amazon-CloudWatch-pipelines-now-supports-configura",
+        "title": "Amazon CloudWatch パイプラインの AI 対応プロセッサ設定",
+        "date": "2026-04-22",
+        "year": 2026,
+        "month": 4,
+        "day": 22,
+        "path": "2026/04/22/Amazon-CloudWatch-pipelines-now-supports-configura",
+        "summary": "Amazon CloudWatch pipelines now supports configuration of processors via AI",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/22/Amazon-CloudWatch-pipelines-now-supports-configura/thumbnail.png"
+      },
+      {
         "id": "2026-04-21-AWS-Backup-adds-Amazon-Redshift-Serverless-and-Aur",
         "title": "AWS Backup",
         "date": "2026-04-21",
@@ -88,6 +110,17 @@
         "path": "2026/04/20/Amazon-S3-Express-One-Zone-now-supports-S3-Invento",
         "summary": "Amazon S3 Express One Zone now supports S3 Inventory",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/20/Amazon-S3-Express-One-Zone-now-supports-S3-Invento/thumbnail.png"
+      },
+      {
+        "id": "2026-04-20-CloudWatch-Logs-Insights-JOIN-and-Sub-Query-Comman",
+        "title": "CloudWatch Logs Insights",
+        "date": "2026-04-20",
+        "year": 2026,
+        "month": 4,
+        "day": 20,
+        "path": "2026/04/20/CloudWatch-Logs-Insights-JOIN-and-Sub-Query-Comman",
+        "summary": "CloudWatch Logs Insights JOIN and Sub Query Commands",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/20/CloudWatch-Logs-Insights-JOIN-and-Sub-Query-Comman/thumbnail.png"
       },
       {
         "id": "2026-04-18-Amazon-CloudWatch-RUM-now-available-in-AWS-Europea",
@@ -1817,8 +1850,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-04-21T23:27:08.006Z",
-    "totalCount": 165
+    "updatedAt": "2026-04-22T01:23:17.472Z",
+    "totalCount": 168
   },
   "metadata:months": [
     "2026/04",
@@ -1829,6 +1862,28 @@
     "year": 2026,
     "month": 4,
     "articles": [
+      {
+        "id": "2026-04-22-AWS-Glue-now-supports-OAuth-20-for-Snowflake-conne",
+        "title": "AWS Glue now supports OAuth 2.0 for Snowflake connectivity",
+        "date": "2026-04-22",
+        "year": 2026,
+        "month": 4,
+        "day": 22,
+        "path": "2026/04/22/AWS-Glue-now-supports-OAuth-20-for-Snowflake-conne",
+        "summary": "AWS Glue now supports OAuth 2.0 for Snowflake connectivity",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/22/AWS-Glue-now-supports-OAuth-20-for-Snowflake-conne/thumbnail.png"
+      },
+      {
+        "id": "2026-04-22-Amazon-CloudWatch-pipelines-now-supports-configura",
+        "title": "Amazon CloudWatch パイプラインの AI 対応プロセッサ設定",
+        "date": "2026-04-22",
+        "year": 2026,
+        "month": 4,
+        "day": 22,
+        "path": "2026/04/22/Amazon-CloudWatch-pipelines-now-supports-configura",
+        "summary": "Amazon CloudWatch pipelines now supports configuration of processors via AI",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/22/Amazon-CloudWatch-pipelines-now-supports-configura/thumbnail.png"
+      },
       {
         "id": "2026-04-21-AWS-Backup-adds-Amazon-Redshift-Serverless-and-Aur",
         "title": "AWS Backup",
@@ -1916,6 +1971,17 @@
         "path": "2026/04/20/Amazon-S3-Express-One-Zone-now-supports-S3-Invento",
         "summary": "Amazon S3 Express One Zone now supports S3 Inventory",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/20/Amazon-S3-Express-One-Zone-now-supports-S3-Invento/thumbnail.png"
+      },
+      {
+        "id": "2026-04-20-CloudWatch-Logs-Insights-JOIN-and-Sub-Query-Comman",
+        "title": "CloudWatch Logs Insights",
+        "date": "2026-04-20",
+        "year": 2026,
+        "month": 4,
+        "day": 20,
+        "path": "2026/04/20/CloudWatch-Logs-Insights-JOIN-and-Sub-Query-Comman",
+        "summary": "CloudWatch Logs Insights JOIN and Sub Query Commands",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/20/CloudWatch-Logs-Insights-JOIN-and-Sub-Query-Comman/thumbnail.png"
       },
       {
         "id": "2026-04-18-Amazon-CloudWatch-RUM-now-available-in-AWS-Europea",
