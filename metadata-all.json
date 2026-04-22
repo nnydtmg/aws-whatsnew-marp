@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-04-22-AWS-Data-Exports-now-supports-cross-account-delive",
+        "title": "AWS Data Exports",
+        "date": "2026-04-22",
+        "year": 2026,
+        "month": 4,
+        "day": 22,
+        "path": "2026/04/22/AWS-Data-Exports-now-supports-cross-account-delive",
+        "summary": "AWS Data Exports now supports cross account delivery",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/22/AWS-Data-Exports-now-supports-cross-account-delive/thumbnail.png"
+      },
+      {
         "id": "2026-04-22-AWS-Glue-now-supports-OAuth-20-for-Snowflake-conne",
         "title": "AWS Glue now supports OAuth 2.0 for Snowflake connectivity",
         "date": "2026-04-22",
@@ -13,6 +24,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/22/AWS-Glue-now-supports-OAuth-20-for-Snowflake-conne/thumbnail.png"
       },
       {
+        "id": "2026-04-22-Amazon-Bedrock-AgentCore-adds-new-features-to-help",
+        "title": "Amazon Bedrock AgentCore",
+        "date": "2026-04-22",
+        "year": 2026,
+        "month": 4,
+        "day": 22,
+        "path": "2026/04/22/Amazon-Bedrock-AgentCore-adds-new-features-to-help",
+        "summary": "Amazon Bedrock AgentCore adds new features to help developers build agents faster",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/22/Amazon-Bedrock-AgentCore-adds-new-features-to-help/thumbnail.png"
+      },
+      {
         "id": "2026-04-22-Amazon-CloudWatch-pipelines-now-supports-configura",
         "title": "Amazon CloudWatch パイプラインの AI 対応プロセッサ設定",
         "date": "2026-04-22",
@@ -22,6 +44,39 @@
         "path": "2026/04/22/Amazon-CloudWatch-pipelines-now-supports-configura",
         "summary": "Amazon CloudWatch pipelines now supports configuration of processors via AI",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/22/Amazon-CloudWatch-pipelines-now-supports-configura/thumbnail.png"
+      },
+      {
+        "id": "2026-04-22-Amazon-EC2-announces-Managed-resource-visibility-s",
+        "title": "Amazon EC2が管理リソースの可視性設定を発表",
+        "date": "2026-04-22",
+        "year": 2026,
+        "month": 4,
+        "day": 22,
+        "path": "2026/04/22/Amazon-EC2-announces-Managed-resource-visibility-s",
+        "summary": "Amazon EC2 announces Managed resource visibility settings",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/22/Amazon-EC2-announces-Managed-resource-visibility-s/thumbnail.png"
+      },
+      {
+        "id": "2026-04-22-Amazon-EC2-for-SQL-Server-HA-now-supports-health-n",
+        "title": "Amazon EC2 for SQL Server HA now supports health notifications",
+        "date": "2026-04-22",
+        "year": 2026,
+        "month": 4,
+        "day": 22,
+        "path": "2026/04/22/Amazon-EC2-for-SQL-Server-HA-now-supports-health-n",
+        "summary": "Amazon EC2 for SQL Server HA now supports health notifications",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/22/Amazon-EC2-for-SQL-Server-HA-now-supports-health-n/thumbnail.png"
+      },
+      {
+        "id": "2026-04-22-Amazon-SageMaker-AI-launches-optimized-generative",
+        "title": "Amazon SageMaker AI",
+        "date": "2026-04-22",
+        "year": 2026,
+        "month": 4,
+        "day": 22,
+        "path": "2026/04/22/Amazon-SageMaker-AI-launches-optimized-generative",
+        "summary": "Amazon SageMaker AI launches optimized generative AI inference recommendations",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/22/Amazon-SageMaker-AI-launches-optimized-generative/thumbnail.png"
       },
       {
         "id": "2026-04-21-AWS-Backup-adds-Amazon-Redshift-Serverless-and-Aur",
@@ -1850,8 +1905,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-04-22T22:38:13.231Z",
-    "totalCount": 168
+    "updatedAt": "2026-04-22T23:38:04.275Z",
+    "totalCount": 173
   },
   "metadata:months": [
     "2026/04",
@@ -1862,6 +1917,17 @@
     "year": 2026,
     "month": 4,
     "articles": [
+      {
+        "id": "2026-04-22-AWS-Data-Exports-now-supports-cross-account-delive",
+        "title": "AWS Data Exports",
+        "date": "2026-04-22",
+        "year": 2026,
+        "month": 4,
+        "day": 22,
+        "path": "2026/04/22/AWS-Data-Exports-now-supports-cross-account-delive",
+        "summary": "AWS Data Exports now supports cross account delivery",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/22/AWS-Data-Exports-now-supports-cross-account-delive/thumbnail.png"
+      },
       {
         "id": "2026-04-22-AWS-Glue-now-supports-OAuth-20-for-Snowflake-conne",
         "title": "AWS Glue now supports OAuth 2.0 for Snowflake connectivity",
@@ -1874,6 +1940,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/22/AWS-Glue-now-supports-OAuth-20-for-Snowflake-conne/thumbnail.png"
       },
       {
+        "id": "2026-04-22-Amazon-Bedrock-AgentCore-adds-new-features-to-help",
+        "title": "Amazon Bedrock AgentCore",
+        "date": "2026-04-22",
+        "year": 2026,
+        "month": 4,
+        "day": 22,
+        "path": "2026/04/22/Amazon-Bedrock-AgentCore-adds-new-features-to-help",
+        "summary": "Amazon Bedrock AgentCore adds new features to help developers build agents faster",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/22/Amazon-Bedrock-AgentCore-adds-new-features-to-help/thumbnail.png"
+      },
+      {
         "id": "2026-04-22-Amazon-CloudWatch-pipelines-now-supports-configura",
         "title": "Amazon CloudWatch パイプラインの AI 対応プロセッサ設定",
         "date": "2026-04-22",
@@ -1883,6 +1960,39 @@
         "path": "2026/04/22/Amazon-CloudWatch-pipelines-now-supports-configura",
         "summary": "Amazon CloudWatch pipelines now supports configuration of processors via AI",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/22/Amazon-CloudWatch-pipelines-now-supports-configura/thumbnail.png"
+      },
+      {
+        "id": "2026-04-22-Amazon-EC2-announces-Managed-resource-visibility-s",
+        "title": "Amazon EC2が管理リソースの可視性設定を発表",
+        "date": "2026-04-22",
+        "year": 2026,
+        "month": 4,
+        "day": 22,
+        "path": "2026/04/22/Amazon-EC2-announces-Managed-resource-visibility-s",
+        "summary": "Amazon EC2 announces Managed resource visibility settings",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/22/Amazon-EC2-announces-Managed-resource-visibility-s/thumbnail.png"
+      },
+      {
+        "id": "2026-04-22-Amazon-EC2-for-SQL-Server-HA-now-supports-health-n",
+        "title": "Amazon EC2 for SQL Server HA now supports health notifications",
+        "date": "2026-04-22",
+        "year": 2026,
+        "month": 4,
+        "day": 22,
+        "path": "2026/04/22/Amazon-EC2-for-SQL-Server-HA-now-supports-health-n",
+        "summary": "Amazon EC2 for SQL Server HA now supports health notifications",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/22/Amazon-EC2-for-SQL-Server-HA-now-supports-health-n/thumbnail.png"
+      },
+      {
+        "id": "2026-04-22-Amazon-SageMaker-AI-launches-optimized-generative",
+        "title": "Amazon SageMaker AI",
+        "date": "2026-04-22",
+        "year": 2026,
+        "month": 4,
+        "day": 22,
+        "path": "2026/04/22/Amazon-SageMaker-AI-launches-optimized-generative",
+        "summary": "Amazon SageMaker AI launches optimized generative AI inference recommendations",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/22/Amazon-SageMaker-AI-launches-optimized-generative/thumbnail.png"
       },
       {
         "id": "2026-04-21-AWS-Backup-adds-Amazon-Redshift-Serverless-and-Aur",
@@ -2501,7 +2611,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/01/Amazon-CloudWatch-now-supports-ingesting-Security/thumbnail.png"
       }
     ],
-    "totalPages": 6
+    "totalPages": 7
   },
   "metadata:2026/03": {
     "year": 2026,
