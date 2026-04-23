@@ -2,6 +2,61 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-04-23-AWS-Elastic-Beanstalk-AI-powered-environment-analy",
+        "title": "AWS Elastic Beanstalk",
+        "date": "2026-04-23",
+        "year": 2026,
+        "month": 4,
+        "day": 23,
+        "path": "2026/04/23/AWS-Elastic-Beanstalk-AI-powered-environment-analy",
+        "summary": "AWS Elastic Beanstalk AI powered environment analysis now supports Windows",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/23/AWS-Elastic-Beanstalk-AI-powered-environment-analy/thumbnail.png"
+      },
+      {
+        "id": "2026-04-23-Amazon-Athena-simplifies-federated-queries-with-ma",
+        "title": "Amazon Athena",
+        "date": "2026-04-23",
+        "year": 2026,
+        "month": 4,
+        "day": 23,
+        "path": "2026/04/23/Amazon-Athena-simplifies-federated-queries-with-ma",
+        "summary": "Amazon Athena simplifies federated queries with managed connectors",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/23/Amazon-Athena-simplifies-federated-queries-with-ma/thumbnail.png"
+      },
+      {
+        "id": "2026-04-23-Amazon-Quick-now-supports-multiple-owners-for-admi",
+        "title": "Amazon Quick",
+        "date": "2026-04-23",
+        "year": 2026,
+        "month": 4,
+        "day": 23,
+        "path": "2026/04/23/Amazon-Quick-now-supports-multiple-owners-for-admi",
+        "summary": "Amazon Quick now supports multiple owners for admin managed SharePoint and Google Drive knowledge bases",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/23/Amazon-Quick-now-supports-multiple-owners-for-admi/thumbnail.png"
+      },
+      {
+        "id": "2026-04-23-Amazon-Quick-now-supports-permission-verification",
+        "title": "Amazon Quick",
+        "date": "2026-04-23",
+        "year": 2026,
+        "month": 4,
+        "day": 23,
+        "path": "2026/04/23/Amazon-Quick-now-supports-permission-verification",
+        "summary": "Amazon Quick now supports permission verification for ACL enabled knowledge bases",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/23/Amazon-Quick-now-supports-permission-verification/thumbnail.png"
+      },
+      {
+        "id": "2026-04-23-Amazon-S3-now-supports-five-additional-checksum-al",
+        "title": "Amazon S3 が 5つの新しいチェックサムアルゴリズムに対応",
+        "date": "2026-04-23",
+        "year": 2026,
+        "month": 4,
+        "day": 23,
+        "path": "2026/04/23/Amazon-S3-now-supports-five-additional-checksum-al",
+        "summary": "Amazon S3 now supports five additional checksum algorithms",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/23/Amazon-S3-now-supports-five-additional-checksum-al/thumbnail.png"
+      },
+      {
         "id": "2026-04-22-AWS-Data-Exports-now-supports-cross-account-delive",
         "title": "AWS Data Exports",
         "date": "2026-04-22",
@@ -1905,8 +1960,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-04-23T21:36:58.802Z",
-    "totalCount": 173
+    "updatedAt": "2026-04-23T23:35:51.798Z",
+    "totalCount": 178
   },
   "metadata:months": [
     "2026/04",
@@ -1917,6 +1972,61 @@
     "year": 2026,
     "month": 4,
     "articles": [
+      {
+        "id": "2026-04-23-AWS-Elastic-Beanstalk-AI-powered-environment-analy",
+        "title": "AWS Elastic Beanstalk",
+        "date": "2026-04-23",
+        "year": 2026,
+        "month": 4,
+        "day": 23,
+        "path": "2026/04/23/AWS-Elastic-Beanstalk-AI-powered-environment-analy",
+        "summary": "AWS Elastic Beanstalk AI powered environment analysis now supports Windows",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/23/AWS-Elastic-Beanstalk-AI-powered-environment-analy/thumbnail.png"
+      },
+      {
+        "id": "2026-04-23-Amazon-Athena-simplifies-federated-queries-with-ma",
+        "title": "Amazon Athena",
+        "date": "2026-04-23",
+        "year": 2026,
+        "month": 4,
+        "day": 23,
+        "path": "2026/04/23/Amazon-Athena-simplifies-federated-queries-with-ma",
+        "summary": "Amazon Athena simplifies federated queries with managed connectors",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/23/Amazon-Athena-simplifies-federated-queries-with-ma/thumbnail.png"
+      },
+      {
+        "id": "2026-04-23-Amazon-Quick-now-supports-multiple-owners-for-admi",
+        "title": "Amazon Quick",
+        "date": "2026-04-23",
+        "year": 2026,
+        "month": 4,
+        "day": 23,
+        "path": "2026/04/23/Amazon-Quick-now-supports-multiple-owners-for-admi",
+        "summary": "Amazon Quick now supports multiple owners for admin managed SharePoint and Google Drive knowledge bases",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/23/Amazon-Quick-now-supports-multiple-owners-for-admi/thumbnail.png"
+      },
+      {
+        "id": "2026-04-23-Amazon-Quick-now-supports-permission-verification",
+        "title": "Amazon Quick",
+        "date": "2026-04-23",
+        "year": 2026,
+        "month": 4,
+        "day": 23,
+        "path": "2026/04/23/Amazon-Quick-now-supports-permission-verification",
+        "summary": "Amazon Quick now supports permission verification for ACL enabled knowledge bases",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/23/Amazon-Quick-now-supports-permission-verification/thumbnail.png"
+      },
+      {
+        "id": "2026-04-23-Amazon-S3-now-supports-five-additional-checksum-al",
+        "title": "Amazon S3 が 5つの新しいチェックサムアルゴリズムに対応",
+        "date": "2026-04-23",
+        "year": 2026,
+        "month": 4,
+        "day": 23,
+        "path": "2026/04/23/Amazon-S3-now-supports-five-additional-checksum-al",
+        "summary": "Amazon S3 now supports five additional checksum algorithms",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/23/Amazon-S3-now-supports-five-additional-checksum-al/thumbnail.png"
+      },
       {
         "id": "2026-04-22-AWS-Data-Exports-now-supports-cross-account-delive",
         "title": "AWS Data Exports",
