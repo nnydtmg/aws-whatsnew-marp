@@ -255,6 +255,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/17/Amazon-ECR-Pull-Through-Cache-Now-Supports-Referre/thumbnail.png"
       },
       {
+        "id": "2026-04-17-Amazon-Managed-Grafana-now-supports-creating-Grafa",
+        "title": "Amazon Managed Grafana",
+        "date": "2026-04-17",
+        "year": 2026,
+        "month": 4,
+        "day": 17,
+        "path": "2026/04/17/Amazon-Managed-Grafana-now-supports-creating-Grafa",
+        "summary": "Amazon Managed Grafana now supports creating Grafana 12.4 workspaces",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/17/Amazon-Managed-Grafana-now-supports-creating-Grafa/thumbnail.png"
+      },
+      {
         "id": "2026-04-16-Amazon-CloudWatch-now-supports-cross-region-teleme",
         "title": "Amazon CloudWatch",
         "date": "2026-04-16",
@@ -1960,8 +1971,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-04-23T23:35:51.798Z",
-    "totalCount": 178
+    "updatedAt": "2026-04-24T01:27:31.022Z",
+    "totalCount": 179
   },
   "metadata:months": [
     "2026/04",
@@ -2224,6 +2235,17 @@
         "path": "2026/04/17/Amazon-ECR-Pull-Through-Cache-Now-Supports-Referre",
         "summary": "Amazon ECR Pull Through Cache Now Supports Referrer Discovery and Sync",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/17/Amazon-ECR-Pull-Through-Cache-Now-Supports-Referre/thumbnail.png"
+      },
+      {
+        "id": "2026-04-17-Amazon-Managed-Grafana-now-supports-creating-Grafa",
+        "title": "Amazon Managed Grafana",
+        "date": "2026-04-17",
+        "year": 2026,
+        "month": 4,
+        "day": 17,
+        "path": "2026/04/17/Amazon-Managed-Grafana-now-supports-creating-Grafa",
+        "summary": "Amazon Managed Grafana now supports creating Grafana 12.4 workspaces",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/17/Amazon-Managed-Grafana-now-supports-creating-Grafa/thumbnail.png"
       },
       {
         "id": "2026-04-16-Amazon-CloudWatch-now-supports-cross-region-teleme",
