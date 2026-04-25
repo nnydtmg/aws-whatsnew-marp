@@ -2,6 +2,39 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-04-24-AWS-Client-VPN-now-supports-native-AWS-Transit-Gat",
+        "title": "AWS Client VPN now supports native AWS Transit Gateway integration",
+        "date": "2026-04-24",
+        "year": 2026,
+        "month": 4,
+        "day": 24,
+        "path": "2026/04/24/AWS-Client-VPN-now-supports-native-AWS-Transit-Gat",
+        "summary": "AWS Client VPN now supports native AWS Transit Gateway integration",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/24/AWS-Client-VPN-now-supports-native-AWS-Transit-Gat/thumbnail.png"
+      },
+      {
+        "id": "2026-04-24-Amazon-Bedrock-AgentCore-Gateway-and-Identity-supp",
+        "title": "Amazon Bedrock AgentCore Gateway と Identity が VPC egress をサポート",
+        "date": "2026-04-24",
+        "year": 2026,
+        "month": 4,
+        "day": 24,
+        "path": "2026/04/24/Amazon-Bedrock-AgentCore-Gateway-and-Identity-supp",
+        "summary": "Amazon Bedrock AgentCore Gateway and Identity support VPC egress",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/24/Amazon-Bedrock-AgentCore-Gateway-and-Identity-supp/thumbnail.png"
+      },
+      {
+        "id": "2026-04-24-Amazon-Quick-now-integrates-with-Visiers-Vee-agent",
+        "title": "Amazon Quick × Visier Vee の統合",
+        "date": "2026-04-24",
+        "year": 2026,
+        "month": 4,
+        "day": 24,
+        "path": "2026/04/24/Amazon-Quick-now-integrates-with-Visiers-Vee-agent",
+        "summary": "Amazon Quick now integrates with Visier's Vee agent for workforce intelligence",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/24/Amazon-Quick-now-integrates-with-Visiers-Vee-agent/thumbnail.png"
+      },
+      {
         "id": "2026-04-23-AWS-Elastic-Beanstalk-AI-powered-environment-analy",
         "title": "AWS Elastic Beanstalk",
         "date": "2026-04-23",
@@ -1971,8 +2004,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-04-24T23:31:19.681Z",
-    "totalCount": 179
+    "updatedAt": "2026-04-25T01:20:56.764Z",
+    "totalCount": 182
   },
   "metadata:months": [
     "2026/04",
@@ -1983,6 +2016,39 @@
     "year": 2026,
     "month": 4,
     "articles": [
+      {
+        "id": "2026-04-24-AWS-Client-VPN-now-supports-native-AWS-Transit-Gat",
+        "title": "AWS Client VPN now supports native AWS Transit Gateway integration",
+        "date": "2026-04-24",
+        "year": 2026,
+        "month": 4,
+        "day": 24,
+        "path": "2026/04/24/AWS-Client-VPN-now-supports-native-AWS-Transit-Gat",
+        "summary": "AWS Client VPN now supports native AWS Transit Gateway integration",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/24/AWS-Client-VPN-now-supports-native-AWS-Transit-Gat/thumbnail.png"
+      },
+      {
+        "id": "2026-04-24-Amazon-Bedrock-AgentCore-Gateway-and-Identity-supp",
+        "title": "Amazon Bedrock AgentCore Gateway と Identity が VPC egress をサポート",
+        "date": "2026-04-24",
+        "year": 2026,
+        "month": 4,
+        "day": 24,
+        "path": "2026/04/24/Amazon-Bedrock-AgentCore-Gateway-and-Identity-supp",
+        "summary": "Amazon Bedrock AgentCore Gateway and Identity support VPC egress",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/24/Amazon-Bedrock-AgentCore-Gateway-and-Identity-supp/thumbnail.png"
+      },
+      {
+        "id": "2026-04-24-Amazon-Quick-now-integrates-with-Visiers-Vee-agent",
+        "title": "Amazon Quick × Visier Vee の統合",
+        "date": "2026-04-24",
+        "year": 2026,
+        "month": 4,
+        "day": 24,
+        "path": "2026/04/24/Amazon-Quick-now-integrates-with-Visiers-Vee-agent",
+        "summary": "Amazon Quick now integrates with Visier's Vee agent for workforce intelligence",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/24/Amazon-Quick-now-integrates-with-Visiers-Vee-agent/thumbnail.png"
+      },
       {
         "id": "2026-04-23-AWS-Elastic-Beanstalk-AI-powered-environment-analy",
         "title": "AWS Elastic Beanstalk",
@@ -2743,7 +2809,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/01/Amazon-CloudWatch-now-supports-ingesting-Security/thumbnail.png"
       }
     ],
-    "totalPages": 7
+    "totalPages": 8
   },
   "metadata:2026/03": {
     "year": 2026,
