@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-04-27-Amazon-Quick-Automate-now-supports-import-and-expo",
+        "title": "Amazon Quick Automate",
+        "date": "2026-04-27",
+        "year": 2026,
+        "month": 4,
+        "day": 27,
+        "path": "2026/04/27/Amazon-Quick-Automate-now-supports-import-and-expo",
+        "summary": "Amazon Quick Automate now supports import and export of automations across AWS accounts",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/27/Amazon-Quick-Automate-now-supports-import-and-expo/thumbnail.png"
+      },
+      {
         "id": "2026-04-24-AWS-Client-VPN-now-supports-native-AWS-Transit-Gat",
         "title": "AWS Client VPN now supports native AWS Transit Gateway integration",
         "date": "2026-04-24",
@@ -198,6 +209,28 @@
         "path": "2026/04/21/Amazon-Aurora-serverless-Up-to-30-better-performan",
         "summary": "Amazon Aurora serverless: Up to 30% better performance, smarter scaling, and still scales to zero",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/21/Amazon-Aurora-serverless-Up-to-30-better-performan/thumbnail.png"
+      },
+      {
+        "id": "2026-04-21-Amazon-Quick-Automate-announces-shared-file-storag",
+        "title": "Amazon Quick Automate",
+        "date": "2026-04-21",
+        "year": 2026,
+        "month": 4,
+        "day": 21,
+        "path": "2026/04/21/Amazon-Quick-Automate-announces-shared-file-storag",
+        "summary": "Amazon Quick Automate announces shared file storage for automations",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/21/Amazon-Quick-Automate-announces-shared-file-storag/thumbnail.png"
+      },
+      {
+        "id": "2026-04-21-Amazon-Quick-Automate-now-provides-APIs-to-trigger",
+        "title": "Amazon Quick Automate",
+        "date": "2026-04-21",
+        "year": 2026,
+        "month": 4,
+        "day": 21,
+        "path": "2026/04/21/Amazon-Quick-Automate-now-provides-APIs-to-trigger",
+        "summary": "Amazon Quick Automate now provides APIs to trigger and monitor automation jobs",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/21/Amazon-Quick-Automate-now-provides-APIs-to-trigger/thumbnail.png"
       },
       {
         "id": "2026-04-20-AWS-Managed-Microsoft-AD-is-now-available-on-Windo",
@@ -2004,8 +2037,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-04-27T22:39:35.120Z",
-    "totalCount": 182
+    "updatedAt": "2026-04-27T23:42:24.845Z",
+    "totalCount": 185
   },
   "metadata:months": [
     "2026/04",
@@ -2016,6 +2049,17 @@
     "year": 2026,
     "month": 4,
     "articles": [
+      {
+        "id": "2026-04-27-Amazon-Quick-Automate-now-supports-import-and-expo",
+        "title": "Amazon Quick Automate",
+        "date": "2026-04-27",
+        "year": 2026,
+        "month": 4,
+        "day": 27,
+        "path": "2026/04/27/Amazon-Quick-Automate-now-supports-import-and-expo",
+        "summary": "Amazon Quick Automate now supports import and export of automations across AWS accounts",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/27/Amazon-Quick-Automate-now-supports-import-and-expo/thumbnail.png"
+      },
       {
         "id": "2026-04-24-AWS-Client-VPN-now-supports-native-AWS-Transit-Gat",
         "title": "AWS Client VPN now supports native AWS Transit Gateway integration",
@@ -2213,6 +2257,28 @@
         "path": "2026/04/21/Amazon-Aurora-serverless-Up-to-30-better-performan",
         "summary": "Amazon Aurora serverless: Up to 30% better performance, smarter scaling, and still scales to zero",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/21/Amazon-Aurora-serverless-Up-to-30-better-performan/thumbnail.png"
+      },
+      {
+        "id": "2026-04-21-Amazon-Quick-Automate-announces-shared-file-storag",
+        "title": "Amazon Quick Automate",
+        "date": "2026-04-21",
+        "year": 2026,
+        "month": 4,
+        "day": 21,
+        "path": "2026/04/21/Amazon-Quick-Automate-announces-shared-file-storag",
+        "summary": "Amazon Quick Automate announces shared file storage for automations",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/21/Amazon-Quick-Automate-announces-shared-file-storag/thumbnail.png"
+      },
+      {
+        "id": "2026-04-21-Amazon-Quick-Automate-now-provides-APIs-to-trigger",
+        "title": "Amazon Quick Automate",
+        "date": "2026-04-21",
+        "year": 2026,
+        "month": 4,
+        "day": 21,
+        "path": "2026/04/21/Amazon-Quick-Automate-now-provides-APIs-to-trigger",
+        "summary": "Amazon Quick Automate now provides APIs to trigger and monitor automation jobs",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/21/Amazon-Quick-Automate-now-provides-APIs-to-trigger/thumbnail.png"
       },
       {
         "id": "2026-04-20-AWS-Managed-Microsoft-AD-is-now-available-on-Windo",
