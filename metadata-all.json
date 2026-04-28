@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-04-28-AWS-KMS-now-tracks-last-usage-of-all-KMS-keys",
+        "title": "AWS KMS では全キーの最後の使用状況を追跡",
+        "date": "2026-04-28",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "path": "2026/04/28/AWS-KMS-now-tracks-last-usage-of-all-KMS-keys",
+        "summary": "AWS KMS では全キーの最後の使用状況を追跡",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/28/AWS-KMS-now-tracks-last-usage-of-all-KMS-keys/thumbnail.png"
+      },
+      {
         "id": "2026-04-28-Amazon-Redshift-Serverless-AI-driven-scaling-is-no",
         "title": "Amazon Redshift Serverless",
         "date": "2026-04-28",
@@ -2048,8 +2059,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-04-28T01:52:00.993Z",
-    "totalCount": 186
+    "updatedAt": "2026-04-28T05:21:51.071Z",
+    "totalCount": 187
   },
   "metadata:months": [
     "2026/04",
@@ -2060,6 +2071,17 @@
     "year": 2026,
     "month": 4,
     "articles": [
+      {
+        "id": "2026-04-28-AWS-KMS-now-tracks-last-usage-of-all-KMS-keys",
+        "title": "AWS KMS では全キーの最後の使用状況を追跡",
+        "date": "2026-04-28",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "path": "2026/04/28/AWS-KMS-now-tracks-last-usage-of-all-KMS-keys",
+        "summary": "AWS KMS では全キーの最後の使用状況を追跡",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/28/AWS-KMS-now-tracks-last-usage-of-all-KMS-keys/thumbnail.png"
+      },
       {
         "id": "2026-04-28-Amazon-Redshift-Serverless-AI-driven-scaling-is-no",
         "title": "Amazon Redshift Serverless",
