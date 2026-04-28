@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-04-28-AWS-Billing-Conductor-launches-Passthrough-Pricing",
+        "title": "AWS Billing Conductor",
+        "date": "2026-04-28",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "path": "2026/04/28/AWS-Billing-Conductor-launches-Passthrough-Pricing",
+        "summary": "AWS Billing Conductor launches Passthrough Pricing Plan for Billing Transfer users",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/28/AWS-Billing-Conductor-launches-Passthrough-Pricing/thumbnail.png"
+      },
+      {
+        "id": "2026-04-28-AWS-Cost-Optimization-Hub-now-supports-CSV-downloa",
+        "title": "AWS Cost Optimization Hub が CSV ダウンロードに対応",
+        "date": "2026-04-28",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "path": "2026/04/28/AWS-Cost-Optimization-Hub-now-supports-CSV-downloa",
+        "summary": "AWS Cost Optimization Hub now supports CSV download",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/28/AWS-Cost-Optimization-Hub-now-supports-CSV-downloa/thumbnail.png"
+      },
+      {
         "id": "2026-04-28-AWS-KMS-now-tracks-last-usage-of-all-KMS-keys",
         "title": "AWS KMS では全キーの最後の使用状況を追跡",
         "date": "2026-04-28",
@@ -13,6 +35,72 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/28/AWS-KMS-now-tracks-last-usage-of-all-KMS-keys/thumbnail.png"
       },
       {
+        "id": "2026-04-28-Amazon-Bedrock-now-offers-OpenAI-models-Codex-and",
+        "title": "Amazon Bedrock",
+        "date": "2026-04-28",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "path": "2026/04/28/Amazon-Bedrock-now-offers-OpenAI-models-Codex-and",
+        "summary": "Amazon Bedrock now offers OpenAI models, Codex, and Managed Agents (Limited Preview)",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/28/Amazon-Bedrock-now-offers-OpenAI-models-Codex-and/thumbnail.png"
+      },
+      {
+        "id": "2026-04-28-Amazon-Connect-Talent-for-AI-powered-hiring-now-av",
+        "title": "Amazon Connect Talent",
+        "date": "2026-04-28",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "path": "2026/04/28/Amazon-Connect-Talent-for-AI-powered-hiring-now-av",
+        "summary": "Amazon Connect Talent for AI powered hiring (now available in Preview)",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/28/Amazon-Connect-Talent-for-AI-powered-hiring-now-av/thumbnail.png"
+      },
+      {
+        "id": "2026-04-28-Amazon-Quick-expands-integrations-to-include-Googl",
+        "title": "Amazon Quick 統合拡大",
+        "date": "2026-04-28",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "path": "2026/04/28/Amazon-Quick-expands-integrations-to-include-Googl",
+        "summary": "Amazon Quick expands integrations to include Google Workspace, Zoom, Airtable, and more",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/28/Amazon-Quick-expands-integrations-to-include-Googl/thumbnail.png"
+      },
+      {
+        "id": "2026-04-28-Amazon-Quick-now-available-as-a-desktop-applicatio",
+        "title": "Amazon Quick",
+        "date": "2026-04-28",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "path": "2026/04/28/Amazon-Quick-now-available-as-a-desktop-applicatio",
+        "summary": "Amazon Quick now available as a desktop application for macOS and Windows (Preview)",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/28/Amazon-Quick-now-available-as-a-desktop-applicatio/thumbnail.png"
+      },
+      {
+        "id": "2026-04-28-Amazon-Quick-now-supports-document-level-access-co",
+        "title": "Amazon Quick",
+        "date": "2026-04-28",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "path": "2026/04/28/Amazon-Quick-now-supports-document-level-access-co",
+        "summary": "Amazon Quick now supports document level access controls for SharePoint knowledge bases",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/28/Amazon-Quick-now-supports-document-level-access-co/thumbnail.png"
+      },
+      {
+        "id": "2026-04-28-Amazon-Quickがチャット内でドキュメントビジュアル作成機能をサポート",
+        "title": "Amazon Quick",
+        "date": "2026-04-28",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "path": "2026/04/28/Amazon-Quickがチャット内でドキュメントビジュアル作成機能をサポート",
+        "summary": "Amazon Quickがチャット内でドキュメント・ビジュアル作成機能をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/28/Amazon-Quickがチャット内でドキュメントビジュアル作成機能をサポート/thumbnail.png"
+      },
+      {
         "id": "2026-04-28-Amazon-Redshift-Serverless-AI-driven-scaling-is-no",
         "title": "Amazon Redshift Serverless",
         "date": "2026-04-28",
@@ -22,6 +110,28 @@
         "path": "2026/04/28/Amazon-Redshift-Serverless-AI-driven-scaling-is-no",
         "summary": "Amazon Redshift Serverless AI driven scaling is now the default for new workgroups",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/28/Amazon-Redshift-Serverless-AI-driven-scaling-is-no/thumbnail.png"
+      },
+      {
+        "id": "2026-04-28-Build-custom-applications-using-natural-language-i",
+        "title": "Amazon Quick で自然言語を使用してカスタムアプリケーションを構築",
+        "date": "2026-04-28",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "path": "2026/04/28/Build-custom-applications-using-natural-language-i",
+        "summary": "Build custom applications using natural language in Amazon Quick (Preview)",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/28/Build-custom-applications-using-natural-language-i/thumbnail.png"
+      },
+      {
+        "id": "2026-04-28-Start-using-Amazon-Quick-for-free-in-minutes-with",
+        "title": "Amazon Quick を無料で使い始めよう",
+        "date": "2026-04-28",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "path": "2026/04/28/Start-using-Amazon-Quick-for-free-in-minutes-with",
+        "summary": "Start using Amazon Quick for free in minutes with Free and Plus pricing plans",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/28/Start-using-Amazon-Quick-for-free-in-minutes-with/thumbnail.png"
       },
       {
         "id": "2026-04-27-Amazon-Quick-Automate-now-supports-import-and-expo",
@@ -2059,8 +2169,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-04-28T22:45:26.522Z",
-    "totalCount": 187
+    "updatedAt": "2026-04-28T23:44:37.771Z",
+    "totalCount": 197
   },
   "metadata:months": [
     "2026/04",
@@ -2071,6 +2181,28 @@
     "year": 2026,
     "month": 4,
     "articles": [
+      {
+        "id": "2026-04-28-AWS-Billing-Conductor-launches-Passthrough-Pricing",
+        "title": "AWS Billing Conductor",
+        "date": "2026-04-28",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "path": "2026/04/28/AWS-Billing-Conductor-launches-Passthrough-Pricing",
+        "summary": "AWS Billing Conductor launches Passthrough Pricing Plan for Billing Transfer users",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/28/AWS-Billing-Conductor-launches-Passthrough-Pricing/thumbnail.png"
+      },
+      {
+        "id": "2026-04-28-AWS-Cost-Optimization-Hub-now-supports-CSV-downloa",
+        "title": "AWS Cost Optimization Hub が CSV ダウンロードに対応",
+        "date": "2026-04-28",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "path": "2026/04/28/AWS-Cost-Optimization-Hub-now-supports-CSV-downloa",
+        "summary": "AWS Cost Optimization Hub now supports CSV download",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/28/AWS-Cost-Optimization-Hub-now-supports-CSV-downloa/thumbnail.png"
+      },
       {
         "id": "2026-04-28-AWS-KMS-now-tracks-last-usage-of-all-KMS-keys",
         "title": "AWS KMS では全キーの最後の使用状況を追跡",
@@ -2083,6 +2215,72 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/28/AWS-KMS-now-tracks-last-usage-of-all-KMS-keys/thumbnail.png"
       },
       {
+        "id": "2026-04-28-Amazon-Bedrock-now-offers-OpenAI-models-Codex-and",
+        "title": "Amazon Bedrock",
+        "date": "2026-04-28",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "path": "2026/04/28/Amazon-Bedrock-now-offers-OpenAI-models-Codex-and",
+        "summary": "Amazon Bedrock now offers OpenAI models, Codex, and Managed Agents (Limited Preview)",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/28/Amazon-Bedrock-now-offers-OpenAI-models-Codex-and/thumbnail.png"
+      },
+      {
+        "id": "2026-04-28-Amazon-Connect-Talent-for-AI-powered-hiring-now-av",
+        "title": "Amazon Connect Talent",
+        "date": "2026-04-28",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "path": "2026/04/28/Amazon-Connect-Talent-for-AI-powered-hiring-now-av",
+        "summary": "Amazon Connect Talent for AI powered hiring (now available in Preview)",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/28/Amazon-Connect-Talent-for-AI-powered-hiring-now-av/thumbnail.png"
+      },
+      {
+        "id": "2026-04-28-Amazon-Quick-expands-integrations-to-include-Googl",
+        "title": "Amazon Quick 統合拡大",
+        "date": "2026-04-28",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "path": "2026/04/28/Amazon-Quick-expands-integrations-to-include-Googl",
+        "summary": "Amazon Quick expands integrations to include Google Workspace, Zoom, Airtable, and more",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/28/Amazon-Quick-expands-integrations-to-include-Googl/thumbnail.png"
+      },
+      {
+        "id": "2026-04-28-Amazon-Quick-now-available-as-a-desktop-applicatio",
+        "title": "Amazon Quick",
+        "date": "2026-04-28",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "path": "2026/04/28/Amazon-Quick-now-available-as-a-desktop-applicatio",
+        "summary": "Amazon Quick now available as a desktop application for macOS and Windows (Preview)",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/28/Amazon-Quick-now-available-as-a-desktop-applicatio/thumbnail.png"
+      },
+      {
+        "id": "2026-04-28-Amazon-Quick-now-supports-document-level-access-co",
+        "title": "Amazon Quick",
+        "date": "2026-04-28",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "path": "2026/04/28/Amazon-Quick-now-supports-document-level-access-co",
+        "summary": "Amazon Quick now supports document level access controls for SharePoint knowledge bases",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/28/Amazon-Quick-now-supports-document-level-access-co/thumbnail.png"
+      },
+      {
+        "id": "2026-04-28-Amazon-Quickがチャット内でドキュメントビジュアル作成機能をサポート",
+        "title": "Amazon Quick",
+        "date": "2026-04-28",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "path": "2026/04/28/Amazon-Quickがチャット内でドキュメントビジュアル作成機能をサポート",
+        "summary": "Amazon Quickがチャット内でドキュメント・ビジュアル作成機能をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/28/Amazon-Quickがチャット内でドキュメントビジュアル作成機能をサポート/thumbnail.png"
+      },
+      {
         "id": "2026-04-28-Amazon-Redshift-Serverless-AI-driven-scaling-is-no",
         "title": "Amazon Redshift Serverless",
         "date": "2026-04-28",
@@ -2092,6 +2290,28 @@
         "path": "2026/04/28/Amazon-Redshift-Serverless-AI-driven-scaling-is-no",
         "summary": "Amazon Redshift Serverless AI driven scaling is now the default for new workgroups",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/28/Amazon-Redshift-Serverless-AI-driven-scaling-is-no/thumbnail.png"
+      },
+      {
+        "id": "2026-04-28-Build-custom-applications-using-natural-language-i",
+        "title": "Amazon Quick で自然言語を使用してカスタムアプリケーションを構築",
+        "date": "2026-04-28",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "path": "2026/04/28/Build-custom-applications-using-natural-language-i",
+        "summary": "Build custom applications using natural language in Amazon Quick (Preview)",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/28/Build-custom-applications-using-natural-language-i/thumbnail.png"
+      },
+      {
+        "id": "2026-04-28-Start-using-Amazon-Quick-for-free-in-minutes-with",
+        "title": "Amazon Quick を無料で使い始めよう",
+        "date": "2026-04-28",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "path": "2026/04/28/Start-using-Amazon-Quick-for-free-in-minutes-with",
+        "summary": "Start using Amazon Quick for free in minutes with Free and Plus pricing plans",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/28/Start-using-Amazon-Quick-for-free-in-minutes-with/thumbnail.png"
       },
       {
         "id": "2026-04-27-Amazon-Quick-Automate-now-supports-import-and-expo",
@@ -2919,7 +3139,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/01/Amazon-CloudWatch-now-supports-ingesting-Security/thumbnail.png"
       }
     ],
-    "totalPages": 8
+    "totalPages": 9
   },
   "metadata:2026/03": {
     "year": 2026,
