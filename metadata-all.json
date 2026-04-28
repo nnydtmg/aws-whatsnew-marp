@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-04-28-Amazon-Redshift-Serverless-AI-driven-scaling-is-no",
+        "title": "Amazon Redshift Serverless",
+        "date": "2026-04-28",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "path": "2026/04/28/Amazon-Redshift-Serverless-AI-driven-scaling-is-no",
+        "summary": "Amazon Redshift Serverless AI driven scaling is now the default for new workgroups",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/28/Amazon-Redshift-Serverless-AI-driven-scaling-is-no/thumbnail.png"
+      },
+      {
         "id": "2026-04-27-Amazon-Quick-Automate-now-supports-import-and-expo",
         "title": "Amazon Quick Automate",
         "date": "2026-04-27",
@@ -2037,8 +2048,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-04-27T23:42:24.845Z",
-    "totalCount": 185
+    "updatedAt": "2026-04-28T01:52:00.993Z",
+    "totalCount": 186
   },
   "metadata:months": [
     "2026/04",
@@ -2049,6 +2060,17 @@
     "year": 2026,
     "month": 4,
     "articles": [
+      {
+        "id": "2026-04-28-Amazon-Redshift-Serverless-AI-driven-scaling-is-no",
+        "title": "Amazon Redshift Serverless",
+        "date": "2026-04-28",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "path": "2026/04/28/Amazon-Redshift-Serverless-AI-driven-scaling-is-no",
+        "summary": "Amazon Redshift Serverless AI driven scaling is now the default for new workgroups",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/28/Amazon-Redshift-Serverless-AI-driven-scaling-is-no/thumbnail.png"
+      },
       {
         "id": "2026-04-27-Amazon-Quick-Automate-now-supports-import-and-expo",
         "title": "Amazon Quick Automate",
