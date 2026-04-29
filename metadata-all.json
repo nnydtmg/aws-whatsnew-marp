@@ -2,6 +2,61 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-04-29-AWS-Transfer-Family-Terraform-モジュール-が-Okta-および-Mic",
+        "title": "AWS Transfer Family Terraform モジュール",
+        "date": "2026-04-29",
+        "year": 2026,
+        "month": 4,
+        "day": 29,
+        "path": "2026/04/29/AWS-Transfer-Family-Terraform-モジュール-が-Okta-および-Mic",
+        "summary": "AWS Transfer Family Terraform モジュール が Okta および Microsoft Entra ID との統合をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/29/AWS-Transfer-Family-Terraform-モジュール-が-Okta-および-Mic/thumbnail.png"
+      },
+      {
+        "id": "2026-04-29-Amazon-Bedrock-AgentCore-Runtime-now-supports-Node",
+        "title": "Amazon Bedrock AgentCore Runtime",
+        "date": "2026-04-29",
+        "year": 2026,
+        "month": 4,
+        "day": 29,
+        "path": "2026/04/29/Amazon-Bedrock-AgentCore-Runtime-now-supports-Node",
+        "summary": "Amazon Bedrock AgentCore Runtime now supports Node.js for direct code deployment",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/29/Amazon-Bedrock-AgentCore-Runtime-now-supports-Node/thumbnail.png"
+      },
+      {
+        "id": "2026-04-29-Amazon-CloudFront-now-supports-invalidation-by-cac",
+        "title": "Amazon CloudFront",
+        "date": "2026-04-29",
+        "year": 2026,
+        "month": 4,
+        "day": 29,
+        "path": "2026/04/29/Amazon-CloudFront-now-supports-invalidation-by-cac",
+        "summary": "Amazon CloudFront now supports invalidation by cache tag",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/29/Amazon-CloudFront-now-supports-invalidation-by-cac/thumbnail.png"
+      },
+      {
+        "id": "2026-04-29-Amazon-CloudWatch-RUM-now-supports-an-improved-App",
+        "title": "Amazon CloudWatch RUM",
+        "date": "2026-04-29",
+        "year": 2026,
+        "month": 4,
+        "day": 29,
+        "path": "2026/04/29/Amazon-CloudWatch-RUM-now-supports-an-improved-App",
+        "summary": "Amazon CloudWatch RUM now supports an improved App Monitors overview with health, SLO, and tracing status",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/29/Amazon-CloudWatch-RUM-now-supports-an-improved-App/thumbnail.png"
+      },
+      {
+        "id": "2026-04-29-Amazon-CloudWatch-adds-visual-agent-configuration",
+        "title": "Amazon CloudWatch EC2向けビジュアルエージェント設定",
+        "date": "2026-04-29",
+        "year": 2026,
+        "month": 4,
+        "day": 29,
+        "path": "2026/04/29/Amazon-CloudWatch-adds-visual-agent-configuration",
+        "summary": "Amazon CloudWatch adds visual agent configuration to the EC2 console",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/29/Amazon-CloudWatch-adds-visual-agent-configuration/thumbnail.png"
+      },
+      {
         "id": "2026-04-28-AWS-Billing-Conductor-launches-Passthrough-Pricing",
         "title": "AWS Billing Conductor",
         "date": "2026-04-28",
@@ -2169,8 +2224,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-04-29T21:51:23.648Z",
-    "totalCount": 197
+    "updatedAt": "2026-04-29T22:45:01.105Z",
+    "totalCount": 202
   },
   "metadata:months": [
     "2026/04",
@@ -2181,6 +2236,61 @@
     "year": 2026,
     "month": 4,
     "articles": [
+      {
+        "id": "2026-04-29-AWS-Transfer-Family-Terraform-モジュール-が-Okta-および-Mic",
+        "title": "AWS Transfer Family Terraform モジュール",
+        "date": "2026-04-29",
+        "year": 2026,
+        "month": 4,
+        "day": 29,
+        "path": "2026/04/29/AWS-Transfer-Family-Terraform-モジュール-が-Okta-および-Mic",
+        "summary": "AWS Transfer Family Terraform モジュール が Okta および Microsoft Entra ID との統合をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/29/AWS-Transfer-Family-Terraform-モジュール-が-Okta-および-Mic/thumbnail.png"
+      },
+      {
+        "id": "2026-04-29-Amazon-Bedrock-AgentCore-Runtime-now-supports-Node",
+        "title": "Amazon Bedrock AgentCore Runtime",
+        "date": "2026-04-29",
+        "year": 2026,
+        "month": 4,
+        "day": 29,
+        "path": "2026/04/29/Amazon-Bedrock-AgentCore-Runtime-now-supports-Node",
+        "summary": "Amazon Bedrock AgentCore Runtime now supports Node.js for direct code deployment",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/29/Amazon-Bedrock-AgentCore-Runtime-now-supports-Node/thumbnail.png"
+      },
+      {
+        "id": "2026-04-29-Amazon-CloudFront-now-supports-invalidation-by-cac",
+        "title": "Amazon CloudFront",
+        "date": "2026-04-29",
+        "year": 2026,
+        "month": 4,
+        "day": 29,
+        "path": "2026/04/29/Amazon-CloudFront-now-supports-invalidation-by-cac",
+        "summary": "Amazon CloudFront now supports invalidation by cache tag",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/29/Amazon-CloudFront-now-supports-invalidation-by-cac/thumbnail.png"
+      },
+      {
+        "id": "2026-04-29-Amazon-CloudWatch-RUM-now-supports-an-improved-App",
+        "title": "Amazon CloudWatch RUM",
+        "date": "2026-04-29",
+        "year": 2026,
+        "month": 4,
+        "day": 29,
+        "path": "2026/04/29/Amazon-CloudWatch-RUM-now-supports-an-improved-App",
+        "summary": "Amazon CloudWatch RUM now supports an improved App Monitors overview with health, SLO, and tracing status",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/29/Amazon-CloudWatch-RUM-now-supports-an-improved-App/thumbnail.png"
+      },
+      {
+        "id": "2026-04-29-Amazon-CloudWatch-adds-visual-agent-configuration",
+        "title": "Amazon CloudWatch EC2向けビジュアルエージェント設定",
+        "date": "2026-04-29",
+        "year": 2026,
+        "month": 4,
+        "day": 29,
+        "path": "2026/04/29/Amazon-CloudWatch-adds-visual-agent-configuration",
+        "summary": "Amazon CloudWatch adds visual agent configuration to the EC2 console",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/29/Amazon-CloudWatch-adds-visual-agent-configuration/thumbnail.png"
+      },
       {
         "id": "2026-04-28-AWS-Billing-Conductor-launches-Passthrough-Pricing",
         "title": "AWS Billing Conductor",
@@ -3139,7 +3249,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/01/Amazon-CloudWatch-now-supports-ingesting-Security/thumbnail.png"
       }
     ],
-    "totalPages": 9
+    "totalPages": 10
   },
   "metadata:2026/03": {
     "year": 2026,
