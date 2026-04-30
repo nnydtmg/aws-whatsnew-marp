@@ -57,6 +57,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/29/Amazon-CloudWatch-adds-visual-agent-configuration/thumbnail.png"
       },
       {
+        "id": "2026-04-29-Amazon-Quick-Adds-Custom-Sort-for-Filter-Controls",
+        "title": "Amazon QuickSight",
+        "date": "2026-04-29",
+        "year": 2026,
+        "month": 4,
+        "day": 29,
+        "path": "2026/04/29/Amazon-Quick-Adds-Custom-Sort-for-Filter-Controls",
+        "summary": "Amazon Quick Adds Custom Sort for Filter Controls",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/29/Amazon-Quick-Adds-Custom-Sort-for-Filter-Controls/thumbnail.png"
+      },
+      {
         "id": "2026-04-28-AWS-Billing-Conductor-launches-Passthrough-Pricing",
         "title": "AWS Billing Conductor",
         "date": "2026-04-28",
@@ -2224,8 +2235,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-04-30T05:21:53.073Z",
-    "totalCount": 202
+    "updatedAt": "2026-04-30T08:01:44.698Z",
+    "totalCount": 203
   },
   "metadata:months": [
     "2026/04",
@@ -2290,6 +2301,17 @@
         "path": "2026/04/29/Amazon-CloudWatch-adds-visual-agent-configuration",
         "summary": "Amazon CloudWatch adds visual agent configuration to the EC2 console",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/29/Amazon-CloudWatch-adds-visual-agent-configuration/thumbnail.png"
+      },
+      {
+        "id": "2026-04-29-Amazon-Quick-Adds-Custom-Sort-for-Filter-Controls",
+        "title": "Amazon QuickSight",
+        "date": "2026-04-29",
+        "year": 2026,
+        "month": 4,
+        "day": 29,
+        "path": "2026/04/29/Amazon-Quick-Adds-Custom-Sort-for-Filter-Controls",
+        "summary": "Amazon Quick Adds Custom Sort for Filter Controls",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/29/Amazon-Quick-Adds-Custom-Sort-for-Filter-Controls/thumbnail.png"
       },
       {
         "id": "2026-04-28-AWS-Billing-Conductor-launches-Passthrough-Pricing",
