@@ -2,6 +2,39 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-04-30-AWS-Lambda-adds-support-for-Ruby-40",
+        "title": "AWS Lambda adds support for Ruby 4.0",
+        "date": "2026-04-30",
+        "year": 2026,
+        "month": 4,
+        "day": 30,
+        "path": "2026/04/30/AWS-Lambda-adds-support-for-Ruby-40",
+        "summary": "AWS Lambda adds support for Ruby 4.0",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/30/AWS-Lambda-adds-support-for-Ruby-40/thumbnail.png"
+      },
+      {
+        "id": "2026-04-30-Amazon-MQ-for-RabbitMQ-now-supports-Prometheus-met",
+        "title": "Amazon MQ for RabbitMQ",
+        "date": "2026-04-30",
+        "year": 2026,
+        "month": 4,
+        "day": 30,
+        "path": "2026/04/30/Amazon-MQ-for-RabbitMQ-now-supports-Prometheus-met",
+        "summary": "Amazon MQ for RabbitMQ now supports Prometheus metrics",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/30/Amazon-MQ-for-RabbitMQ-now-supports-Prometheus-met/thumbnail.png"
+      },
+      {
+        "id": "2026-04-30-Amazon-OpenSearch-Service-now-supports-index-level",
+        "title": "Amazon OpenSearch Service",
+        "date": "2026-04-30",
+        "year": 2026,
+        "month": 4,
+        "day": 30,
+        "path": "2026/04/30/Amazon-OpenSearch-Service-now-supports-index-level",
+        "summary": "Amazon OpenSearch Service now supports index level encryption",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/30/Amazon-OpenSearch-Service-now-supports-index-level/thumbnail.png"
+      },
+      {
         "id": "2026-04-29-AWS-Transfer-Family-Terraform-モジュール-が-Okta-および-Mic",
         "title": "AWS Transfer Family Terraform モジュール",
         "date": "2026-04-29",
@@ -2235,8 +2268,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-04-30T22:40:36.992Z",
-    "totalCount": 203
+    "updatedAt": "2026-04-30T23:41:52.522Z",
+    "totalCount": 206
   },
   "metadata:months": [
     "2026/04",
@@ -2247,6 +2280,39 @@
     "year": 2026,
     "month": 4,
     "articles": [
+      {
+        "id": "2026-04-30-AWS-Lambda-adds-support-for-Ruby-40",
+        "title": "AWS Lambda adds support for Ruby 4.0",
+        "date": "2026-04-30",
+        "year": 2026,
+        "month": 4,
+        "day": 30,
+        "path": "2026/04/30/AWS-Lambda-adds-support-for-Ruby-40",
+        "summary": "AWS Lambda adds support for Ruby 4.0",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/30/AWS-Lambda-adds-support-for-Ruby-40/thumbnail.png"
+      },
+      {
+        "id": "2026-04-30-Amazon-MQ-for-RabbitMQ-now-supports-Prometheus-met",
+        "title": "Amazon MQ for RabbitMQ",
+        "date": "2026-04-30",
+        "year": 2026,
+        "month": 4,
+        "day": 30,
+        "path": "2026/04/30/Amazon-MQ-for-RabbitMQ-now-supports-Prometheus-met",
+        "summary": "Amazon MQ for RabbitMQ now supports Prometheus metrics",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/30/Amazon-MQ-for-RabbitMQ-now-supports-Prometheus-met/thumbnail.png"
+      },
+      {
+        "id": "2026-04-30-Amazon-OpenSearch-Service-now-supports-index-level",
+        "title": "Amazon OpenSearch Service",
+        "date": "2026-04-30",
+        "year": 2026,
+        "month": 4,
+        "day": 30,
+        "path": "2026/04/30/Amazon-OpenSearch-Service-now-supports-index-level",
+        "summary": "Amazon OpenSearch Service now supports index level encryption",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/30/Amazon-OpenSearch-Service-now-supports-index-level/thumbnail.png"
+      },
       {
         "id": "2026-04-29-AWS-Transfer-Family-Terraform-モジュール-が-Okta-および-Mic",
         "title": "AWS Transfer Family Terraform モジュール",
