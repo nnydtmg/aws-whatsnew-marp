@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-05-01-Amazon-Bedrock-AgentCore-launches-capabilities-for",
+        "title": "Amazon Bedrock AgentCore",
+        "date": "2026-05-01",
+        "year": 2026,
+        "month": 5,
+        "day": 1,
+        "path": "2026/05/01/Amazon-Bedrock-AgentCore-launches-capabilities-for",
+        "summary": "Amazon Bedrock AgentCore launches capabilities for optimizing agent performance in preview",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/01/Amazon-Bedrock-AgentCore-launches-capabilities-for/thumbnail.png"
+      },
+      {
         "id": "2026-04-30-AWS-Lambda-adds-support-for-Ruby-40",
         "title": "AWS Lambda adds support for Ruby 4.0",
         "date": "2026-04-30",
@@ -33,6 +44,17 @@
         "path": "2026/04/30/Amazon-OpenSearch-Service-now-supports-index-level",
         "summary": "Amazon OpenSearch Service now supports index level encryption",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/30/Amazon-OpenSearch-Service-now-supports-index-level/thumbnail.png"
+      },
+      {
+        "id": "2026-04-30-Amazon-Quick-adds-Microsoft-Excel-PowerPoint-exten",
+        "title": "Amazon Quick adds Microsoft Excel, PowerPoint extensions and updates the Word extension (Preview)",
+        "date": "2026-04-30",
+        "year": 2026,
+        "month": 4,
+        "day": 30,
+        "path": "2026/04/30/Amazon-Quick-adds-Microsoft-Excel-PowerPoint-exten",
+        "summary": "Amazon Quick adds Microsoft Excel, PowerPoint extensions and updates the Word extension (Preview)",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/30/Amazon-Quick-adds-Microsoft-Excel-PowerPoint-exten/thumbnail.png"
       },
       {
         "id": "2026-04-29-AWS-Transfer-Family-Terraform-モジュール-が-Okta-および-Mic",
@@ -2268,14 +2290,33 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-05-01T09:47:36.701Z",
-    "totalCount": 206
+    "updatedAt": "2026-05-01T11:01:04.426Z",
+    "totalCount": 208
   },
   "metadata:months": [
+    "2026/05",
     "2026/04",
     "2026/03",
     "2026/02"
   ],
+  "metadata:2026/05": {
+    "year": 2026,
+    "month": 5,
+    "articles": [
+      {
+        "id": "2026-05-01-Amazon-Bedrock-AgentCore-launches-capabilities-for",
+        "title": "Amazon Bedrock AgentCore",
+        "date": "2026-05-01",
+        "year": 2026,
+        "month": 5,
+        "day": 1,
+        "path": "2026/05/01/Amazon-Bedrock-AgentCore-launches-capabilities-for",
+        "summary": "Amazon Bedrock AgentCore launches capabilities for optimizing agent performance in preview",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/01/Amazon-Bedrock-AgentCore-launches-capabilities-for/thumbnail.png"
+      }
+    ],
+    "totalPages": 1
+  },
   "metadata:2026/04": {
     "year": 2026,
     "month": 4,
@@ -2312,6 +2353,17 @@
         "path": "2026/04/30/Amazon-OpenSearch-Service-now-supports-index-level",
         "summary": "Amazon OpenSearch Service now supports index level encryption",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/30/Amazon-OpenSearch-Service-now-supports-index-level/thumbnail.png"
+      },
+      {
+        "id": "2026-04-30-Amazon-Quick-adds-Microsoft-Excel-PowerPoint-exten",
+        "title": "Amazon Quick adds Microsoft Excel, PowerPoint extensions and updates the Word extension (Preview)",
+        "date": "2026-04-30",
+        "year": 2026,
+        "month": 4,
+        "day": 30,
+        "path": "2026/04/30/Amazon-Quick-adds-Microsoft-Excel-PowerPoint-exten",
+        "summary": "Amazon Quick adds Microsoft Excel, PowerPoint extensions and updates the Word extension (Preview)",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/04/30/Amazon-Quick-adds-Microsoft-Excel-PowerPoint-exten/thumbnail.png"
       },
       {
         "id": "2026-04-29-AWS-Transfer-Family-Terraform-モジュール-が-Okta-および-Mic",
