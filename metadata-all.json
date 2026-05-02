@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-05-02-Amazon-EKS-now-supports-one-click-cluster-access-t",
+        "title": "Amazon EKS now supports one-click cluster access through CloudShell",
+        "date": "2026-05-02",
+        "year": 2026,
+        "month": 5,
+        "day": 2,
+        "path": "2026/05/02/Amazon-EKS-now-supports-one-click-cluster-access-t",
+        "summary": "Amazon EKS now supports one click cluster access through CloudShell",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/02/Amazon-EKS-now-supports-one-click-cluster-access-t/thumbnail.png"
+      },
+      {
+        "id": "2026-05-01-AWS-Transform-now-offers-BI-migration-agents-for-P",
+        "title": "AWS Transform",
+        "date": "2026-05-01",
+        "year": 2026,
+        "month": 5,
+        "day": 1,
+        "path": "2026/05/01/AWS-Transform-now-offers-BI-migration-agents-for-P",
+        "summary": "AWS Transform now offers BI migration agents for Power BI and Tableau to Amazon QuickSight",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/01/AWS-Transform-now-offers-BI-migration-agents-for-P/thumbnail.png"
+      },
+      {
         "id": "2026-05-01-Amazon-Bedrock-AgentCore-launches-capabilities-for",
         "title": "Amazon Bedrock AgentCore",
         "date": "2026-05-01",
@@ -11,6 +33,50 @@
         "path": "2026/05/01/Amazon-Bedrock-AgentCore-launches-capabilities-for",
         "summary": "Amazon Bedrock AgentCore launches capabilities for optimizing agent performance in preview",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/01/Amazon-Bedrock-AgentCore-launches-capabilities-for/thumbnail.png"
+      },
+      {
+        "id": "2026-05-01-Amazon-CloudFront-Announces-WebSocket-Support-for",
+        "title": "Amazon CloudFront Announces WebSocket Support for VPC Origins",
+        "date": "2026-05-01",
+        "year": 2026,
+        "month": 5,
+        "day": 1,
+        "path": "2026/05/01/Amazon-CloudFront-Announces-WebSocket-Support-for",
+        "summary": "Amazon CloudFront Announces WebSocket Support for VPC Origins",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/01/Amazon-CloudFront-Announces-WebSocket-Support-for/thumbnail.png"
+      },
+      {
+        "id": "2026-05-01-Announcing-Kubernetes-Dynamic-Resource-Allocation",
+        "title": "Amazon EKS",
+        "date": "2026-05-01",
+        "year": 2026,
+        "month": 5,
+        "day": 1,
+        "path": "2026/05/01/Announcing-Kubernetes-Dynamic-Resource-Allocation",
+        "summary": "Announcing Kubernetes Dynamic Resource Allocation for Elastic Fabric Adapter",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/01/Announcing-Kubernetes-Dynamic-Resource-Allocation/thumbnail.png"
+      },
+      {
+        "id": "2026-05-01-Concurrency-Scaling-Support-for-auto-copy-and-zero",
+        "title": "Concurrency Scaling Support for auto-copy and zero-ETL",
+        "date": "2026-05-01",
+        "year": 2026,
+        "month": 5,
+        "day": 1,
+        "path": "2026/05/01/Concurrency-Scaling-Support-for-auto-copy-and-zero",
+        "summary": "Concurrency Scaling Support for auto copy and zero ETL",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/01/Concurrency-Scaling-Support-for-auto-copy-and-zero/thumbnail.png"
+      },
+      {
+        "id": "2026-05-01-OpenSearch-UI-supports-cross-region-data-access-to",
+        "title": "OpenSearch UI クロスリージョンデータアクセス",
+        "date": "2026-05-01",
+        "year": 2026,
+        "month": 5,
+        "day": 1,
+        "path": "2026/05/01/OpenSearch-UI-supports-cross-region-data-access-to",
+        "summary": "OpenSearch UI supports cross region data access to OpenSearch domains",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/01/OpenSearch-UI-supports-cross-region-data-access-to/thumbnail.png"
       },
       {
         "id": "2026-04-30-AWS-Lambda-adds-support-for-Ruby-40",
@@ -2290,8 +2356,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-05-01T23:41:51.856Z",
-    "totalCount": 208
+    "updatedAt": "2026-05-02T01:45:01.269Z",
+    "totalCount": 214
   },
   "metadata:months": [
     "2026/05",
@@ -2304,6 +2370,28 @@
     "month": 5,
     "articles": [
       {
+        "id": "2026-05-02-Amazon-EKS-now-supports-one-click-cluster-access-t",
+        "title": "Amazon EKS now supports one-click cluster access through CloudShell",
+        "date": "2026-05-02",
+        "year": 2026,
+        "month": 5,
+        "day": 2,
+        "path": "2026/05/02/Amazon-EKS-now-supports-one-click-cluster-access-t",
+        "summary": "Amazon EKS now supports one click cluster access through CloudShell",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/02/Amazon-EKS-now-supports-one-click-cluster-access-t/thumbnail.png"
+      },
+      {
+        "id": "2026-05-01-AWS-Transform-now-offers-BI-migration-agents-for-P",
+        "title": "AWS Transform",
+        "date": "2026-05-01",
+        "year": 2026,
+        "month": 5,
+        "day": 1,
+        "path": "2026/05/01/AWS-Transform-now-offers-BI-migration-agents-for-P",
+        "summary": "AWS Transform now offers BI migration agents for Power BI and Tableau to Amazon QuickSight",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/01/AWS-Transform-now-offers-BI-migration-agents-for-P/thumbnail.png"
+      },
+      {
         "id": "2026-05-01-Amazon-Bedrock-AgentCore-launches-capabilities-for",
         "title": "Amazon Bedrock AgentCore",
         "date": "2026-05-01",
@@ -2313,6 +2401,50 @@
         "path": "2026/05/01/Amazon-Bedrock-AgentCore-launches-capabilities-for",
         "summary": "Amazon Bedrock AgentCore launches capabilities for optimizing agent performance in preview",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/01/Amazon-Bedrock-AgentCore-launches-capabilities-for/thumbnail.png"
+      },
+      {
+        "id": "2026-05-01-Amazon-CloudFront-Announces-WebSocket-Support-for",
+        "title": "Amazon CloudFront Announces WebSocket Support for VPC Origins",
+        "date": "2026-05-01",
+        "year": 2026,
+        "month": 5,
+        "day": 1,
+        "path": "2026/05/01/Amazon-CloudFront-Announces-WebSocket-Support-for",
+        "summary": "Amazon CloudFront Announces WebSocket Support for VPC Origins",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/01/Amazon-CloudFront-Announces-WebSocket-Support-for/thumbnail.png"
+      },
+      {
+        "id": "2026-05-01-Announcing-Kubernetes-Dynamic-Resource-Allocation",
+        "title": "Amazon EKS",
+        "date": "2026-05-01",
+        "year": 2026,
+        "month": 5,
+        "day": 1,
+        "path": "2026/05/01/Announcing-Kubernetes-Dynamic-Resource-Allocation",
+        "summary": "Announcing Kubernetes Dynamic Resource Allocation for Elastic Fabric Adapter",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/01/Announcing-Kubernetes-Dynamic-Resource-Allocation/thumbnail.png"
+      },
+      {
+        "id": "2026-05-01-Concurrency-Scaling-Support-for-auto-copy-and-zero",
+        "title": "Concurrency Scaling Support for auto-copy and zero-ETL",
+        "date": "2026-05-01",
+        "year": 2026,
+        "month": 5,
+        "day": 1,
+        "path": "2026/05/01/Concurrency-Scaling-Support-for-auto-copy-and-zero",
+        "summary": "Concurrency Scaling Support for auto copy and zero ETL",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/01/Concurrency-Scaling-Support-for-auto-copy-and-zero/thumbnail.png"
+      },
+      {
+        "id": "2026-05-01-OpenSearch-UI-supports-cross-region-data-access-to",
+        "title": "OpenSearch UI クロスリージョンデータアクセス",
+        "date": "2026-05-01",
+        "year": 2026,
+        "month": 5,
+        "day": 1,
+        "path": "2026/05/01/OpenSearch-UI-supports-cross-region-data-access-to",
+        "summary": "OpenSearch UI supports cross region data access to OpenSearch domains",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/01/OpenSearch-UI-supports-cross-region-data-access-to/thumbnail.png"
       }
     ],
     "totalPages": 1
