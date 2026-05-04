@@ -6,6 +6,42 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-04-Amazon-Aurora-DSQL-supports-JSON-data-type-with-co</loc>
+    <lastmod>2026-05-04</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-04-Amazon-EventBridge-supports-data-plane-logging-to</loc>
+    <lastmod>2026-05-04</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-04-Amazon-Quick-generates-dashboards-from-natural-lan</loc>
+    <lastmod>2026-05-04</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-04-Amazon-Quick-introduces-Dataset-QA-for-conversatio</loc>
+    <lastmod>2026-05-04</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-04-Amazon-Quick-now-supports-S3-tables-bucket-as-a-da</loc>
+    <lastmod>2026-05-04</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-04-Amazon-Quick-upgrades-the-extension-for-Microsoft</loc>
+    <lastmod>2026-05-04</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-02-Amazon-EKS-now-supports-one-click-cluster-access-t</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>never</changefreq>

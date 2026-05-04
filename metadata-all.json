@@ -2,6 +2,72 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-05-04-Amazon-Aurora-DSQL-supports-JSON-data-type-with-co",
+        "title": "Amazon Aurora DSQL",
+        "date": "2026-05-04",
+        "year": 2026,
+        "month": 5,
+        "day": 4,
+        "path": "2026/05/04/Amazon-Aurora-DSQL-supports-JSON-data-type-with-co",
+        "summary": "Amazon Aurora DSQL supports JSON data type with compression",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/04/Amazon-Aurora-DSQL-supports-JSON-data-type-with-co/thumbnail.png"
+      },
+      {
+        "id": "2026-05-04-Amazon-EventBridge-supports-data-plane-logging-to",
+        "title": "Amazon EventBridge supports data plane logging to AWS CloudTrail",
+        "date": "2026-05-04",
+        "year": 2026,
+        "month": 5,
+        "day": 4,
+        "path": "2026/05/04/Amazon-EventBridge-supports-data-plane-logging-to",
+        "summary": "Amazon EventBridge supports data plane logging to AWS CloudTrail",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/04/Amazon-EventBridge-supports-data-plane-logging-to/thumbnail.png"
+      },
+      {
+        "id": "2026-05-04-Amazon-Quick-generates-dashboards-from-natural-lan",
+        "title": "Amazon Quick generates dashboards from natural language prompts",
+        "date": "2026-05-04",
+        "year": 2026,
+        "month": 5,
+        "day": 4,
+        "path": "2026/05/04/Amazon-Quick-generates-dashboards-from-natural-lan",
+        "summary": "Amazon Quick generates dashboards from natural language prompts",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/04/Amazon-Quick-generates-dashboards-from-natural-lan/thumbnail.png"
+      },
+      {
+        "id": "2026-05-04-Amazon-Quick-introduces-Dataset-QA-for-conversatio",
+        "title": "Amazon Quick Dataset Q&A",
+        "date": "2026-05-04",
+        "year": 2026,
+        "month": 5,
+        "day": 4,
+        "path": "2026/05/04/Amazon-Quick-introduces-Dataset-QA-for-conversatio",
+        "summary": "Amazon Quick introduces Dataset Q&A for conversational analytics against enterprise data",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/04/Amazon-Quick-introduces-Dataset-QA-for-conversatio/thumbnail.png"
+      },
+      {
+        "id": "2026-05-04-Amazon-Quick-now-supports-S3-tables-bucket-as-a-da",
+        "title": "Amazon Quickが S3テーブルバケットをサポート",
+        "date": "2026-05-04",
+        "year": 2026,
+        "month": 5,
+        "day": 4,
+        "path": "2026/05/04/Amazon-Quick-now-supports-S3-tables-bucket-as-a-da",
+        "summary": "Amazon Quick now supports S3 tables bucket as a data source",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/04/Amazon-Quick-now-supports-S3-tables-bucket-as-a-da/thumbnail.png"
+      },
+      {
+        "id": "2026-05-04-Amazon-Quick-upgrades-the-extension-for-Microsoft",
+        "title": "Amazon Quick",
+        "date": "2026-05-04",
+        "year": 2026,
+        "month": 5,
+        "day": 4,
+        "path": "2026/05/04/Amazon-Quick-upgrades-the-extension-for-Microsoft",
+        "summary": "Amazon Quick upgrades the extension for Microsoft Outlook (Preview)",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/04/Amazon-Quick-upgrades-the-extension-for-Microsoft/thumbnail.png"
+      },
+      {
         "id": "2026-05-02-Amazon-EKS-now-supports-one-click-cluster-access-t",
         "title": "Amazon EKS now supports one-click cluster access through CloudShell",
         "date": "2026-05-02",
@@ -2356,8 +2422,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-05-04T22:47:52.036Z",
-    "totalCount": 214
+    "updatedAt": "2026-05-04T23:42:52.577Z",
+    "totalCount": 220
   },
   "metadata:months": [
     "2026/05",
@@ -2369,6 +2435,72 @@
     "year": 2026,
     "month": 5,
     "articles": [
+      {
+        "id": "2026-05-04-Amazon-Aurora-DSQL-supports-JSON-data-type-with-co",
+        "title": "Amazon Aurora DSQL",
+        "date": "2026-05-04",
+        "year": 2026,
+        "month": 5,
+        "day": 4,
+        "path": "2026/05/04/Amazon-Aurora-DSQL-supports-JSON-data-type-with-co",
+        "summary": "Amazon Aurora DSQL supports JSON data type with compression",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/04/Amazon-Aurora-DSQL-supports-JSON-data-type-with-co/thumbnail.png"
+      },
+      {
+        "id": "2026-05-04-Amazon-EventBridge-supports-data-plane-logging-to",
+        "title": "Amazon EventBridge supports data plane logging to AWS CloudTrail",
+        "date": "2026-05-04",
+        "year": 2026,
+        "month": 5,
+        "day": 4,
+        "path": "2026/05/04/Amazon-EventBridge-supports-data-plane-logging-to",
+        "summary": "Amazon EventBridge supports data plane logging to AWS CloudTrail",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/04/Amazon-EventBridge-supports-data-plane-logging-to/thumbnail.png"
+      },
+      {
+        "id": "2026-05-04-Amazon-Quick-generates-dashboards-from-natural-lan",
+        "title": "Amazon Quick generates dashboards from natural language prompts",
+        "date": "2026-05-04",
+        "year": 2026,
+        "month": 5,
+        "day": 4,
+        "path": "2026/05/04/Amazon-Quick-generates-dashboards-from-natural-lan",
+        "summary": "Amazon Quick generates dashboards from natural language prompts",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/04/Amazon-Quick-generates-dashboards-from-natural-lan/thumbnail.png"
+      },
+      {
+        "id": "2026-05-04-Amazon-Quick-introduces-Dataset-QA-for-conversatio",
+        "title": "Amazon Quick Dataset Q&A",
+        "date": "2026-05-04",
+        "year": 2026,
+        "month": 5,
+        "day": 4,
+        "path": "2026/05/04/Amazon-Quick-introduces-Dataset-QA-for-conversatio",
+        "summary": "Amazon Quick introduces Dataset Q&A for conversational analytics against enterprise data",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/04/Amazon-Quick-introduces-Dataset-QA-for-conversatio/thumbnail.png"
+      },
+      {
+        "id": "2026-05-04-Amazon-Quick-now-supports-S3-tables-bucket-as-a-da",
+        "title": "Amazon Quickが S3テーブルバケットをサポート",
+        "date": "2026-05-04",
+        "year": 2026,
+        "month": 5,
+        "day": 4,
+        "path": "2026/05/04/Amazon-Quick-now-supports-S3-tables-bucket-as-a-da",
+        "summary": "Amazon Quick now supports S3 tables bucket as a data source",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/04/Amazon-Quick-now-supports-S3-tables-bucket-as-a-da/thumbnail.png"
+      },
+      {
+        "id": "2026-05-04-Amazon-Quick-upgrades-the-extension-for-Microsoft",
+        "title": "Amazon Quick",
+        "date": "2026-05-04",
+        "year": 2026,
+        "month": 5,
+        "day": 4,
+        "path": "2026/05/04/Amazon-Quick-upgrades-the-extension-for-Microsoft",
+        "summary": "Amazon Quick upgrades the extension for Microsoft Outlook (Preview)",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/04/Amazon-Quick-upgrades-the-extension-for-Microsoft/thumbnail.png"
+      },
       {
         "id": "2026-05-02-Amazon-EKS-now-supports-one-click-cluster-access-t",
         "title": "Amazon EKS now supports one-click cluster access through CloudShell",
@@ -2447,7 +2579,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/01/OpenSearch-UI-supports-cross-region-data-access-to/thumbnail.png"
       }
     ],
-    "totalPages": 1
+    "totalPages": 2
   },
   "metadata:2026/04": {
     "year": 2026,
