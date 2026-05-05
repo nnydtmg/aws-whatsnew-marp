@@ -79,6 +79,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/04/Amazon-Quick-upgrades-the-extension-for-Microsoft/thumbnail.png"
       },
       {
+        "id": "2026-05-04-Amazon-WorkSpaces-Applications-now-supports-host-t",
+        "title": "Amazon WorkSpaces Applications",
+        "date": "2026-05-04",
+        "year": 2026,
+        "month": 5,
+        "day": 4,
+        "path": "2026/05/04/Amazon-WorkSpaces-Applications-now-supports-host-t",
+        "summary": "Amazon WorkSpaces Applications now supports host to client URL redirection",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/04/Amazon-WorkSpaces-Applications-now-supports-host-t/thumbnail.png"
+      },
+      {
         "id": "2026-05-02-Amazon-EKS-now-supports-one-click-cluster-access-t",
         "title": "Amazon EKS now supports one-click cluster access through CloudShell",
         "date": "2026-05-02",
@@ -2433,8 +2444,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-05-05T04:53:14.313Z",
-    "totalCount": 221
+    "updatedAt": "2026-05-05T07:11:35.644Z",
+    "totalCount": 222
   },
   "metadata:months": [
     "2026/05",
@@ -2522,6 +2533,17 @@
         "path": "2026/05/04/Amazon-Quick-upgrades-the-extension-for-Microsoft",
         "summary": "Amazon Quick upgrades the extension for Microsoft Outlook (Preview)",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/04/Amazon-Quick-upgrades-the-extension-for-Microsoft/thumbnail.png"
+      },
+      {
+        "id": "2026-05-04-Amazon-WorkSpaces-Applications-now-supports-host-t",
+        "title": "Amazon WorkSpaces Applications",
+        "date": "2026-05-04",
+        "year": 2026,
+        "month": 5,
+        "day": 4,
+        "path": "2026/05/04/Amazon-WorkSpaces-Applications-now-supports-host-t",
+        "summary": "Amazon WorkSpaces Applications now supports host to client URL redirection",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/04/Amazon-WorkSpaces-Applications-now-supports-host-t/thumbnail.png"
       },
       {
         "id": "2026-05-02-Amazon-EKS-now-supports-one-click-cluster-access-t",
