@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-05-05-Amazon-CloudWatch-Logs-Insights-supports-querying",
+        "title": "Amazon CloudWatch Logs Insights",
+        "date": "2026-05-05",
+        "year": 2026,
+        "month": 5,
+        "day": 5,
+        "path": "2026/05/05/Amazon-CloudWatch-Logs-Insights-supports-querying",
+        "summary": "Amazon CloudWatch Logs Insights supports querying by log group tags",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/05/Amazon-CloudWatch-Logs-Insights-supports-querying/thumbnail.png"
+      },
+      {
         "id": "2026-05-04-Amazon-Aurora-DSQL-supports-JSON-data-type-with-co",
         "title": "Amazon Aurora DSQL",
         "date": "2026-05-04",
@@ -2422,8 +2433,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-05-05T01:49:34.554Z",
-    "totalCount": 220
+    "updatedAt": "2026-05-05T04:53:14.313Z",
+    "totalCount": 221
   },
   "metadata:months": [
     "2026/05",
@@ -2435,6 +2446,17 @@
     "year": 2026,
     "month": 5,
     "articles": [
+      {
+        "id": "2026-05-05-Amazon-CloudWatch-Logs-Insights-supports-querying",
+        "title": "Amazon CloudWatch Logs Insights",
+        "date": "2026-05-05",
+        "year": 2026,
+        "month": 5,
+        "day": 5,
+        "path": "2026/05/05/Amazon-CloudWatch-Logs-Insights-supports-querying",
+        "summary": "Amazon CloudWatch Logs Insights supports querying by log group tags",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/05/Amazon-CloudWatch-Logs-Insights-supports-querying/thumbnail.png"
+      },
       {
         "id": "2026-05-04-Amazon-Aurora-DSQL-supports-JSON-data-type-with-co",
         "title": "Amazon Aurora DSQL",
