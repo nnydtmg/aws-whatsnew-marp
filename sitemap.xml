@@ -12,6 +12,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-06-AWS-Console-Mobile-App-adds-interactive-graphs-AI</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-06-AWS-Elastic-Beanstalk-now-supports-TLS-listeners-f</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-06-AWS-Elemental-MediaTailor-now-provides-automatic-s</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>never</changefreq>
@@ -42,7 +54,19 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-06-Announcing-Agent-Toolkit-for-AWS-help-AI-coding-ag</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-06-EC2-Instance-Store-CSI-driver-now-generally-availa</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-06-The-AWS-MCP-Server-is-now-generally-available</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>

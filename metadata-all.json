@@ -13,6 +13,28 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/06/AWS-Backup-improves-performance-for-Amazon-EKS-clu/thumbnail.png"
       },
       {
+        "id": "2026-05-06-AWS-Console-Mobile-App-adds-interactive-graphs-AI",
+        "title": "AWS Console Mobile App",
+        "date": "2026-05-06",
+        "year": 2026,
+        "month": 5,
+        "day": 6,
+        "path": "2026/05/06/AWS-Console-Mobile-App-adds-interactive-graphs-AI",
+        "summary": "AWS Console Mobile App adds interactive graphs, AI log summaries, and natural language logs search to CloudWatch Alarms",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/06/AWS-Console-Mobile-App-adds-interactive-graphs-AI/thumbnail.png"
+      },
+      {
+        "id": "2026-05-06-AWS-Elastic-Beanstalk-now-supports-TLS-listeners-f",
+        "title": "AWS Elastic Beanstalk now supports TLS listeners for Network Load Balancers",
+        "date": "2026-05-06",
+        "year": 2026,
+        "month": 5,
+        "day": 6,
+        "path": "2026/05/06/AWS-Elastic-Beanstalk-now-supports-TLS-listeners-f",
+        "summary": "AWS Elastic Beanstalk now supports TLS listeners for Network Load Balancers",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/06/AWS-Elastic-Beanstalk-now-supports-TLS-listeners-f/thumbnail.png"
+      },
+      {
         "id": "2026-05-06-AWS-Elemental-MediaTailor-now-provides-automatic-s",
         "title": "AWS Elemental MediaTailor",
         "date": "2026-05-06",
@@ -68,6 +90,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/06/Amazon-VPC-Lattice-resource-configurations-now-sup/thumbnail.png"
       },
       {
+        "id": "2026-05-06-Announcing-Agent-Toolkit-for-AWS-help-AI-coding-ag",
+        "title": "AWS Agent Toolkit",
+        "date": "2026-05-06",
+        "year": 2026,
+        "month": 5,
+        "day": 6,
+        "path": "2026/05/06/Announcing-Agent-Toolkit-for-AWS-help-AI-coding-ag",
+        "summary": "Announcing Agent Toolkit for AWS — help AI coding agents build effectively on AWS",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/06/Announcing-Agent-Toolkit-for-AWS-help-AI-coding-ag/thumbnail.png"
+      },
+      {
         "id": "2026-05-06-EC2-Instance-Store-CSI-driver-now-generally-availa",
         "title": "EC2 Instance Store CSI driver now generally available in EKS add-ons",
         "date": "2026-05-06",
@@ -77,6 +110,17 @@
         "path": "2026/05/06/EC2-Instance-Store-CSI-driver-now-generally-availa",
         "summary": "EC2 Instance Store CSI driver now generally available in EKS add ons",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/06/EC2-Instance-Store-CSI-driver-now-generally-availa/thumbnail.png"
+      },
+      {
+        "id": "2026-05-06-The-AWS-MCP-Server-is-now-generally-available",
+        "title": "The AWS MCP Server is now generally available",
+        "date": "2026-05-06",
+        "year": 2026,
+        "month": 5,
+        "day": 6,
+        "path": "2026/05/06/The-AWS-MCP-Server-is-now-generally-available",
+        "summary": "The AWS MCP Server is now generally available",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/06/The-AWS-MCP-Server-is-now-generally-available/thumbnail.png"
       },
       {
         "id": "2026-05-05-AWS-IAM-now-provides-higher-maximum-quotas-for-rol",
@@ -2565,8 +2609,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-05-06T21:02:06.671Z",
-    "totalCount": 233
+    "updatedAt": "2026-05-06T22:39:29.369Z",
+    "totalCount": 237
   },
   "metadata:months": [
     "2026/05",
@@ -2588,6 +2632,28 @@
         "path": "2026/05/06/AWS-Backup-improves-performance-for-Amazon-EKS-clu",
         "summary": "AWS Backup improves performance for Amazon EKS cluster backups",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/06/AWS-Backup-improves-performance-for-Amazon-EKS-clu/thumbnail.png"
+      },
+      {
+        "id": "2026-05-06-AWS-Console-Mobile-App-adds-interactive-graphs-AI",
+        "title": "AWS Console Mobile App",
+        "date": "2026-05-06",
+        "year": 2026,
+        "month": 5,
+        "day": 6,
+        "path": "2026/05/06/AWS-Console-Mobile-App-adds-interactive-graphs-AI",
+        "summary": "AWS Console Mobile App adds interactive graphs, AI log summaries, and natural language logs search to CloudWatch Alarms",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/06/AWS-Console-Mobile-App-adds-interactive-graphs-AI/thumbnail.png"
+      },
+      {
+        "id": "2026-05-06-AWS-Elastic-Beanstalk-now-supports-TLS-listeners-f",
+        "title": "AWS Elastic Beanstalk now supports TLS listeners for Network Load Balancers",
+        "date": "2026-05-06",
+        "year": 2026,
+        "month": 5,
+        "day": 6,
+        "path": "2026/05/06/AWS-Elastic-Beanstalk-now-supports-TLS-listeners-f",
+        "summary": "AWS Elastic Beanstalk now supports TLS listeners for Network Load Balancers",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/06/AWS-Elastic-Beanstalk-now-supports-TLS-listeners-f/thumbnail.png"
       },
       {
         "id": "2026-05-06-AWS-Elemental-MediaTailor-now-provides-automatic-s",
@@ -2645,6 +2711,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/06/Amazon-VPC-Lattice-resource-configurations-now-sup/thumbnail.png"
       },
       {
+        "id": "2026-05-06-Announcing-Agent-Toolkit-for-AWS-help-AI-coding-ag",
+        "title": "AWS Agent Toolkit",
+        "date": "2026-05-06",
+        "year": 2026,
+        "month": 5,
+        "day": 6,
+        "path": "2026/05/06/Announcing-Agent-Toolkit-for-AWS-help-AI-coding-ag",
+        "summary": "Announcing Agent Toolkit for AWS — help AI coding agents build effectively on AWS",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/06/Announcing-Agent-Toolkit-for-AWS-help-AI-coding-ag/thumbnail.png"
+      },
+      {
         "id": "2026-05-06-EC2-Instance-Store-CSI-driver-now-generally-availa",
         "title": "EC2 Instance Store CSI driver now generally available in EKS add-ons",
         "date": "2026-05-06",
@@ -2654,6 +2731,17 @@
         "path": "2026/05/06/EC2-Instance-Store-CSI-driver-now-generally-availa",
         "summary": "EC2 Instance Store CSI driver now generally available in EKS add ons",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/06/EC2-Instance-Store-CSI-driver-now-generally-availa/thumbnail.png"
+      },
+      {
+        "id": "2026-05-06-The-AWS-MCP-Server-is-now-generally-available",
+        "title": "The AWS MCP Server is now generally available",
+        "date": "2026-05-06",
+        "year": 2026,
+        "month": 5,
+        "day": 6,
+        "path": "2026/05/06/The-AWS-MCP-Server-is-now-generally-available",
+        "summary": "The AWS MCP Server is now generally available",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/06/The-AWS-MCP-Server-is-now-generally-available/thumbnail.png"
       },
       {
         "id": "2026-05-05-AWS-IAM-now-provides-higher-maximum-quotas-for-rol",
