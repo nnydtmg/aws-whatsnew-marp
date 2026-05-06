@@ -36,6 +36,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-06-AWS-Site-to-Site-VPN-now-supports-modifying-tunnel</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-06-Amazon-Bedrock-AgentCore-Memory-announces-metadata</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-06-Amazon-CloudWatch-RUM-now-supports-Session-Replay</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>never</changefreq>

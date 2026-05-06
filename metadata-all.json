@@ -57,6 +57,28 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/06/AWS-SAM-now-supports-WebSocket-APIs-for-Amazon-API/thumbnail.png"
       },
       {
+        "id": "2026-05-06-AWS-Site-to-Site-VPN-now-supports-modifying-tunnel",
+        "title": "AWS Site-to-Site VPN",
+        "date": "2026-05-06",
+        "year": 2026,
+        "month": 5,
+        "day": 6,
+        "path": "2026/05/06/AWS-Site-to-Site-VPN-now-supports-modifying-tunnel",
+        "summary": "AWS Site to Site VPN now supports modifying tunnel bandwidth on existing VPN connections",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/06/AWS-Site-to-Site-VPN-now-supports-modifying-tunnel/thumbnail.png"
+      },
+      {
+        "id": "2026-05-06-Amazon-Bedrock-AgentCore-Memory-announces-metadata",
+        "title": "Amazon Bedrock AgentCore Memory",
+        "date": "2026-05-06",
+        "year": 2026,
+        "month": 5,
+        "day": 6,
+        "path": "2026/05/06/Amazon-Bedrock-AgentCore-Memory-announces-metadata",
+        "summary": "Amazon Bedrock AgentCore Memory announces metadata for long term memory",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/06/Amazon-Bedrock-AgentCore-Memory-announces-metadata/thumbnail.png"
+      },
+      {
         "id": "2026-05-06-Amazon-CloudWatch-RUM-now-supports-Session-Replay",
         "title": "Amazon CloudWatch RUM now supports Session Replay for Web Applications",
         "date": "2026-05-06",
@@ -2609,8 +2631,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-05-06T22:39:29.369Z",
-    "totalCount": 237
+    "updatedAt": "2026-05-06T23:54:54.067Z",
+    "totalCount": 239
   },
   "metadata:months": [
     "2026/05",
@@ -2676,6 +2698,28 @@
         "path": "2026/05/06/AWS-SAM-now-supports-WebSocket-APIs-for-Amazon-API",
         "summary": "AWS SAM now supports WebSocket APIs for Amazon API Gateway",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/06/AWS-SAM-now-supports-WebSocket-APIs-for-Amazon-API/thumbnail.png"
+      },
+      {
+        "id": "2026-05-06-AWS-Site-to-Site-VPN-now-supports-modifying-tunnel",
+        "title": "AWS Site-to-Site VPN",
+        "date": "2026-05-06",
+        "year": 2026,
+        "month": 5,
+        "day": 6,
+        "path": "2026/05/06/AWS-Site-to-Site-VPN-now-supports-modifying-tunnel",
+        "summary": "AWS Site to Site VPN now supports modifying tunnel bandwidth on existing VPN connections",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/06/AWS-Site-to-Site-VPN-now-supports-modifying-tunnel/thumbnail.png"
+      },
+      {
+        "id": "2026-05-06-Amazon-Bedrock-AgentCore-Memory-announces-metadata",
+        "title": "Amazon Bedrock AgentCore Memory",
+        "date": "2026-05-06",
+        "year": 2026,
+        "month": 5,
+        "day": 6,
+        "path": "2026/05/06/Amazon-Bedrock-AgentCore-Memory-announces-metadata",
+        "summary": "Amazon Bedrock AgentCore Memory announces metadata for long term memory",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/06/Amazon-Bedrock-AgentCore-Memory-announces-metadata/thumbnail.png"
       },
       {
         "id": "2026-05-06-Amazon-CloudWatch-RUM-now-supports-Session-Replay",
@@ -2953,7 +2997,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/01/OpenSearch-UI-supports-cross-region-data-access-to/thumbnail.png"
       }
     ],
-    "totalPages": 3
+    "totalPages": 4
   },
   "metadata:2026/04": {
     "year": 2026,
