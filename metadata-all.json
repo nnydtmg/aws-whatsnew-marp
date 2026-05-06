@@ -189,6 +189,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/04/Amazon-Quick-upgrades-the-extension-for-Microsoft/thumbnail.png"
       },
       {
+        "id": "2026-05-04-Amazon-SageMaker-JumpStartで利用可能な4つの新しいQwenモデル",
+        "title": "Amazon SageMaker JumpStart で利用可能な4つの新しい Qwen モデル",
+        "date": "2026-05-04",
+        "year": 2026,
+        "month": 5,
+        "day": 4,
+        "path": "2026/05/04/Amazon-SageMaker-JumpStartで利用可能な4つの新しいQwenモデル",
+        "summary": "Amazon SageMaker JumpStart で利用可能な4つの新しい Qwen モデル",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/04/Amazon-SageMaker-JumpStartで利用可能な4つの新しいQwenモデル/thumbnail.png"
+      },
+      {
         "id": "2026-05-04-Amazon-WorkSpaces-Applications-now-supports-host-t",
         "title": "Amazon WorkSpaces Applications",
         "date": "2026-05-04",
@@ -2554,8 +2565,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-05-06T05:19:29.328Z",
-    "totalCount": 232
+    "updatedAt": "2026-05-06T08:05:11.965Z",
+    "totalCount": 233
   },
   "metadata:months": [
     "2026/05",
@@ -2753,6 +2764,17 @@
         "path": "2026/05/04/Amazon-Quick-upgrades-the-extension-for-Microsoft",
         "summary": "Amazon Quick upgrades the extension for Microsoft Outlook (Preview)",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/04/Amazon-Quick-upgrades-the-extension-for-Microsoft/thumbnail.png"
+      },
+      {
+        "id": "2026-05-04-Amazon-SageMaker-JumpStartで利用可能な4つの新しいQwenモデル",
+        "title": "Amazon SageMaker JumpStart で利用可能な4つの新しい Qwen モデル",
+        "date": "2026-05-04",
+        "year": 2026,
+        "month": 5,
+        "day": 4,
+        "path": "2026/05/04/Amazon-SageMaker-JumpStartで利用可能な4つの新しいQwenモデル",
+        "summary": "Amazon SageMaker JumpStart で利用可能な4つの新しい Qwen モデル",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/04/Amazon-SageMaker-JumpStartで利用可能な4つの新しいQwenモデル/thumbnail.png"
       },
       {
         "id": "2026-05-04-Amazon-WorkSpaces-Applications-now-supports-host-t",
