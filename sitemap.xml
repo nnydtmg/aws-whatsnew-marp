@@ -6,6 +6,36 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-07-AWS-Advanced-JDBC-Wrapper-now-provides-client-side</loc>
+    <lastmod>2026-05-07</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-07-AWS-Capabilities-by-Region-now-supports-availabili</loc>
+    <lastmod>2026-05-07</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-07-Amazon-ElastiCache-now-supports-real-time-aggregat</loc>
+    <lastmod>2026-05-07</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-07-Amazon-ElastiCache-now-supports-real-time-hybrid-s</loc>
+    <lastmod>2026-05-07</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-07-Amazon-OpenSearch-Service-now-supports-VPC-egress</loc>
+    <lastmod>2026-05-07</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-06-AWS-Backup-improves-performance-for-Amazon-EKS-clu</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>never</changefreq>
@@ -48,7 +78,19 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-06-Amazon-Bedrock-AgentCore-Runtime-now-supports-brin</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-06-Amazon-CloudWatch-RUM-now-supports-Session-Replay</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-06-Amazon-ElastiCache-now-supports-real-time-full-tex</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>

@@ -2,6 +2,61 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-05-07-AWS-Advanced-JDBC-Wrapper-now-provides-client-side",
+        "title": "AWS Advanced JDBC Wrapper now provides client-side encryption",
+        "date": "2026-05-07",
+        "year": 2026,
+        "month": 5,
+        "day": 7,
+        "path": "2026/05/07/AWS-Advanced-JDBC-Wrapper-now-provides-client-side",
+        "summary": "AWS Advanced JDBC Wrapper now provides client side encryption",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/07/AWS-Advanced-JDBC-Wrapper-now-provides-client-side/thumbnail.png"
+      },
+      {
+        "id": "2026-05-07-AWS-Capabilities-by-Region-now-supports-availabili",
+        "title": "AWS Capabilities by Region now supports availability notifications",
+        "date": "2026-05-07",
+        "year": 2026,
+        "month": 5,
+        "day": 7,
+        "path": "2026/05/07/AWS-Capabilities-by-Region-now-supports-availabili",
+        "summary": "AWS Capabilities by Region now supports availability notifications",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/07/AWS-Capabilities-by-Region-now-supports-availabili/thumbnail.png"
+      },
+      {
+        "id": "2026-05-07-Amazon-ElastiCache-now-supports-real-time-aggregat",
+        "title": "Amazon ElastiCache now supports real-time aggregations",
+        "date": "2026-05-07",
+        "year": 2026,
+        "month": 5,
+        "day": 7,
+        "path": "2026/05/07/Amazon-ElastiCache-now-supports-real-time-aggregat",
+        "summary": "Amazon ElastiCache now supports real time aggregations",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/07/Amazon-ElastiCache-now-supports-real-time-aggregat/thumbnail.png"
+      },
+      {
+        "id": "2026-05-07-Amazon-ElastiCache-now-supports-real-time-hybrid-s",
+        "title": "Amazon ElastiCache",
+        "date": "2026-05-07",
+        "year": 2026,
+        "month": 5,
+        "day": 7,
+        "path": "2026/05/07/Amazon-ElastiCache-now-supports-real-time-hybrid-s",
+        "summary": "Amazon ElastiCache now supports real time hybrid search with vector and full text",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/07/Amazon-ElastiCache-now-supports-real-time-hybrid-s/thumbnail.png"
+      },
+      {
+        "id": "2026-05-07-Amazon-OpenSearch-Service-now-supports-VPC-egress",
+        "title": "Amazon OpenSearch Service",
+        "date": "2026-05-07",
+        "year": 2026,
+        "month": 5,
+        "day": 7,
+        "path": "2026/05/07/Amazon-OpenSearch-Service-now-supports-VPC-egress",
+        "summary": "Amazon OpenSearch Service now supports VPC egress for private connectivity to resources in your VPC",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/07/Amazon-OpenSearch-Service-now-supports-VPC-egress/thumbnail.png"
+      },
+      {
         "id": "2026-05-06-AWS-Backup-improves-performance-for-Amazon-EKS-clu",
         "title": "AWS Backup improves performance for Amazon EKS cluster backups",
         "date": "2026-05-06",
@@ -79,6 +134,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/06/Amazon-Bedrock-AgentCore-Memory-announces-metadata/thumbnail.png"
       },
       {
+        "id": "2026-05-06-Amazon-Bedrock-AgentCore-Runtime-now-supports-brin",
+        "title": "Amazon Bedrock AgentCore Runtime",
+        "date": "2026-05-06",
+        "year": 2026,
+        "month": 5,
+        "day": 6,
+        "path": "2026/05/06/Amazon-Bedrock-AgentCore-Runtime-now-supports-brin",
+        "summary": "Amazon Bedrock AgentCore Runtime now supports bring your own file system from Amazon S3 Files and Amazon EFS",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/06/Amazon-Bedrock-AgentCore-Runtime-now-supports-brin/thumbnail.png"
+      },
+      {
         "id": "2026-05-06-Amazon-CloudWatch-RUM-now-supports-Session-Replay",
         "title": "Amazon CloudWatch RUM now supports Session Replay for Web Applications",
         "date": "2026-05-06",
@@ -88,6 +154,17 @@
         "path": "2026/05/06/Amazon-CloudWatch-RUM-now-supports-Session-Replay",
         "summary": "Amazon CloudWatch RUM now supports Session Replay for Web Applications",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/06/Amazon-CloudWatch-RUM-now-supports-Session-Replay/thumbnail.png"
+      },
+      {
+        "id": "2026-05-06-Amazon-ElastiCache-now-supports-real-time-full-tex",
+        "title": "Amazon ElastiCache",
+        "date": "2026-05-06",
+        "year": 2026,
+        "month": 5,
+        "day": 6,
+        "path": "2026/05/06/Amazon-ElastiCache-now-supports-real-time-full-tex",
+        "summary": "Amazon ElastiCache now supports real time full text, exact match, and numeric range search",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/06/Amazon-ElastiCache-now-supports-real-time-full-tex/thumbnail.png"
       },
       {
         "id": "2026-05-06-Amazon-Quick-now-integrates-with-New-Relic-for-obs",
@@ -2631,8 +2708,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-05-07T22:51:42.758Z",
-    "totalCount": 239
+    "updatedAt": "2026-05-07T23:43:17.945Z",
+    "totalCount": 246
   },
   "metadata:months": [
     "2026/05",
@@ -2644,6 +2721,61 @@
     "year": 2026,
     "month": 5,
     "articles": [
+      {
+        "id": "2026-05-07-AWS-Advanced-JDBC-Wrapper-now-provides-client-side",
+        "title": "AWS Advanced JDBC Wrapper now provides client-side encryption",
+        "date": "2026-05-07",
+        "year": 2026,
+        "month": 5,
+        "day": 7,
+        "path": "2026/05/07/AWS-Advanced-JDBC-Wrapper-now-provides-client-side",
+        "summary": "AWS Advanced JDBC Wrapper now provides client side encryption",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/07/AWS-Advanced-JDBC-Wrapper-now-provides-client-side/thumbnail.png"
+      },
+      {
+        "id": "2026-05-07-AWS-Capabilities-by-Region-now-supports-availabili",
+        "title": "AWS Capabilities by Region now supports availability notifications",
+        "date": "2026-05-07",
+        "year": 2026,
+        "month": 5,
+        "day": 7,
+        "path": "2026/05/07/AWS-Capabilities-by-Region-now-supports-availabili",
+        "summary": "AWS Capabilities by Region now supports availability notifications",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/07/AWS-Capabilities-by-Region-now-supports-availabili/thumbnail.png"
+      },
+      {
+        "id": "2026-05-07-Amazon-ElastiCache-now-supports-real-time-aggregat",
+        "title": "Amazon ElastiCache now supports real-time aggregations",
+        "date": "2026-05-07",
+        "year": 2026,
+        "month": 5,
+        "day": 7,
+        "path": "2026/05/07/Amazon-ElastiCache-now-supports-real-time-aggregat",
+        "summary": "Amazon ElastiCache now supports real time aggregations",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/07/Amazon-ElastiCache-now-supports-real-time-aggregat/thumbnail.png"
+      },
+      {
+        "id": "2026-05-07-Amazon-ElastiCache-now-supports-real-time-hybrid-s",
+        "title": "Amazon ElastiCache",
+        "date": "2026-05-07",
+        "year": 2026,
+        "month": 5,
+        "day": 7,
+        "path": "2026/05/07/Amazon-ElastiCache-now-supports-real-time-hybrid-s",
+        "summary": "Amazon ElastiCache now supports real time hybrid search with vector and full text",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/07/Amazon-ElastiCache-now-supports-real-time-hybrid-s/thumbnail.png"
+      },
+      {
+        "id": "2026-05-07-Amazon-OpenSearch-Service-now-supports-VPC-egress",
+        "title": "Amazon OpenSearch Service",
+        "date": "2026-05-07",
+        "year": 2026,
+        "month": 5,
+        "day": 7,
+        "path": "2026/05/07/Amazon-OpenSearch-Service-now-supports-VPC-egress",
+        "summary": "Amazon OpenSearch Service now supports VPC egress for private connectivity to resources in your VPC",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/07/Amazon-OpenSearch-Service-now-supports-VPC-egress/thumbnail.png"
+      },
       {
         "id": "2026-05-06-AWS-Backup-improves-performance-for-Amazon-EKS-clu",
         "title": "AWS Backup improves performance for Amazon EKS cluster backups",
@@ -2722,6 +2854,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/06/Amazon-Bedrock-AgentCore-Memory-announces-metadata/thumbnail.png"
       },
       {
+        "id": "2026-05-06-Amazon-Bedrock-AgentCore-Runtime-now-supports-brin",
+        "title": "Amazon Bedrock AgentCore Runtime",
+        "date": "2026-05-06",
+        "year": 2026,
+        "month": 5,
+        "day": 6,
+        "path": "2026/05/06/Amazon-Bedrock-AgentCore-Runtime-now-supports-brin",
+        "summary": "Amazon Bedrock AgentCore Runtime now supports bring your own file system from Amazon S3 Files and Amazon EFS",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/06/Amazon-Bedrock-AgentCore-Runtime-now-supports-brin/thumbnail.png"
+      },
+      {
         "id": "2026-05-06-Amazon-CloudWatch-RUM-now-supports-Session-Replay",
         "title": "Amazon CloudWatch RUM now supports Session Replay for Web Applications",
         "date": "2026-05-06",
@@ -2731,6 +2874,17 @@
         "path": "2026/05/06/Amazon-CloudWatch-RUM-now-supports-Session-Replay",
         "summary": "Amazon CloudWatch RUM now supports Session Replay for Web Applications",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/06/Amazon-CloudWatch-RUM-now-supports-Session-Replay/thumbnail.png"
+      },
+      {
+        "id": "2026-05-06-Amazon-ElastiCache-now-supports-real-time-full-tex",
+        "title": "Amazon ElastiCache",
+        "date": "2026-05-06",
+        "year": 2026,
+        "month": 5,
+        "day": 6,
+        "path": "2026/05/06/Amazon-ElastiCache-now-supports-real-time-full-tex",
+        "summary": "Amazon ElastiCache now supports real time full text, exact match, and numeric range search",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/06/Amazon-ElastiCache-now-supports-real-time-full-tex/thumbnail.png"
       },
       {
         "id": "2026-05-06-Amazon-Quick-now-integrates-with-New-Relic-for-obs",
