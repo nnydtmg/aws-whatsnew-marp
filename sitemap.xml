@@ -6,7 +6,19 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-09-Amazon-Route-53-Global-Resolver-now-lets-you-add-a</loc>
+    <lastmod>2026-05-09</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-08-Amazon-Redshift-now-scales-data-ingestion-automati</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-08-IAM-Policy-Autopilot-adds-Java-support-and-Terrafo</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>

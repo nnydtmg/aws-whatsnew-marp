@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-05-09-Amazon-Route-53-Global-Resolver-now-lets-you-add-a",
+        "title": "Amazon Route 53 Global Resolver now lets you add and remove AWS Regions for anycast DNS resolution",
+        "date": "2026-05-09",
+        "year": 2026,
+        "month": 5,
+        "day": 9,
+        "path": "2026/05/09/Amazon-Route-53-Global-Resolver-now-lets-you-add-a",
+        "summary": "Amazon Route 53 Global Resolver now lets you add and remove AWS Regions for anycast DNS resolution",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/09/Amazon-Route-53-Global-Resolver-now-lets-you-add-a/thumbnail.png"
+      },
+      {
         "id": "2026-05-08-Amazon-Redshift-now-scales-data-ingestion-automati",
         "title": "Amazon Redshift",
         "date": "2026-05-08",
@@ -11,6 +22,17 @@
         "path": "2026/05/08/Amazon-Redshift-now-scales-data-ingestion-automati",
         "summary": "Amazon Redshift now scales data ingestion automatically with concurrency scaling for batch workloads",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/08/Amazon-Redshift-now-scales-data-ingestion-automati/thumbnail.png"
+      },
+      {
+        "id": "2026-05-08-IAM-Policy-Autopilot-adds-Java-support-and-Terrafo",
+        "title": "IAM Policy Autopilot",
+        "date": "2026-05-08",
+        "year": 2026,
+        "month": 5,
+        "day": 8,
+        "path": "2026/05/08/IAM-Policy-Autopilot-adds-Java-support-and-Terrafo",
+        "summary": "IAM Policy Autopilot adds Java support and Terraform aware policy generation",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/08/IAM-Policy-Autopilot-adds-Java-support-and-Terrafo/thumbnail.png"
       },
       {
         "id": "2026-05-07-AWS-Advanced-JDBC-Wrapper-now-provides-client-side",
@@ -2719,8 +2741,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-05-08T23:44:54.707Z",
-    "totalCount": 247
+    "updatedAt": "2026-05-09T01:52:02.461Z",
+    "totalCount": 249
   },
   "metadata:months": [
     "2026/05",
@@ -2733,6 +2755,17 @@
     "month": 5,
     "articles": [
       {
+        "id": "2026-05-09-Amazon-Route-53-Global-Resolver-now-lets-you-add-a",
+        "title": "Amazon Route 53 Global Resolver now lets you add and remove AWS Regions for anycast DNS resolution",
+        "date": "2026-05-09",
+        "year": 2026,
+        "month": 5,
+        "day": 9,
+        "path": "2026/05/09/Amazon-Route-53-Global-Resolver-now-lets-you-add-a",
+        "summary": "Amazon Route 53 Global Resolver now lets you add and remove AWS Regions for anycast DNS resolution",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/09/Amazon-Route-53-Global-Resolver-now-lets-you-add-a/thumbnail.png"
+      },
+      {
         "id": "2026-05-08-Amazon-Redshift-now-scales-data-ingestion-automati",
         "title": "Amazon Redshift",
         "date": "2026-05-08",
@@ -2742,6 +2775,17 @@
         "path": "2026/05/08/Amazon-Redshift-now-scales-data-ingestion-automati",
         "summary": "Amazon Redshift now scales data ingestion automatically with concurrency scaling for batch workloads",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/08/Amazon-Redshift-now-scales-data-ingestion-automati/thumbnail.png"
+      },
+      {
+        "id": "2026-05-08-IAM-Policy-Autopilot-adds-Java-support-and-Terrafo",
+        "title": "IAM Policy Autopilot",
+        "date": "2026-05-08",
+        "year": 2026,
+        "month": 5,
+        "day": 8,
+        "path": "2026/05/08/IAM-Policy-Autopilot-adds-Java-support-and-Terrafo",
+        "summary": "IAM Policy Autopilot adds Java support and Terraform aware policy generation",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/08/IAM-Policy-Autopilot-adds-Java-support-and-Terrafo/thumbnail.png"
       },
       {
         "id": "2026-05-07-AWS-Advanced-JDBC-Wrapper-now-provides-client-side",
@@ -3173,7 +3217,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/01/OpenSearch-UI-supports-cross-region-data-access-to/thumbnail.png"
       }
     ],
-    "totalPages": 4
+    "totalPages": 5
   },
   "metadata:2026/04": {
     "year": 2026,
