@@ -2,6 +2,39 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-05-11-AWS-Transform-adds-containerization-capability-dur",
+        "title": "AWS Transformが移行中のコンテナ化機能をサポート",
+        "date": "2026-05-11",
+        "year": 2026,
+        "month": 5,
+        "day": 11,
+        "path": "2026/05/11/AWS-Transform-adds-containerization-capability-dur",
+        "summary": "AWS Transformが移行中のコンテナ化機能をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/11/AWS-Transform-adds-containerization-capability-dur/thumbnail.png"
+      },
+      {
+        "id": "2026-05-11-AWS-WAF-introduces-dynamic-label-interpolation-for",
+        "title": "AWS WAF が動的ラベル補間でカスタムリクエスト/レスポンス処理を強化",
+        "date": "2026-05-11",
+        "year": 2026,
+        "month": 5,
+        "day": 11,
+        "path": "2026/05/11/AWS-WAF-introduces-dynamic-label-interpolation-for",
+        "summary": "AWS WAF が動的ラベル補間でカスタムリクエスト/レスポンス処理を強化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/11/AWS-WAF-introduces-dynamic-label-interpolation-for/thumbnail.png"
+      },
+      {
+        "id": "2026-05-11-Claude-Platform-on-AWS-is-now-generally-available",
+        "title": "Claude Platform が AWS で一般提供開始",
+        "date": "2026-05-11",
+        "year": 2026,
+        "month": 5,
+        "day": 11,
+        "path": "2026/05/11/Claude-Platform-on-AWS-is-now-generally-available",
+        "summary": "Claude Platform が AWS で一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/11/Claude-Platform-on-AWS-is-now-generally-available/thumbnail.png"
+      },
+      {
         "id": "2026-05-09-AWS-Elemental-MediaTailor-launches-Monetization-Fu",
         "title": "AWS Elemental MediaTailor のモネタイゼーション機能が利用開始",
         "date": "2026-05-09",
@@ -2752,8 +2785,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-05-11T21:10:00.822Z",
-    "totalCount": 250
+    "updatedAt": "2026-05-11T22:45:12.489Z",
+    "totalCount": 253
   },
   "metadata:months": [
     "2026/05",
@@ -2765,6 +2798,39 @@
     "year": 2026,
     "month": 5,
     "articles": [
+      {
+        "id": "2026-05-11-AWS-Transform-adds-containerization-capability-dur",
+        "title": "AWS Transformが移行中のコンテナ化機能をサポート",
+        "date": "2026-05-11",
+        "year": 2026,
+        "month": 5,
+        "day": 11,
+        "path": "2026/05/11/AWS-Transform-adds-containerization-capability-dur",
+        "summary": "AWS Transformが移行中のコンテナ化機能をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/11/AWS-Transform-adds-containerization-capability-dur/thumbnail.png"
+      },
+      {
+        "id": "2026-05-11-AWS-WAF-introduces-dynamic-label-interpolation-for",
+        "title": "AWS WAF が動的ラベル補間でカスタムリクエスト/レスポンス処理を強化",
+        "date": "2026-05-11",
+        "year": 2026,
+        "month": 5,
+        "day": 11,
+        "path": "2026/05/11/AWS-WAF-introduces-dynamic-label-interpolation-for",
+        "summary": "AWS WAF が動的ラベル補間でカスタムリクエスト/レスポンス処理を強化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/11/AWS-WAF-introduces-dynamic-label-interpolation-for/thumbnail.png"
+      },
+      {
+        "id": "2026-05-11-Claude-Platform-on-AWS-is-now-generally-available",
+        "title": "Claude Platform が AWS で一般提供開始",
+        "date": "2026-05-11",
+        "year": 2026,
+        "month": 5,
+        "day": 11,
+        "path": "2026/05/11/Claude-Platform-on-AWS-is-now-generally-available",
+        "summary": "Claude Platform が AWS で一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/11/Claude-Platform-on-AWS-is-now-generally-available/thumbnail.png"
+      },
       {
         "id": "2026-05-09-AWS-Elemental-MediaTailor-launches-Monetization-Fu",
         "title": "AWS Elemental MediaTailor のモネタイゼーション機能が利用開始",
