@@ -6,6 +6,18 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-12-Amazon-Redshift-launches-RG-instances-powered-by-A</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-12-Karpenter-now-supports-Amazon-Application-Recovery</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-11-AWS-Transform-adds-containerization-capability-dur</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>never</changefreq>
@@ -13,6 +25,12 @@
   </url>
   <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-11-AWS-WAF-introduces-dynamic-label-interpolation-for</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-11-Amazon-Route-53-Domains-adds-support-for-34-new-To</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
