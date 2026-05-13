@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-05-13-Amazon-CloudFront-Premium-flat-rate-plan-now-suppo",
+        "title": "Amazon CloudFront Premium フラットレート プランで設定可能な使用量許容量に対応",
+        "date": "2026-05-13",
+        "year": 2026,
+        "month": 5,
+        "day": 13,
+        "path": "2026/05/13/Amazon-CloudFront-Premium-flat-rate-plan-now-suppo",
+        "summary": "Amazon CloudFront Premium フラットレート プランで設定可能な使用量許容量に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/13/Amazon-CloudFront-Premium-flat-rate-plan-now-suppo/thumbnail.png"
+      },
+      {
         "id": "2026-05-12-Amazon-Redshift-launches-RG-instances-powered-by-A",
         "title": "Amazon Redshift、AWS Graviton搭載のRGインスタンスがローンチ",
         "date": "2026-05-12",
@@ -2818,8 +2829,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-05-12T23:50:15.311Z",
-    "totalCount": 256
+    "updatedAt": "2026-05-13T02:01:27.647Z",
+    "totalCount": 257
   },
   "metadata:months": [
     "2026/05",
@@ -2831,6 +2842,17 @@
     "year": 2026,
     "month": 5,
     "articles": [
+      {
+        "id": "2026-05-13-Amazon-CloudFront-Premium-flat-rate-plan-now-suppo",
+        "title": "Amazon CloudFront Premium フラットレート プランで設定可能な使用量許容量に対応",
+        "date": "2026-05-13",
+        "year": 2026,
+        "month": 5,
+        "day": 13,
+        "path": "2026/05/13/Amazon-CloudFront-Premium-flat-rate-plan-now-suppo",
+        "summary": "Amazon CloudFront Premium フラットレート プランで設定可能な使用量許容量に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/13/Amazon-CloudFront-Premium-flat-rate-plan-now-suppo/thumbnail.png"
+      },
       {
         "id": "2026-05-12-Amazon-Redshift-launches-RG-instances-powered-by-A",
         "title": "Amazon Redshift、AWS Graviton搭載のRGインスタンスがローンチ",
