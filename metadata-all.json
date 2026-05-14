@@ -46,6 +46,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/14/AWS-Transform-introduces-the-agent-builder-toolkit/thumbnail.png"
       },
       {
+        "id": "2026-05-14-AWS-Transform-now-supports-customer-owned-artifact",
+        "title": "AWS Transform がカスタマー所有のアーティファクトストアに対応",
+        "date": "2026-05-14",
+        "year": 2026,
+        "month": 5,
+        "day": 14,
+        "path": "2026/05/14/AWS-Transform-now-supports-customer-owned-artifact",
+        "summary": "AWS Transform がカスタマー所有のアーティファクトストアに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/14/AWS-Transform-now-supports-customer-owned-artifact/thumbnail.png"
+      },
+      {
         "id": "2026-05-14-Amazon-Aurora-DSQL-now-supports-change-data-captur",
         "title": "Amazon Aurora DSQLがChange Data Capture（CDC）をサポート",
         "date": "2026-05-14",
@@ -55,6 +66,28 @@
         "path": "2026/05/14/Amazon-Aurora-DSQL-now-supports-change-data-captur",
         "summary": "Amazon Aurora DSQLがChange Data Capture（CDC）をサポート",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/14/Amazon-Aurora-DSQL-now-supports-change-data-captur/thumbnail.png"
+      },
+      {
+        "id": "2026-05-14-Amazon-Bedrock-Introduces-Advanced-Prompt-Optimiza",
+        "title": "Amazon Bedrockが高度なプロンプト最適化ツール「Advanced Prompt Optimization」を導入",
+        "date": "2026-05-14",
+        "year": 2026,
+        "month": 5,
+        "day": 14,
+        "path": "2026/05/14/Amazon-Bedrock-Introduces-Advanced-Prompt-Optimiza",
+        "summary": "Amazon Bedrockが高度なプロンプト最適化ツール「Advanced Prompt Optimization」を導入",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/14/Amazon-Bedrock-Introduces-Advanced-Prompt-Optimiza/thumbnail.png"
+      },
+      {
+        "id": "2026-05-14-Amazon-CloudFront-announces-Passthrough-Mode-for-m",
+        "title": "Amazon CloudFront の mTLS パススルーモード対応",
+        "date": "2026-05-14",
+        "year": 2026,
+        "month": 5,
+        "day": 14,
+        "path": "2026/05/14/Amazon-CloudFront-announces-Passthrough-Mode-for-m",
+        "summary": "Amazon CloudFront の mTLS パススルーモード対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/14/Amazon-CloudFront-announces-Passthrough-Mode-for-m/thumbnail.png"
       },
       {
         "id": "2026-05-14-Reference-stack-outputs-across-accounts-and-Region",
@@ -88,6 +121,17 @@
         "path": "2026/05/13/Amazon-CloudFront-Premium-flat-rate-plan-now-suppo",
         "summary": "Amazon CloudFront Premium フラットレート プランで設定可能な使用量許容量に対応",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/13/Amazon-CloudFront-Premium-flat-rate-plan-now-suppo/thumbnail.png"
+      },
+      {
+        "id": "2026-05-13-Amazon-CloudFront-announces-support-for-OCSP-Revoc",
+        "title": "Amazon CloudFront、Viewer mTLSに対するOCSP失効確認に対応",
+        "date": "2026-05-13",
+        "year": 2026,
+        "month": 5,
+        "day": 13,
+        "path": "2026/05/13/Amazon-CloudFront-announces-support-for-OCSP-Revoc",
+        "summary": "Amazon CloudFront、Viewer mTLSに対するOCSP失効確認に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/13/Amazon-CloudFront-announces-support-for-OCSP-Revoc/thumbnail.png"
       },
       {
         "id": "2026-05-12-Amazon-Redshift-launches-RG-instances-powered-by-A",
@@ -2917,8 +2961,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-05-14T22:58:28.796Z",
-    "totalCount": 265
+    "updatedAt": "2026-05-14T23:54:53.643Z",
+    "totalCount": 269
   },
   "metadata:months": [
     "2026/05",
@@ -2975,6 +3019,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/14/AWS-Transform-introduces-the-agent-builder-toolkit/thumbnail.png"
       },
       {
+        "id": "2026-05-14-AWS-Transform-now-supports-customer-owned-artifact",
+        "title": "AWS Transform がカスタマー所有のアーティファクトストアに対応",
+        "date": "2026-05-14",
+        "year": 2026,
+        "month": 5,
+        "day": 14,
+        "path": "2026/05/14/AWS-Transform-now-supports-customer-owned-artifact",
+        "summary": "AWS Transform がカスタマー所有のアーティファクトストアに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/14/AWS-Transform-now-supports-customer-owned-artifact/thumbnail.png"
+      },
+      {
         "id": "2026-05-14-Amazon-Aurora-DSQL-now-supports-change-data-captur",
         "title": "Amazon Aurora DSQLがChange Data Capture（CDC）をサポート",
         "date": "2026-05-14",
@@ -2984,6 +3039,28 @@
         "path": "2026/05/14/Amazon-Aurora-DSQL-now-supports-change-data-captur",
         "summary": "Amazon Aurora DSQLがChange Data Capture（CDC）をサポート",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/14/Amazon-Aurora-DSQL-now-supports-change-data-captur/thumbnail.png"
+      },
+      {
+        "id": "2026-05-14-Amazon-Bedrock-Introduces-Advanced-Prompt-Optimiza",
+        "title": "Amazon Bedrockが高度なプロンプト最適化ツール「Advanced Prompt Optimization」を導入",
+        "date": "2026-05-14",
+        "year": 2026,
+        "month": 5,
+        "day": 14,
+        "path": "2026/05/14/Amazon-Bedrock-Introduces-Advanced-Prompt-Optimiza",
+        "summary": "Amazon Bedrockが高度なプロンプト最適化ツール「Advanced Prompt Optimization」を導入",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/14/Amazon-Bedrock-Introduces-Advanced-Prompt-Optimiza/thumbnail.png"
+      },
+      {
+        "id": "2026-05-14-Amazon-CloudFront-announces-Passthrough-Mode-for-m",
+        "title": "Amazon CloudFront の mTLS パススルーモード対応",
+        "date": "2026-05-14",
+        "year": 2026,
+        "month": 5,
+        "day": 14,
+        "path": "2026/05/14/Amazon-CloudFront-announces-Passthrough-Mode-for-m",
+        "summary": "Amazon CloudFront の mTLS パススルーモード対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/14/Amazon-CloudFront-announces-Passthrough-Mode-for-m/thumbnail.png"
       },
       {
         "id": "2026-05-14-Reference-stack-outputs-across-accounts-and-Region",
@@ -3017,6 +3094,17 @@
         "path": "2026/05/13/Amazon-CloudFront-Premium-flat-rate-plan-now-suppo",
         "summary": "Amazon CloudFront Premium フラットレート プランで設定可能な使用量許容量に対応",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/13/Amazon-CloudFront-Premium-flat-rate-plan-now-suppo/thumbnail.png"
+      },
+      {
+        "id": "2026-05-13-Amazon-CloudFront-announces-support-for-OCSP-Revoc",
+        "title": "Amazon CloudFront、Viewer mTLSに対するOCSP失効確認に対応",
+        "date": "2026-05-13",
+        "year": 2026,
+        "month": 5,
+        "day": 13,
+        "path": "2026/05/13/Amazon-CloudFront-announces-support-for-OCSP-Revoc",
+        "summary": "Amazon CloudFront、Viewer mTLSに対するOCSP失効確認に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/13/Amazon-CloudFront-announces-support-for-OCSP-Revoc/thumbnail.png"
       },
       {
         "id": "2026-05-12-Amazon-Redshift-launches-RG-instances-powered-by-A",
@@ -3569,7 +3657,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/01/OpenSearch-UI-supports-cross-region-data-access-to/thumbnail.png"
       }
     ],
-    "totalPages": 6
+    "totalPages": 7
   },
   "metadata:2026/04": {
     "year": 2026,
