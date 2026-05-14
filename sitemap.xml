@@ -6,6 +6,42 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-14-AWS-RTB-Fabric-supports-custom-domains-for-real-ti</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-14-AWS-Transform-adds-agentic-AI-assistant-to-the-AWS</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-14-AWS-Transform-agents-now-available-in-Kiro-Claude</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-14-AWS-Transform-introduces-the-agent-builder-toolkit</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-14-Amazon-Aurora-DSQL-now-supports-change-data-captur</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-14-Reference-stack-outputs-across-accounts-and-Region</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-13-AWS-Security-Agent-now-supports-full-repository-co</loc>
     <lastmod>2026-05-13</lastmod>
     <changefreq>never</changefreq>
@@ -62,6 +98,12 @@
   <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-09-Amazon-Route-53-Global-Resolver-now-lets-you-add-a</loc>
     <lastmod>2026-05-09</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-08-Amazon-QuickSight-now-supports-cross-account-acces</loc>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
   </url>

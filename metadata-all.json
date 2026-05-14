@@ -2,6 +2,72 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-05-14-AWS-RTB-Fabric-supports-custom-domains-for-real-ti",
+        "title": "AWS RTB Fabric、リアルタイム入札にカスタムドメイン対応",
+        "date": "2026-05-14",
+        "year": 2026,
+        "month": 5,
+        "day": 14,
+        "path": "2026/05/14/AWS-RTB-Fabric-supports-custom-domains-for-real-ti",
+        "summary": "AWS RTB Fabric、リアルタイム入札にカスタムドメイン対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/14/AWS-RTB-Fabric-supports-custom-domains-for-real-ti/thumbnail.png"
+      },
+      {
+        "id": "2026-05-14-AWS-Transform-adds-agentic-AI-assistant-to-the-AWS",
+        "title": "AWS Transform が Visual Studio 用 AWS Toolkit にエージェント型 AI アシスタントを追加",
+        "date": "2026-05-14",
+        "year": 2026,
+        "month": 5,
+        "day": 14,
+        "path": "2026/05/14/AWS-Transform-adds-agentic-AI-assistant-to-the-AWS",
+        "summary": "AWS Transform が Visual Studio 用 AWS Toolkit にエージェント型 AI アシスタントを追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/14/AWS-Transform-adds-agentic-AI-assistant-to-the-AWS/thumbnail.png"
+      },
+      {
+        "id": "2026-05-14-AWS-Transform-agents-now-available-in-Kiro-Claude",
+        "title": "AWS Transform エージェントが Kiro、Claude、Cursor、Codex で利用可能に",
+        "date": "2026-05-14",
+        "year": 2026,
+        "month": 5,
+        "day": 14,
+        "path": "2026/05/14/AWS-Transform-agents-now-available-in-Kiro-Claude",
+        "summary": "AWS Transform エージェントが Kiro、Claude、Cursor、Codex で利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/14/AWS-Transform-agents-now-available-in-Kiro-Claude/thumbnail.png"
+      },
+      {
+        "id": "2026-05-14-AWS-Transform-introduces-the-agent-builder-toolkit",
+        "title": "AWS Transform エージェントビルダーツールキット「Kiro power」が一般提供開始",
+        "date": "2026-05-14",
+        "year": 2026,
+        "month": 5,
+        "day": 14,
+        "path": "2026/05/14/AWS-Transform-introduces-the-agent-builder-toolkit",
+        "summary": "AWS Transform エージェントビルダーツールキット「Kiro power」が一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/14/AWS-Transform-introduces-the-agent-builder-toolkit/thumbnail.png"
+      },
+      {
+        "id": "2026-05-14-Amazon-Aurora-DSQL-now-supports-change-data-captur",
+        "title": "Amazon Aurora DSQLがChange Data Capture（CDC）をサポート",
+        "date": "2026-05-14",
+        "year": 2026,
+        "month": 5,
+        "day": 14,
+        "path": "2026/05/14/Amazon-Aurora-DSQL-now-supports-change-data-captur",
+        "summary": "Amazon Aurora DSQLがChange Data Capture（CDC）をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/14/Amazon-Aurora-DSQL-now-supports-change-data-captur/thumbnail.png"
+      },
+      {
+        "id": "2026-05-14-Reference-stack-outputs-across-accounts-and-Region",
+        "title": "AWS CloudFormation と CDK でアカウント・リージョン間のスタック出力を参照",
+        "date": "2026-05-14",
+        "year": 2026,
+        "month": 5,
+        "day": 14,
+        "path": "2026/05/14/Reference-stack-outputs-across-accounts-and-Region",
+        "summary": "AWS CloudFormation と CDK でアカウント・リージョン間のスタック出力を参照",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/14/Reference-stack-outputs-across-accounts-and-Region/thumbnail.png"
+      },
+      {
         "id": "2026-05-13-AWS-Security-Agent-now-supports-full-repository-co",
         "title": "AWS Security Agent が全リポジトリのコードレビューに対応",
         "date": "2026-05-13",
@@ -110,6 +176,17 @@
         "path": "2026/05/09/Amazon-Route-53-Global-Resolver-now-lets-you-add-a",
         "summary": "Amazon Route 53 Global Resolver now lets you add and remove AWS Regions for anycast DNS resolution",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/09/Amazon-Route-53-Global-Resolver-now-lets-you-add-a/thumbnail.png"
+      },
+      {
+        "id": "2026-05-08-Amazon-QuickSight-now-supports-cross-account-acces",
+        "title": "Amazon QuickSightがAmazon Athenのクロスアカウントアクセス機能をサポート",
+        "date": "2026-05-08",
+        "year": 2026,
+        "month": 5,
+        "day": 8,
+        "path": "2026/05/08/Amazon-QuickSight-now-supports-cross-account-acces",
+        "summary": "Amazon QuickSightがAmazon Athenのクロスアカウントアクセス機能をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/08/Amazon-QuickSight-now-supports-cross-account-acces/thumbnail.png"
       },
       {
         "id": "2026-05-08-Amazon-Redshift-now-scales-data-ingestion-automati",
@@ -2840,8 +2917,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-05-14T22:00:13.700Z",
-    "totalCount": 258
+    "updatedAt": "2026-05-14T22:58:28.796Z",
+    "totalCount": 265
   },
   "metadata:months": [
     "2026/05",
@@ -2853,6 +2930,72 @@
     "year": 2026,
     "month": 5,
     "articles": [
+      {
+        "id": "2026-05-14-AWS-RTB-Fabric-supports-custom-domains-for-real-ti",
+        "title": "AWS RTB Fabric、リアルタイム入札にカスタムドメイン対応",
+        "date": "2026-05-14",
+        "year": 2026,
+        "month": 5,
+        "day": 14,
+        "path": "2026/05/14/AWS-RTB-Fabric-supports-custom-domains-for-real-ti",
+        "summary": "AWS RTB Fabric、リアルタイム入札にカスタムドメイン対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/14/AWS-RTB-Fabric-supports-custom-domains-for-real-ti/thumbnail.png"
+      },
+      {
+        "id": "2026-05-14-AWS-Transform-adds-agentic-AI-assistant-to-the-AWS",
+        "title": "AWS Transform が Visual Studio 用 AWS Toolkit にエージェント型 AI アシスタントを追加",
+        "date": "2026-05-14",
+        "year": 2026,
+        "month": 5,
+        "day": 14,
+        "path": "2026/05/14/AWS-Transform-adds-agentic-AI-assistant-to-the-AWS",
+        "summary": "AWS Transform が Visual Studio 用 AWS Toolkit にエージェント型 AI アシスタントを追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/14/AWS-Transform-adds-agentic-AI-assistant-to-the-AWS/thumbnail.png"
+      },
+      {
+        "id": "2026-05-14-AWS-Transform-agents-now-available-in-Kiro-Claude",
+        "title": "AWS Transform エージェントが Kiro、Claude、Cursor、Codex で利用可能に",
+        "date": "2026-05-14",
+        "year": 2026,
+        "month": 5,
+        "day": 14,
+        "path": "2026/05/14/AWS-Transform-agents-now-available-in-Kiro-Claude",
+        "summary": "AWS Transform エージェントが Kiro、Claude、Cursor、Codex で利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/14/AWS-Transform-agents-now-available-in-Kiro-Claude/thumbnail.png"
+      },
+      {
+        "id": "2026-05-14-AWS-Transform-introduces-the-agent-builder-toolkit",
+        "title": "AWS Transform エージェントビルダーツールキット「Kiro power」が一般提供開始",
+        "date": "2026-05-14",
+        "year": 2026,
+        "month": 5,
+        "day": 14,
+        "path": "2026/05/14/AWS-Transform-introduces-the-agent-builder-toolkit",
+        "summary": "AWS Transform エージェントビルダーツールキット「Kiro power」が一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/14/AWS-Transform-introduces-the-agent-builder-toolkit/thumbnail.png"
+      },
+      {
+        "id": "2026-05-14-Amazon-Aurora-DSQL-now-supports-change-data-captur",
+        "title": "Amazon Aurora DSQLがChange Data Capture（CDC）をサポート",
+        "date": "2026-05-14",
+        "year": 2026,
+        "month": 5,
+        "day": 14,
+        "path": "2026/05/14/Amazon-Aurora-DSQL-now-supports-change-data-captur",
+        "summary": "Amazon Aurora DSQLがChange Data Capture（CDC）をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/14/Amazon-Aurora-DSQL-now-supports-change-data-captur/thumbnail.png"
+      },
+      {
+        "id": "2026-05-14-Reference-stack-outputs-across-accounts-and-Region",
+        "title": "AWS CloudFormation と CDK でアカウント・リージョン間のスタック出力を参照",
+        "date": "2026-05-14",
+        "year": 2026,
+        "month": 5,
+        "day": 14,
+        "path": "2026/05/14/Reference-stack-outputs-across-accounts-and-Region",
+        "summary": "AWS CloudFormation と CDK でアカウント・リージョン間のスタック出力を参照",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/14/Reference-stack-outputs-across-accounts-and-Region/thumbnail.png"
+      },
       {
         "id": "2026-05-13-AWS-Security-Agent-now-supports-full-repository-co",
         "title": "AWS Security Agent が全リポジトリのコードレビューに対応",
@@ -2962,6 +3105,17 @@
         "path": "2026/05/09/Amazon-Route-53-Global-Resolver-now-lets-you-add-a",
         "summary": "Amazon Route 53 Global Resolver now lets you add and remove AWS Regions for anycast DNS resolution",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/09/Amazon-Route-53-Global-Resolver-now-lets-you-add-a/thumbnail.png"
+      },
+      {
+        "id": "2026-05-08-Amazon-QuickSight-now-supports-cross-account-acces",
+        "title": "Amazon QuickSightがAmazon Athenのクロスアカウントアクセス機能をサポート",
+        "date": "2026-05-08",
+        "year": 2026,
+        "month": 5,
+        "day": 8,
+        "path": "2026/05/08/Amazon-QuickSight-now-supports-cross-account-acces",
+        "summary": "Amazon QuickSightがAmazon Athenのクロスアカウントアクセス機能をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/08/Amazon-QuickSight-now-supports-cross-account-acces/thumbnail.png"
       },
       {
         "id": "2026-05-08-Amazon-Redshift-now-scales-data-ingestion-automati",
