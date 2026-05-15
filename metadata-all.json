@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-05-15-AWS-announces-AWS-Interconnect---multicloud-connec",
+        "title": "AWS Interconnect - multicloud が Oracle Cloud Infrastructure への対応をプレビュー開始",
+        "date": "2026-05-15",
+        "year": 2026,
+        "month": 5,
+        "day": 15,
+        "path": "2026/05/15/AWS-announces-AWS-Interconnect---multicloud-connec",
+        "summary": "AWS Interconnect multicloud が Oracle Cloud Infrastructure への対応をプレビュー開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/15/AWS-announces-AWS-Interconnect---multicloud-connec/thumbnail.png"
+      },
+      {
         "id": "2026-05-15-Amazon-CloudFront-announces-support-for-OCSP-Revoc",
         "title": "Amazon CloudFront が Viewer mTLS の OCSP 失効確認をサポート",
         "date": "2026-05-15",
@@ -2972,8 +2983,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-05-15T20:50:42.719Z",
-    "totalCount": 270
+    "updatedAt": "2026-05-15T21:48:42.259Z",
+    "totalCount": 271
   },
   "metadata:months": [
     "2026/05",
@@ -2985,6 +2996,17 @@
     "year": 2026,
     "month": 5,
     "articles": [
+      {
+        "id": "2026-05-15-AWS-announces-AWS-Interconnect---multicloud-connec",
+        "title": "AWS Interconnect - multicloud が Oracle Cloud Infrastructure への対応をプレビュー開始",
+        "date": "2026-05-15",
+        "year": 2026,
+        "month": 5,
+        "day": 15,
+        "path": "2026/05/15/AWS-announces-AWS-Interconnect---multicloud-connec",
+        "summary": "AWS Interconnect multicloud が Oracle Cloud Infrastructure への対応をプレビュー開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/15/AWS-announces-AWS-Interconnect---multicloud-connec/thumbnail.png"
+      },
       {
         "id": "2026-05-15-Amazon-CloudFront-announces-support-for-OCSP-Revoc",
         "title": "Amazon CloudFront が Viewer mTLS の OCSP 失効確認をサポート",
