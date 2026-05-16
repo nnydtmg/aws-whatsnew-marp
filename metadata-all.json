@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-05-16-AWS-Organizations-now-supports-higher-quotas-for-s",
+        "title": "AWS Organizations のサービスコントロールポリシー(SCP)クォータが拡大",
+        "date": "2026-05-16",
+        "year": 2026,
+        "month": 5,
+        "day": 16,
+        "path": "2026/05/16/AWS-Organizations-now-supports-higher-quotas-for-s",
+        "summary": "AWS Organizations のサービスコントロールポリシー(SCP)クォータが拡大",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/16/AWS-Organizations-now-supports-higher-quotas-for-s/thumbnail.png"
+      },
+      {
+        "id": "2026-05-16-Amazon-CloudWatch-Logs-announces-increased-query-r",
+        "title": "Amazon CloudWatch Logs のクエリ結果上限が100,000件に拡大",
+        "date": "2026-05-16",
+        "year": 2026,
+        "month": 5,
+        "day": 16,
+        "path": "2026/05/16/Amazon-CloudWatch-Logs-announces-increased-query-r",
+        "summary": "Amazon CloudWatch Logs のクエリ結果上限が100,000件に拡大",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/16/Amazon-CloudWatch-Logs-announces-increased-query-r/thumbnail.png"
+      },
+      {
         "id": "2026-05-15-AWS-announces-AWS-Interconnect---multicloud-connec",
         "title": "AWS Interconnect - multicloud が Oracle Cloud Infrastructure への対応をプレビュー開始",
         "date": "2026-05-15",
@@ -2983,8 +3005,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-05-15T23:43:50.600Z",
-    "totalCount": 271
+    "updatedAt": "2026-05-16T01:55:13.379Z",
+    "totalCount": 273
   },
   "metadata:months": [
     "2026/05",
@@ -2996,6 +3018,28 @@
     "year": 2026,
     "month": 5,
     "articles": [
+      {
+        "id": "2026-05-16-AWS-Organizations-now-supports-higher-quotas-for-s",
+        "title": "AWS Organizations のサービスコントロールポリシー(SCP)クォータが拡大",
+        "date": "2026-05-16",
+        "year": 2026,
+        "month": 5,
+        "day": 16,
+        "path": "2026/05/16/AWS-Organizations-now-supports-higher-quotas-for-s",
+        "summary": "AWS Organizations のサービスコントロールポリシー(SCP)クォータが拡大",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/16/AWS-Organizations-now-supports-higher-quotas-for-s/thumbnail.png"
+      },
+      {
+        "id": "2026-05-16-Amazon-CloudWatch-Logs-announces-increased-query-r",
+        "title": "Amazon CloudWatch Logs のクエリ結果上限が100,000件に拡大",
+        "date": "2026-05-16",
+        "year": 2026,
+        "month": 5,
+        "day": 16,
+        "path": "2026/05/16/Amazon-CloudWatch-Logs-announces-increased-query-r",
+        "summary": "Amazon CloudWatch Logs のクエリ結果上限が100,000件に拡大",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/16/Amazon-CloudWatch-Logs-announces-increased-query-r/thumbnail.png"
+      },
       {
         "id": "2026-05-15-AWS-announces-AWS-Interconnect---multicloud-connec",
         "title": "AWS Interconnect - multicloud が Oracle Cloud Infrastructure への対応をプレビュー開始",
