@@ -13,6 +13,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/16/AWS-Organizations-now-supports-higher-quotas-for-s/thumbnail.png"
       },
       {
+        "id": "2026-05-16-AWS-Partner-Central-agents-now-accelerates-opportu",
+        "title": "AWS Partner Central agentsが営業機会の作成を加速",
+        "date": "2026-05-16",
+        "year": 2026,
+        "month": 5,
+        "day": 16,
+        "path": "2026/05/16/AWS-Partner-Central-agents-now-accelerates-opportu",
+        "summary": "AWS Partner Central agentsが営業機会の作成を加速",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/16/AWS-Partner-Central-agents-now-accelerates-opportu/thumbnail.png"
+      },
+      {
         "id": "2026-05-16-Amazon-CloudWatch-Logs-announces-increased-query-r",
         "title": "Amazon CloudWatch Logs のクエリ結果上限が100,000件に拡大",
         "date": "2026-05-16",
@@ -3005,8 +3016,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-05-16T23:40:32.510Z",
-    "totalCount": 273
+    "updatedAt": "2026-05-17T01:57:32.022Z",
+    "totalCount": 274
   },
   "metadata:months": [
     "2026/05",
@@ -3028,6 +3039,17 @@
         "path": "2026/05/16/AWS-Organizations-now-supports-higher-quotas-for-s",
         "summary": "AWS Organizations のサービスコントロールポリシー(SCP)クォータが拡大",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/16/AWS-Organizations-now-supports-higher-quotas-for-s/thumbnail.png"
+      },
+      {
+        "id": "2026-05-16-AWS-Partner-Central-agents-now-accelerates-opportu",
+        "title": "AWS Partner Central agentsが営業機会の作成を加速",
+        "date": "2026-05-16",
+        "year": 2026,
+        "month": 5,
+        "day": 16,
+        "path": "2026/05/16/AWS-Partner-Central-agents-now-accelerates-opportu",
+        "summary": "AWS Partner Central agentsが営業機会の作成を加速",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/16/AWS-Partner-Central-agents-now-accelerates-opportu/thumbnail.png"
       },
       {
         "id": "2026-05-16-Amazon-CloudWatch-Logs-announces-increased-query-r",
