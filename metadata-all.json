@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-05-18-AWS-SAM-CLI-adds-AWS-CloudFormation-Language-Exten",
+        "title": "AWS SAM CLI が CloudFormation Language Extensions をサポート - ローカルサーバーレス開発を加速",
+        "date": "2026-05-18",
+        "year": 2026,
+        "month": 5,
+        "day": 18,
+        "path": "2026/05/18/AWS-SAM-CLI-adds-AWS-CloudFormation-Language-Exten",
+        "summary": "AWS SAM CLI が CloudFormation Language Extensions をサポート ローカルサーバーレス開発を加速",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/18/AWS-SAM-CLI-adds-AWS-CloudFormation-Language-Exten/thumbnail.png"
+      },
+      {
+        "id": "2026-05-18-Amazon-Redshift-adds-ALTER-TABLE-for-Iceberg-table",
+        "title": "Amazon Redshift、Iceberg テーブルの ALTER TABLE と AWS Glue Data Catalog 経由の直接書き込みをサポート",
+        "date": "2026-05-18",
+        "year": 2026,
+        "month": 5,
+        "day": 18,
+        "path": "2026/05/18/Amazon-Redshift-adds-ALTER-TABLE-for-Iceberg-table",
+        "summary": "Amazon Redshift、Iceberg テーブルの ALTER TABLE と AWS Glue Data Catalog 経由の直接書き込みをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/18/Amazon-Redshift-adds-ALTER-TABLE-for-Iceberg-table/thumbnail.png"
+      },
+      {
         "id": "2026-05-16-AWS-Organizations-now-supports-higher-quotas-for-s",
         "title": "AWS Organizations のサービスコントロールポリシー(SCP)クォータが拡大",
         "date": "2026-05-16",
@@ -3016,8 +3038,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-05-18T21:01:16.603Z",
-    "totalCount": 274
+    "updatedAt": "2026-05-18T22:47:44.943Z",
+    "totalCount": 276
   },
   "metadata:months": [
     "2026/05",
@@ -3029,6 +3051,28 @@
     "year": 2026,
     "month": 5,
     "articles": [
+      {
+        "id": "2026-05-18-AWS-SAM-CLI-adds-AWS-CloudFormation-Language-Exten",
+        "title": "AWS SAM CLI が CloudFormation Language Extensions をサポート - ローカルサーバーレス開発を加速",
+        "date": "2026-05-18",
+        "year": 2026,
+        "month": 5,
+        "day": 18,
+        "path": "2026/05/18/AWS-SAM-CLI-adds-AWS-CloudFormation-Language-Exten",
+        "summary": "AWS SAM CLI が CloudFormation Language Extensions をサポート ローカルサーバーレス開発を加速",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/18/AWS-SAM-CLI-adds-AWS-CloudFormation-Language-Exten/thumbnail.png"
+      },
+      {
+        "id": "2026-05-18-Amazon-Redshift-adds-ALTER-TABLE-for-Iceberg-table",
+        "title": "Amazon Redshift、Iceberg テーブルの ALTER TABLE と AWS Glue Data Catalog 経由の直接書き込みをサポート",
+        "date": "2026-05-18",
+        "year": 2026,
+        "month": 5,
+        "day": 18,
+        "path": "2026/05/18/Amazon-Redshift-adds-ALTER-TABLE-for-Iceberg-table",
+        "summary": "Amazon Redshift、Iceberg テーブルの ALTER TABLE と AWS Glue Data Catalog 経由の直接書き込みをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/18/Amazon-Redshift-adds-ALTER-TABLE-for-Iceberg-table/thumbnail.png"
+      },
       {
         "id": "2026-05-16-AWS-Organizations-now-supports-higher-quotas-for-s",
         "title": "AWS Organizations のサービスコントロールポリシー(SCP)クォータが拡大",
