@@ -6,6 +6,18 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-20-Amazon-Redshift-adds-ALTER-TABLE-for-Iceberg-table</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-20-Introducing-pre-fetching-and-IAM-role-assumption-f</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-18-AWS-SAM-CLI-adds-AWS-CloudFormation-Language-Exten</loc>
     <lastmod>2026-05-18</lastmod>
     <changefreq>never</changefreq>

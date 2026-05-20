@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-05-20-Amazon-Redshift-adds-ALTER-TABLE-for-Iceberg-table",
+        "title": "Amazon Redshift が Iceberg テーブルの ALTER TABLE と AWS Glue Data Catalog 経由の書き込みに対応",
+        "date": "2026-05-20",
+        "year": 2026,
+        "month": 5,
+        "day": 20,
+        "path": "2026/05/20/Amazon-Redshift-adds-ALTER-TABLE-for-Iceberg-table",
+        "summary": "Amazon Redshift が Iceberg テーブルの ALTER TABLE と AWS Glue Data Catalog 経由の書き込みに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/20/Amazon-Redshift-adds-ALTER-TABLE-for-Iceberg-table/thumbnail.png"
+      },
+      {
+        "id": "2026-05-20-Introducing-pre-fetching-and-IAM-role-assumption-f",
+        "title": "AWS Secrets Manager Agent で事前取得とロール引き受けが利用可能に",
+        "date": "2026-05-20",
+        "year": 2026,
+        "month": 5,
+        "day": 20,
+        "path": "2026/05/20/Introducing-pre-fetching-and-IAM-role-assumption-f",
+        "summary": "AWS Secrets Manager Agent で事前取得とロール引き受けが利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/20/Introducing-pre-fetching-and-IAM-role-assumption-f/thumbnail.png"
+      },
+      {
         "id": "2026-05-18-AWS-SAM-CLI-adds-AWS-CloudFormation-Language-Exten",
         "title": "AWS SAM CLI が CloudFormation Language Extensions をサポート - ローカルサーバーレス開発を加速",
         "date": "2026-05-18",
@@ -20,7 +42,7 @@
         "month": 5,
         "day": 18,
         "path": "2026/05/18/Amazon-Redshift-adds-ALTER-TABLE-for-Iceberg-table",
-        "summary": "Amazon Redshift、Iceberg テーブルの ALTER TABLE と AWS Glue Data Catalog 経由の直接書き込みをサポート",
+        "summary": "Amazon Redshift で Apache Iceberg テーブルの ALTER TABLE と Glue Data Catalog 経由の書き込みが利用可能に",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/18/Amazon-Redshift-adds-ALTER-TABLE-for-Iceberg-table/thumbnail.png"
       },
       {
@@ -3038,8 +3060,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-05-19T23:53:14.201Z",
-    "totalCount": 276
+    "updatedAt": "2026-05-20T02:07:36.474Z",
+    "totalCount": 278
   },
   "metadata:months": [
     "2026/05",
@@ -3051,6 +3073,28 @@
     "year": 2026,
     "month": 5,
     "articles": [
+      {
+        "id": "2026-05-20-Amazon-Redshift-adds-ALTER-TABLE-for-Iceberg-table",
+        "title": "Amazon Redshift が Iceberg テーブルの ALTER TABLE と AWS Glue Data Catalog 経由の書き込みに対応",
+        "date": "2026-05-20",
+        "year": 2026,
+        "month": 5,
+        "day": 20,
+        "path": "2026/05/20/Amazon-Redshift-adds-ALTER-TABLE-for-Iceberg-table",
+        "summary": "Amazon Redshift が Iceberg テーブルの ALTER TABLE と AWS Glue Data Catalog 経由の書き込みに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/20/Amazon-Redshift-adds-ALTER-TABLE-for-Iceberg-table/thumbnail.png"
+      },
+      {
+        "id": "2026-05-20-Introducing-pre-fetching-and-IAM-role-assumption-f",
+        "title": "AWS Secrets Manager Agent で事前取得とロール引き受けが利用可能に",
+        "date": "2026-05-20",
+        "year": 2026,
+        "month": 5,
+        "day": 20,
+        "path": "2026/05/20/Introducing-pre-fetching-and-IAM-role-assumption-f",
+        "summary": "AWS Secrets Manager Agent で事前取得とロール引き受けが利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/20/Introducing-pre-fetching-and-IAM-role-assumption-f/thumbnail.png"
+      },
       {
         "id": "2026-05-18-AWS-SAM-CLI-adds-AWS-CloudFormation-Language-Exten",
         "title": "AWS SAM CLI が CloudFormation Language Extensions をサポート - ローカルサーバーレス開発を加速",
@@ -3070,7 +3114,7 @@
         "month": 5,
         "day": 18,
         "path": "2026/05/18/Amazon-Redshift-adds-ALTER-TABLE-for-Iceberg-table",
-        "summary": "Amazon Redshift、Iceberg テーブルの ALTER TABLE と AWS Glue Data Catalog 経由の直接書き込みをサポート",
+        "summary": "Amazon Redshift で Apache Iceberg テーブルの ALTER TABLE と Glue Data Catalog 経由の書き込みが利用可能に",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/18/Amazon-Redshift-adds-ALTER-TABLE-for-Iceberg-table/thumbnail.png"
       },
       {
@@ -3811,7 +3855,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/01/OpenSearch-UI-supports-cross-region-data-access-to/thumbnail.png"
       }
     ],
-    "totalPages": 7
+    "totalPages": 8
   },
   "metadata:2026/04": {
     "year": 2026,
