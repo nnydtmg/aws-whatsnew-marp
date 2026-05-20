@@ -4,18 +4,28 @@ theme: aws-whatsnew
 paginate: true
 ---
 
-# Amazon Redshift、Iceberg テーブルの ALTER TABLE と AWS Glue Data Catalog 経由の直接書き込みをサポート
+<!-- _class: title -->
 
-Amazon Redshift adds ALTER TABLE for Iceberg tables and writes via the AWS Glue Data Catalog mount
+# Amazon Redshift で Apache Iceberg テーブルの ALTER TABLE と Glue Data Catalog 経由の書き込みが利用可能に
 
-**What's New** | 2026-05-18T16:25:00
+**発表日: 2026年5月18日**
 
 ---
 
 ## 概要
 
-- Amazon Redshift は、AWS Glue Data Catalog 経由での Apache Iceberg テーブルへの直接書き込みと、ALTER TABLE DDL ステートメントによるスキーマ・パーティショニング・プロパティの変更機能をサポートするようになりました。
-- これにより、データレイク内での Redshift 変換の管理が簡素化され、複数の Iceberg 互換エンジン間での相互運用性が保証されます。
+### 3つの主要な機能追加
+
+- **Glue Data Catalog 経由の直接書き込み**: AWS Glue Data Catalog マウント経由で Apache Iceberg テーブルへの直接書き込みをサポート
+- **ALTER TABLE DDL サポート**: スキーマ、パーティショニング、プロパティを直接変更可能
+- **簡素化された管理**: 外部スキーマを作成することなく、Redshift の変換結果をデータレイクに直接書き込み
+
+### サポートされる操作
+
+- 列の追加・削除・変更
+- 列名の変更
+- デフォルト圧縮タイプの上書き
+- パーティションフィールドの追加・削除・置換
 
 ---
 
@@ -23,31 +33,31 @@ Amazon Redshift adds ALTER TABLE for Iceberg tables and writes via the AWS Glue 
 
 ### これまでの課題
 
-- 以前は Iceberg テーブルの構造を更新するためにテーブルとそのデータを削除する必要がありましたが、この新機能により複雑性と遅延が軽減されます。
+- **複雑な変更プロセス**: Iceberg テーブルの構造を更新する際、テーブルとそのデータを削除する必要があった
+- **管理の複雑化**: 外部スキーマの作成が必須で、ワークフローが複雑化
+- **相互運用性の制限**: 複数のエンジン間での連携が限定的
+
+### 市場動向
+
+- Apache Iceberg は、レイク・ハウス分析の標準フォーマットとして普及
+- Amazon EMR や Amazon Athena など複数のサービスで Iceberg サポートが拡大
+- エンタープライズのデータレイク管理で、より柔軟な操作性が求められている
 
 ---
 
-### 関連する最近の動向
+## 主な新機能
 
-- **Amazon Redshift supports UPDATE, DELETE, MERGE for Apache Iceberg tables**
-  [詳細](https://aws.amazon.com/about-aws/whats-new/2026/04/redshift-update-delete-merge-iceberg-tables/)
+### 1. Glue Data Catalog 経由の直接書き込み
 
-- **Using Apache Iceberg tables with Amazon Redshift**
-  [詳細](https://docs.aws.amazon.com/redshift/latest/dg/querying-iceberg.html)
+- AWS Glue Data Catalog（awsdatacatalog）マウント経由での Apache Iceberg テーブルへの直接書き込み
+- 外部スキーマを作成することなく、Redshift の変換結果をデータレイクに直接書き込み可能
+- 従来の複雑な設定が不要に
 
----
+### 2. ALTER TABLE DDL ステートメント
 
-## 変更内容・新機能
-
-### ALTER TABLE のサポート
-
-- サポートされている ALTER TABLE 操作には、列の追加・削除・変更、列名の変更、デフォルト圧縮タイプの上書き、パーティションフィールドの追加・削除・置換が含まれます。
-
-### Iceberg への直接書き込み
-
-- Amazon Redshift は、AWS Glue Data Catalog（awsdatacatalog）マウント経由で Apache Iceberg テーブルへの直接書き込みをサポートするようになりました。
-
-- 外部スキーマを作成することなく、Redshift の変換結果をデータレイクに直接書き込むことができます。
+- **スキーマ変更**: 列の追加、削除、変更を直接実行
+- **パーティション管理**: パーティションフィールドの追加、削除、置換
+- **テーブルプロパティ**: デフォルト圧縮タイプなどを設定
 
 ---
 
@@ -55,55 +65,72 @@ Amazon Redshift adds ALTER TABLE for Iceberg tables and writes via the AWS Glue 
 
 ### 運用効率の向上
 
-- 以前は Iceberg テーブルの構造を更新するためにテーブルとそのデータを削除する必要がありましたが、この新機能により複雑性と遅延が軽減されます。
+- **テーブル削除不要**: 従来のテーブル削除・再作成プロセスが不要
+- **ダウンタイム削減**: スキーマ変更時のデータ移行作業が短縮
+- **管理コスト削減**: 外部スキーマ管理の負担が軽減
 
-### 相互運用性の強化
+### マルチエンジン互換性
 
-- Redshift で変更されたテーブルは、Amazon EMR や Amazon Athena を含む他の Iceberg 互換エンジンとの互換性を保ちます。
+- Redshift で変更されたテーブルは、Amazon EMR や Amazon Athena との互換性を維持
+- 複数のデータ処理エンジンでの シームレスな連携が実現
 
-### セキュリティと管理
+### セキュリティとガバナンス
 
-- AWS Lake Formation の権限は Iceberg 書き込み操作でサポートされています。
+- AWS Lake Formation の権限機構が Iceberg 書き込み操作に対応
+- エンタープライズレベルのアクセス制御が可能
 
 ---
 
 ## ユースケース
 
-### データレイク統合
+### 1. データレイク内での ETL パイプライン
 
-Redshift で変換したデータを Iceberg テーブルに直接書き込み、その後 Amazon EMR や Amazon Athena で分析することが可能になります。
+- Redshift から Iceberg テーブルへの変換結果を直接書き込み
+- 複数のデータ処理エンジンがアクセス可能な統一フォーマット
+- 運用管理が大幅に簡素化
 
-### テーブル進化
+### 2. スキーマ進化への対応
 
-スキーマの変更やパーティショニングの調整をテーブルとデータの再作成なしに行えます。
+- ビジネス要件の変更に応じた列追加・削除を動的に実行
+- テーブル削除なしでスキーマを更新
+- データ保全性を維持しながらの段階的な拡張
+
+### 3. エンタープライズ分析ワークフロー
+
+- 複数チームによるデータ処理の統合
+- 統一されたアクセス制御（AWS Lake Formation）
+- コンプライアンス要件への対応
 
 ---
 
 ## まとめ
 
-### 主要ポイント
+### 位置づけ
 
-- Amazon Redshift が Iceberg テーブルへの直接書き込みをサポート
-- ALTER TABLE ステートメントでスキーマとプロパティの変更が可能
-- データレイク内の運用複雑性を大幅に軽減
-- 複数エンジン間での互換性を維持
+- Amazon Redshift の Iceberg サポートが大幅に拡張
+- Redshift を中心とした統合的なデータレイク運用が実現
+- マルチエンジン戦略の強化
 
 ### 次のステップ
 
-1. 自社のデータレイク設計への適用可能性を検討
-2. AWS Glue Data Catalog の設定を確認
-3. パイロットプロジェクトでの検証開始
+1. 既存の Iceberg ワークフローで ALTER TABLE の活用箇所を特定
+2. AWS Glue Data Catalog マウント経由の書き込みをテスト
+3. Lake Formation の権限設定を確認して本番導入
+4. 複数エンジン間での互換性検証
+
+### 利用可能性
+
+- **提供地域**: Amazon Redshift が利用可能なすべての AWS リージョン
+- **対象クラスター**: すべての Redshift クラスターで利用可能
 
 ---
 
-## 参考URL
+## 参考リソース
 
-- [元記事を開く](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-redshift-alter-table-iceberg/)
-
-### 関連情報
-
-- [Amazon Redshift supports UPDATE, DELETE, MERGE for Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2026/04/redshift-update-delete-merge-iceberg-tables/)
-- [Using Apache Iceberg tables with Amazon Redshift](https://docs.aws.amazon.com/redshift/latest/dg/querying-iceberg.html)
+- **元記事**: https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-redshift-alter-table-iceberg/
+- **Amazon Redshift ドキュメント**: https://docs.aws.amazon.com/redshift/
+- **Apache Iceberg ドキュメント**: https://iceberg.apache.org/
+- **関連情報**: https://aws.amazon.com/about-aws/whats-new/2026/04/redshift-update-delete-merge-iceberg-tables/
 
 ---
 
