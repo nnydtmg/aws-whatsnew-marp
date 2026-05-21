@@ -24,6 +24,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/20/AWS-Billing-Conductor-Improves-Account-Visibility/thumbnail.png"
       },
       {
+        "id": "2026-05-20-Amazon-Bedrock-expands-support-for-request-level-u",
+        "title": "Amazon Bedrock でリクエストレベルの使用状況追跡機能が利用可能に",
+        "date": "2026-05-20",
+        "year": 2026,
+        "month": 5,
+        "day": 20,
+        "path": "2026/05/20/Amazon-Bedrock-expands-support-for-request-level-u",
+        "summary": "Amazon Bedrock でリクエストレベルの使用状況追跡機能が利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/20/Amazon-Bedrock-expands-support-for-request-level-u/thumbnail.png"
+      },
+      {
         "id": "2026-05-20-Amazon-Redshift-adds-ALTER-TABLE-for-Iceberg-table",
         "title": "Amazon Redshift が Iceberg テーブルの ALTER TABLE と AWS Glue Data Catalog 経由の書き込みに対応",
         "date": "2026-05-20",
@@ -3082,8 +3093,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-05-21T22:10:04.982Z",
-    "totalCount": 280
+    "updatedAt": "2026-05-21T23:50:08.967Z",
+    "totalCount": 281
   },
   "metadata:months": [
     "2026/05",
@@ -3116,6 +3127,17 @@
         "path": "2026/05/20/AWS-Billing-Conductor-Improves-Account-Visibility",
         "summary": "AWS Billing Conductor の請求転送インベントリ機能で請求可視性が向上",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/20/AWS-Billing-Conductor-Improves-Account-Visibility/thumbnail.png"
+      },
+      {
+        "id": "2026-05-20-Amazon-Bedrock-expands-support-for-request-level-u",
+        "title": "Amazon Bedrock でリクエストレベルの使用状況追跡機能が利用可能に",
+        "date": "2026-05-20",
+        "year": 2026,
+        "month": 5,
+        "day": 20,
+        "path": "2026/05/20/Amazon-Bedrock-expands-support-for-request-level-u",
+        "summary": "Amazon Bedrock でリクエストレベルの使用状況追跡機能が利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/20/Amazon-Bedrock-expands-support-for-request-level-u/thumbnail.png"
       },
       {
         "id": "2026-05-20-Amazon-Redshift-adds-ALTER-TABLE-for-Iceberg-table",
