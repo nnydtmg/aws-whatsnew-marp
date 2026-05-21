@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-05-21-AWS-Security-Hub-now-uncovers-identity-risks-from",
+        "title": "AWS Security Hubが未使用アクセスの識別リスク検出に対応",
+        "date": "2026-05-21",
+        "year": 2026,
+        "month": 5,
+        "day": 21,
+        "path": "2026/05/21/AWS-Security-Hub-now-uncovers-identity-risks-from",
+        "summary": "AWS Security Hubが未使用アクセスの識別リスク検出に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/21/AWS-Security-Hub-now-uncovers-identity-risks-from/thumbnail.png"
+      },
+      {
         "id": "2026-05-20-AWS-Billing-Conductor-Improves-Account-Visibility",
         "title": "AWS Billing Conductor の請求転送インベントリ機能で請求可視性が向上",
         "date": "2026-05-20",
@@ -3071,8 +3082,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-05-20T23:03:51.749Z",
-    "totalCount": 279
+    "updatedAt": "2026-05-21T02:07:02.836Z",
+    "totalCount": 280
   },
   "metadata:months": [
     "2026/05",
@@ -3084,6 +3095,17 @@
     "year": 2026,
     "month": 5,
     "articles": [
+      {
+        "id": "2026-05-21-AWS-Security-Hub-now-uncovers-identity-risks-from",
+        "title": "AWS Security Hubが未使用アクセスの識別リスク検出に対応",
+        "date": "2026-05-21",
+        "year": 2026,
+        "month": 5,
+        "day": 21,
+        "path": "2026/05/21/AWS-Security-Hub-now-uncovers-identity-risks-from",
+        "summary": "AWS Security Hubが未使用アクセスの識別リスク検出に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/21/AWS-Security-Hub-now-uncovers-identity-risks-from/thumbnail.png"
+      },
       {
         "id": "2026-05-20-AWS-Billing-Conductor-Improves-Account-Visibility",
         "title": "AWS Billing Conductor の請求転送インベントリ機能で請求可視性が向上",
