@@ -2,6 +2,39 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-05-23-AWS-Secrets-Manager-adds-managed-external-secrets",
+        "title": "AWS Secrets Manager が Datadog と Snowflake の外部シークレット管理に対応",
+        "date": "2026-05-23",
+        "year": 2026,
+        "month": 5,
+        "day": 23,
+        "path": "2026/05/23/AWS-Secrets-Manager-adds-managed-external-secrets",
+        "summary": "AWS Secrets Manager が Datadog と Snowflake の外部シークレット管理に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/23/AWS-Secrets-Manager-adds-managed-external-secrets/thumbnail.png"
+      },
+      {
+        "id": "2026-05-23-AWS-Security-Agent-adds-verification-scripts-for-p",
+        "title": "AWS Security Agent がペネトレーション検査検出結果の検証スクリプト自動生成をサポート",
+        "date": "2026-05-23",
+        "year": 2026,
+        "month": 5,
+        "day": 23,
+        "path": "2026/05/23/AWS-Security-Agent-adds-verification-scripts-for-p",
+        "summary": "AWS Security Agent がペネトレーション検査検出結果の検証スクリプト自動生成をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/23/AWS-Security-Agent-adds-verification-scripts-for-p/thumbnail.png"
+      },
+      {
+        "id": "2026-05-23-Amazon-CloudWatch-Logs-Insights-adds-new-query-com",
+        "title": "Amazon CloudWatch Logs Insights",
+        "date": "2026-05-23",
+        "year": 2026,
+        "month": 5,
+        "day": 23,
+        "path": "2026/05/23/Amazon-CloudWatch-Logs-Insights-adds-new-query-com",
+        "summary": "Amazon CloudWatch Logs Insights に新しいクエリコマンドと関数を追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/23/Amazon-CloudWatch-Logs-Insights-adds-new-query-com/thumbnail.png"
+      },
+      {
         "id": "2026-05-21-AWS-Security-Hub-now-uncovers-identity-risks-from",
         "title": "AWS Security Hubが未使用アクセスの識別リスク検出に対応",
         "date": "2026-05-21",
@@ -3093,8 +3126,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-05-22T23:57:07.560Z",
-    "totalCount": 281
+    "updatedAt": "2026-05-23T02:25:16.403Z",
+    "totalCount": 284
   },
   "metadata:months": [
     "2026/05",
@@ -3106,6 +3139,39 @@
     "year": 2026,
     "month": 5,
     "articles": [
+      {
+        "id": "2026-05-23-AWS-Secrets-Manager-adds-managed-external-secrets",
+        "title": "AWS Secrets Manager が Datadog と Snowflake の外部シークレット管理に対応",
+        "date": "2026-05-23",
+        "year": 2026,
+        "month": 5,
+        "day": 23,
+        "path": "2026/05/23/AWS-Secrets-Manager-adds-managed-external-secrets",
+        "summary": "AWS Secrets Manager が Datadog と Snowflake の外部シークレット管理に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/23/AWS-Secrets-Manager-adds-managed-external-secrets/thumbnail.png"
+      },
+      {
+        "id": "2026-05-23-AWS-Security-Agent-adds-verification-scripts-for-p",
+        "title": "AWS Security Agent がペネトレーション検査検出結果の検証スクリプト自動生成をサポート",
+        "date": "2026-05-23",
+        "year": 2026,
+        "month": 5,
+        "day": 23,
+        "path": "2026/05/23/AWS-Security-Agent-adds-verification-scripts-for-p",
+        "summary": "AWS Security Agent がペネトレーション検査検出結果の検証スクリプト自動生成をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/23/AWS-Security-Agent-adds-verification-scripts-for-p/thumbnail.png"
+      },
+      {
+        "id": "2026-05-23-Amazon-CloudWatch-Logs-Insights-adds-new-query-com",
+        "title": "Amazon CloudWatch Logs Insights",
+        "date": "2026-05-23",
+        "year": 2026,
+        "month": 5,
+        "day": 23,
+        "path": "2026/05/23/Amazon-CloudWatch-Logs-Insights-adds-new-query-com",
+        "summary": "Amazon CloudWatch Logs Insights に新しいクエリコマンドと関数を追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/23/Amazon-CloudWatch-Logs-Insights-adds-new-query-com/thumbnail.png"
+      },
       {
         "id": "2026-05-21-AWS-Security-Hub-now-uncovers-identity-risks-from",
         "title": "AWS Security Hubが未使用アクセスの識別リスク検出に対応",

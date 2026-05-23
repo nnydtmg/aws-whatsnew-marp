@@ -6,6 +6,24 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-23-AWS-Secrets-Manager-adds-managed-external-secrets</loc>
+    <lastmod>2026-05-23</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-23-AWS-Security-Agent-adds-verification-scripts-for-p</loc>
+    <lastmod>2026-05-23</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-23-Amazon-CloudWatch-Logs-Insights-adds-new-query-com</loc>
+    <lastmod>2026-05-23</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-21-AWS-Security-Hub-now-uncovers-identity-risks-from</loc>
     <lastmod>2026-05-21</lastmod>
     <changefreq>never</changefreq>
