@@ -6,6 +6,24 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-27-Amazon-GuardDuty-Malware-Protection-for-AWS-Backup</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-27-Amazon-RDS-now-supports-ENA-Express-for-Multi-AZ-r</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-27-Amazon-VPC-IPAM-now-supports-tags-on-IPAM-pool-all</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-23-AWS-Secrets-Manager-adds-managed-external-secrets</loc>
     <lastmod>2026-05-23</lastmod>
     <changefreq>never</changefreq>

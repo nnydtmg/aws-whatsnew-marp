@@ -2,6 +2,39 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-05-27-Amazon-GuardDuty-Malware-Protection-for-AWS-Backup",
+        "title": "Amazon GuardDuty マルウェア検査が AWS Backup の Amazon S3 継続的バックアップに対応",
+        "date": "2026-05-27",
+        "year": 2026,
+        "month": 5,
+        "day": 27,
+        "path": "2026/05/27/Amazon-GuardDuty-Malware-Protection-for-AWS-Backup",
+        "summary": "Amazon GuardDuty マルウェア検査が AWS Backup の Amazon S3 継続的バックアップに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/27/Amazon-GuardDuty-Malware-Protection-for-AWS-Backup/thumbnail.png"
+      },
+      {
+        "id": "2026-05-27-Amazon-RDS-now-supports-ENA-Express-for-Multi-AZ-r",
+        "title": "Amazon RDS が Multi-AZ レプリケーションで ENA Express をサポート",
+        "date": "2026-05-27",
+        "year": 2026,
+        "month": 5,
+        "day": 27,
+        "path": "2026/05/27/Amazon-RDS-now-supports-ENA-Express-for-Multi-AZ-r",
+        "summary": "Amazon RDS が Multi AZ レプリケーションで ENA Express をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/27/Amazon-RDS-now-supports-ENA-Express-for-Multi-AZ-r/thumbnail.png"
+      },
+      {
+        "id": "2026-05-27-Amazon-VPC-IPAM-now-supports-tags-on-IPAM-pool-all",
+        "title": "Amazon VPC IPAM のプール割り当てがタグ付けに対応",
+        "date": "2026-05-27",
+        "year": 2026,
+        "month": 5,
+        "day": 27,
+        "path": "2026/05/27/Amazon-VPC-IPAM-now-supports-tags-on-IPAM-pool-all",
+        "summary": "Amazon VPC IPAM のプール割り当てがタグ付けに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/27/Amazon-VPC-IPAM-now-supports-tags-on-IPAM-pool-all/thumbnail.png"
+      },
+      {
         "id": "2026-05-23-AWS-Secrets-Manager-adds-managed-external-secrets",
         "title": "AWS Secrets Manager が Datadog と Snowflake の外部シークレット管理に対応",
         "date": "2026-05-23",
@@ -3126,8 +3159,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-05-27T05:08:28.591Z",
-    "totalCount": 284
+    "updatedAt": "2026-05-27T08:59:05.964Z",
+    "totalCount": 287
   },
   "metadata:months": [
     "2026/05",
@@ -3139,6 +3172,39 @@
     "year": 2026,
     "month": 5,
     "articles": [
+      {
+        "id": "2026-05-27-Amazon-GuardDuty-Malware-Protection-for-AWS-Backup",
+        "title": "Amazon GuardDuty マルウェア検査が AWS Backup の Amazon S3 継続的バックアップに対応",
+        "date": "2026-05-27",
+        "year": 2026,
+        "month": 5,
+        "day": 27,
+        "path": "2026/05/27/Amazon-GuardDuty-Malware-Protection-for-AWS-Backup",
+        "summary": "Amazon GuardDuty マルウェア検査が AWS Backup の Amazon S3 継続的バックアップに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/27/Amazon-GuardDuty-Malware-Protection-for-AWS-Backup/thumbnail.png"
+      },
+      {
+        "id": "2026-05-27-Amazon-RDS-now-supports-ENA-Express-for-Multi-AZ-r",
+        "title": "Amazon RDS が Multi-AZ レプリケーションで ENA Express をサポート",
+        "date": "2026-05-27",
+        "year": 2026,
+        "month": 5,
+        "day": 27,
+        "path": "2026/05/27/Amazon-RDS-now-supports-ENA-Express-for-Multi-AZ-r",
+        "summary": "Amazon RDS が Multi AZ レプリケーションで ENA Express をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/27/Amazon-RDS-now-supports-ENA-Express-for-Multi-AZ-r/thumbnail.png"
+      },
+      {
+        "id": "2026-05-27-Amazon-VPC-IPAM-now-supports-tags-on-IPAM-pool-all",
+        "title": "Amazon VPC IPAM のプール割り当てがタグ付けに対応",
+        "date": "2026-05-27",
+        "year": 2026,
+        "month": 5,
+        "day": 27,
+        "path": "2026/05/27/Amazon-VPC-IPAM-now-supports-tags-on-IPAM-pool-all",
+        "summary": "Amazon VPC IPAM のプール割り当てがタグ付けに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/27/Amazon-VPC-IPAM-now-supports-tags-on-IPAM-pool-all/thumbnail.png"
+      },
       {
         "id": "2026-05-23-AWS-Secrets-Manager-adds-managed-external-secrets",
         "title": "AWS Secrets Manager が Datadog と Snowflake の外部シークレット管理に対応",
