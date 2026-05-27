@@ -1,4 +1,4 @@
-# Amazon RDS で Multi-AZ レプリケーション用 ENA Express をサポート開始
+# Amazon RDS が Multi-AZ レプリケーションで ENA Express をサポート
 
 Amazon RDS now supports ENA Express for Multi-AZ replication
 
