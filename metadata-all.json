@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-05-27-Amazon-Aurora-MySQL-now-supports-integration-with",
+        "title": "Amazon Aurora MySQL が Kiro Powers に対応",
+        "date": "2026-05-27",
+        "year": 2026,
+        "month": 5,
+        "day": 27,
+        "path": "2026/05/27/Amazon-Aurora-MySQL-now-supports-integration-with",
+        "summary": "Amazon Aurora MySQL が Kiro Powers に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/27/Amazon-Aurora-MySQL-now-supports-integration-with/thumbnail.png"
+      },
+      {
+        "id": "2026-05-27-Amazon-Bedrock-expands-support-for-Service-Quotas",
+        "title": "Amazon Bedrock での Service Quotas サポート拡張",
+        "date": "2026-05-27",
+        "year": 2026,
+        "month": 5,
+        "day": 27,
+        "path": "2026/05/27/Amazon-Bedrock-expands-support-for-Service-Quotas",
+        "summary": "Amazon Bedrock での Service Quotas サポート拡張",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/27/Amazon-Bedrock-expands-support-for-Service-Quotas/thumbnail.png"
+      },
+      {
         "id": "2026-05-27-Amazon-GuardDuty-Malware-Protection-for-AWS-Backup",
         "title": "Amazon GuardDuty マルウェア検査が AWS Backup の Amazon S3 継続的バックアップに対応",
         "date": "2026-05-27",
@@ -3159,8 +3181,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-05-28T01:55:57.043Z",
-    "totalCount": 287
+    "updatedAt": "2026-05-28T06:01:53.329Z",
+    "totalCount": 289
   },
   "metadata:months": [
     "2026/05",
@@ -3172,6 +3194,28 @@
     "year": 2026,
     "month": 5,
     "articles": [
+      {
+        "id": "2026-05-27-Amazon-Aurora-MySQL-now-supports-integration-with",
+        "title": "Amazon Aurora MySQL が Kiro Powers に対応",
+        "date": "2026-05-27",
+        "year": 2026,
+        "month": 5,
+        "day": 27,
+        "path": "2026/05/27/Amazon-Aurora-MySQL-now-supports-integration-with",
+        "summary": "Amazon Aurora MySQL が Kiro Powers に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/27/Amazon-Aurora-MySQL-now-supports-integration-with/thumbnail.png"
+      },
+      {
+        "id": "2026-05-27-Amazon-Bedrock-expands-support-for-Service-Quotas",
+        "title": "Amazon Bedrock での Service Quotas サポート拡張",
+        "date": "2026-05-27",
+        "year": 2026,
+        "month": 5,
+        "day": 27,
+        "path": "2026/05/27/Amazon-Bedrock-expands-support-for-Service-Quotas",
+        "summary": "Amazon Bedrock での Service Quotas サポート拡張",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/27/Amazon-Bedrock-expands-support-for-Service-Quotas/thumbnail.png"
+      },
       {
         "id": "2026-05-27-Amazon-GuardDuty-Malware-Protection-for-AWS-Backup",
         "title": "Amazon GuardDuty マルウェア検査が AWS Backup の Amazon S3 継続的バックアップに対応",
@@ -4053,7 +4097,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/01/OpenSearch-UI-supports-cross-region-data-access-to/thumbnail.png"
       }
     ],
-    "totalPages": 8
+    "totalPages": 9
   },
   "metadata:2026/04": {
     "year": 2026,
