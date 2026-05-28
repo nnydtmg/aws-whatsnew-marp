@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-05-28-Monitor-AWS-Budgets-directly-in-Billing-and-Cost-M",
+        "title": "AWS Billing and Cost Management ダッシュボードに新しい Budgets ウィジェットが登場",
+        "date": "2026-05-28",
+        "year": 2026,
+        "month": 5,
+        "day": 28,
+        "path": "2026/05/28/Monitor-AWS-Budgets-directly-in-Billing-and-Cost-M",
+        "summary": "AWS Billing and Cost Management ダッシュボードに新しい Budgets ウィジェットが登場",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/28/Monitor-AWS-Budgets-directly-in-Billing-and-Cost-M/thumbnail.png"
+      },
+      {
         "id": "2026-05-27-Amazon-Aurora-MySQL-now-supports-integration-with",
         "title": "Amazon Aurora MySQL が Kiro Powers に対応",
         "date": "2026-05-27",
@@ -3181,8 +3192,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-05-28T20:04:05.493Z",
-    "totalCount": 289
+    "updatedAt": "2026-05-28T22:25:34.094Z",
+    "totalCount": 290
   },
   "metadata:months": [
     "2026/05",
@@ -3194,6 +3205,17 @@
     "year": 2026,
     "month": 5,
     "articles": [
+      {
+        "id": "2026-05-28-Monitor-AWS-Budgets-directly-in-Billing-and-Cost-M",
+        "title": "AWS Billing and Cost Management ダッシュボードに新しい Budgets ウィジェットが登場",
+        "date": "2026-05-28",
+        "year": 2026,
+        "month": 5,
+        "day": 28,
+        "path": "2026/05/28/Monitor-AWS-Budgets-directly-in-Billing-and-Cost-M",
+        "summary": "AWS Billing and Cost Management ダッシュボードに新しい Budgets ウィジェットが登場",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/28/Monitor-AWS-Budgets-directly-in-Billing-and-Cost-M/thumbnail.png"
+      },
       {
         "id": "2026-05-27-Amazon-Aurora-MySQL-now-supports-integration-with",
         "title": "Amazon Aurora MySQL が Kiro Powers に対応",
