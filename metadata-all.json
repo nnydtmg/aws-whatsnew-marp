@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-05-29-AWS-Shield-Advanced-introduces-DDoS-attack-flow-lo",
+        "title": "AWS Shield Advanced が DDoS 攻撃フロー ログをサポート",
+        "date": "2026-05-29",
+        "year": 2026,
+        "month": 5,
+        "day": 29,
+        "path": "2026/05/29/AWS-Shield-Advanced-introduces-DDoS-attack-flow-lo",
+        "summary": "AWS Shield Advanced が DDoS 攻撃フロー ログをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/29/AWS-Shield-Advanced-introduces-DDoS-attack-flow-lo/thumbnail.png"
+      },
+      {
         "id": "2026-05-28-AWS-Organizations-emits-CloudTrail-events-for-acco",
         "title": "AWS Organizations が CloudTrail イベントを発行",
         "date": "2026-05-28",
@@ -3247,8 +3258,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-05-29T21:43:25.717Z",
-    "totalCount": 295
+    "updatedAt": "2026-05-29T23:03:09.078Z",
+    "totalCount": 296
   },
   "metadata:months": [
     "2026/05",
@@ -3260,6 +3271,17 @@
     "year": 2026,
     "month": 5,
     "articles": [
+      {
+        "id": "2026-05-29-AWS-Shield-Advanced-introduces-DDoS-attack-flow-lo",
+        "title": "AWS Shield Advanced が DDoS 攻撃フロー ログをサポート",
+        "date": "2026-05-29",
+        "year": 2026,
+        "month": 5,
+        "day": 29,
+        "path": "2026/05/29/AWS-Shield-Advanced-introduces-DDoS-attack-flow-lo",
+        "summary": "AWS Shield Advanced が DDoS 攻撃フロー ログをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/29/AWS-Shield-Advanced-introduces-DDoS-attack-flow-lo/thumbnail.png"
+      },
       {
         "id": "2026-05-28-AWS-Organizations-emits-CloudTrail-events-for-acco",
         "title": "AWS Organizations が CloudTrail イベントを発行",
