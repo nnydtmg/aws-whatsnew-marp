@@ -2,6 +2,39 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-05-28-AWS-Organizations-emits-CloudTrail-events-for-acco",
+        "title": "AWS Organizations が CloudTrail イベントを発行",
+        "date": "2026-05-28",
+        "year": 2026,
+        "month": 5,
+        "day": 28,
+        "path": "2026/05/28/AWS-Organizations-emits-CloudTrail-events-for-acco",
+        "summary": "AWS Organizations が CloudTrail イベントを発行",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/28/AWS-Organizations-emits-CloudTrail-events-for-acco/thumbnail.png"
+      },
+      {
+        "id": "2026-05-28-Claude-Opus-48-is-now-available-on-AWS",
+        "title": "Claude Opus 4.8 が AWS で利用開始",
+        "date": "2026-05-28",
+        "year": 2026,
+        "month": 5,
+        "day": 28,
+        "path": "2026/05/28/Claude-Opus-48-is-now-available-on-AWS",
+        "summary": "Claude Opus 4.8 が AWS で利用開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/28/Claude-Opus-48-is-now-available-on-AWS/thumbnail.png"
+      },
+      {
+        "id": "2026-05-28-Introducing-the-next-generation-of-AWS-Resilience",
+        "title": "AWS Resilience Hub次世代版で実現するAI駆動型SREレジリエンス",
+        "date": "2026-05-28",
+        "year": 2026,
+        "month": 5,
+        "day": 28,
+        "path": "2026/05/28/Introducing-the-next-generation-of-AWS-Resilience",
+        "summary": "AWS Resilience Hub次世代版で実現するAI駆動型SREレジリエンス",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/28/Introducing-the-next-generation-of-AWS-Resilience/thumbnail.png"
+      },
+      {
         "id": "2026-05-28-Monitor-AWS-Budgets-directly-in-Billing-and-Cost-M",
         "title": "AWS Billing and Cost Management ダッシュボードに新しい Budgets ウィジェットが登場",
         "date": "2026-05-28",
@@ -3192,8 +3225,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-05-28T22:25:34.094Z",
-    "totalCount": 290
+    "updatedAt": "2026-05-29T00:02:23.402Z",
+    "totalCount": 293
   },
   "metadata:months": [
     "2026/05",
@@ -3205,6 +3238,39 @@
     "year": 2026,
     "month": 5,
     "articles": [
+      {
+        "id": "2026-05-28-AWS-Organizations-emits-CloudTrail-events-for-acco",
+        "title": "AWS Organizations が CloudTrail イベントを発行",
+        "date": "2026-05-28",
+        "year": 2026,
+        "month": 5,
+        "day": 28,
+        "path": "2026/05/28/AWS-Organizations-emits-CloudTrail-events-for-acco",
+        "summary": "AWS Organizations が CloudTrail イベントを発行",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/28/AWS-Organizations-emits-CloudTrail-events-for-acco/thumbnail.png"
+      },
+      {
+        "id": "2026-05-28-Claude-Opus-48-is-now-available-on-AWS",
+        "title": "Claude Opus 4.8 が AWS で利用開始",
+        "date": "2026-05-28",
+        "year": 2026,
+        "month": 5,
+        "day": 28,
+        "path": "2026/05/28/Claude-Opus-48-is-now-available-on-AWS",
+        "summary": "Claude Opus 4.8 が AWS で利用開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/28/Claude-Opus-48-is-now-available-on-AWS/thumbnail.png"
+      },
+      {
+        "id": "2026-05-28-Introducing-the-next-generation-of-AWS-Resilience",
+        "title": "AWS Resilience Hub次世代版で実現するAI駆動型SREレジリエンス",
+        "date": "2026-05-28",
+        "year": 2026,
+        "month": 5,
+        "day": 28,
+        "path": "2026/05/28/Introducing-the-next-generation-of-AWS-Resilience",
+        "summary": "AWS Resilience Hub次世代版で実現するAI駆動型SREレジリエンス",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/28/Introducing-the-next-generation-of-AWS-Resilience/thumbnail.png"
+      },
       {
         "id": "2026-05-28-Monitor-AWS-Budgets-directly-in-Billing-and-Cost-M",
         "title": "AWS Billing and Cost Management ダッシュボードに新しい Budgets ウィジェットが登場",
