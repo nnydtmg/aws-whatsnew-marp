@@ -13,6 +13,28 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/28/AWS-Organizations-emits-CloudTrail-events-for-acco/thumbnail.png"
       },
       {
+        "id": "2026-05-28-AWS-announces-general-availability-of-the-next-gen",
+        "title": "AWS Resilience Hub 次世代版が一般提供開始",
+        "date": "2026-05-28",
+        "year": 2026,
+        "month": 5,
+        "day": 28,
+        "path": "2026/05/28/AWS-announces-general-availability-of-the-next-gen",
+        "summary": "AWS Resilience Hub 次世代版が一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/28/AWS-announces-general-availability-of-the-next-gen/thumbnail.png"
+      },
+      {
+        "id": "2026-05-28-Amazon-WorkSpaces-Applications-adds-support-for-Wi",
+        "title": "Amazon WorkSpaces ApplicationsがWindows Desktop OSをサポート",
+        "date": "2026-05-28",
+        "year": 2026,
+        "month": 5,
+        "day": 28,
+        "path": "2026/05/28/Amazon-WorkSpaces-Applications-adds-support-for-Wi",
+        "summary": "Amazon WorkSpaces ApplicationsがWindows Desktop OSをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/28/Amazon-WorkSpaces-Applications-adds-support-for-Wi/thumbnail.png"
+      },
+      {
         "id": "2026-05-28-Claude-Opus-48-is-now-available-on-AWS",
         "title": "Claude Opus 4.8 が AWS で利用開始",
         "date": "2026-05-28",
@@ -3225,8 +3247,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-05-29T09:32:41.635Z",
-    "totalCount": 293
+    "updatedAt": "2026-05-29T12:39:51.847Z",
+    "totalCount": 295
   },
   "metadata:months": [
     "2026/05",
@@ -3248,6 +3270,28 @@
         "path": "2026/05/28/AWS-Organizations-emits-CloudTrail-events-for-acco",
         "summary": "AWS Organizations が CloudTrail イベントを発行",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/28/AWS-Organizations-emits-CloudTrail-events-for-acco/thumbnail.png"
+      },
+      {
+        "id": "2026-05-28-AWS-announces-general-availability-of-the-next-gen",
+        "title": "AWS Resilience Hub 次世代版が一般提供開始",
+        "date": "2026-05-28",
+        "year": 2026,
+        "month": 5,
+        "day": 28,
+        "path": "2026/05/28/AWS-announces-general-availability-of-the-next-gen",
+        "summary": "AWS Resilience Hub 次世代版が一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/28/AWS-announces-general-availability-of-the-next-gen/thumbnail.png"
+      },
+      {
+        "id": "2026-05-28-Amazon-WorkSpaces-Applications-adds-support-for-Wi",
+        "title": "Amazon WorkSpaces ApplicationsがWindows Desktop OSをサポート",
+        "date": "2026-05-28",
+        "year": 2026,
+        "month": 5,
+        "day": 28,
+        "path": "2026/05/28/Amazon-WorkSpaces-Applications-adds-support-for-Wi",
+        "summary": "Amazon WorkSpaces ApplicationsがWindows Desktop OSをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/28/Amazon-WorkSpaces-Applications-adds-support-for-Wi/thumbnail.png"
       },
       {
         "id": "2026-05-28-Claude-Opus-48-is-now-available-on-AWS",
