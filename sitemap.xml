@@ -6,6 +6,18 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-01-AWS-Direct-Connect-now-supports-VIF-Rate-Limiters</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-01-Amazon-Bedrock-AgentCore-Identity-now-allows-you-t</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-05-31-Amazon-SES-now-offers-inbox-placement-metrics-and</loc>
     <lastmod>2026-05-31</lastmod>
     <changefreq>never</changefreq>
