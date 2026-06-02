@@ -24,6 +24,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/01/Amazon-Bedrock-AgentCore-Identity-now-allows-you-t/thumbnail.png"
       },
       {
+        "id": "2026-06-01-Amazon-Quick-now-supports-VPC-connectivity-for-MCP",
+        "title": "Amazon Quick が VPC 接続での MCP 接続をサポート",
+        "date": "2026-06-01",
+        "year": 2026,
+        "month": 6,
+        "day": 1,
+        "path": "2026/06/01/Amazon-Quick-now-supports-VPC-connectivity-for-MCP",
+        "summary": "Amazon Quick が VPC 接続での MCP 接続をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/01/Amazon-Quick-now-supports-VPC-connectivity-for-MCP/thumbnail.png"
+      },
+      {
         "id": "2026-05-31-Amazon-SES-now-offers-inbox-placement-metrics-and",
         "title": "Amazon SESがインボックス配置指標とブロックリスト監視機能をサポート",
         "date": "2026-05-31",
@@ -3291,8 +3302,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-06-01T22:29:45.571Z",
-    "totalCount": 299
+    "updatedAt": "2026-06-02T00:05:34.268Z",
+    "totalCount": 300
   },
   "metadata:months": [
     "2026/06",
@@ -3326,6 +3337,17 @@
         "path": "2026/06/01/Amazon-Bedrock-AgentCore-Identity-now-allows-you-t",
         "summary": "Amazon Bedrock AgentCore Identity が AWS Secrets Manager でのシークレット管理に対応",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/01/Amazon-Bedrock-AgentCore-Identity-now-allows-you-t/thumbnail.png"
+      },
+      {
+        "id": "2026-06-01-Amazon-Quick-now-supports-VPC-connectivity-for-MCP",
+        "title": "Amazon Quick が VPC 接続での MCP 接続をサポート",
+        "date": "2026-06-01",
+        "year": 2026,
+        "month": 6,
+        "day": 1,
+        "path": "2026/06/01/Amazon-Quick-now-supports-VPC-connectivity-for-MCP",
+        "summary": "Amazon Quick が VPC 接続での MCP 接続をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/01/Amazon-Quick-now-supports-VPC-connectivity-for-MCP/thumbnail.png"
       }
     ],
     "totalPages": 1
