@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-06-02-AWS-Config-now-supports-internal-service-linked-ru",
+        "title": "AWS Config が内部サービスリンクルールをサポート",
+        "date": "2026-06-02",
+        "year": 2026,
+        "month": 6,
+        "day": 2,
+        "path": "2026/06/02/AWS-Config-now-supports-internal-service-linked-ru",
+        "summary": "AWS Config が内部サービスリンクルールをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/02/AWS-Config-now-supports-internal-service-linked-ru/thumbnail.png"
+      },
+      {
+        "id": "2026-06-02-Amazon-ElastiCache-for-Valkey-now-supports-durabil",
+        "title": "Amazon ElastiCache for Valkey が永続性をサポート",
+        "date": "2026-06-02",
+        "year": 2026,
+        "month": 6,
+        "day": 2,
+        "path": "2026/06/02/Amazon-ElastiCache-for-Valkey-now-supports-durabil",
+        "summary": "Amazon ElastiCache for Valkey が永続性をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/02/Amazon-ElastiCache-for-Valkey-now-supports-durabil/thumbnail.png"
+      },
+      {
         "id": "2026-06-01-AWS-Direct-Connect-now-supports-VIF-Rate-Limiters",
         "title": "AWS Direct Connect が VIF Rate Limiters に対応",
         "date": "2026-06-01",
@@ -3302,8 +3324,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-06-02T21:40:18.633Z",
-    "totalCount": 300
+    "updatedAt": "2026-06-02T23:26:28.244Z",
+    "totalCount": 302
   },
   "metadata:months": [
     "2026/06",
@@ -3316,6 +3338,28 @@
     "year": 2026,
     "month": 6,
     "articles": [
+      {
+        "id": "2026-06-02-AWS-Config-now-supports-internal-service-linked-ru",
+        "title": "AWS Config が内部サービスリンクルールをサポート",
+        "date": "2026-06-02",
+        "year": 2026,
+        "month": 6,
+        "day": 2,
+        "path": "2026/06/02/AWS-Config-now-supports-internal-service-linked-ru",
+        "summary": "AWS Config が内部サービスリンクルールをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/02/AWS-Config-now-supports-internal-service-linked-ru/thumbnail.png"
+      },
+      {
+        "id": "2026-06-02-Amazon-ElastiCache-for-Valkey-now-supports-durabil",
+        "title": "Amazon ElastiCache for Valkey が永続性をサポート",
+        "date": "2026-06-02",
+        "year": 2026,
+        "month": 6,
+        "day": 2,
+        "path": "2026/06/02/Amazon-ElastiCache-for-Valkey-now-supports-durabil",
+        "summary": "Amazon ElastiCache for Valkey が永続性をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/02/Amazon-ElastiCache-for-Valkey-now-supports-durabil/thumbnail.png"
+      },
       {
         "id": "2026-06-01-AWS-Direct-Connect-now-supports-VIF-Rate-Limiters",
         "title": "AWS Direct Connect が VIF Rate Limiters に対応",

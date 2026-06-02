@@ -6,6 +6,18 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-02-AWS-Config-now-supports-internal-service-linked-ru</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-02-Amazon-ElastiCache-for-Valkey-now-supports-durabil</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-01-AWS-Direct-Connect-now-supports-VIF-Rate-Limiters</loc>
     <lastmod>2026-06-01</lastmod>
     <changefreq>never</changefreq>
