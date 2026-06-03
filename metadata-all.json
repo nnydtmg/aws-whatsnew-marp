@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-06-03-AWS-Step-Functions-adds-AgentCore-powered-agentic",
+        "title": "AWS Step Functions が AgentCore によるエージェント推論ステップに対応",
+        "date": "2026-06-03",
+        "year": 2026,
+        "month": 6,
+        "day": 3,
+        "path": "2026/06/03/AWS-Step-Functions-adds-AgentCore-powered-agentic",
+        "summary": "AWS Step Functions が AgentCore によるエージェント推論ステップに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/03/AWS-Step-Functions-adds-AgentCore-powered-agentic/thumbnail.png"
+      },
+      {
         "id": "2026-06-02-AWS-Config-now-supports-internal-service-linked-ru",
         "title": "AWS Config が内部サービスリンクルールをサポート",
         "date": "2026-06-02",
@@ -77,6 +88,17 @@
         "path": "2026/05/29/AWS-Shield-Advanced-introduces-DDoS-attack-flow-lo",
         "summary": "AWS Shield Advanced が DDoS 攻撃フロー ログをサポート",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/29/AWS-Shield-Advanced-introduces-DDoS-attack-flow-lo/thumbnail.png"
+      },
+      {
+        "id": "2026-05-29-Amazon-CloudWatch-now-supports-querying-metrics-da",
+        "title": "Amazon CloudWatch、Metrics Insights のクエリ対象期間を2週間に拡張",
+        "date": "2026-05-29",
+        "year": 2026,
+        "month": 5,
+        "day": 29,
+        "path": "2026/05/29/Amazon-CloudWatch-now-supports-querying-metrics-da",
+        "summary": "Amazon CloudWatch、Metrics Insights のクエリ対象期間を2週間に拡張",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/29/Amazon-CloudWatch-now-supports-querying-metrics-da/thumbnail.png"
       },
       {
         "id": "2026-05-28-AWS-Organizations-emits-CloudTrail-events-for-acco",
@@ -3324,8 +3346,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-06-03T20:46:37.488Z",
-    "totalCount": 302
+    "updatedAt": "2026-06-03T22:58:06.669Z",
+    "totalCount": 304
   },
   "metadata:months": [
     "2026/06",
@@ -3338,6 +3360,17 @@
     "year": 2026,
     "month": 6,
     "articles": [
+      {
+        "id": "2026-06-03-AWS-Step-Functions-adds-AgentCore-powered-agentic",
+        "title": "AWS Step Functions が AgentCore によるエージェント推論ステップに対応",
+        "date": "2026-06-03",
+        "year": 2026,
+        "month": 6,
+        "day": 3,
+        "path": "2026/06/03/AWS-Step-Functions-adds-AgentCore-powered-agentic",
+        "summary": "AWS Step Functions が AgentCore によるエージェント推論ステップに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/03/AWS-Step-Functions-adds-AgentCore-powered-agentic/thumbnail.png"
+      },
       {
         "id": "2026-06-02-AWS-Config-now-supports-internal-service-linked-ru",
         "title": "AWS Config が内部サービスリンクルールをサポート",
@@ -3421,6 +3454,17 @@
         "path": "2026/05/29/AWS-Shield-Advanced-introduces-DDoS-attack-flow-lo",
         "summary": "AWS Shield Advanced が DDoS 攻撃フロー ログをサポート",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/29/AWS-Shield-Advanced-introduces-DDoS-attack-flow-lo/thumbnail.png"
+      },
+      {
+        "id": "2026-05-29-Amazon-CloudWatch-now-supports-querying-metrics-da",
+        "title": "Amazon CloudWatch、Metrics Insights のクエリ対象期間を2週間に拡張",
+        "date": "2026-05-29",
+        "year": 2026,
+        "month": 5,
+        "day": 29,
+        "path": "2026/05/29/Amazon-CloudWatch-now-supports-querying-metrics-da",
+        "summary": "Amazon CloudWatch、Metrics Insights のクエリ対象期間を2週間に拡張",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/29/Amazon-CloudWatch-now-supports-querying-metrics-da/thumbnail.png"
       },
       {
         "id": "2026-05-28-AWS-Organizations-emits-CloudTrail-events-for-acco",
@@ -4391,7 +4435,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/05/01/OpenSearch-UI-supports-cross-region-data-access-to/thumbnail.png"
       }
     ],
-    "totalPages": 9
+    "totalPages": 10
   },
   "metadata:2026/04": {
     "year": 2026,
