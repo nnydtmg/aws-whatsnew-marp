@@ -13,6 +13,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/03/AWS-Step-Functions-adds-AgentCore-powered-agentic/thumbnail.png"
       },
       {
+        "id": "2026-06-03-Improve-your-application-resilience-with-Amazon-Co",
+        "title": "Amazon Cognito マルチリージョンレプリケーションでアプリケーションの可用性を向上",
+        "date": "2026-06-03",
+        "year": 2026,
+        "month": 6,
+        "day": 3,
+        "path": "2026/06/03/Improve-your-application-resilience-with-Amazon-Co",
+        "summary": "Amazon Cognito マルチリージョンレプリケーションでアプリケーションの可用性を向上",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/03/Improve-your-application-resilience-with-Amazon-Co/thumbnail.png"
+      },
+      {
         "id": "2026-06-02-AWS-Config-now-supports-internal-service-linked-ru",
         "title": "AWS Config が内部サービスリンクルールをサポート",
         "date": "2026-06-02",
@@ -3346,8 +3357,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-06-03T22:58:06.669Z",
-    "totalCount": 304
+    "updatedAt": "2026-06-04T00:28:13.076Z",
+    "totalCount": 305
   },
   "metadata:months": [
     "2026/06",
@@ -3370,6 +3381,17 @@
         "path": "2026/06/03/AWS-Step-Functions-adds-AgentCore-powered-agentic",
         "summary": "AWS Step Functions が AgentCore によるエージェント推論ステップに対応",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/03/AWS-Step-Functions-adds-AgentCore-powered-agentic/thumbnail.png"
+      },
+      {
+        "id": "2026-06-03-Improve-your-application-resilience-with-Amazon-Co",
+        "title": "Amazon Cognito マルチリージョンレプリケーションでアプリケーションの可用性を向上",
+        "date": "2026-06-03",
+        "year": 2026,
+        "month": 6,
+        "day": 3,
+        "path": "2026/06/03/Improve-your-application-resilience-with-Amazon-Co",
+        "summary": "Amazon Cognito マルチリージョンレプリケーションでアプリケーションの可用性を向上",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/03/Improve-your-application-resilience-with-Amazon-Co/thumbnail.png"
       },
       {
         "id": "2026-06-02-AWS-Config-now-supports-internal-service-linked-ru",
