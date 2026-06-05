@@ -13,6 +13,28 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/05/Amazon-EKS-Capabilities-now-supports-Amazon-CloudW/thumbnail.png"
       },
       {
+        "id": "2026-06-05-The-AWS-MCP-Server-now-supports-cross-account-and",
+        "title": "AWS MCP Serverがクロスアカウント・クロスロールアクセスに対応",
+        "date": "2026-06-05",
+        "year": 2026,
+        "month": 6,
+        "day": 5,
+        "path": "2026/06/05/The-AWS-MCP-Server-now-supports-cross-account-and",
+        "summary": "AWS MCP Serverがクロスアカウント・クロスロールアクセスに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/05/The-AWS-MCP-Server-now-supports-cross-account-and/thumbnail.png"
+      },
+      {
+        "id": "2026-06-05-Try-the-new-console-experience-in-Amazon-Bedrock-o",
+        "title": "Amazon Bedrock の新しいコンソール体験",
+        "date": "2026-06-05",
+        "year": 2026,
+        "month": 6,
+        "day": 5,
+        "path": "2026/06/05/Try-the-new-console-experience-in-Amazon-Bedrock-o",
+        "summary": "Amazon Bedrock の新しいコンソール体験 Anthropic・OpenAI互換APIに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/05/Try-the-new-console-experience-in-Amazon-Bedrock-o/thumbnail.png"
+      },
+      {
         "id": "2026-06-04-Amazon-Bedrock-launches-a-redesigned-console-optim",
         "title": "Amazon Bedrock、OpenAI・Anthropic互換APIに最適化した再設計コンソールを提供開始",
         "date": "2026-06-04",
@@ -3390,8 +3412,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-06-05T21:16:06.516Z",
-    "totalCount": 308
+    "updatedAt": "2026-06-05T22:57:36.209Z",
+    "totalCount": 310
   },
   "metadata:months": [
     "2026/06",
@@ -3414,6 +3436,28 @@
         "path": "2026/06/05/Amazon-EKS-Capabilities-now-supports-Amazon-CloudW",
         "summary": "Amazon EKS Capabilities が Amazon CloudWatch Vended Logs をサポート",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/05/Amazon-EKS-Capabilities-now-supports-Amazon-CloudW/thumbnail.png"
+      },
+      {
+        "id": "2026-06-05-The-AWS-MCP-Server-now-supports-cross-account-and",
+        "title": "AWS MCP Serverがクロスアカウント・クロスロールアクセスに対応",
+        "date": "2026-06-05",
+        "year": 2026,
+        "month": 6,
+        "day": 5,
+        "path": "2026/06/05/The-AWS-MCP-Server-now-supports-cross-account-and",
+        "summary": "AWS MCP Serverがクロスアカウント・クロスロールアクセスに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/05/The-AWS-MCP-Server-now-supports-cross-account-and/thumbnail.png"
+      },
+      {
+        "id": "2026-06-05-Try-the-new-console-experience-in-Amazon-Bedrock-o",
+        "title": "Amazon Bedrock の新しいコンソール体験",
+        "date": "2026-06-05",
+        "year": 2026,
+        "month": 6,
+        "day": 5,
+        "path": "2026/06/05/Try-the-new-console-experience-in-Amazon-Bedrock-o",
+        "summary": "Amazon Bedrock の新しいコンソール体験 Anthropic・OpenAI互換APIに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/05/Try-the-new-console-experience-in-Amazon-Bedrock-o/thumbnail.png"
       },
       {
         "id": "2026-06-04-Amazon-Bedrock-launches-a-redesigned-console-optim",
@@ -3515,7 +3559,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/01/Amazon-Quick-now-supports-VPC-connectivity-for-MCP/thumbnail.png"
       }
     ],
-    "totalPages": 1
+    "totalPages": 2
   },
   "metadata:2026/05": {
     "year": 2026,
