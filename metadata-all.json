@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-06-05-Amazon-EKS-Capabilities-now-supports-Amazon-CloudW",
+        "title": "Amazon EKS Capabilities が Amazon CloudWatch Vended Logs をサポート",
+        "date": "2026-06-05",
+        "year": 2026,
+        "month": 6,
+        "day": 5,
+        "path": "2026/06/05/Amazon-EKS-Capabilities-now-supports-Amazon-CloudW",
+        "summary": "Amazon EKS Capabilities が Amazon CloudWatch Vended Logs をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/05/Amazon-EKS-Capabilities-now-supports-Amazon-CloudW/thumbnail.png"
+      },
+      {
         "id": "2026-06-04-Amazon-Bedrock-launches-a-redesigned-console-optim",
         "title": "Amazon Bedrock、OpenAI・Anthropic互換APIに最適化した再設計コンソールを提供開始",
         "date": "2026-06-04",
@@ -3379,8 +3390,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-06-05T00:10:09.233Z",
-    "totalCount": 307
+    "updatedAt": "2026-06-05T05:09:08.756Z",
+    "totalCount": 308
   },
   "metadata:months": [
     "2026/06",
@@ -3393,6 +3404,17 @@
     "year": 2026,
     "month": 6,
     "articles": [
+      {
+        "id": "2026-06-05-Amazon-EKS-Capabilities-now-supports-Amazon-CloudW",
+        "title": "Amazon EKS Capabilities が Amazon CloudWatch Vended Logs をサポート",
+        "date": "2026-06-05",
+        "year": 2026,
+        "month": 6,
+        "day": 5,
+        "path": "2026/06/05/Amazon-EKS-Capabilities-now-supports-Amazon-CloudW",
+        "summary": "Amazon EKS Capabilities が Amazon CloudWatch Vended Logs をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/05/Amazon-EKS-Capabilities-now-supports-Amazon-CloudW/thumbnail.png"
+      },
       {
         "id": "2026-06-04-Amazon-Bedrock-launches-a-redesigned-console-optim",
         "title": "Amazon Bedrock、OpenAI・Anthropic互換APIに最適化した再設計コンソールを提供開始",
