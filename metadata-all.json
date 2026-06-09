@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-06-08-AWS-now-provides-AI-powered-cost-investigations-fo",
+        "title": "AWS Cost Anomaly Detection に Amazon Q による AI 駆動のコスト調査機能が追加",
+        "date": "2026-06-08",
+        "year": 2026,
+        "month": 6,
+        "day": 8,
+        "path": "2026/06/08/AWS-now-provides-AI-powered-cost-investigations-fo",
+        "summary": "AWS Cost Anomaly Detection に Amazon Q による AI 駆動のコスト調査機能が追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/08/AWS-now-provides-AI-powered-cost-investigations-fo/thumbnail.png"
+      },
+      {
         "id": "2026-06-08-Amazon-MSK-Express-Brokers-now-support-automatic-t",
         "title": "Amazon MSK Express が Kafka Streams のトピック自動作成に対応",
         "date": "2026-06-08",
@@ -11,6 +22,17 @@
         "path": "2026/06/08/Amazon-MSK-Express-Brokers-now-support-automatic-t",
         "summary": "Amazon MSK Express が Kafka Streams のトピック自動作成に対応",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/08/Amazon-MSK-Express-Brokers-now-support-automatic-t/thumbnail.png"
+      },
+      {
+        "id": "2026-06-08-Amazon-OpenSearch-Serverless-now-supports-Agentic",
+        "title": "Amazon OpenSearch Serverless が Agentic Search をサポート開始",
+        "date": "2026-06-08",
+        "year": 2026,
+        "month": 6,
+        "day": 8,
+        "path": "2026/06/08/Amazon-OpenSearch-Serverless-now-supports-Agentic",
+        "summary": "Amazon OpenSearch Serverless が Agentic Search をサポート開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/08/Amazon-OpenSearch-Serverless-now-supports-Agentic/thumbnail.png"
       },
       {
         "id": "2026-06-05-Amazon-Bedrock-AgentCore-Runtime-introduces-intera",
@@ -3434,8 +3456,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-06-08T23:07:07.875Z",
-    "totalCount": 312
+    "updatedAt": "2026-06-09T01:58:20.592Z",
+    "totalCount": 314
   },
   "metadata:months": [
     "2026/06",
@@ -3449,6 +3471,17 @@
     "month": 6,
     "articles": [
       {
+        "id": "2026-06-08-AWS-now-provides-AI-powered-cost-investigations-fo",
+        "title": "AWS Cost Anomaly Detection に Amazon Q による AI 駆動のコスト調査機能が追加",
+        "date": "2026-06-08",
+        "year": 2026,
+        "month": 6,
+        "day": 8,
+        "path": "2026/06/08/AWS-now-provides-AI-powered-cost-investigations-fo",
+        "summary": "AWS Cost Anomaly Detection に Amazon Q による AI 駆動のコスト調査機能が追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/08/AWS-now-provides-AI-powered-cost-investigations-fo/thumbnail.png"
+      },
+      {
         "id": "2026-06-08-Amazon-MSK-Express-Brokers-now-support-automatic-t",
         "title": "Amazon MSK Express が Kafka Streams のトピック自動作成に対応",
         "date": "2026-06-08",
@@ -3458,6 +3491,17 @@
         "path": "2026/06/08/Amazon-MSK-Express-Brokers-now-support-automatic-t",
         "summary": "Amazon MSK Express が Kafka Streams のトピック自動作成に対応",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/08/Amazon-MSK-Express-Brokers-now-support-automatic-t/thumbnail.png"
+      },
+      {
+        "id": "2026-06-08-Amazon-OpenSearch-Serverless-now-supports-Agentic",
+        "title": "Amazon OpenSearch Serverless が Agentic Search をサポート開始",
+        "date": "2026-06-08",
+        "year": 2026,
+        "month": 6,
+        "day": 8,
+        "path": "2026/06/08/Amazon-OpenSearch-Serverless-now-supports-Agentic",
+        "summary": "Amazon OpenSearch Serverless が Agentic Search をサポート開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/08/Amazon-OpenSearch-Serverless-now-supports-Agentic/thumbnail.png"
       },
       {
         "id": "2026-06-05-Amazon-Bedrock-AgentCore-Runtime-introduces-intera",
