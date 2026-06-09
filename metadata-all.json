@@ -13,6 +13,28 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/09/AWS-Cost-Explorer-launches-intelligent-cost-explan/thumbnail.png"
       },
       {
+        "id": "2026-06-09-AWS-FinOps-Agent-is-now-available-in-preview",
+        "title": "AWS FinOps Agent がプレビューで利用可能に",
+        "date": "2026-06-09",
+        "year": 2026,
+        "month": 6,
+        "day": 9,
+        "path": "2026/06/09/AWS-FinOps-Agent-is-now-available-in-preview",
+        "summary": "AWS FinOps Agent がプレビューで利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/09/AWS-FinOps-Agent-is-now-available-in-preview/thumbnail.png"
+      },
+      {
+        "id": "2026-06-09-AWS-announces-Claude-Fable-5-the-first-generally-a",
+        "title": "Claude Fable 5が一般提供開始",
+        "date": "2026-06-09",
+        "year": 2026,
+        "month": 6,
+        "day": 9,
+        "path": "2026/06/09/AWS-announces-Claude-Fable-5-the-first-generally-a",
+        "summary": "Claude Fable 5が一般提供開始〜Mythosレベル性能の安全なAIモデル",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/09/AWS-announces-Claude-Fable-5-the-first-generally-a/thumbnail.png"
+      },
+      {
         "id": "2026-06-08-AWS-now-provides-AI-powered-cost-investigations-fo",
         "title": "AWS Cost Anomaly Detection に Amazon Q による AI 駆動のコスト調査機能が追加",
         "date": "2026-06-08",
@@ -3467,8 +3489,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-06-09T21:29:04.295Z",
-    "totalCount": 315
+    "updatedAt": "2026-06-09T23:09:17.629Z",
+    "totalCount": 317
   },
   "metadata:months": [
     "2026/06",
@@ -3491,6 +3513,28 @@
         "path": "2026/06/09/AWS-Cost-Explorer-launches-intelligent-cost-explan",
         "summary": "AWS Cost Explorer、Amazon Q搭載のインテリジェント コスト分析が利用可能に",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/09/AWS-Cost-Explorer-launches-intelligent-cost-explan/thumbnail.png"
+      },
+      {
+        "id": "2026-06-09-AWS-FinOps-Agent-is-now-available-in-preview",
+        "title": "AWS FinOps Agent がプレビューで利用可能に",
+        "date": "2026-06-09",
+        "year": 2026,
+        "month": 6,
+        "day": 9,
+        "path": "2026/06/09/AWS-FinOps-Agent-is-now-available-in-preview",
+        "summary": "AWS FinOps Agent がプレビューで利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/09/AWS-FinOps-Agent-is-now-available-in-preview/thumbnail.png"
+      },
+      {
+        "id": "2026-06-09-AWS-announces-Claude-Fable-5-the-first-generally-a",
+        "title": "Claude Fable 5が一般提供開始",
+        "date": "2026-06-09",
+        "year": 2026,
+        "month": 6,
+        "day": 9,
+        "path": "2026/06/09/AWS-announces-Claude-Fable-5-the-first-generally-a",
+        "summary": "Claude Fable 5が一般提供開始〜Mythosレベル性能の安全なAIモデル",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/09/AWS-announces-Claude-Fable-5-the-first-generally-a/thumbnail.png"
       },
       {
         "id": "2026-06-08-AWS-now-provides-AI-powered-cost-investigations-fo",
