@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-06-10-AWS-Cost-and-Usage-Report-20-now-supports-table-co",
+        "title": "AWS Cost and Usage Report 2.0 のテーブル設定更新機能が利用可能に",
+        "date": "2026-06-10",
+        "year": 2026,
+        "month": 6,
+        "day": 10,
+        "path": "2026/06/10/AWS-Cost-and-Usage-Report-20-now-supports-table-co",
+        "summary": "AWS Cost and Usage Report 2.0 のテーブル設定更新機能が利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/10/AWS-Cost-and-Usage-Report-20-now-supports-table-co/thumbnail.png"
+      },
+      {
         "id": "2026-06-09-AWS-Cost-Explorer-launches-intelligent-cost-explan",
         "title": "AWS Cost Explorer、Amazon Q搭載のインテリジェント コスト分析が利用可能に",
         "date": "2026-06-09",
@@ -3489,8 +3500,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-06-10T22:46:27.939Z",
-    "totalCount": 317
+    "updatedAt": "2026-06-11T00:08:24.845Z",
+    "totalCount": 318
   },
   "metadata:months": [
     "2026/06",
@@ -3503,6 +3514,17 @@
     "year": 2026,
     "month": 6,
     "articles": [
+      {
+        "id": "2026-06-10-AWS-Cost-and-Usage-Report-20-now-supports-table-co",
+        "title": "AWS Cost and Usage Report 2.0 のテーブル設定更新機能が利用可能に",
+        "date": "2026-06-10",
+        "year": 2026,
+        "month": 6,
+        "day": 10,
+        "path": "2026/06/10/AWS-Cost-and-Usage-Report-20-now-supports-table-co",
+        "summary": "AWS Cost and Usage Report 2.0 のテーブル設定更新機能が利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/10/AWS-Cost-and-Usage-Report-20-now-supports-table-co/thumbnail.png"
+      },
       {
         "id": "2026-06-09-AWS-Cost-Explorer-launches-intelligent-cost-explan",
         "title": "AWS Cost Explorer、Amazon Q搭載のインテリジェント コスト分析が利用可能に",
