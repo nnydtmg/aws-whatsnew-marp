@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-06-11-Amazon-OpenSearch-Service-launches-MCP-Apps-for-ag",
+        "title": "Amazon OpenSearch Service が MCP Apps で AI エージェント可観測性に対応",
+        "date": "2026-06-11",
+        "year": 2026,
+        "month": 6,
+        "day": 11,
+        "path": "2026/06/11/Amazon-OpenSearch-Service-launches-MCP-Apps-for-ag",
+        "summary": "Amazon OpenSearch Service が MCP Apps で AI エージェント可観測性に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/11/Amazon-OpenSearch-Service-launches-MCP-Apps-for-ag/thumbnail.png"
+      },
+      {
         "id": "2026-06-10-AWS-Cost-and-Usage-Report-20-now-supports-table-co",
         "title": "AWS Cost and Usage Report 2.0 のテーブル設定更新機能が利用可能に",
         "date": "2026-06-10",
@@ -11,6 +22,17 @@
         "path": "2026/06/10/AWS-Cost-and-Usage-Report-20-now-supports-table-co",
         "summary": "AWS Cost and Usage Report 2.0 のテーブル設定更新機能が利用可能に",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/10/AWS-Cost-and-Usage-Report-20-now-supports-table-co/thumbnail.png"
+      },
+      {
+        "id": "2026-06-10-Amazon-ECS-Managed-Daemons-now-support-inter-task",
+        "title": "Amazon ECS Managed Daemonsがプロセス間通信とIPC共有に対応",
+        "date": "2026-06-10",
+        "year": 2026,
+        "month": 6,
+        "day": 10,
+        "path": "2026/06/10/Amazon-ECS-Managed-Daemons-now-support-inter-task",
+        "summary": "Amazon ECS Managed Daemonsがプロセス間通信とIPC共有に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/10/Amazon-ECS-Managed-Daemons-now-support-inter-task/thumbnail.png"
       },
       {
         "id": "2026-06-09-AWS-Cost-Explorer-launches-intelligent-cost-explan",
@@ -3500,8 +3522,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-06-11T05:19:42.488Z",
-    "totalCount": 318
+    "updatedAt": "2026-06-11T10:03:07.168Z",
+    "totalCount": 320
   },
   "metadata:months": [
     "2026/06",
@@ -3515,6 +3537,17 @@
     "month": 6,
     "articles": [
       {
+        "id": "2026-06-11-Amazon-OpenSearch-Service-launches-MCP-Apps-for-ag",
+        "title": "Amazon OpenSearch Service が MCP Apps で AI エージェント可観測性に対応",
+        "date": "2026-06-11",
+        "year": 2026,
+        "month": 6,
+        "day": 11,
+        "path": "2026/06/11/Amazon-OpenSearch-Service-launches-MCP-Apps-for-ag",
+        "summary": "Amazon OpenSearch Service が MCP Apps で AI エージェント可観測性に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/11/Amazon-OpenSearch-Service-launches-MCP-Apps-for-ag/thumbnail.png"
+      },
+      {
         "id": "2026-06-10-AWS-Cost-and-Usage-Report-20-now-supports-table-co",
         "title": "AWS Cost and Usage Report 2.0 のテーブル設定更新機能が利用可能に",
         "date": "2026-06-10",
@@ -3524,6 +3557,17 @@
         "path": "2026/06/10/AWS-Cost-and-Usage-Report-20-now-supports-table-co",
         "summary": "AWS Cost and Usage Report 2.0 のテーブル設定更新機能が利用可能に",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/10/AWS-Cost-and-Usage-Report-20-now-supports-table-co/thumbnail.png"
+      },
+      {
+        "id": "2026-06-10-Amazon-ECS-Managed-Daemons-now-support-inter-task",
+        "title": "Amazon ECS Managed Daemonsがプロセス間通信とIPC共有に対応",
+        "date": "2026-06-10",
+        "year": 2026,
+        "month": 6,
+        "day": 10,
+        "path": "2026/06/10/Amazon-ECS-Managed-Daemons-now-support-inter-task",
+        "summary": "Amazon ECS Managed Daemonsがプロセス間通信とIPC共有に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/10/Amazon-ECS-Managed-Daemons-now-support-inter-task/thumbnail.png"
       },
       {
         "id": "2026-06-09-AWS-Cost-Explorer-launches-intelligent-cost-explan",
@@ -3735,7 +3779,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/01/Amazon-Quick-now-supports-VPC-connectivity-for-MCP/thumbnail.png"
       }
     ],
-    "totalPages": 2
+    "totalPages": 3
   },
   "metadata:2026/05": {
     "year": 2026,

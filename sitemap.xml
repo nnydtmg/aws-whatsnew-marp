@@ -6,7 +6,19 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-11-Amazon-OpenSearch-Service-launches-MCP-Apps-for-ag</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-10-AWS-Cost-and-Usage-Report-20-now-supports-table-co</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-10-Amazon-ECS-Managed-Daemons-now-support-inter-task</loc>
     <lastmod>2026-06-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
