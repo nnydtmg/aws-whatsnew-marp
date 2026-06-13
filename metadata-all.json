@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-06-11-AWS-Lake-Formation-extends-table-permissions-to-ac",
+        "title": "AWS Lake Formation、Amazon S3の基盤データへのアクセス権限を拡張",
+        "date": "2026-06-11",
+        "year": 2026,
+        "month": 6,
+        "day": 11,
+        "path": "2026/06/11/AWS-Lake-Formation-extends-table-permissions-to-ac",
+        "summary": "AWS Lake Formation、Amazon S3の基盤データへのアクセス権限を拡張",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/11/AWS-Lake-Formation-extends-table-permissions-to-ac/thumbnail.png"
+      },
+      {
         "id": "2026-06-11-AWS-announces-AWS-Workload-Credentials-Provider",
         "title": "AWS Workload Credentials Provider で証明書とシークレットの管理を自動化",
         "date": "2026-06-11",
@@ -44,6 +55,17 @@
         "path": "2026/06/11/Amazon-OpenSearch-Service-launches-MCP-Apps-for-ag",
         "summary": "Amazon OpenSearch Service が MCP Apps で AI エージェント可観測性に対応",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/11/Amazon-OpenSearch-Service-launches-MCP-Apps-for-ag/thumbnail.png"
+      },
+      {
+        "id": "2026-06-11-Amazon-Quick-now-integrates-with-Snowflake-Cortex",
+        "title": "Amazon Quick × Snowflake Cortex AI",
+        "date": "2026-06-11",
+        "year": 2026,
+        "month": 6,
+        "day": 11,
+        "path": "2026/06/11/Amazon-Quick-now-integrates-with-Snowflake-Cortex",
+        "summary": "Amazon QuickがSnowflake Cortex AIと統合 自然言語でのデータクエリとワークフロー自動化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/11/Amazon-Quick-now-integrates-with-Snowflake-Cortex/thumbnail.png"
       },
       {
         "id": "2026-06-11-Gemma-4-models-now-available-on-Amazon-Bedrock",
@@ -3566,8 +3588,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-06-12T23:06:13.690Z",
-    "totalCount": 324
+    "updatedAt": "2026-06-13T02:10:33.839Z",
+    "totalCount": 326
   },
   "metadata:months": [
     "2026/06",
@@ -3580,6 +3602,17 @@
     "year": 2026,
     "month": 6,
     "articles": [
+      {
+        "id": "2026-06-11-AWS-Lake-Formation-extends-table-permissions-to-ac",
+        "title": "AWS Lake Formation、Amazon S3の基盤データへのアクセス権限を拡張",
+        "date": "2026-06-11",
+        "year": 2026,
+        "month": 6,
+        "day": 11,
+        "path": "2026/06/11/AWS-Lake-Formation-extends-table-permissions-to-ac",
+        "summary": "AWS Lake Formation、Amazon S3の基盤データへのアクセス権限を拡張",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/11/AWS-Lake-Formation-extends-table-permissions-to-ac/thumbnail.png"
+      },
       {
         "id": "2026-06-11-AWS-announces-AWS-Workload-Credentials-Provider",
         "title": "AWS Workload Credentials Provider で証明書とシークレットの管理を自動化",
@@ -3623,6 +3656,17 @@
         "path": "2026/06/11/Amazon-OpenSearch-Service-launches-MCP-Apps-for-ag",
         "summary": "Amazon OpenSearch Service が MCP Apps で AI エージェント可観測性に対応",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/11/Amazon-OpenSearch-Service-launches-MCP-Apps-for-ag/thumbnail.png"
+      },
+      {
+        "id": "2026-06-11-Amazon-Quick-now-integrates-with-Snowflake-Cortex",
+        "title": "Amazon Quick × Snowflake Cortex AI",
+        "date": "2026-06-11",
+        "year": 2026,
+        "month": 6,
+        "day": 11,
+        "path": "2026/06/11/Amazon-Quick-now-integrates-with-Snowflake-Cortex",
+        "summary": "Amazon QuickがSnowflake Cortex AIと統合 自然言語でのデータクエリとワークフロー自動化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/11/Amazon-Quick-now-integrates-with-Snowflake-Cortex/thumbnail.png"
       },
       {
         "id": "2026-06-11-Gemma-4-models-now-available-on-Amazon-Bedrock",
