@@ -2,6 +2,116 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-06-15-AWS-DevOps-Agent-expands-with-custom-SRE-agents-an",
+        "title": "AWS DevOps Agent がカスタムSREエージェントとMCP/A2Aプロトコルで拡張",
+        "date": "2026-06-15",
+        "year": 2026,
+        "month": 6,
+        "day": 15,
+        "path": "2026/06/15/AWS-DevOps-Agent-expands-with-custom-SRE-agents-an",
+        "summary": "AWS DevOps Agent がカスタムSREエージェントとMCP/A2Aプロトコルで拡張",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/15/AWS-DevOps-Agent-expands-with-custom-SRE-agents-an/thumbnail.png"
+      },
+      {
+        "id": "2026-06-15-AWS-Lambda-Managed-Instances-now-supports-Tag-Prop",
+        "title": "AWS Lambda Managed Instances がタグ伝播をサポート",
+        "date": "2026-06-15",
+        "year": 2026,
+        "month": 6,
+        "day": 15,
+        "path": "2026/06/15/AWS-Lambda-Managed-Instances-now-supports-Tag-Prop",
+        "summary": "AWS Lambda Managed Instances がタグ伝播をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/15/AWS-Lambda-Managed-Instances-now-supports-Tag-Prop/thumbnail.png"
+      },
+      {
+        "id": "2026-06-15-AWS-WAF-announces-AI-traffic-monetization",
+        "title": "AWS WAF がAIトラフィック収益化機能を発表",
+        "date": "2026-06-15",
+        "year": 2026,
+        "month": 6,
+        "day": 15,
+        "path": "2026/06/15/AWS-WAF-announces-AI-traffic-monetization",
+        "summary": "AWS WAF がAIトラフィック収益化機能を発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/15/AWS-WAF-announces-AI-traffic-monetization/thumbnail.png"
+      },
+      {
+        "id": "2026-06-15-AWS-launches-Cost-Explorer-historical-data-retenti",
+        "title": "AWS Cost Explorer、請求グループのアカウントで過去の請求データ保持が可能に",
+        "date": "2026-06-15",
+        "year": 2026,
+        "month": 6,
+        "day": 15,
+        "path": "2026/06/15/AWS-launches-Cost-Explorer-historical-data-retenti",
+        "summary": "AWS Cost Explorer、請求グループのアカウントで過去の請求データ保持が可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/15/AWS-launches-Cost-Explorer-historical-data-retenti/thumbnail.png"
+      },
+      {
+        "id": "2026-06-15-Amazon-Bedrock-AgentCore-Memory-now-supports-stric",
+        "title": "Amazon Bedrock AgentCore Memory が厳密に一貫性のあるメタデータをサポート",
+        "date": "2026-06-15",
+        "year": 2026,
+        "month": 6,
+        "day": 15,
+        "path": "2026/06/15/Amazon-Bedrock-AgentCore-Memory-now-supports-stric",
+        "summary": "Amazon Bedrock AgentCore Memory が厳密に一貫性のあるメタデータをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/15/Amazon-Bedrock-AgentCore-Memory-now-supports-stric/thumbnail.png"
+      },
+      {
+        "id": "2026-06-15-Amazon-CloudWatch-Query-Studio-is-now-generally-av",
+        "title": "Amazon CloudWatch Query Studio が一般利用可能に",
+        "date": "2026-06-15",
+        "year": 2026,
+        "month": 6,
+        "day": 15,
+        "path": "2026/06/15/Amazon-CloudWatch-Query-Studio-is-now-generally-av",
+        "summary": "Amazon CloudWatch Query Studio が一般利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/15/Amazon-CloudWatch-Query-Studio-is-now-generally-av/thumbnail.png"
+      },
+      {
+        "id": "2026-06-15-Amazon-CloudWatch-introduces-Log-Analytics-for-uni",
+        "title": "Amazon CloudWatch、ログ分析機能 Log Analytics を発表",
+        "date": "2026-06-15",
+        "year": 2026,
+        "month": 6,
+        "day": 15,
+        "path": "2026/06/15/Amazon-CloudWatch-introduces-Log-Analytics-for-uni",
+        "summary": "Amazon CloudWatch、ログ分析機能 Log Analytics を発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/15/Amazon-CloudWatch-introduces-Log-Analytics-for-uni/thumbnail.png"
+      },
+      {
+        "id": "2026-06-15-Amazon-CloudWatch-introduces-native-OpenTelemetry",
+        "title": "Amazon CloudWatch がネイティブ OpenTelemetry メトリクスに対応",
+        "date": "2026-06-15",
+        "year": 2026,
+        "month": 6,
+        "day": 15,
+        "path": "2026/06/15/Amazon-CloudWatch-introduces-native-OpenTelemetry",
+        "summary": "Amazon CloudWatch がネイティブ OpenTelemetry メトリクスに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/15/Amazon-CloudWatch-introduces-native-OpenTelemetry/thumbnail.png"
+      },
+      {
+        "id": "2026-06-15-Amazon-CloudWatch-now-supports-cross-account-metri",
+        "title": "Amazon CloudWatchが複数アカウント対応のメトリクス一元管理に対応",
+        "date": "2026-06-15",
+        "year": 2026,
+        "month": 6,
+        "day": 15,
+        "path": "2026/06/15/Amazon-CloudWatch-now-supports-cross-account-metri",
+        "summary": "Amazon CloudWatchが複数アカウント対応のメトリクス一元管理に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/15/Amazon-CloudWatch-now-supports-cross-account-metri/thumbnail.png"
+      },
+      {
+        "id": "2026-06-15-Amazon-Route-53-Resolver-DNS-Firewall-now-supports",
+        "title": "Amazon Route 53 Resolver DNS Firewall が Palo Alto Networks Advanced DNS Security をサポート（プレビュー）",
+        "date": "2026-06-15",
+        "year": 2026,
+        "month": 6,
+        "day": 15,
+        "path": "2026/06/15/Amazon-Route-53-Resolver-DNS-Firewall-now-supports",
+        "summary": "Amazon Route 53 Resolver DNS Firewall が Palo Alto Networks Advanced DNS Security をサポート（プレビュー）",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/15/Amazon-Route-53-Resolver-DNS-Firewall-now-supports/thumbnail.png"
+      },
+      {
         "id": "2026-06-11-AWS-Lake-Formation-extends-table-permissions-to-ac",
         "title": "AWS Lake Formation、Amazon S3の基盤データへのアクセス権限を拡張",
         "date": "2026-06-11",
@@ -3588,8 +3698,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-06-15T22:54:24.003Z",
-    "totalCount": 326
+    "updatedAt": "2026-06-16T00:22:52.293Z",
+    "totalCount": 336
   },
   "metadata:months": [
     "2026/06",
@@ -3602,6 +3712,116 @@
     "year": 2026,
     "month": 6,
     "articles": [
+      {
+        "id": "2026-06-15-AWS-DevOps-Agent-expands-with-custom-SRE-agents-an",
+        "title": "AWS DevOps Agent がカスタムSREエージェントとMCP/A2Aプロトコルで拡張",
+        "date": "2026-06-15",
+        "year": 2026,
+        "month": 6,
+        "day": 15,
+        "path": "2026/06/15/AWS-DevOps-Agent-expands-with-custom-SRE-agents-an",
+        "summary": "AWS DevOps Agent がカスタムSREエージェントとMCP/A2Aプロトコルで拡張",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/15/AWS-DevOps-Agent-expands-with-custom-SRE-agents-an/thumbnail.png"
+      },
+      {
+        "id": "2026-06-15-AWS-Lambda-Managed-Instances-now-supports-Tag-Prop",
+        "title": "AWS Lambda Managed Instances がタグ伝播をサポート",
+        "date": "2026-06-15",
+        "year": 2026,
+        "month": 6,
+        "day": 15,
+        "path": "2026/06/15/AWS-Lambda-Managed-Instances-now-supports-Tag-Prop",
+        "summary": "AWS Lambda Managed Instances がタグ伝播をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/15/AWS-Lambda-Managed-Instances-now-supports-Tag-Prop/thumbnail.png"
+      },
+      {
+        "id": "2026-06-15-AWS-WAF-announces-AI-traffic-monetization",
+        "title": "AWS WAF がAIトラフィック収益化機能を発表",
+        "date": "2026-06-15",
+        "year": 2026,
+        "month": 6,
+        "day": 15,
+        "path": "2026/06/15/AWS-WAF-announces-AI-traffic-monetization",
+        "summary": "AWS WAF がAIトラフィック収益化機能を発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/15/AWS-WAF-announces-AI-traffic-monetization/thumbnail.png"
+      },
+      {
+        "id": "2026-06-15-AWS-launches-Cost-Explorer-historical-data-retenti",
+        "title": "AWS Cost Explorer、請求グループのアカウントで過去の請求データ保持が可能に",
+        "date": "2026-06-15",
+        "year": 2026,
+        "month": 6,
+        "day": 15,
+        "path": "2026/06/15/AWS-launches-Cost-Explorer-historical-data-retenti",
+        "summary": "AWS Cost Explorer、請求グループのアカウントで過去の請求データ保持が可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/15/AWS-launches-Cost-Explorer-historical-data-retenti/thumbnail.png"
+      },
+      {
+        "id": "2026-06-15-Amazon-Bedrock-AgentCore-Memory-now-supports-stric",
+        "title": "Amazon Bedrock AgentCore Memory が厳密に一貫性のあるメタデータをサポート",
+        "date": "2026-06-15",
+        "year": 2026,
+        "month": 6,
+        "day": 15,
+        "path": "2026/06/15/Amazon-Bedrock-AgentCore-Memory-now-supports-stric",
+        "summary": "Amazon Bedrock AgentCore Memory が厳密に一貫性のあるメタデータをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/15/Amazon-Bedrock-AgentCore-Memory-now-supports-stric/thumbnail.png"
+      },
+      {
+        "id": "2026-06-15-Amazon-CloudWatch-Query-Studio-is-now-generally-av",
+        "title": "Amazon CloudWatch Query Studio が一般利用可能に",
+        "date": "2026-06-15",
+        "year": 2026,
+        "month": 6,
+        "day": 15,
+        "path": "2026/06/15/Amazon-CloudWatch-Query-Studio-is-now-generally-av",
+        "summary": "Amazon CloudWatch Query Studio が一般利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/15/Amazon-CloudWatch-Query-Studio-is-now-generally-av/thumbnail.png"
+      },
+      {
+        "id": "2026-06-15-Amazon-CloudWatch-introduces-Log-Analytics-for-uni",
+        "title": "Amazon CloudWatch、ログ分析機能 Log Analytics を発表",
+        "date": "2026-06-15",
+        "year": 2026,
+        "month": 6,
+        "day": 15,
+        "path": "2026/06/15/Amazon-CloudWatch-introduces-Log-Analytics-for-uni",
+        "summary": "Amazon CloudWatch、ログ分析機能 Log Analytics を発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/15/Amazon-CloudWatch-introduces-Log-Analytics-for-uni/thumbnail.png"
+      },
+      {
+        "id": "2026-06-15-Amazon-CloudWatch-introduces-native-OpenTelemetry",
+        "title": "Amazon CloudWatch がネイティブ OpenTelemetry メトリクスに対応",
+        "date": "2026-06-15",
+        "year": 2026,
+        "month": 6,
+        "day": 15,
+        "path": "2026/06/15/Amazon-CloudWatch-introduces-native-OpenTelemetry",
+        "summary": "Amazon CloudWatch がネイティブ OpenTelemetry メトリクスに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/15/Amazon-CloudWatch-introduces-native-OpenTelemetry/thumbnail.png"
+      },
+      {
+        "id": "2026-06-15-Amazon-CloudWatch-now-supports-cross-account-metri",
+        "title": "Amazon CloudWatchが複数アカウント対応のメトリクス一元管理に対応",
+        "date": "2026-06-15",
+        "year": 2026,
+        "month": 6,
+        "day": 15,
+        "path": "2026/06/15/Amazon-CloudWatch-now-supports-cross-account-metri",
+        "summary": "Amazon CloudWatchが複数アカウント対応のメトリクス一元管理に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/15/Amazon-CloudWatch-now-supports-cross-account-metri/thumbnail.png"
+      },
+      {
+        "id": "2026-06-15-Amazon-Route-53-Resolver-DNS-Firewall-now-supports",
+        "title": "Amazon Route 53 Resolver DNS Firewall が Palo Alto Networks Advanced DNS Security をサポート（プレビュー）",
+        "date": "2026-06-15",
+        "year": 2026,
+        "month": 6,
+        "day": 15,
+        "path": "2026/06/15/Amazon-Route-53-Resolver-DNS-Firewall-now-supports",
+        "summary": "Amazon Route 53 Resolver DNS Firewall が Palo Alto Networks Advanced DNS Security をサポート（プレビュー）",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/15/Amazon-Route-53-Resolver-DNS-Firewall-now-supports/thumbnail.png"
+      },
       {
         "id": "2026-06-11-AWS-Lake-Formation-extends-table-permissions-to-ac",
         "title": "AWS Lake Formation、Amazon S3の基盤データへのアクセス権限を拡張",
@@ -3911,7 +4131,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/01/Amazon-Quick-now-supports-VPC-connectivity-for-MCP/thumbnail.png"
       }
     ],
-    "totalPages": 3
+    "totalPages": 4
   },
   "metadata:2026/05": {
     "year": 2026,
