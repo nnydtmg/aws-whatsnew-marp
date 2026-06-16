@@ -123,6 +123,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/15/Amazon-Route-53-Resolver-DNS-Firewall-now-supports/thumbnail.png"
       },
       {
+        "id": "2026-06-15-Grok-43-from-xAI-now-available-in-Amazon-Bedrock",
+        "title": "xAI の Grok 4.3 が Amazon Bedrock で利用可能に",
+        "date": "2026-06-15",
+        "year": 2026,
+        "month": 6,
+        "day": 15,
+        "path": "2026/06/15/Grok-43-from-xAI-now-available-in-Amazon-Bedrock",
+        "summary": "xAI の Grok 4.3 が Amazon Bedrock で利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/15/Grok-43-from-xAI-now-available-in-Amazon-Bedrock/thumbnail.png"
+      },
+      {
         "id": "2026-06-11-AWS-Lake-Formation-extends-table-permissions-to-ac",
         "title": "AWS Lake Formation、Amazon S3の基盤データへのアクセス権限を拡張",
         "date": "2026-06-11",
@@ -3709,8 +3720,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-06-16T06:23:34.864Z",
-    "totalCount": 337
+    "updatedAt": "2026-06-16T12:01:59.637Z",
+    "totalCount": 338
   },
   "metadata:months": [
     "2026/06",
@@ -3843,6 +3854,17 @@
         "path": "2026/06/15/Amazon-Route-53-Resolver-DNS-Firewall-now-supports",
         "summary": "Amazon Route 53 Resolver DNS Firewall が Palo Alto Networks Advanced DNS Security をサポート（プレビュー）",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/15/Amazon-Route-53-Resolver-DNS-Firewall-now-supports/thumbnail.png"
+      },
+      {
+        "id": "2026-06-15-Grok-43-from-xAI-now-available-in-Amazon-Bedrock",
+        "title": "xAI の Grok 4.3 が Amazon Bedrock で利用可能に",
+        "date": "2026-06-15",
+        "year": 2026,
+        "month": 6,
+        "day": 15,
+        "path": "2026/06/15/Grok-43-from-xAI-now-available-in-Amazon-Bedrock",
+        "summary": "xAI の Grok 4.3 が Amazon Bedrock で利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/15/Grok-43-from-xAI-now-available-in-Amazon-Bedrock/thumbnail.png"
       },
       {
         "id": "2026-06-11-AWS-Lake-Formation-extends-table-permissions-to-ac",
