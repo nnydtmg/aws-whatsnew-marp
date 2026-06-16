@@ -2,6 +2,50 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-06-16-AWS-Marketplace-Storefront-is-now-generally-availa",
+        "title": "AWS Marketplace Storefrontが一般利用可能に",
+        "date": "2026-06-16",
+        "year": 2026,
+        "month": 6,
+        "day": 16,
+        "path": "2026/06/16/AWS-Marketplace-Storefront-is-now-generally-availa",
+        "summary": "AWS Marketplace Storefrontが一般利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/16/AWS-Marketplace-Storefront-is-now-generally-availa/thumbnail.png"
+      },
+      {
+        "id": "2026-06-16-AWS-Partner-Central-now-validates-Foundational-Tec",
+        "title": "AWS Partner Central が Foundational Technical Review を数分で検証",
+        "date": "2026-06-16",
+        "year": 2026,
+        "month": 6,
+        "day": 16,
+        "path": "2026/06/16/AWS-Partner-Central-now-validates-Foundational-Tec",
+        "summary": "AWS Partner Central が Foundational Technical Review を数分で検証",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/16/AWS-Partner-Central-now-validates-Foundational-Tec/thumbnail.png"
+      },
+      {
+        "id": "2026-06-16-AWS-Sign-in-now-supports-resource-based-policies-a",
+        "title": "AWS Sign-in がリソースベースポリシーとリソース制御ポリシーに対応",
+        "date": "2026-06-16",
+        "year": 2026,
+        "month": 6,
+        "day": 16,
+        "path": "2026/06/16/AWS-Sign-in-now-supports-resource-based-policies-a",
+        "summary": "AWS Sign in がリソースベースポリシーとリソース制御ポリシーに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/16/AWS-Sign-in-now-supports-resource-based-policies-a/thumbnail.png"
+      },
+      {
+        "id": "2026-06-16-AWS-announces-AWS-Blocks-an-open-source-framework",
+        "title": "AWS Blocks – バックエンド開発を簡単にするオープンソースフレームワーク（プレビュー）",
+        "date": "2026-06-16",
+        "year": 2026,
+        "month": 6,
+        "day": 16,
+        "path": "2026/06/16/AWS-announces-AWS-Blocks-an-open-source-framework",
+        "summary": "AWS Blocks – バックエンド開発を簡単にするオープンソースフレームワーク（プレビュー）",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/16/AWS-announces-AWS-Blocks-an-open-source-framework/thumbnail.png"
+      },
+      {
         "id": "2026-06-15-AWS-DevOps-Agent-expands-with-custom-SRE-agents-an",
         "title": "AWS DevOps Agent がカスタムSREエージェントとMCP/A2Aプロトコルで拡張",
         "date": "2026-06-15",
@@ -3720,8 +3764,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-06-16T20:35:33.707Z",
-    "totalCount": 338
+    "updatedAt": "2026-06-16T22:47:26.524Z",
+    "totalCount": 342
   },
   "metadata:months": [
     "2026/06",
@@ -3734,6 +3778,50 @@
     "year": 2026,
     "month": 6,
     "articles": [
+      {
+        "id": "2026-06-16-AWS-Marketplace-Storefront-is-now-generally-availa",
+        "title": "AWS Marketplace Storefrontが一般利用可能に",
+        "date": "2026-06-16",
+        "year": 2026,
+        "month": 6,
+        "day": 16,
+        "path": "2026/06/16/AWS-Marketplace-Storefront-is-now-generally-availa",
+        "summary": "AWS Marketplace Storefrontが一般利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/16/AWS-Marketplace-Storefront-is-now-generally-availa/thumbnail.png"
+      },
+      {
+        "id": "2026-06-16-AWS-Partner-Central-now-validates-Foundational-Tec",
+        "title": "AWS Partner Central が Foundational Technical Review を数分で検証",
+        "date": "2026-06-16",
+        "year": 2026,
+        "month": 6,
+        "day": 16,
+        "path": "2026/06/16/AWS-Partner-Central-now-validates-Foundational-Tec",
+        "summary": "AWS Partner Central が Foundational Technical Review を数分で検証",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/16/AWS-Partner-Central-now-validates-Foundational-Tec/thumbnail.png"
+      },
+      {
+        "id": "2026-06-16-AWS-Sign-in-now-supports-resource-based-policies-a",
+        "title": "AWS Sign-in がリソースベースポリシーとリソース制御ポリシーに対応",
+        "date": "2026-06-16",
+        "year": 2026,
+        "month": 6,
+        "day": 16,
+        "path": "2026/06/16/AWS-Sign-in-now-supports-resource-based-policies-a",
+        "summary": "AWS Sign in がリソースベースポリシーとリソース制御ポリシーに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/16/AWS-Sign-in-now-supports-resource-based-policies-a/thumbnail.png"
+      },
+      {
+        "id": "2026-06-16-AWS-announces-AWS-Blocks-an-open-source-framework",
+        "title": "AWS Blocks – バックエンド開発を簡単にするオープンソースフレームワーク（プレビュー）",
+        "date": "2026-06-16",
+        "year": 2026,
+        "month": 6,
+        "day": 16,
+        "path": "2026/06/16/AWS-announces-AWS-Blocks-an-open-source-framework",
+        "summary": "AWS Blocks – バックエンド開発を簡単にするオープンソースフレームワーク（プレビュー）",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/16/AWS-announces-AWS-Blocks-an-open-source-framework/thumbnail.png"
+      },
       {
         "id": "2026-06-15-AWS-DevOps-Agent-expands-with-custom-SRE-agents-an",
         "title": "AWS DevOps Agent がカスタムSREエージェントとMCP/A2Aプロトコルで拡張",
@@ -4175,7 +4263,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/01/Amazon-Quick-now-supports-VPC-connectivity-for-MCP/thumbnail.png"
       }
     ],
-    "totalPages": 4
+    "totalPages": 5
   },
   "metadata:2026/05": {
     "year": 2026,
