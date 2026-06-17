@@ -6,13 +6,55 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-17-AWS-Security-Agent-adds-Kiro-Power-Claude-Code-sim</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-17-AWS-Security-Agent-announces-support-for-Threat-Mo</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-17-AWS-Transform-now-supports-model-to-model-migratio</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-17-Amazon-Bedrock-AgentCore-introduces-new-optimizati</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-17-Amazon-Bedrock-Guardrails-announces-a-new-API-targ</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-17-Amazon-Bedrock-Managed-Knowledge-Base-is-now-gener</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-17-Amazon-Quick-announces-autonomous-agents-multi-dat</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-17-Amazon-Quick-expands-integrations-with-new-connect</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-17-Oracle-DatabaseAWS-now-supports-Oracle-Autonomous</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
@@ -55,6 +97,12 @@
   </url>
   <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-16-Amazon-S3-adds-annotations-to-provide-AI-agents-an</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-16-Announcing-Web-Search-on-Amazon-Bedrock-AgentCore</loc>
     <lastmod>2026-06-16</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
