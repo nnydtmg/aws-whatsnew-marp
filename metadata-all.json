@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-06-17-AWS-Transform-now-supports-model-to-model-migratio",
+        "title": "AWS Transform、生成AIワークロードのモデル間移行評価に対応",
+        "date": "2026-06-17",
+        "year": 2026,
+        "month": 6,
+        "day": 17,
+        "path": "2026/06/17/AWS-Transform-now-supports-model-to-model-migratio",
+        "summary": "AWS Transform、生成AIワークロードのモデル間移行評価に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/17/AWS-Transform-now-supports-model-to-model-migratio/thumbnail.png"
+      },
+      {
+        "id": "2026-06-17-Amazon-Bedrock-Guardrails-announces-a-new-API-targ",
+        "title": "Amazon Bedrock Guardrailsがエージェンティック AI ワークフロー向け新APIを発表",
+        "date": "2026-06-17",
+        "year": 2026,
+        "month": 6,
+        "day": 17,
+        "path": "2026/06/17/Amazon-Bedrock-Guardrails-announces-a-new-API-targ",
+        "summary": "Amazon Bedrock Guardrailsがエージェンティック AI ワークフロー向け新APIを発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/17/Amazon-Bedrock-Guardrails-announces-a-new-API-targ/thumbnail.png"
+      },
+      {
         "id": "2026-06-16-AWS-Marketplace-Storefront-is-now-generally-availa",
         "title": "AWS Marketplace Storefrontが一般利用可能に",
         "date": "2026-06-16",
@@ -55,6 +77,28 @@
         "path": "2026/06/16/AWS-announces-AWS-Blocks-an-open-source-framework",
         "summary": "AWS Blocks – バックエンド開発を簡単にするオープンソースフレームワーク（プレビュー）",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/16/AWS-announces-AWS-Blocks-an-open-source-framework/thumbnail.png"
+      },
+      {
+        "id": "2026-06-16-Amazon-S3-Vectors-reduces-query-charges-by-up-to-8",
+        "title": "Amazon S3 Vectorsが大規模インデックスのクエリ料金を80%削減",
+        "date": "2026-06-16",
+        "year": 2026,
+        "month": 6,
+        "day": 16,
+        "path": "2026/06/16/Amazon-S3-Vectors-reduces-query-charges-by-up-to-8",
+        "summary": "Amazon S3 Vectorsが大規模インデックスのクエリ料金を80%削減",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/16/Amazon-S3-Vectors-reduces-query-charges-by-up-to-8/thumbnail.png"
+      },
+      {
+        "id": "2026-06-16-Amazon-S3-adds-annotations-to-provide-AI-agents-an",
+        "title": "Amazon S3 にアノテーション機能を追加",
+        "date": "2026-06-16",
+        "year": 2026,
+        "month": 6,
+        "day": 16,
+        "path": "2026/06/16/Amazon-S3-adds-annotations-to-provide-AI-agents-an",
+        "summary": "Amazon S3 にアノテーション機能を追加 AI エージェントと分析ツール向けデータ検出機能",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/16/Amazon-S3-adds-annotations-to-provide-AI-agents-an/thumbnail.png"
       },
       {
         "id": "2026-06-15-AWS-DevOps-Agent-expands-with-custom-SRE-agents-an",
@@ -3775,8 +3819,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-06-17T00:08:13.801Z",
-    "totalCount": 343
+    "updatedAt": "2026-06-17T05:59:21.489Z",
+    "totalCount": 347
   },
   "metadata:months": [
     "2026/06",
@@ -3789,6 +3833,28 @@
     "year": 2026,
     "month": 6,
     "articles": [
+      {
+        "id": "2026-06-17-AWS-Transform-now-supports-model-to-model-migratio",
+        "title": "AWS Transform、生成AIワークロードのモデル間移行評価に対応",
+        "date": "2026-06-17",
+        "year": 2026,
+        "month": 6,
+        "day": 17,
+        "path": "2026/06/17/AWS-Transform-now-supports-model-to-model-migratio",
+        "summary": "AWS Transform、生成AIワークロードのモデル間移行評価に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/17/AWS-Transform-now-supports-model-to-model-migratio/thumbnail.png"
+      },
+      {
+        "id": "2026-06-17-Amazon-Bedrock-Guardrails-announces-a-new-API-targ",
+        "title": "Amazon Bedrock Guardrailsがエージェンティック AI ワークフロー向け新APIを発表",
+        "date": "2026-06-17",
+        "year": 2026,
+        "month": 6,
+        "day": 17,
+        "path": "2026/06/17/Amazon-Bedrock-Guardrails-announces-a-new-API-targ",
+        "summary": "Amazon Bedrock Guardrailsがエージェンティック AI ワークフロー向け新APIを発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/17/Amazon-Bedrock-Guardrails-announces-a-new-API-targ/thumbnail.png"
+      },
       {
         "id": "2026-06-16-AWS-Marketplace-Storefront-is-now-generally-availa",
         "title": "AWS Marketplace Storefrontが一般利用可能に",
@@ -3843,6 +3909,28 @@
         "path": "2026/06/16/AWS-announces-AWS-Blocks-an-open-source-framework",
         "summary": "AWS Blocks – バックエンド開発を簡単にするオープンソースフレームワーク（プレビュー）",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/16/AWS-announces-AWS-Blocks-an-open-source-framework/thumbnail.png"
+      },
+      {
+        "id": "2026-06-16-Amazon-S3-Vectors-reduces-query-charges-by-up-to-8",
+        "title": "Amazon S3 Vectorsが大規模インデックスのクエリ料金を80%削減",
+        "date": "2026-06-16",
+        "year": 2026,
+        "month": 6,
+        "day": 16,
+        "path": "2026/06/16/Amazon-S3-Vectors-reduces-query-charges-by-up-to-8",
+        "summary": "Amazon S3 Vectorsが大規模インデックスのクエリ料金を80%削減",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/16/Amazon-S3-Vectors-reduces-query-charges-by-up-to-8/thumbnail.png"
+      },
+      {
+        "id": "2026-06-16-Amazon-S3-adds-annotations-to-provide-AI-agents-an",
+        "title": "Amazon S3 にアノテーション機能を追加",
+        "date": "2026-06-16",
+        "year": 2026,
+        "month": 6,
+        "day": 16,
+        "path": "2026/06/16/Amazon-S3-adds-annotations-to-provide-AI-agents-an",
+        "summary": "Amazon S3 にアノテーション機能を追加 AI エージェントと分析ツール向けデータ検出機能",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/16/Amazon-S3-adds-annotations-to-provide-AI-agents-an/thumbnail.png"
       },
       {
         "id": "2026-06-15-AWS-DevOps-Agent-expands-with-custom-SRE-agents-an",

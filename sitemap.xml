@@ -6,6 +6,18 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-17-AWS-Transform-now-supports-model-to-model-migratio</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-17-Amazon-Bedrock-Guardrails-announces-a-new-API-targ</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-16-AWS-Marketplace-Storefront-is-now-generally-availa</loc>
     <lastmod>2026-06-16</lastmod>
     <changefreq>never</changefreq>
@@ -31,6 +43,18 @@
   </url>
   <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-16-AWS-announces-AWS-Blocks-an-open-source-framework</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-16-Amazon-S3-Vectors-reduces-query-charges-by-up-to-8</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-16-Amazon-S3-adds-annotations-to-provide-AI-agents-an</loc>
     <lastmod>2026-06-16</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
