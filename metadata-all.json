@@ -13,6 +13,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/16/AWS-Marketplace-Storefront-is-now-generally-availa/thumbnail.png"
       },
       {
+        "id": "2026-06-16-AWS-Marketplace-announces-AI-assisted-product-list",
+        "title": "AWS Marketplace で AI 支援型商品リスティングが利用可能に",
+        "date": "2026-06-16",
+        "year": 2026,
+        "month": 6,
+        "day": 16,
+        "path": "2026/06/16/AWS-Marketplace-announces-AI-assisted-product-list",
+        "summary": "AWS Marketplace で AI 支援型商品リスティングが利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/16/AWS-Marketplace-announces-AI-assisted-product-list/thumbnail.png"
+      },
+      {
         "id": "2026-06-16-AWS-Partner-Central-now-validates-Foundational-Tec",
         "title": "AWS Partner Central が Foundational Technical Review を数分で検証",
         "date": "2026-06-16",
@@ -3764,8 +3775,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-06-16T22:47:26.524Z",
-    "totalCount": 342
+    "updatedAt": "2026-06-17T00:08:13.801Z",
+    "totalCount": 343
   },
   "metadata:months": [
     "2026/06",
@@ -3788,6 +3799,17 @@
         "path": "2026/06/16/AWS-Marketplace-Storefront-is-now-generally-availa",
         "summary": "AWS Marketplace Storefrontが一般利用可能に",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/16/AWS-Marketplace-Storefront-is-now-generally-availa/thumbnail.png"
+      },
+      {
+        "id": "2026-06-16-AWS-Marketplace-announces-AI-assisted-product-list",
+        "title": "AWS Marketplace で AI 支援型商品リスティングが利用可能に",
+        "date": "2026-06-16",
+        "year": 2026,
+        "month": 6,
+        "day": 16,
+        "path": "2026/06/16/AWS-Marketplace-announces-AI-assisted-product-list",
+        "summary": "AWS Marketplace で AI 支援型商品リスティングが利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/16/AWS-Marketplace-announces-AI-assisted-product-list/thumbnail.png"
       },
       {
         "id": "2026-06-16-AWS-Partner-Central-now-validates-Foundational-Tec",
