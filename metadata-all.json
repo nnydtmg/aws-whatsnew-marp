@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-06-17-AWS-DevOps-Agent-adds-release-management-capabilit",
+        "title": "AWS DevOps Agent でリリース管理機能がプレビュー提供開始",
+        "date": "2026-06-17",
+        "year": 2026,
+        "month": 6,
+        "day": 17,
+        "path": "2026/06/17/AWS-DevOps-Agent-adds-release-management-capabilit",
+        "summary": "AWS DevOps Agent でリリース管理機能がプレビュー提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/17/AWS-DevOps-Agent-adds-release-management-capabilit/thumbnail.png"
+      },
+      {
+        "id": "2026-06-17-AWS-Secrets-Manager-introduces-safe-secrets-handli",
+        "title": "AWS Secrets Manager、Agent Toolkit for AWS で秘密情報の安全な取り扱いに対応",
+        "date": "2026-06-17",
+        "year": 2026,
+        "month": 6,
+        "day": 17,
+        "path": "2026/06/17/AWS-Secrets-Manager-introduces-safe-secrets-handli",
+        "summary": "AWS Secrets Manager、Agent Toolkit for AWS で秘密情報の安全な取り扱いに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/17/AWS-Secrets-Manager-introduces-safe-secrets-handli/thumbnail.png"
+      },
+      {
         "id": "2026-06-17-AWS-Security-Agent-adds-Kiro-Power-Claude-Code-sim",
         "title": "AWS Security Agent が Kiro Power と Claude Code をサポート",
         "date": "2026-06-17",
@@ -35,6 +57,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/17/AWS-Transform-now-supports-model-to-model-migratio/thumbnail.png"
       },
       {
+        "id": "2026-06-17-AgentCore-harness-is-now-generally-available",
+        "title": "Amazon Bedrock AgentCore の管理型ハーネスが一般利用開始",
+        "date": "2026-06-17",
+        "year": 2026,
+        "month": 6,
+        "day": 17,
+        "path": "2026/06/17/AgentCore-harness-is-now-generally-available",
+        "summary": "Amazon Bedrock AgentCore の管理型ハーネスが一般利用開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/17/AgentCore-harness-is-now-generally-available/thumbnail.png"
+      },
+      {
         "id": "2026-06-17-Amazon-Bedrock-AgentCore-introduces-new-optimizati",
         "title": "Amazon Bedrock AgentCore に新しい最適化機能が登場、本番環境のエージェントを継続的に改善",
         "date": "2026-06-17",
@@ -44,6 +77,17 @@
         "path": "2026/06/17/Amazon-Bedrock-AgentCore-introduces-new-optimizati",
         "summary": "Amazon Bedrock AgentCore に新しい最適化機能が登場、本番環境のエージェントを継続的に改善",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/17/Amazon-Bedrock-AgentCore-introduces-new-optimizati/thumbnail.png"
+      },
+      {
+        "id": "2026-06-17-Amazon-Bedrock-AgentCore-now-supports-Bedrock-Guar",
+        "title": "Amazon Bedrock AgentCoreがポリシー管理でGuardrailsをサポート開始",
+        "date": "2026-06-17",
+        "year": 2026,
+        "month": 6,
+        "day": 17,
+        "path": "2026/06/17/Amazon-Bedrock-AgentCore-now-supports-Bedrock-Guar",
+        "summary": "Amazon Bedrock AgentCoreがポリシー管理でGuardrailsをサポート開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/17/Amazon-Bedrock-AgentCore-now-supports-Bedrock-Guar/thumbnail.png"
       },
       {
         "id": "2026-06-17-Amazon-Bedrock-Guardrails-announces-a-new-API-targ",
@@ -88,6 +132,17 @@
         "path": "2026/06/17/Amazon-Quick-expands-integrations-with-new-connect",
         "summary": "Amazon Quick が Adobe、Figma、WhatsApp など 16 のツール連携を拡大",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/17/Amazon-Quick-expands-integrations-with-new-connect/thumbnail.png"
+      },
+      {
+        "id": "2026-06-17-Introducing-AWS-Continuum-for-security-at-machine",
+        "title": "AWS Continuum による機械速度のセキュリティリスク自動対応が利用開始",
+        "date": "2026-06-17",
+        "year": 2026,
+        "month": 6,
+        "day": 17,
+        "path": "2026/06/17/Introducing-AWS-Continuum-for-security-at-machine",
+        "summary": "AWS Continuum による機械速度のセキュリティリスク自動対応が利用開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/17/Introducing-AWS-Continuum-for-security-at-machine/thumbnail.png"
       },
       {
         "id": "2026-06-17-Oracle-DatabaseAWS-now-supports-Oracle-Autonomous",
@@ -3907,8 +3962,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-06-17T23:16:07.214Z",
-    "totalCount": 355
+    "updatedAt": "2026-06-18T02:35:25.255Z",
+    "totalCount": 360
   },
   "metadata:months": [
     "2026/06",
@@ -3921,6 +3976,28 @@
     "year": 2026,
     "month": 6,
     "articles": [
+      {
+        "id": "2026-06-17-AWS-DevOps-Agent-adds-release-management-capabilit",
+        "title": "AWS DevOps Agent でリリース管理機能がプレビュー提供開始",
+        "date": "2026-06-17",
+        "year": 2026,
+        "month": 6,
+        "day": 17,
+        "path": "2026/06/17/AWS-DevOps-Agent-adds-release-management-capabilit",
+        "summary": "AWS DevOps Agent でリリース管理機能がプレビュー提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/17/AWS-DevOps-Agent-adds-release-management-capabilit/thumbnail.png"
+      },
+      {
+        "id": "2026-06-17-AWS-Secrets-Manager-introduces-safe-secrets-handli",
+        "title": "AWS Secrets Manager、Agent Toolkit for AWS で秘密情報の安全な取り扱いに対応",
+        "date": "2026-06-17",
+        "year": 2026,
+        "month": 6,
+        "day": 17,
+        "path": "2026/06/17/AWS-Secrets-Manager-introduces-safe-secrets-handli",
+        "summary": "AWS Secrets Manager、Agent Toolkit for AWS で秘密情報の安全な取り扱いに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/17/AWS-Secrets-Manager-introduces-safe-secrets-handli/thumbnail.png"
+      },
       {
         "id": "2026-06-17-AWS-Security-Agent-adds-Kiro-Power-Claude-Code-sim",
         "title": "AWS Security Agent が Kiro Power と Claude Code をサポート",
@@ -3955,6 +4032,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/17/AWS-Transform-now-supports-model-to-model-migratio/thumbnail.png"
       },
       {
+        "id": "2026-06-17-AgentCore-harness-is-now-generally-available",
+        "title": "Amazon Bedrock AgentCore の管理型ハーネスが一般利用開始",
+        "date": "2026-06-17",
+        "year": 2026,
+        "month": 6,
+        "day": 17,
+        "path": "2026/06/17/AgentCore-harness-is-now-generally-available",
+        "summary": "Amazon Bedrock AgentCore の管理型ハーネスが一般利用開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/17/AgentCore-harness-is-now-generally-available/thumbnail.png"
+      },
+      {
         "id": "2026-06-17-Amazon-Bedrock-AgentCore-introduces-new-optimizati",
         "title": "Amazon Bedrock AgentCore に新しい最適化機能が登場、本番環境のエージェントを継続的に改善",
         "date": "2026-06-17",
@@ -3964,6 +4052,17 @@
         "path": "2026/06/17/Amazon-Bedrock-AgentCore-introduces-new-optimizati",
         "summary": "Amazon Bedrock AgentCore に新しい最適化機能が登場、本番環境のエージェントを継続的に改善",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/17/Amazon-Bedrock-AgentCore-introduces-new-optimizati/thumbnail.png"
+      },
+      {
+        "id": "2026-06-17-Amazon-Bedrock-AgentCore-now-supports-Bedrock-Guar",
+        "title": "Amazon Bedrock AgentCoreがポリシー管理でGuardrailsをサポート開始",
+        "date": "2026-06-17",
+        "year": 2026,
+        "month": 6,
+        "day": 17,
+        "path": "2026/06/17/Amazon-Bedrock-AgentCore-now-supports-Bedrock-Guar",
+        "summary": "Amazon Bedrock AgentCoreがポリシー管理でGuardrailsをサポート開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/17/Amazon-Bedrock-AgentCore-now-supports-Bedrock-Guar/thumbnail.png"
       },
       {
         "id": "2026-06-17-Amazon-Bedrock-Guardrails-announces-a-new-API-targ",
@@ -4008,6 +4107,17 @@
         "path": "2026/06/17/Amazon-Quick-expands-integrations-with-new-connect",
         "summary": "Amazon Quick が Adobe、Figma、WhatsApp など 16 のツール連携を拡大",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/17/Amazon-Quick-expands-integrations-with-new-connect/thumbnail.png"
+      },
+      {
+        "id": "2026-06-17-Introducing-AWS-Continuum-for-security-at-machine",
+        "title": "AWS Continuum による機械速度のセキュリティリスク自動対応が利用開始",
+        "date": "2026-06-17",
+        "year": 2026,
+        "month": 6,
+        "day": 17,
+        "path": "2026/06/17/Introducing-AWS-Continuum-for-security-at-machine",
+        "summary": "AWS Continuum による機械速度のセキュリティリスク自動対応が利用開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/17/Introducing-AWS-Continuum-for-security-at-machine/thumbnail.png"
       },
       {
         "id": "2026-06-17-Oracle-DatabaseAWS-now-supports-Oracle-Autonomous",
@@ -4549,7 +4659,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/01/Amazon-Quick-now-supports-VPC-connectivity-for-MCP/thumbnail.png"
       }
     ],
-    "totalPages": 6
+    "totalPages": 7
   },
   "metadata:2026/05": {
     "year": 2026,

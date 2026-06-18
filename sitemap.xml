@@ -6,6 +6,18 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-17-AWS-DevOps-Agent-adds-release-management-capabilit</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-17-AWS-Secrets-Manager-introduces-safe-secrets-handli</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-17-AWS-Security-Agent-adds-Kiro-Power-Claude-Code-sim</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>never</changefreq>
@@ -24,7 +36,19 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-17-AgentCore-harness-is-now-generally-available</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-17-Amazon-Bedrock-AgentCore-introduces-new-optimizati</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-17-Amazon-Bedrock-AgentCore-now-supports-Bedrock-Guar</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
@@ -49,6 +73,12 @@
   </url>
   <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-17-Amazon-Quick-expands-integrations-with-new-connect</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-17-Introducing-AWS-Continuum-for-security-at-machine</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
