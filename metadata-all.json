@@ -13,6 +13,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/19/Amazon-ECS-announces-faster-service-auto-scaling/thumbnail.png"
       },
       {
+        "id": "2026-06-18-Amazon-CloudWatch-Synthetics-now-supports-multiloc",
+        "title": "Amazon CloudWatch Synthetics がマルチロケーション対応に",
+        "date": "2026-06-18",
+        "year": 2026,
+        "month": 6,
+        "day": 18,
+        "path": "2026/06/18/Amazon-CloudWatch-Synthetics-now-supports-multiloc",
+        "summary": "Amazon CloudWatch Synthetics がマルチロケーション対応に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/18/Amazon-CloudWatch-Synthetics-now-supports-multiloc/thumbnail.png"
+      },
+      {
         "id": "2026-06-18-Amazon-ECS-announces-faster-service-auto-scaling",
         "title": "Amazon ECS のオートスケーリングが20秒解像度で高速化",
         "date": "2026-06-18",
@@ -3995,8 +4006,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-06-19T22:04:21.773Z",
-    "totalCount": 363
+    "updatedAt": "2026-06-19T23:59:03.460Z",
+    "totalCount": 364
   },
   "metadata:months": [
     "2026/06",
@@ -4019,6 +4030,17 @@
         "path": "2026/06/19/Amazon-ECS-announces-faster-service-auto-scaling",
         "summary": "Amazon ECS が高速なサービスオートスケーリングを発表",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/19/Amazon-ECS-announces-faster-service-auto-scaling/thumbnail.png"
+      },
+      {
+        "id": "2026-06-18-Amazon-CloudWatch-Synthetics-now-supports-multiloc",
+        "title": "Amazon CloudWatch Synthetics がマルチロケーション対応に",
+        "date": "2026-06-18",
+        "year": 2026,
+        "month": 6,
+        "day": 18,
+        "path": "2026/06/18/Amazon-CloudWatch-Synthetics-now-supports-multiloc",
+        "summary": "Amazon CloudWatch Synthetics がマルチロケーション対応に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/18/Amazon-CloudWatch-Synthetics-now-supports-multiloc/thumbnail.png"
       },
       {
         "id": "2026-06-18-Amazon-ECS-announces-faster-service-auto-scaling",
