@@ -2,6 +2,39 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-06-19-Amazon-ECS-announces-faster-service-auto-scaling",
+        "title": "Amazon ECS が高速なサービスオートスケーリングを発表",
+        "date": "2026-06-19",
+        "year": 2026,
+        "month": 6,
+        "day": 19,
+        "path": "2026/06/19/Amazon-ECS-announces-faster-service-auto-scaling",
+        "summary": "Amazon ECS が高速なサービスオートスケーリングを発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/19/Amazon-ECS-announces-faster-service-auto-scaling/thumbnail.png"
+      },
+      {
+        "id": "2026-06-18-Amazon-ECS-announces-faster-service-auto-scaling",
+        "title": "Amazon ECS のオートスケーリングが20秒解像度で高速化",
+        "date": "2026-06-18",
+        "year": 2026,
+        "month": 6,
+        "day": 18,
+        "path": "2026/06/18/Amazon-ECS-announces-faster-service-auto-scaling",
+        "summary": "Amazon ECS のオートスケーリングが20秒解像度で高速化 – スケールアウト時間を76%短縮",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/18/Amazon-ECS-announces-faster-service-auto-scaling/thumbnail.png"
+      },
+      {
+        "id": "2026-06-18-Amazon-EKS-now-supports-customer-routed-control-pl",
+        "title": "Amazon EKS で顧客ルーティング制御プレーン出力に対応",
+        "date": "2026-06-18",
+        "year": 2026,
+        "month": 6,
+        "day": 18,
+        "path": "2026/06/18/Amazon-EKS-now-supports-customer-routed-control-pl",
+        "summary": "Amazon EKS で顧客ルーティング制御プレーン出力に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/18/Amazon-EKS-now-supports-customer-routed-control-pl/thumbnail.png"
+      },
+      {
         "id": "2026-06-17-AWS-DevOps-Agent-adds-release-management-capabilit",
         "title": "AWS DevOps Agent でリリース管理機能がプレビュー提供開始",
         "date": "2026-06-17",
@@ -3962,8 +3995,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-06-19T00:19:21.323Z",
-    "totalCount": 360
+    "updatedAt": "2026-06-19T06:07:01.685Z",
+    "totalCount": 363
   },
   "metadata:months": [
     "2026/06",
@@ -3976,6 +4009,39 @@
     "year": 2026,
     "month": 6,
     "articles": [
+      {
+        "id": "2026-06-19-Amazon-ECS-announces-faster-service-auto-scaling",
+        "title": "Amazon ECS が高速なサービスオートスケーリングを発表",
+        "date": "2026-06-19",
+        "year": 2026,
+        "month": 6,
+        "day": 19,
+        "path": "2026/06/19/Amazon-ECS-announces-faster-service-auto-scaling",
+        "summary": "Amazon ECS が高速なサービスオートスケーリングを発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/19/Amazon-ECS-announces-faster-service-auto-scaling/thumbnail.png"
+      },
+      {
+        "id": "2026-06-18-Amazon-ECS-announces-faster-service-auto-scaling",
+        "title": "Amazon ECS のオートスケーリングが20秒解像度で高速化",
+        "date": "2026-06-18",
+        "year": 2026,
+        "month": 6,
+        "day": 18,
+        "path": "2026/06/18/Amazon-ECS-announces-faster-service-auto-scaling",
+        "summary": "Amazon ECS のオートスケーリングが20秒解像度で高速化 – スケールアウト時間を76%短縮",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/18/Amazon-ECS-announces-faster-service-auto-scaling/thumbnail.png"
+      },
+      {
+        "id": "2026-06-18-Amazon-EKS-now-supports-customer-routed-control-pl",
+        "title": "Amazon EKS で顧客ルーティング制御プレーン出力に対応",
+        "date": "2026-06-18",
+        "year": 2026,
+        "month": 6,
+        "day": 18,
+        "path": "2026/06/18/Amazon-EKS-now-supports-customer-routed-control-pl",
+        "summary": "Amazon EKS で顧客ルーティング制御プレーン出力に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/18/Amazon-EKS-now-supports-customer-routed-control-pl/thumbnail.png"
+      },
       {
         "id": "2026-06-17-AWS-DevOps-Agent-adds-release-management-capabilit",
         "title": "AWS DevOps Agent でリリース管理機能がプレビュー提供開始",

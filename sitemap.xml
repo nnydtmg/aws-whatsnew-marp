@@ -6,6 +6,24 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-19-Amazon-ECS-announces-faster-service-auto-scaling</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-18-Amazon-ECS-announces-faster-service-auto-scaling</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-18-Amazon-EKS-now-supports-customer-routed-control-pl</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-17-AWS-DevOps-Agent-adds-release-management-capabilit</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>never</changefreq>
