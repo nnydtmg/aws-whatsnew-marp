@@ -2,6 +2,39 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-06-22-AWS-IAM-Identity-Center-now-supports-separate-quot",
+        "title": "AWS IAM Identity Center が AWS アカウントとアプリケーション向けの独立したクォータに対応",
+        "date": "2026-06-22",
+        "year": 2026,
+        "month": 6,
+        "day": 22,
+        "path": "2026/06/22/AWS-IAM-Identity-Center-now-supports-separate-quot",
+        "summary": "AWS IAM Identity Center が AWS アカウントとアプリケーション向けの独立したクォータに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/22/AWS-IAM-Identity-Center-now-supports-separate-quot/thumbnail.png"
+      },
+      {
+        "id": "2026-06-22-AWS-Network-Firewall-updates-default-drop-action-f",
+        "title": "AWS Network Firewall のデフォルト設定が改善 - 接続信頼性向上",
+        "date": "2026-06-22",
+        "year": 2026,
+        "month": 6,
+        "day": 22,
+        "path": "2026/06/22/AWS-Network-Firewall-updates-default-drop-action-f",
+        "summary": "AWS Network Firewall のデフォルト設定が改善 接続信頼性向上",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/22/AWS-Network-Firewall-updates-default-drop-action-f/thumbnail.png"
+      },
+      {
+        "id": "2026-06-22-Run-isolated-sandboxes-with-full-lifecycle-control",
+        "title": "AWS Lambda MicroVMsで完全なライフサイクル管理を備えた分離サンドボックスを実行",
+        "date": "2026-06-22",
+        "year": 2026,
+        "month": 6,
+        "day": 22,
+        "path": "2026/06/22/Run-isolated-sandboxes-with-full-lifecycle-control",
+        "summary": "AWS Lambda MicroVMsで完全なライフサイクル管理を備えた分離サンドボックスを実行",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/22/Run-isolated-sandboxes-with-full-lifecycle-control/thumbnail.png"
+      },
+      {
         "id": "2026-06-19-Amazon-ECS-announces-faster-service-auto-scaling",
         "title": "Amazon ECS が高速なサービスオートスケーリングを発表",
         "date": "2026-06-19",
@@ -4006,8 +4039,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-06-22T22:30:28.637Z",
-    "totalCount": 364
+    "updatedAt": "2026-06-22T23:59:19.921Z",
+    "totalCount": 367
   },
   "metadata:months": [
     "2026/06",
@@ -4020,6 +4053,39 @@
     "year": 2026,
     "month": 6,
     "articles": [
+      {
+        "id": "2026-06-22-AWS-IAM-Identity-Center-now-supports-separate-quot",
+        "title": "AWS IAM Identity Center が AWS アカウントとアプリケーション向けの独立したクォータに対応",
+        "date": "2026-06-22",
+        "year": 2026,
+        "month": 6,
+        "day": 22,
+        "path": "2026/06/22/AWS-IAM-Identity-Center-now-supports-separate-quot",
+        "summary": "AWS IAM Identity Center が AWS アカウントとアプリケーション向けの独立したクォータに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/22/AWS-IAM-Identity-Center-now-supports-separate-quot/thumbnail.png"
+      },
+      {
+        "id": "2026-06-22-AWS-Network-Firewall-updates-default-drop-action-f",
+        "title": "AWS Network Firewall のデフォルト設定が改善 - 接続信頼性向上",
+        "date": "2026-06-22",
+        "year": 2026,
+        "month": 6,
+        "day": 22,
+        "path": "2026/06/22/AWS-Network-Firewall-updates-default-drop-action-f",
+        "summary": "AWS Network Firewall のデフォルト設定が改善 接続信頼性向上",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/22/AWS-Network-Firewall-updates-default-drop-action-f/thumbnail.png"
+      },
+      {
+        "id": "2026-06-22-Run-isolated-sandboxes-with-full-lifecycle-control",
+        "title": "AWS Lambda MicroVMsで完全なライフサイクル管理を備えた分離サンドボックスを実行",
+        "date": "2026-06-22",
+        "year": 2026,
+        "month": 6,
+        "day": 22,
+        "path": "2026/06/22/Run-isolated-sandboxes-with-full-lifecycle-control",
+        "summary": "AWS Lambda MicroVMsで完全なライフサイクル管理を備えた分離サンドボックスを実行",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/22/Run-isolated-sandboxes-with-full-lifecycle-control/thumbnail.png"
+      },
       {
         "id": "2026-06-19-Amazon-ECS-announces-faster-service-auto-scaling",
         "title": "Amazon ECS が高速なサービスオートスケーリングを発表",
