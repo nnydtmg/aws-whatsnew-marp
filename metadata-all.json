@@ -2,6 +2,50 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-06-23-Amazon-Bedrock-AgentCore-Memory-now-supports-cross",
+        "title": "Amazon Bedrock AgentCore Memory がクロスアカウントアクセスに対応",
+        "date": "2026-06-23",
+        "year": 2026,
+        "month": 6,
+        "day": 23,
+        "path": "2026/06/23/Amazon-Bedrock-AgentCore-Memory-now-supports-cross",
+        "summary": "Amazon Bedrock AgentCore Memory がクロスアカウントアクセスに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/23/Amazon-Bedrock-AgentCore-Memory-now-supports-cross/thumbnail.png"
+      },
+      {
+        "id": "2026-06-23-Amazon-CloudWatch-Logs-supports-managed-syslog-ing",
+        "title": "Amazon CloudWatch Logs が管理型 syslog インジェストに対応",
+        "date": "2026-06-23",
+        "year": 2026,
+        "month": 6,
+        "day": 23,
+        "path": "2026/06/23/Amazon-CloudWatch-Logs-supports-managed-syslog-ing",
+        "summary": "Amazon CloudWatch Logs が管理型 syslog インジェストに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/23/Amazon-CloudWatch-Logs-supports-managed-syslog-ing/thumbnail.png"
+      },
+      {
+        "id": "2026-06-23-Amazon-OpenSearch-Service-now-offers-AI-assisted-m",
+        "title": "Amazon OpenSearch Service で AI支援の移行機能が利用可能に",
+        "date": "2026-06-23",
+        "year": 2026,
+        "month": 6,
+        "day": 23,
+        "path": "2026/06/23/Amazon-OpenSearch-Service-now-offers-AI-assisted-m",
+        "summary": "Amazon OpenSearch Service で AI支援の移行機能が利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/23/Amazon-OpenSearch-Service-now-offers-AI-assisted-m/thumbnail.png"
+      },
+      {
+        "id": "2026-06-23-Automated-Reasoning-checks-in-Amazon-Bedrock-Guard",
+        "title": "Amazon Bedrock Guardrails の自動推論チェックでポリシー改善ワークフローが新登場",
+        "date": "2026-06-23",
+        "year": 2026,
+        "month": 6,
+        "day": 23,
+        "path": "2026/06/23/Automated-Reasoning-checks-in-Amazon-Bedrock-Guard",
+        "summary": "Amazon Bedrock Guardrails の自動推論チェックでポリシー改善ワークフローが新登場",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/23/Automated-Reasoning-checks-in-Amazon-Bedrock-Guard/thumbnail.png"
+      },
+      {
         "id": "2026-06-22-AWS-IAM-Identity-Center-now-supports-separate-quot",
         "title": "AWS IAM Identity Center が AWS アカウントとアプリケーション向けの独立したクォータに対応",
         "date": "2026-06-22",
@@ -4050,8 +4094,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-06-23T21:22:38.311Z",
-    "totalCount": 368
+    "updatedAt": "2026-06-23T22:58:49.805Z",
+    "totalCount": 372
   },
   "metadata:months": [
     "2026/06",
@@ -4064,6 +4108,50 @@
     "year": 2026,
     "month": 6,
     "articles": [
+      {
+        "id": "2026-06-23-Amazon-Bedrock-AgentCore-Memory-now-supports-cross",
+        "title": "Amazon Bedrock AgentCore Memory がクロスアカウントアクセスに対応",
+        "date": "2026-06-23",
+        "year": 2026,
+        "month": 6,
+        "day": 23,
+        "path": "2026/06/23/Amazon-Bedrock-AgentCore-Memory-now-supports-cross",
+        "summary": "Amazon Bedrock AgentCore Memory がクロスアカウントアクセスに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/23/Amazon-Bedrock-AgentCore-Memory-now-supports-cross/thumbnail.png"
+      },
+      {
+        "id": "2026-06-23-Amazon-CloudWatch-Logs-supports-managed-syslog-ing",
+        "title": "Amazon CloudWatch Logs が管理型 syslog インジェストに対応",
+        "date": "2026-06-23",
+        "year": 2026,
+        "month": 6,
+        "day": 23,
+        "path": "2026/06/23/Amazon-CloudWatch-Logs-supports-managed-syslog-ing",
+        "summary": "Amazon CloudWatch Logs が管理型 syslog インジェストに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/23/Amazon-CloudWatch-Logs-supports-managed-syslog-ing/thumbnail.png"
+      },
+      {
+        "id": "2026-06-23-Amazon-OpenSearch-Service-now-offers-AI-assisted-m",
+        "title": "Amazon OpenSearch Service で AI支援の移行機能が利用可能に",
+        "date": "2026-06-23",
+        "year": 2026,
+        "month": 6,
+        "day": 23,
+        "path": "2026/06/23/Amazon-OpenSearch-Service-now-offers-AI-assisted-m",
+        "summary": "Amazon OpenSearch Service で AI支援の移行機能が利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/23/Amazon-OpenSearch-Service-now-offers-AI-assisted-m/thumbnail.png"
+      },
+      {
+        "id": "2026-06-23-Automated-Reasoning-checks-in-Amazon-Bedrock-Guard",
+        "title": "Amazon Bedrock Guardrails の自動推論チェックでポリシー改善ワークフローが新登場",
+        "date": "2026-06-23",
+        "year": 2026,
+        "month": 6,
+        "day": 23,
+        "path": "2026/06/23/Automated-Reasoning-checks-in-Amazon-Bedrock-Guard",
+        "summary": "Amazon Bedrock Guardrails の自動推論チェックでポリシー改善ワークフローが新登場",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/23/Automated-Reasoning-checks-in-Amazon-Bedrock-Guard/thumbnail.png"
+      },
       {
         "id": "2026-06-22-AWS-IAM-Identity-Center-now-supports-separate-quot",
         "title": "AWS IAM Identity Center が AWS アカウントとアプリケーション向けの独立したクォータに対応",
@@ -4835,7 +4923,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/01/Amazon-Quick-now-supports-VPC-connectivity-for-MCP/thumbnail.png"
       }
     ],
-    "totalPages": 7
+    "totalPages": 8
   },
   "metadata:2026/05": {
     "year": 2026,
