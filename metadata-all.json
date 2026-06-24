@@ -2,6 +2,39 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-06-24-Amazon-CloudWatch-now-supports-tags-on-dashboards",
+        "title": "Amazon CloudWatchがダッシュボードのタグに対応",
+        "date": "2026-06-24",
+        "year": 2026,
+        "month": 6,
+        "day": 24,
+        "path": "2026/06/24/Amazon-CloudWatch-now-supports-tags-on-dashboards",
+        "summary": "Amazon CloudWatchがダッシュボードのタグに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/24/Amazon-CloudWatch-now-supports-tags-on-dashboards/thumbnail.png"
+      },
+      {
+        "id": "2026-06-24-Amazon-EC2-announces-AMI-Watermarks-for-improved-A",
+        "title": "Amazon EC2 がAMI ウォーターマークで強化されたAMIガバナンスを実現",
+        "date": "2026-06-24",
+        "year": 2026,
+        "month": 6,
+        "day": 24,
+        "path": "2026/06/24/Amazon-EC2-announces-AMI-Watermarks-for-improved-A",
+        "summary": "Amazon EC2 がAMI ウォーターマークで強化されたAMIガバナンスを実現",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/24/Amazon-EC2-announces-AMI-Watermarks-for-improved-A/thumbnail.png"
+      },
+      {
+        "id": "2026-06-24-Amazon-GuardDuty-AI-powered-investigations-acceler",
+        "title": "Amazon GuardDuty AI 調査機能で脅威対応を加速（プレビュー）",
+        "date": "2026-06-24",
+        "year": 2026,
+        "month": 6,
+        "day": 24,
+        "path": "2026/06/24/Amazon-GuardDuty-AI-powered-investigations-acceler",
+        "summary": "Amazon GuardDuty AI 調査機能で脅威対応を加速（プレビュー）",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/24/Amazon-GuardDuty-AI-powered-investigations-acceler/thumbnail.png"
+      },
+      {
         "id": "2026-06-23-Amazon-Bedrock-AgentCore-Memory-now-supports-cross",
         "title": "Amazon Bedrock AgentCore Memory がクロスアカウントアクセスに対応",
         "date": "2026-06-23",
@@ -4116,8 +4149,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-06-24T22:06:30.487Z",
-    "totalCount": 374
+    "updatedAt": "2026-06-24T23:57:48.735Z",
+    "totalCount": 377
   },
   "metadata:months": [
     "2026/06",
@@ -4130,6 +4163,39 @@
     "year": 2026,
     "month": 6,
     "articles": [
+      {
+        "id": "2026-06-24-Amazon-CloudWatch-now-supports-tags-on-dashboards",
+        "title": "Amazon CloudWatchがダッシュボードのタグに対応",
+        "date": "2026-06-24",
+        "year": 2026,
+        "month": 6,
+        "day": 24,
+        "path": "2026/06/24/Amazon-CloudWatch-now-supports-tags-on-dashboards",
+        "summary": "Amazon CloudWatchがダッシュボードのタグに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/24/Amazon-CloudWatch-now-supports-tags-on-dashboards/thumbnail.png"
+      },
+      {
+        "id": "2026-06-24-Amazon-EC2-announces-AMI-Watermarks-for-improved-A",
+        "title": "Amazon EC2 がAMI ウォーターマークで強化されたAMIガバナンスを実現",
+        "date": "2026-06-24",
+        "year": 2026,
+        "month": 6,
+        "day": 24,
+        "path": "2026/06/24/Amazon-EC2-announces-AMI-Watermarks-for-improved-A",
+        "summary": "Amazon EC2 がAMI ウォーターマークで強化されたAMIガバナンスを実現",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/24/Amazon-EC2-announces-AMI-Watermarks-for-improved-A/thumbnail.png"
+      },
+      {
+        "id": "2026-06-24-Amazon-GuardDuty-AI-powered-investigations-acceler",
+        "title": "Amazon GuardDuty AI 調査機能で脅威対応を加速（プレビュー）",
+        "date": "2026-06-24",
+        "year": 2026,
+        "month": 6,
+        "day": 24,
+        "path": "2026/06/24/Amazon-GuardDuty-AI-powered-investigations-acceler",
+        "summary": "Amazon GuardDuty AI 調査機能で脅威対応を加速（プレビュー）",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/24/Amazon-GuardDuty-AI-powered-investigations-acceler/thumbnail.png"
+      },
       {
         "id": "2026-06-23-Amazon-Bedrock-AgentCore-Memory-now-supports-cross",
         "title": "Amazon Bedrock AgentCore Memory がクロスアカウントアクセスに対応",
