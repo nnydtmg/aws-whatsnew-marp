@@ -24,6 +24,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/23/Amazon-CloudWatch-Logs-supports-managed-syslog-ing/thumbnail.png"
       },
       {
+        "id": "2026-06-23-Amazon-CloudWatch-launches-OTel-Container-Insights",
+        "title": "Amazon CloudWatch に OpenTelemetry Container Insights for Amazon EKS が登場",
+        "date": "2026-06-23",
+        "year": 2026,
+        "month": 6,
+        "day": 23,
+        "path": "2026/06/23/Amazon-CloudWatch-launches-OTel-Container-Insights",
+        "summary": "Amazon CloudWatch に OpenTelemetry Container Insights for Amazon EKS が登場",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/23/Amazon-CloudWatch-launches-OTel-Container-Insights/thumbnail.png"
+      },
+      {
         "id": "2026-06-23-Amazon-OpenSearch-Service-now-offers-AI-assisted-m",
         "title": "Amazon OpenSearch Service で AI支援の移行機能が利用可能に",
         "date": "2026-06-23",
@@ -44,6 +55,17 @@
         "path": "2026/06/23/Automated-Reasoning-checks-in-Amazon-Bedrock-Guard",
         "summary": "Amazon Bedrock Guardrails の自動推論チェックでポリシー改善ワークフローが新登場",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/23/Automated-Reasoning-checks-in-Amazon-Bedrock-Guard/thumbnail.png"
+      },
+      {
+        "id": "2026-06-23-Claude-Tag-is-now-available-in-beta-via-Claude-Ent",
+        "title": "Claude Tag が AWS Marketplace 経由で Claude Enterprise のベータ版として利用開始",
+        "date": "2026-06-23",
+        "year": 2026,
+        "month": 6,
+        "day": 23,
+        "path": "2026/06/23/Claude-Tag-is-now-available-in-beta-via-Claude-Ent",
+        "summary": "Claude Tag が AWS Marketplace 経由で Claude Enterprise のベータ版として利用開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/23/Claude-Tag-is-now-available-in-beta-via-Claude-Ent/thumbnail.png"
       },
       {
         "id": "2026-06-22-AWS-IAM-Identity-Center-now-supports-separate-quot",
@@ -4094,8 +4116,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-06-24T10:12:43.458Z",
-    "totalCount": 372
+    "updatedAt": "2026-06-24T13:10:42.468Z",
+    "totalCount": 374
   },
   "metadata:months": [
     "2026/06",
@@ -4131,6 +4153,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/23/Amazon-CloudWatch-Logs-supports-managed-syslog-ing/thumbnail.png"
       },
       {
+        "id": "2026-06-23-Amazon-CloudWatch-launches-OTel-Container-Insights",
+        "title": "Amazon CloudWatch に OpenTelemetry Container Insights for Amazon EKS が登場",
+        "date": "2026-06-23",
+        "year": 2026,
+        "month": 6,
+        "day": 23,
+        "path": "2026/06/23/Amazon-CloudWatch-launches-OTel-Container-Insights",
+        "summary": "Amazon CloudWatch に OpenTelemetry Container Insights for Amazon EKS が登場",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/23/Amazon-CloudWatch-launches-OTel-Container-Insights/thumbnail.png"
+      },
+      {
         "id": "2026-06-23-Amazon-OpenSearch-Service-now-offers-AI-assisted-m",
         "title": "Amazon OpenSearch Service で AI支援の移行機能が利用可能に",
         "date": "2026-06-23",
@@ -4151,6 +4184,17 @@
         "path": "2026/06/23/Automated-Reasoning-checks-in-Amazon-Bedrock-Guard",
         "summary": "Amazon Bedrock Guardrails の自動推論チェックでポリシー改善ワークフローが新登場",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/23/Automated-Reasoning-checks-in-Amazon-Bedrock-Guard/thumbnail.png"
+      },
+      {
+        "id": "2026-06-23-Claude-Tag-is-now-available-in-beta-via-Claude-Ent",
+        "title": "Claude Tag が AWS Marketplace 経由で Claude Enterprise のベータ版として利用開始",
+        "date": "2026-06-23",
+        "year": 2026,
+        "month": 6,
+        "day": 23,
+        "path": "2026/06/23/Claude-Tag-is-now-available-in-beta-via-Claude-Ent",
+        "summary": "Claude Tag が AWS Marketplace 経由で Claude Enterprise のベータ版として利用開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/23/Claude-Tag-is-now-available-in-beta-via-Claude-Ent/thumbnail.png"
       },
       {
         "id": "2026-06-22-AWS-IAM-Identity-Center-now-supports-separate-quot",
