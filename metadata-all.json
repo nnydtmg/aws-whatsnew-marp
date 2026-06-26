@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-06-25-AWS-Backup-enhances-Amazon-S3-backup-copy-performa",
+        "title": "AWS Backup が Amazon S3 バックアップコピーのパフォーマンスを強化",
+        "date": "2026-06-25",
+        "year": 2026,
+        "month": 6,
+        "day": 25,
+        "path": "2026/06/25/AWS-Backup-enhances-Amazon-S3-backup-copy-performa",
+        "summary": "AWS Backup が Amazon S3 バックアップコピーのパフォーマンスを強化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/25/AWS-Backup-enhances-Amazon-S3-backup-copy-performa/thumbnail.png"
+      },
+      {
         "id": "2026-06-24-Amazon-CloudWatch-now-supports-tags-on-dashboards",
         "title": "Amazon CloudWatchがダッシュボードのタグに対応",
         "date": "2026-06-24",
@@ -4149,8 +4160,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-06-25T22:20:18.039Z",
-    "totalCount": 377
+    "updatedAt": "2026-06-26T00:03:51.969Z",
+    "totalCount": 378
   },
   "metadata:months": [
     "2026/06",
@@ -4163,6 +4174,17 @@
     "year": 2026,
     "month": 6,
     "articles": [
+      {
+        "id": "2026-06-25-AWS-Backup-enhances-Amazon-S3-backup-copy-performa",
+        "title": "AWS Backup が Amazon S3 バックアップコピーのパフォーマンスを強化",
+        "date": "2026-06-25",
+        "year": 2026,
+        "month": 6,
+        "day": 25,
+        "path": "2026/06/25/AWS-Backup-enhances-Amazon-S3-backup-copy-performa",
+        "summary": "AWS Backup が Amazon S3 バックアップコピーのパフォーマンスを強化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/25/AWS-Backup-enhances-Amazon-S3-backup-copy-performa/thumbnail.png"
+      },
       {
         "id": "2026-06-24-Amazon-CloudWatch-now-supports-tags-on-dashboards",
         "title": "Amazon CloudWatchがダッシュボードのタグに対応",
