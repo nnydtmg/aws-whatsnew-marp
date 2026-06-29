@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-06-29-Amazon-S3-server-access-logs-now-deliver-to-Amazon",
+        "title": "Amazon S3 サーバーアクセスログが CloudWatch Logs と S3 Tables に配信対応",
+        "date": "2026-06-29",
+        "year": 2026,
+        "month": 6,
+        "day": 29,
+        "path": "2026/06/29/Amazon-S3-server-access-logs-now-deliver-to-Amazon",
+        "summary": "Amazon S3 サーバーアクセスログが CloudWatch Logs と S3 Tables に配信対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/29/Amazon-S3-server-access-logs-now-deliver-to-Amazon/thumbnail.png"
+      },
+      {
         "id": "2026-06-25-AWS-Backup-enhances-Amazon-S3-backup-copy-performa",
         "title": "AWS Backup が Amazon S3 バックアップコピーのパフォーマンスを強化",
         "date": "2026-06-25",
@@ -4160,8 +4171,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-06-29T22:03:20.274Z",
-    "totalCount": 378
+    "updatedAt": "2026-06-29T23:52:35.887Z",
+    "totalCount": 379
   },
   "metadata:months": [
     "2026/06",
@@ -4174,6 +4185,17 @@
     "year": 2026,
     "month": 6,
     "articles": [
+      {
+        "id": "2026-06-29-Amazon-S3-server-access-logs-now-deliver-to-Amazon",
+        "title": "Amazon S3 サーバーアクセスログが CloudWatch Logs と S3 Tables に配信対応",
+        "date": "2026-06-29",
+        "year": 2026,
+        "month": 6,
+        "day": 29,
+        "path": "2026/06/29/Amazon-S3-server-access-logs-now-deliver-to-Amazon",
+        "summary": "Amazon S3 サーバーアクセスログが CloudWatch Logs と S3 Tables に配信対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/29/Amazon-S3-server-access-logs-now-deliver-to-Amazon/thumbnail.png"
+      },
       {
         "id": "2026-06-25-AWS-Backup-enhances-Amazon-S3-backup-copy-performa",
         "title": "AWS Backup が Amazon S3 バックアップコピーのパフォーマンスを強化",
@@ -5055,7 +5077,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/01/Amazon-Quick-now-supports-VPC-connectivity-for-MCP/thumbnail.png"
       }
     ],
-    "totalPages": 8
+    "totalPages": 9
   },
   "metadata:2026/05": {
     "year": 2026,
