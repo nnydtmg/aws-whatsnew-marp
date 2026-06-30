@@ -13,6 +13,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/30/AWS-WAF-adds-support-for-Amazon-Bedrock-AgentCore/thumbnail.png"
       },
       {
+        "id": "2026-06-30-Claude-Sonnet-5-now-available-on-AWS",
+        "title": "Amazon Bedrock で Claude Sonnet 5 が利用開始",
+        "date": "2026-06-30",
+        "year": 2026,
+        "month": 6,
+        "day": 30,
+        "path": "2026/06/30/Claude-Sonnet-5-now-available-on-AWS",
+        "summary": "Amazon Bedrock で Claude Sonnet 5 が利用開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/30/Claude-Sonnet-5-now-available-on-AWS/thumbnail.png"
+      },
+      {
         "id": "2026-06-29-Amazon-S3-server-access-logs-now-deliver-to-Amazon",
         "title": "Amazon S3 サーバーアクセスログが CloudWatch Logs と S3 Tables に配信対応",
         "date": "2026-06-29",
@@ -4182,8 +4193,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-06-30T20:49:53.611Z",
-    "totalCount": 380
+    "updatedAt": "2026-06-30T22:08:03.608Z",
+    "totalCount": 381
   },
   "metadata:months": [
     "2026/06",
@@ -4206,6 +4217,17 @@
         "path": "2026/06/30/AWS-WAF-adds-support-for-Amazon-Bedrock-AgentCore",
         "summary": "AWS WAF が Amazon Bedrock AgentCore Gateway に対応",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/30/AWS-WAF-adds-support-for-Amazon-Bedrock-AgentCore/thumbnail.png"
+      },
+      {
+        "id": "2026-06-30-Claude-Sonnet-5-now-available-on-AWS",
+        "title": "Amazon Bedrock で Claude Sonnet 5 が利用開始",
+        "date": "2026-06-30",
+        "year": 2026,
+        "month": 6,
+        "day": 30,
+        "path": "2026/06/30/Claude-Sonnet-5-now-available-on-AWS",
+        "summary": "Amazon Bedrock で Claude Sonnet 5 が利用開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/30/Claude-Sonnet-5-now-available-on-AWS/thumbnail.png"
       },
       {
         "id": "2026-06-29-Amazon-S3-server-access-logs-now-deliver-to-Amazon",
