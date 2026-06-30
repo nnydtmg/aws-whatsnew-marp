@@ -6,13 +6,49 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-30-AWS-CloudFormation-and-CDK-accelerate-development</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-30-AWS-CloudFormation-and-CDK-express-mode-speeds-up</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-30-AWS-Service-Availability-Updates</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-30-AWS-WAF-adds-support-for-Amazon-Bedrock-AgentCore</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-30-Announcing-Capability-Insights-for-AWS-an-open-sou</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-30-Announcing-general-availability-of-Amazon-WorkSpac</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-30-Claude-Sonnet-5-now-available-on-AWS</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-06-30-IAM-Identity-Center-now-enables-programmatic-AWS-a</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>

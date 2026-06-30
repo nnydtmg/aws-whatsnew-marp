@@ -2,6 +2,39 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-06-30-AWS-CloudFormation-and-CDK-accelerate-development",
+        "title": "AWS CloudFormationとCDKがデプロイ前検証で開発フィードバックループを高速化",
+        "date": "2026-06-30",
+        "year": 2026,
+        "month": 6,
+        "day": 30,
+        "path": "2026/06/30/AWS-CloudFormation-and-CDK-accelerate-development",
+        "summary": "AWS CloudFormationとCDKがデプロイ前検証で開発フィードバックループを高速化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/30/AWS-CloudFormation-and-CDK-accelerate-development/thumbnail.png"
+      },
+      {
+        "id": "2026-06-30-AWS-CloudFormation-and-CDK-express-mode-speeds-up",
+        "title": "AWS CloudFormation と CDK エクスプレスモードでインフラストラクチャデプロイメントが最大4倍高速化",
+        "date": "2026-06-30",
+        "year": 2026,
+        "month": 6,
+        "day": 30,
+        "path": "2026/06/30/AWS-CloudFormation-and-CDK-express-mode-speeds-up",
+        "summary": "AWS CloudFormation と CDK エクスプレスモードでインフラストラクチャデプロイメントが最大4倍高速化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/30/AWS-CloudFormation-and-CDK-express-mode-speeds-up/thumbnail.png"
+      },
+      {
+        "id": "2026-06-30-AWS-Service-Availability-Updates",
+        "title": "AWSサービスの可用性変更発表",
+        "date": "2026-06-30",
+        "year": 2026,
+        "month": 6,
+        "day": 30,
+        "path": "2026/06/30/AWS-Service-Availability-Updates",
+        "summary": "AWSサービスの可用性変更発表｜メンテナンス・サンセット段階への移行",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/30/AWS-Service-Availability-Updates/thumbnail.png"
+      },
+      {
         "id": "2026-06-30-AWS-WAF-adds-support-for-Amazon-Bedrock-AgentCore",
         "title": "AWS WAF が Amazon Bedrock AgentCore Gateway に対応",
         "date": "2026-06-30",
@@ -13,6 +46,28 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/30/AWS-WAF-adds-support-for-Amazon-Bedrock-AgentCore/thumbnail.png"
       },
       {
+        "id": "2026-06-30-Announcing-Capability-Insights-for-AWS-an-open-sou",
+        "title": "AWS Capability Insights - VPC内でリージョナルケーパビリティを管理するオープンソースソリューション",
+        "date": "2026-06-30",
+        "year": 2026,
+        "month": 6,
+        "day": 30,
+        "path": "2026/06/30/Announcing-Capability-Insights-for-AWS-an-open-sou",
+        "summary": "AWS Capability Insights VPC内でリージョナルケーパビリティを管理するオープンソースソリューション",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/30/Announcing-Capability-Insights-for-AWS-an-open-sou/thumbnail.png"
+      },
+      {
+        "id": "2026-06-30-Announcing-general-availability-of-Amazon-WorkSpac",
+        "title": "Amazon WorkSpaces for AI agentsが一般提供開始",
+        "date": "2026-06-30",
+        "year": 2026,
+        "month": 6,
+        "day": 30,
+        "path": "2026/06/30/Announcing-general-availability-of-Amazon-WorkSpac",
+        "summary": "Amazon WorkSpaces for AI agentsが一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/30/Announcing-general-availability-of-Amazon-WorkSpac/thumbnail.png"
+      },
+      {
         "id": "2026-06-30-Claude-Sonnet-5-now-available-on-AWS",
         "title": "Amazon Bedrock で Claude Sonnet 5 が利用開始",
         "date": "2026-06-30",
@@ -22,6 +77,17 @@
         "path": "2026/06/30/Claude-Sonnet-5-now-available-on-AWS",
         "summary": "Amazon Bedrock で Claude Sonnet 5 が利用開始",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/30/Claude-Sonnet-5-now-available-on-AWS/thumbnail.png"
+      },
+      {
+        "id": "2026-06-30-IAM-Identity-Center-now-enables-programmatic-AWS-a",
+        "title": "AWS IAM Identity Center、カスタマー管理アプリケーション向けプログラマティックアクセスに対応",
+        "date": "2026-06-30",
+        "year": 2026,
+        "month": 6,
+        "day": 30,
+        "path": "2026/06/30/IAM-Identity-Center-now-enables-programmatic-AWS-a",
+        "summary": "AWS IAM Identity Center、カスタマー管理アプリケーション向けプログラマティックアクセスに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/30/IAM-Identity-Center-now-enables-programmatic-AWS-a/thumbnail.png"
       },
       {
         "id": "2026-06-29-Amazon-S3-server-access-logs-now-deliver-to-Amazon",
@@ -4193,8 +4259,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-06-30T22:08:03.608Z",
-    "totalCount": 381
+    "updatedAt": "2026-06-30T23:57:23.733Z",
+    "totalCount": 387
   },
   "metadata:months": [
     "2026/06",
@@ -4208,6 +4274,39 @@
     "month": 6,
     "articles": [
       {
+        "id": "2026-06-30-AWS-CloudFormation-and-CDK-accelerate-development",
+        "title": "AWS CloudFormationとCDKがデプロイ前検証で開発フィードバックループを高速化",
+        "date": "2026-06-30",
+        "year": 2026,
+        "month": 6,
+        "day": 30,
+        "path": "2026/06/30/AWS-CloudFormation-and-CDK-accelerate-development",
+        "summary": "AWS CloudFormationとCDKがデプロイ前検証で開発フィードバックループを高速化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/30/AWS-CloudFormation-and-CDK-accelerate-development/thumbnail.png"
+      },
+      {
+        "id": "2026-06-30-AWS-CloudFormation-and-CDK-express-mode-speeds-up",
+        "title": "AWS CloudFormation と CDK エクスプレスモードでインフラストラクチャデプロイメントが最大4倍高速化",
+        "date": "2026-06-30",
+        "year": 2026,
+        "month": 6,
+        "day": 30,
+        "path": "2026/06/30/AWS-CloudFormation-and-CDK-express-mode-speeds-up",
+        "summary": "AWS CloudFormation と CDK エクスプレスモードでインフラストラクチャデプロイメントが最大4倍高速化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/30/AWS-CloudFormation-and-CDK-express-mode-speeds-up/thumbnail.png"
+      },
+      {
+        "id": "2026-06-30-AWS-Service-Availability-Updates",
+        "title": "AWSサービスの可用性変更発表",
+        "date": "2026-06-30",
+        "year": 2026,
+        "month": 6,
+        "day": 30,
+        "path": "2026/06/30/AWS-Service-Availability-Updates",
+        "summary": "AWSサービスの可用性変更発表｜メンテナンス・サンセット段階への移行",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/30/AWS-Service-Availability-Updates/thumbnail.png"
+      },
+      {
         "id": "2026-06-30-AWS-WAF-adds-support-for-Amazon-Bedrock-AgentCore",
         "title": "AWS WAF が Amazon Bedrock AgentCore Gateway に対応",
         "date": "2026-06-30",
@@ -4219,6 +4318,28 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/30/AWS-WAF-adds-support-for-Amazon-Bedrock-AgentCore/thumbnail.png"
       },
       {
+        "id": "2026-06-30-Announcing-Capability-Insights-for-AWS-an-open-sou",
+        "title": "AWS Capability Insights - VPC内でリージョナルケーパビリティを管理するオープンソースソリューション",
+        "date": "2026-06-30",
+        "year": 2026,
+        "month": 6,
+        "day": 30,
+        "path": "2026/06/30/Announcing-Capability-Insights-for-AWS-an-open-sou",
+        "summary": "AWS Capability Insights VPC内でリージョナルケーパビリティを管理するオープンソースソリューション",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/30/Announcing-Capability-Insights-for-AWS-an-open-sou/thumbnail.png"
+      },
+      {
+        "id": "2026-06-30-Announcing-general-availability-of-Amazon-WorkSpac",
+        "title": "Amazon WorkSpaces for AI agentsが一般提供開始",
+        "date": "2026-06-30",
+        "year": 2026,
+        "month": 6,
+        "day": 30,
+        "path": "2026/06/30/Announcing-general-availability-of-Amazon-WorkSpac",
+        "summary": "Amazon WorkSpaces for AI agentsが一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/30/Announcing-general-availability-of-Amazon-WorkSpac/thumbnail.png"
+      },
+      {
         "id": "2026-06-30-Claude-Sonnet-5-now-available-on-AWS",
         "title": "Amazon Bedrock で Claude Sonnet 5 が利用開始",
         "date": "2026-06-30",
@@ -4228,6 +4349,17 @@
         "path": "2026/06/30/Claude-Sonnet-5-now-available-on-AWS",
         "summary": "Amazon Bedrock で Claude Sonnet 5 が利用開始",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/30/Claude-Sonnet-5-now-available-on-AWS/thumbnail.png"
+      },
+      {
+        "id": "2026-06-30-IAM-Identity-Center-now-enables-programmatic-AWS-a",
+        "title": "AWS IAM Identity Center、カスタマー管理アプリケーション向けプログラマティックアクセスに対応",
+        "date": "2026-06-30",
+        "year": 2026,
+        "month": 6,
+        "day": 30,
+        "path": "2026/06/30/IAM-Identity-Center-now-enables-programmatic-AWS-a",
+        "summary": "AWS IAM Identity Center、カスタマー管理アプリケーション向けプログラマティックアクセスに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/30/IAM-Identity-Center-now-enables-programmatic-AWS-a/thumbnail.png"
       },
       {
         "id": "2026-06-29-Amazon-S3-server-access-logs-now-deliver-to-Amazon",
