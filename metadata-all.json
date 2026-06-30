@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-06-30-AWS-WAF-adds-support-for-Amazon-Bedrock-AgentCore",
+        "title": "AWS WAF が Amazon Bedrock AgentCore Gateway に対応",
+        "date": "2026-06-30",
+        "year": 2026,
+        "month": 6,
+        "day": 30,
+        "path": "2026/06/30/AWS-WAF-adds-support-for-Amazon-Bedrock-AgentCore",
+        "summary": "AWS WAF が Amazon Bedrock AgentCore Gateway に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/30/AWS-WAF-adds-support-for-Amazon-Bedrock-AgentCore/thumbnail.png"
+      },
+      {
         "id": "2026-06-29-Amazon-S3-server-access-logs-now-deliver-to-Amazon",
         "title": "Amazon S3 サーバーアクセスログが CloudWatch Logs と S3 Tables に配信対応",
         "date": "2026-06-29",
@@ -4171,8 +4182,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-06-30T02:10:14.021Z",
-    "totalCount": 379
+    "updatedAt": "2026-06-30T06:44:42.196Z",
+    "totalCount": 380
   },
   "metadata:months": [
     "2026/06",
@@ -4185,6 +4196,17 @@
     "year": 2026,
     "month": 6,
     "articles": [
+      {
+        "id": "2026-06-30-AWS-WAF-adds-support-for-Amazon-Bedrock-AgentCore",
+        "title": "AWS WAF が Amazon Bedrock AgentCore Gateway に対応",
+        "date": "2026-06-30",
+        "year": 2026,
+        "month": 6,
+        "day": 30,
+        "path": "2026/06/30/AWS-WAF-adds-support-for-Amazon-Bedrock-AgentCore",
+        "summary": "AWS WAF が Amazon Bedrock AgentCore Gateway に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/30/AWS-WAF-adds-support-for-Amazon-Bedrock-AgentCore/thumbnail.png"
+      },
       {
         "id": "2026-06-29-Amazon-S3-server-access-logs-now-deliver-to-Amazon",
         "title": "Amazon S3 サーバーアクセスログが CloudWatch Logs と S3 Tables に配信対応",
