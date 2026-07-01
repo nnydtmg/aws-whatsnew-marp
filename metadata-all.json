@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-07-01-Amazon-CloudWatch-Logs-enriches-log-events-with-AW",
+        "title": "Amazon CloudWatch Logs がログイベントを AWS リソースタグで拡張",
+        "date": "2026-07-01",
+        "year": 2026,
+        "month": 7,
+        "day": 1,
+        "path": "2026/07/01/Amazon-CloudWatch-Logs-enriches-log-events-with-AW",
+        "summary": "Amazon CloudWatch Logs がログイベントを AWS リソースタグで拡張",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/01/Amazon-CloudWatch-Logs-enriches-log-events-with-AW/thumbnail.png"
+      },
+      {
         "id": "2026-06-30-AWS-CloudFormation-and-CDK-accelerate-development",
         "title": "AWS CloudFormationとCDKがデプロイ前検証で開発フィードバックループを高速化",
         "date": "2026-06-30",
@@ -4259,16 +4270,35 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-06-30T23:57:23.733Z",
-    "totalCount": 387
+    "updatedAt": "2026-07-01T02:49:06.494Z",
+    "totalCount": 388
   },
   "metadata:months": [
+    "2026/07",
     "2026/06",
     "2026/05",
     "2026/04",
     "2026/03",
     "2026/02"
   ],
+  "metadata:2026/07": {
+    "year": 2026,
+    "month": 7,
+    "articles": [
+      {
+        "id": "2026-07-01-Amazon-CloudWatch-Logs-enriches-log-events-with-AW",
+        "title": "Amazon CloudWatch Logs がログイベントを AWS リソースタグで拡張",
+        "date": "2026-07-01",
+        "year": 2026,
+        "month": 7,
+        "day": 1,
+        "path": "2026/07/01/Amazon-CloudWatch-Logs-enriches-log-events-with-AW",
+        "summary": "Amazon CloudWatch Logs がログイベントを AWS リソースタグで拡張",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/01/Amazon-CloudWatch-Logs-enriches-log-events-with-AW/thumbnail.png"
+      }
+    ],
+    "totalPages": 1
+  },
   "metadata:2026/06": {
     "year": 2026,
     "month": 6,
