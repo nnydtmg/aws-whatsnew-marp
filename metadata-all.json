@@ -57,6 +57,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/30/AWS-WAF-adds-support-for-Amazon-Bedrock-AgentCore/thumbnail.png"
       },
       {
+        "id": "2026-06-30-Amazon-CloudWatch-pipelines-now-supports-processin",
+        "title": "Amazon CloudWatch パイプラインが OpenTelemetry メトリクスの処理と充実化をサポート",
+        "date": "2026-06-30",
+        "year": 2026,
+        "month": 6,
+        "day": 30,
+        "path": "2026/06/30/Amazon-CloudWatch-pipelines-now-supports-processin",
+        "summary": "Amazon CloudWatch パイプラインが OpenTelemetry メトリクスの処理と充実化をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/30/Amazon-CloudWatch-pipelines-now-supports-processin/thumbnail.png"
+      },
+      {
         "id": "2026-06-30-Announcing-Capability-Insights-for-AWS-an-open-sou",
         "title": "AWS Capability Insights - VPC内でリージョナルケーパビリティを管理するオープンソースソリューション",
         "date": "2026-06-30",
@@ -4270,8 +4281,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-07-01T02:49:06.494Z",
-    "totalCount": 388
+    "updatedAt": "2026-07-01T07:03:15.690Z",
+    "totalCount": 389
   },
   "metadata:months": [
     "2026/07",
@@ -4346,6 +4357,17 @@
         "path": "2026/06/30/AWS-WAF-adds-support-for-Amazon-Bedrock-AgentCore",
         "summary": "AWS WAF が Amazon Bedrock AgentCore Gateway に対応",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/30/AWS-WAF-adds-support-for-Amazon-Bedrock-AgentCore/thumbnail.png"
+      },
+      {
+        "id": "2026-06-30-Amazon-CloudWatch-pipelines-now-supports-processin",
+        "title": "Amazon CloudWatch パイプラインが OpenTelemetry メトリクスの処理と充実化をサポート",
+        "date": "2026-06-30",
+        "year": 2026,
+        "month": 6,
+        "day": 30,
+        "path": "2026/06/30/Amazon-CloudWatch-pipelines-now-supports-processin",
+        "summary": "Amazon CloudWatch パイプラインが OpenTelemetry メトリクスの処理と充実化をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/30/Amazon-CloudWatch-pipelines-now-supports-processin/thumbnail.png"
       },
       {
         "id": "2026-06-30-Announcing-Capability-Insights-for-AWS-an-open-sou",
