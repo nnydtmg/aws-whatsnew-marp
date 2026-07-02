@@ -2,6 +2,39 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-07-02-Amazon-CloudWatch-supports-creating-alarms-from-lo",
+        "title": "Amazon CloudWatch ログクエリからのアラーム作成に対応",
+        "date": "2026-07-02",
+        "year": 2026,
+        "month": 7,
+        "day": 2,
+        "path": "2026/07/02/Amazon-CloudWatch-supports-creating-alarms-from-lo",
+        "summary": "Amazon CloudWatch ログクエリからのアラーム作成に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/02/Amazon-CloudWatch-supports-creating-alarms-from-lo/thumbnail.png"
+      },
+      {
+        "id": "2026-07-02-Amazon-ECS-now-supports-configurable-deployment-ci",
+        "title": "Amazon ECS でデプロイメントサーキットブレーカー設定がカスタマイズ可能に",
+        "date": "2026-07-02",
+        "year": 2026,
+        "month": 7,
+        "day": 2,
+        "path": "2026/07/02/Amazon-ECS-now-supports-configurable-deployment-ci",
+        "summary": "Amazon ECS でデプロイメントサーキットブレーカー設定がカスタマイズ可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/02/Amazon-ECS-now-supports-configurable-deployment-ci/thumbnail.png"
+      },
+      {
+        "id": "2026-07-01-AWS-AppConfig-launches-managed-experimentation-too",
+        "title": "AWS AppConfig、管理型の実験ツールでA/Bテストが簡単に",
+        "date": "2026-07-01",
+        "year": 2026,
+        "month": 7,
+        "day": 1,
+        "path": "2026/07/01/AWS-AppConfig-launches-managed-experimentation-too",
+        "summary": "AWS AppConfig、管理型の実験ツールでA/Bテストが簡単に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/01/AWS-AppConfig-launches-managed-experimentation-too/thumbnail.png"
+      },
+      {
         "id": "2026-07-01-Amazon-CloudWatch-Logs-enriches-log-events-with-AW",
         "title": "Amazon CloudWatch Logs がログイベントを AWS リソースタグで拡張",
         "date": "2026-07-01",
@@ -11,6 +44,50 @@
         "path": "2026/07/01/Amazon-CloudWatch-Logs-enriches-log-events-with-AW",
         "summary": "Amazon CloudWatch Logs がログイベントを AWS リソースタグで拡張",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/01/Amazon-CloudWatch-Logs-enriches-log-events-with-AW/thumbnail.png"
+      },
+      {
+        "id": "2026-07-01-Amazon-ECS-Express-Mode-now-supports-custom-task-d",
+        "title": "Amazon ECS Express Mode がカスタムタスク定義に対応",
+        "date": "2026-07-01",
+        "year": 2026,
+        "month": 7,
+        "day": 1,
+        "path": "2026/07/01/Amazon-ECS-Express-Mode-now-supports-custom-task-d",
+        "summary": "Amazon ECS Express Mode がカスタムタスク定義に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/01/Amazon-ECS-Express-Mode-now-supports-custom-task-d/thumbnail.png"
+      },
+      {
+        "id": "2026-07-01-Amazon-EKS-now-supports-Kubernetes-version-rollbac",
+        "title": "Amazon EKS に Kubernetes バージョンロールバック機能",
+        "date": "2026-07-01",
+        "year": 2026,
+        "month": 7,
+        "day": 1,
+        "path": "2026/07/01/Amazon-EKS-now-supports-Kubernetes-version-rollbac",
+        "summary": "Amazon EKS に Kubernetes バージョンロールバック機能",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/01/Amazon-EKS-now-supports-Kubernetes-version-rollbac/thumbnail.png"
+      },
+      {
+        "id": "2026-07-01-Amazon-GuardDuty-adds-sensitive-file-modification",
+        "title": "Amazon GuardDutyで機密ファイル修正の脅威検知が可能に",
+        "date": "2026-07-01",
+        "year": 2026,
+        "month": 7,
+        "day": 1,
+        "path": "2026/07/01/Amazon-GuardDuty-adds-sensitive-file-modification",
+        "summary": "Amazon GuardDutyで機密ファイル修正の脅威検知が可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/01/Amazon-GuardDuty-adds-sensitive-file-modification/thumbnail.png"
+      },
+      {
+        "id": "2026-07-01-Amazon-OpenSearch-Service-optimized-for-log-analyt",
+        "title": "Amazon OpenSearch Service のログ分析最適化エンジン",
+        "date": "2026-07-01",
+        "year": 2026,
+        "month": 7,
+        "day": 1,
+        "path": "2026/07/01/Amazon-OpenSearch-Service-optimized-for-log-analyt",
+        "summary": "Amazon OpenSearch Service のログ分析最適化エンジン",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/01/Amazon-OpenSearch-Service-optimized-for-log-analyt/thumbnail.png"
       },
       {
         "id": "2026-06-30-AWS-CloudFormation-and-CDK-accelerate-development",
@@ -33,6 +110,17 @@
         "path": "2026/06/30/AWS-CloudFormation-and-CDK-express-mode-speeds-up",
         "summary": "AWS CloudFormation と CDK エクスプレスモードでインフラストラクチャデプロイメントが最大4倍高速化",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/30/AWS-CloudFormation-and-CDK-express-mode-speeds-up/thumbnail.png"
+      },
+      {
+        "id": "2026-06-30-AWS-Network-Firewall-now-supports-container-attrib",
+        "title": "AWS Network Firewall がコンテナ属性ベースの検査に対応",
+        "date": "2026-06-30",
+        "year": 2026,
+        "month": 6,
+        "day": 30,
+        "path": "2026/06/30/AWS-Network-Firewall-now-supports-container-attrib",
+        "summary": "AWS Network Firewall がコンテナ属性ベースの検査に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/30/AWS-Network-Firewall-now-supports-container-attrib/thumbnail.png"
       },
       {
         "id": "2026-06-30-AWS-Service-Availability-Updates",
@@ -4281,8 +4369,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-07-01T21:15:52.273Z",
-    "totalCount": 389
+    "updatedAt": "2026-07-02T02:07:32.279Z",
+    "totalCount": 397
   },
   "metadata:months": [
     "2026/07",
@@ -4297,6 +4385,39 @@
     "month": 7,
     "articles": [
       {
+        "id": "2026-07-02-Amazon-CloudWatch-supports-creating-alarms-from-lo",
+        "title": "Amazon CloudWatch ログクエリからのアラーム作成に対応",
+        "date": "2026-07-02",
+        "year": 2026,
+        "month": 7,
+        "day": 2,
+        "path": "2026/07/02/Amazon-CloudWatch-supports-creating-alarms-from-lo",
+        "summary": "Amazon CloudWatch ログクエリからのアラーム作成に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/02/Amazon-CloudWatch-supports-creating-alarms-from-lo/thumbnail.png"
+      },
+      {
+        "id": "2026-07-02-Amazon-ECS-now-supports-configurable-deployment-ci",
+        "title": "Amazon ECS でデプロイメントサーキットブレーカー設定がカスタマイズ可能に",
+        "date": "2026-07-02",
+        "year": 2026,
+        "month": 7,
+        "day": 2,
+        "path": "2026/07/02/Amazon-ECS-now-supports-configurable-deployment-ci",
+        "summary": "Amazon ECS でデプロイメントサーキットブレーカー設定がカスタマイズ可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/02/Amazon-ECS-now-supports-configurable-deployment-ci/thumbnail.png"
+      },
+      {
+        "id": "2026-07-01-AWS-AppConfig-launches-managed-experimentation-too",
+        "title": "AWS AppConfig、管理型の実験ツールでA/Bテストが簡単に",
+        "date": "2026-07-01",
+        "year": 2026,
+        "month": 7,
+        "day": 1,
+        "path": "2026/07/01/AWS-AppConfig-launches-managed-experimentation-too",
+        "summary": "AWS AppConfig、管理型の実験ツールでA/Bテストが簡単に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/01/AWS-AppConfig-launches-managed-experimentation-too/thumbnail.png"
+      },
+      {
         "id": "2026-07-01-Amazon-CloudWatch-Logs-enriches-log-events-with-AW",
         "title": "Amazon CloudWatch Logs がログイベントを AWS リソースタグで拡張",
         "date": "2026-07-01",
@@ -4306,6 +4427,50 @@
         "path": "2026/07/01/Amazon-CloudWatch-Logs-enriches-log-events-with-AW",
         "summary": "Amazon CloudWatch Logs がログイベントを AWS リソースタグで拡張",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/01/Amazon-CloudWatch-Logs-enriches-log-events-with-AW/thumbnail.png"
+      },
+      {
+        "id": "2026-07-01-Amazon-ECS-Express-Mode-now-supports-custom-task-d",
+        "title": "Amazon ECS Express Mode がカスタムタスク定義に対応",
+        "date": "2026-07-01",
+        "year": 2026,
+        "month": 7,
+        "day": 1,
+        "path": "2026/07/01/Amazon-ECS-Express-Mode-now-supports-custom-task-d",
+        "summary": "Amazon ECS Express Mode がカスタムタスク定義に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/01/Amazon-ECS-Express-Mode-now-supports-custom-task-d/thumbnail.png"
+      },
+      {
+        "id": "2026-07-01-Amazon-EKS-now-supports-Kubernetes-version-rollbac",
+        "title": "Amazon EKS に Kubernetes バージョンロールバック機能",
+        "date": "2026-07-01",
+        "year": 2026,
+        "month": 7,
+        "day": 1,
+        "path": "2026/07/01/Amazon-EKS-now-supports-Kubernetes-version-rollbac",
+        "summary": "Amazon EKS に Kubernetes バージョンロールバック機能",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/01/Amazon-EKS-now-supports-Kubernetes-version-rollbac/thumbnail.png"
+      },
+      {
+        "id": "2026-07-01-Amazon-GuardDuty-adds-sensitive-file-modification",
+        "title": "Amazon GuardDutyで機密ファイル修正の脅威検知が可能に",
+        "date": "2026-07-01",
+        "year": 2026,
+        "month": 7,
+        "day": 1,
+        "path": "2026/07/01/Amazon-GuardDuty-adds-sensitive-file-modification",
+        "summary": "Amazon GuardDutyで機密ファイル修正の脅威検知が可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/01/Amazon-GuardDuty-adds-sensitive-file-modification/thumbnail.png"
+      },
+      {
+        "id": "2026-07-01-Amazon-OpenSearch-Service-optimized-for-log-analyt",
+        "title": "Amazon OpenSearch Service のログ分析最適化エンジン",
+        "date": "2026-07-01",
+        "year": 2026,
+        "month": 7,
+        "day": 1,
+        "path": "2026/07/01/Amazon-OpenSearch-Service-optimized-for-log-analyt",
+        "summary": "Amazon OpenSearch Service のログ分析最適化エンジン",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/01/Amazon-OpenSearch-Service-optimized-for-log-analyt/thumbnail.png"
       }
     ],
     "totalPages": 1
@@ -4335,6 +4500,17 @@
         "path": "2026/06/30/AWS-CloudFormation-and-CDK-express-mode-speeds-up",
         "summary": "AWS CloudFormation と CDK エクスプレスモードでインフラストラクチャデプロイメントが最大4倍高速化",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/30/AWS-CloudFormation-and-CDK-express-mode-speeds-up/thumbnail.png"
+      },
+      {
+        "id": "2026-06-30-AWS-Network-Firewall-now-supports-container-attrib",
+        "title": "AWS Network Firewall がコンテナ属性ベースの検査に対応",
+        "date": "2026-06-30",
+        "year": 2026,
+        "month": 6,
+        "day": 30,
+        "path": "2026/06/30/AWS-Network-Firewall-now-supports-container-attrib",
+        "summary": "AWS Network Firewall がコンテナ属性ベースの検査に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/30/AWS-Network-Firewall-now-supports-container-attrib/thumbnail.png"
       },
       {
         "id": "2026-06-30-AWS-Service-Availability-Updates",
@@ -5305,7 +5481,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/06/01/Amazon-Quick-now-supports-VPC-connectivity-for-MCP/thumbnail.png"
       }
     ],
-    "totalPages": 9
+    "totalPages": 10
   },
   "metadata:2026/05": {
     "year": 2026,
