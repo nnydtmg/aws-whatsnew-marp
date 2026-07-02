@@ -57,6 +57,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/01/Amazon-ECS-Express-Mode-now-supports-custom-task-d/thumbnail.png"
       },
       {
+        "id": "2026-07-01-Amazon-ECS-now-provides-real-time-deployment-obser",
+        "title": "Amazon ECS のリアルタイムデプロイメント可視化が AWS Management Console で利用可能に",
+        "date": "2026-07-01",
+        "year": 2026,
+        "month": 7,
+        "day": 1,
+        "path": "2026/07/01/Amazon-ECS-now-provides-real-time-deployment-obser",
+        "summary": "Amazon ECS のリアルタイムデプロイメント可視化が AWS Management Console で利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/01/Amazon-ECS-now-provides-real-time-deployment-obser/thumbnail.png"
+      },
+      {
         "id": "2026-07-01-Amazon-EKS-now-supports-Kubernetes-version-rollbac",
         "title": "Amazon EKS に Kubernetes バージョンロールバック機能",
         "date": "2026-07-01",
@@ -4369,8 +4380,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-07-02T09:50:57.737Z",
-    "totalCount": 397
+    "updatedAt": "2026-07-02T12:01:19.387Z",
+    "totalCount": 398
   },
   "metadata:months": [
     "2026/07",
@@ -4438,6 +4449,17 @@
         "path": "2026/07/01/Amazon-ECS-Express-Mode-now-supports-custom-task-d",
         "summary": "Amazon ECS Express Mode がカスタムタスク定義に対応",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/01/Amazon-ECS-Express-Mode-now-supports-custom-task-d/thumbnail.png"
+      },
+      {
+        "id": "2026-07-01-Amazon-ECS-now-provides-real-time-deployment-obser",
+        "title": "Amazon ECS のリアルタイムデプロイメント可視化が AWS Management Console で利用可能に",
+        "date": "2026-07-01",
+        "year": 2026,
+        "month": 7,
+        "day": 1,
+        "path": "2026/07/01/Amazon-ECS-now-provides-real-time-deployment-obser",
+        "summary": "Amazon ECS のリアルタイムデプロイメント可視化が AWS Management Console で利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/01/Amazon-ECS-now-provides-real-time-deployment-obser/thumbnail.png"
       },
       {
         "id": "2026-07-01-Amazon-EKS-now-supports-Kubernetes-version-rollbac",
