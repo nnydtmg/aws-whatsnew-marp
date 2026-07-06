@@ -6,6 +6,24 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-07-06-AWS-Certificate-Manager-now-supports-the-ACME-prot</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-07-06-CloudWatch-Application-Signals-now-automatically-c</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-07-06-CloudWatch-Application-Signals-now-supports-Dynami</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-07-02-Amazon-CloudWatch-supports-creating-alarms-from-lo</loc>
     <lastmod>2026-07-02</lastmod>
     <changefreq>never</changefreq>

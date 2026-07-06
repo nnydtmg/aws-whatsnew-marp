@@ -2,6 +2,39 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-07-06-AWS-Certificate-Manager-now-supports-the-ACME-prot",
+        "title": "AWS Certificate Manager が ACME プロトコルをサポート、公開証明書の自動発行に対応",
+        "date": "2026-07-06",
+        "year": 2026,
+        "month": 7,
+        "day": 6,
+        "path": "2026/07/06/AWS-Certificate-Manager-now-supports-the-ACME-prot",
+        "summary": "AWS Certificate Manager が ACME プロトコルをサポート、公開証明書の自動発行に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/06/AWS-Certificate-Manager-now-supports-the-ACME-prot/thumbnail.png"
+      },
+      {
+        "id": "2026-07-06-CloudWatch-Application-Signals-now-automatically-c",
+        "title": "CloudWatch Application Signals で例外・パフォーマンス異常・デプロイイベントを自動キャプチャ",
+        "date": "2026-07-06",
+        "year": 2026,
+        "month": 7,
+        "day": 6,
+        "path": "2026/07/06/CloudWatch-Application-Signals-now-automatically-c",
+        "summary": "CloudWatch Application Signals で例外・パフォーマンス異常・デプロイイベントを自動キャプチャ",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/06/CloudWatch-Application-Signals-now-automatically-c/thumbnail.png"
+      },
+      {
+        "id": "2026-07-06-CloudWatch-Application-Signals-now-supports-Dynami",
+        "title": "CloudWatch Application Signals が Dynamic Instrumentation をサポート",
+        "date": "2026-07-06",
+        "year": 2026,
+        "month": 7,
+        "day": 6,
+        "path": "2026/07/06/CloudWatch-Application-Signals-now-supports-Dynami",
+        "summary": "CloudWatch Application Signals が Dynamic Instrumentation をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/06/CloudWatch-Application-Signals-now-supports-Dynami/thumbnail.png"
+      },
+      {
         "id": "2026-07-02-Amazon-CloudWatch-supports-creating-alarms-from-lo",
         "title": "Amazon CloudWatch ログクエリからのアラーム作成に対応",
         "date": "2026-07-02",
@@ -4380,8 +4413,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-07-06T21:19:41.459Z",
-    "totalCount": 398
+    "updatedAt": "2026-07-06T22:56:12.484Z",
+    "totalCount": 401
   },
   "metadata:months": [
     "2026/07",
@@ -4395,6 +4428,39 @@
     "year": 2026,
     "month": 7,
     "articles": [
+      {
+        "id": "2026-07-06-AWS-Certificate-Manager-now-supports-the-ACME-prot",
+        "title": "AWS Certificate Manager が ACME プロトコルをサポート、公開証明書の自動発行に対応",
+        "date": "2026-07-06",
+        "year": 2026,
+        "month": 7,
+        "day": 6,
+        "path": "2026/07/06/AWS-Certificate-Manager-now-supports-the-ACME-prot",
+        "summary": "AWS Certificate Manager が ACME プロトコルをサポート、公開証明書の自動発行に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/06/AWS-Certificate-Manager-now-supports-the-ACME-prot/thumbnail.png"
+      },
+      {
+        "id": "2026-07-06-CloudWatch-Application-Signals-now-automatically-c",
+        "title": "CloudWatch Application Signals で例外・パフォーマンス異常・デプロイイベントを自動キャプチャ",
+        "date": "2026-07-06",
+        "year": 2026,
+        "month": 7,
+        "day": 6,
+        "path": "2026/07/06/CloudWatch-Application-Signals-now-automatically-c",
+        "summary": "CloudWatch Application Signals で例外・パフォーマンス異常・デプロイイベントを自動キャプチャ",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/06/CloudWatch-Application-Signals-now-automatically-c/thumbnail.png"
+      },
+      {
+        "id": "2026-07-06-CloudWatch-Application-Signals-now-supports-Dynami",
+        "title": "CloudWatch Application Signals が Dynamic Instrumentation をサポート",
+        "date": "2026-07-06",
+        "year": 2026,
+        "month": 7,
+        "day": 6,
+        "path": "2026/07/06/CloudWatch-Application-Signals-now-supports-Dynami",
+        "summary": "CloudWatch Application Signals が Dynamic Instrumentation をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/06/CloudWatch-Application-Signals-now-supports-Dynami/thumbnail.png"
+      },
       {
         "id": "2026-07-02-Amazon-CloudWatch-supports-creating-alarms-from-lo",
         "title": "Amazon CloudWatch ログクエリからのアラーム作成に対応",
@@ -4495,7 +4561,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/01/Amazon-OpenSearch-Service-optimized-for-log-analyt/thumbnail.png"
       }
     ],
-    "totalPages": 1
+    "totalPages": 2
   },
   "metadata:2026/06": {
     "year": 2026,
