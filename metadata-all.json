@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-07-07-AWS-Security-Hub-adds-impact-analysis-for-exposure",
+        "title": "AWS Security Hub が露出検出の影響分析機能をサポート",
+        "date": "2026-07-07",
+        "year": 2026,
+        "month": 7,
+        "day": 7,
+        "path": "2026/07/07/AWS-Security-Hub-adds-impact-analysis-for-exposure",
+        "summary": "AWS Security Hub が露出検出の影響分析機能をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/07/AWS-Security-Hub-adds-impact-analysis-for-exposure/thumbnail.png"
+      },
+      {
+        "id": "2026-07-07-AWS-Security-Hub-extends-unified-security-manageme",
+        "title": "AWS Security Hub が Microsoft Azure のセキュリティ管理に対応",
+        "date": "2026-07-07",
+        "year": 2026,
+        "month": 7,
+        "day": 7,
+        "path": "2026/07/07/AWS-Security-Hub-extends-unified-security-manageme",
+        "summary": "AWS Security Hub が Microsoft Azure のセキュリティ管理に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/07/AWS-Security-Hub-extends-unified-security-manageme/thumbnail.png"
+      },
+      {
         "id": "2026-07-07-Amazon-Cognito-now-supports-self-service-provision",
         "title": "Amazon CognitoがセルフサービスのAPIレート制限設定をサポート",
         "date": "2026-07-07",
@@ -4424,8 +4446,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-07-07T22:04:15.718Z",
-    "totalCount": 402
+    "updatedAt": "2026-07-07T23:45:22.498Z",
+    "totalCount": 404
   },
   "metadata:months": [
     "2026/07",
@@ -4439,6 +4461,28 @@
     "year": 2026,
     "month": 7,
     "articles": [
+      {
+        "id": "2026-07-07-AWS-Security-Hub-adds-impact-analysis-for-exposure",
+        "title": "AWS Security Hub が露出検出の影響分析機能をサポート",
+        "date": "2026-07-07",
+        "year": 2026,
+        "month": 7,
+        "day": 7,
+        "path": "2026/07/07/AWS-Security-Hub-adds-impact-analysis-for-exposure",
+        "summary": "AWS Security Hub が露出検出の影響分析機能をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/07/AWS-Security-Hub-adds-impact-analysis-for-exposure/thumbnail.png"
+      },
+      {
+        "id": "2026-07-07-AWS-Security-Hub-extends-unified-security-manageme",
+        "title": "AWS Security Hub が Microsoft Azure のセキュリティ管理に対応",
+        "date": "2026-07-07",
+        "year": 2026,
+        "month": 7,
+        "day": 7,
+        "path": "2026/07/07/AWS-Security-Hub-extends-unified-security-manageme",
+        "summary": "AWS Security Hub が Microsoft Azure のセキュリティ管理に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/07/AWS-Security-Hub-extends-unified-security-manageme/thumbnail.png"
+      },
       {
         "id": "2026-07-07-Amazon-Cognito-now-supports-self-service-provision",
         "title": "Amazon CognitoがセルフサービスのAPIレート制限設定をサポート",
