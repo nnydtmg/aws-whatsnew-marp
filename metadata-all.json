@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-07-07-Amazon-Cognito-now-supports-self-service-provision",
+        "title": "Amazon CognitoがセルフサービスのAPIレート制限設定をサポート",
+        "date": "2026-07-07",
+        "year": 2026,
+        "month": 7,
+        "day": 7,
+        "path": "2026/07/07/Amazon-Cognito-now-supports-self-service-provision",
+        "summary": "Amazon CognitoがセルフサービスのAPIレート制限設定をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/07/Amazon-Cognito-now-supports-self-service-provision/thumbnail.png"
+      },
+      {
         "id": "2026-07-06-AWS-Certificate-Manager-now-supports-the-ACME-prot",
         "title": "AWS Certificate Manager が ACME プロトコルをサポート、公開証明書の自動発行に対応",
         "date": "2026-07-06",
@@ -4413,8 +4424,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-07-06T23:58:01.688Z",
-    "totalCount": 401
+    "updatedAt": "2026-07-07T02:36:46.574Z",
+    "totalCount": 402
   },
   "metadata:months": [
     "2026/07",
@@ -4428,6 +4439,17 @@
     "year": 2026,
     "month": 7,
     "articles": [
+      {
+        "id": "2026-07-07-Amazon-Cognito-now-supports-self-service-provision",
+        "title": "Amazon CognitoがセルフサービスのAPIレート制限設定をサポート",
+        "date": "2026-07-07",
+        "year": 2026,
+        "month": 7,
+        "day": 7,
+        "path": "2026/07/07/Amazon-Cognito-now-supports-self-service-provision",
+        "summary": "Amazon CognitoがセルフサービスのAPIレート制限設定をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/07/Amazon-Cognito-now-supports-self-service-provision/thumbnail.png"
+      },
       {
         "id": "2026-07-06-AWS-Certificate-Manager-now-supports-the-ACME-prot",
         "title": "AWS Certificate Manager が ACME プロトコルをサポート、公開証明書の自動発行に対応",
