@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-07-10-AWS-Organizations-now-applies-account-departure-se",
+        "title": "AWS Organizations で新規組織向けのセキュリティ制御がデフォルト適用に",
+        "date": "2026-07-10",
+        "year": 2026,
+        "month": 7,
+        "day": 10,
+        "path": "2026/07/10/AWS-Organizations-now-applies-account-departure-se",
+        "summary": "AWS Organizations で新規組織向けのセキュリティ制御がデフォルト適用に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/10/AWS-Organizations-now-applies-account-departure-se/thumbnail.png"
+      },
+      {
         "id": "2026-07-10-OAuth-support-for-the-AWS-MCP-Server",
         "title": "AWS MCP ServerがOAuth 2.0に対応",
         "date": "2026-07-10",
@@ -4479,8 +4490,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-07-10T22:49:28.193Z",
-    "totalCount": 407
+    "updatedAt": "2026-07-10T23:46:55.289Z",
+    "totalCount": 408
   },
   "metadata:months": [
     "2026/07",
@@ -4494,6 +4505,17 @@
     "year": 2026,
     "month": 7,
     "articles": [
+      {
+        "id": "2026-07-10-AWS-Organizations-now-applies-account-departure-se",
+        "title": "AWS Organizations で新規組織向けのセキュリティ制御がデフォルト適用に",
+        "date": "2026-07-10",
+        "year": 2026,
+        "month": 7,
+        "day": 10,
+        "path": "2026/07/10/AWS-Organizations-now-applies-account-departure-se",
+        "summary": "AWS Organizations で新規組織向けのセキュリティ制御がデフォルト適用に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/10/AWS-Organizations-now-applies-account-departure-se/thumbnail.png"
+      },
       {
         "id": "2026-07-10-OAuth-support-for-the-AWS-MCP-Server",
         "title": "AWS MCP ServerがOAuth 2.0に対応",
