@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-07-13-OpenAI-GPT-56-Sol-Terra-and-Luna-now-generally-ava",
+        "title": "OpenAI GPT-5.6 Sol、Terra、LunaがAmazon Bedrockで一般提供開始",
+        "date": "2026-07-13",
+        "year": 2026,
+        "month": 7,
+        "day": 13,
+        "path": "2026/07/13/OpenAI-GPT-56-Sol-Terra-and-Luna-now-generally-ava",
+        "summary": "OpenAI GPT 5.6 Sol、Terra、LunaがAmazon Bedrockで一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/13/OpenAI-GPT-56-Sol-Terra-and-Luna-now-generally-ava/thumbnail.png"
+      },
+      {
         "id": "2026-07-10-AWS-Organizations-now-applies-account-departure-se",
         "title": "AWS Organizations で新規組織向けのセキュリティ制御がデフォルト適用に",
         "date": "2026-07-10",
@@ -4490,8 +4501,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-07-13T23:41:56.182Z",
-    "totalCount": 408
+    "updatedAt": "2026-07-14T01:20:34.853Z",
+    "totalCount": 409
   },
   "metadata:months": [
     "2026/07",
@@ -4505,6 +4516,17 @@
     "year": 2026,
     "month": 7,
     "articles": [
+      {
+        "id": "2026-07-13-OpenAI-GPT-56-Sol-Terra-and-Luna-now-generally-ava",
+        "title": "OpenAI GPT-5.6 Sol、Terra、LunaがAmazon Bedrockで一般提供開始",
+        "date": "2026-07-13",
+        "year": 2026,
+        "month": 7,
+        "day": 13,
+        "path": "2026/07/13/OpenAI-GPT-56-Sol-Terra-and-Luna-now-generally-ava",
+        "summary": "OpenAI GPT 5.6 Sol、Terra、LunaがAmazon Bedrockで一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/13/OpenAI-GPT-56-Sol-Terra-and-Luna-now-generally-ava/thumbnail.png"
+      },
       {
         "id": "2026-07-10-AWS-Organizations-now-applies-account-departure-se",
         "title": "AWS Organizations で新規組織向けのセキュリティ制御がデフォルト適用に",
