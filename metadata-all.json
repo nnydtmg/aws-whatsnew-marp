@@ -46,6 +46,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/15/Amazon-CloudFront-Functions-now-supports-logging-t/thumbnail.png"
       },
       {
+        "id": "2026-07-15-Amazon-CloudWatch-Logs-announces-intelligent-tieri",
+        "title": "Amazon CloudWatch Logs のインテリジェント・ストレージ・ティアリング機能",
+        "date": "2026-07-15",
+        "year": 2026,
+        "month": 7,
+        "day": 15,
+        "path": "2026/07/15/Amazon-CloudWatch-Logs-announces-intelligent-tieri",
+        "summary": "Amazon CloudWatch Logs のインテリジェント・ストレージ・ティアリング機能",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/15/Amazon-CloudWatch-Logs-announces-intelligent-tieri/thumbnail.png"
+      },
+      {
         "id": "2026-07-15-Amazon-CloudWatch-announces-lookup-processor-for-l",
         "title": "Amazon CloudWatchのルックアッププロセッサーがログエンリッチメント機能で利用可能に",
         "date": "2026-07-15",
@@ -55,6 +66,17 @@
         "path": "2026/07/15/Amazon-CloudWatch-announces-lookup-processor-for-l",
         "summary": "Amazon CloudWatchのルックアッププロセッサーがログエンリッチメント機能で利用可能に",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/15/Amazon-CloudWatch-announces-lookup-processor-for-l/thumbnail.png"
+      },
+      {
+        "id": "2026-07-15-Amazon-Cognito-now-supports-importing-users-with-p",
+        "title": "Amazon Cognitoでパスワードハッシュのインポートに対応",
+        "date": "2026-07-15",
+        "year": 2026,
+        "month": 7,
+        "day": 15,
+        "path": "2026/07/15/Amazon-Cognito-now-supports-importing-users-with-p",
+        "summary": "Amazon Cognitoでパスワードハッシュのインポートに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/15/Amazon-Cognito-now-supports-importing-users-with-p/thumbnail.png"
       },
       {
         "id": "2026-07-15-Amazon-Managed-Service-for-Apache-Flink-now-offers",
@@ -4578,8 +4600,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-07-15T22:47:12.883Z",
-    "totalCount": 416
+    "updatedAt": "2026-07-15T23:48:57.090Z",
+    "totalCount": 418
   },
   "metadata:months": [
     "2026/07",
@@ -4638,6 +4660,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/15/Amazon-CloudFront-Functions-now-supports-logging-t/thumbnail.png"
       },
       {
+        "id": "2026-07-15-Amazon-CloudWatch-Logs-announces-intelligent-tieri",
+        "title": "Amazon CloudWatch Logs のインテリジェント・ストレージ・ティアリング機能",
+        "date": "2026-07-15",
+        "year": 2026,
+        "month": 7,
+        "day": 15,
+        "path": "2026/07/15/Amazon-CloudWatch-Logs-announces-intelligent-tieri",
+        "summary": "Amazon CloudWatch Logs のインテリジェント・ストレージ・ティアリング機能",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/15/Amazon-CloudWatch-Logs-announces-intelligent-tieri/thumbnail.png"
+      },
+      {
         "id": "2026-07-15-Amazon-CloudWatch-announces-lookup-processor-for-l",
         "title": "Amazon CloudWatchのルックアッププロセッサーがログエンリッチメント機能で利用可能に",
         "date": "2026-07-15",
@@ -4647,6 +4680,17 @@
         "path": "2026/07/15/Amazon-CloudWatch-announces-lookup-processor-for-l",
         "summary": "Amazon CloudWatchのルックアッププロセッサーがログエンリッチメント機能で利用可能に",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/15/Amazon-CloudWatch-announces-lookup-processor-for-l/thumbnail.png"
+      },
+      {
+        "id": "2026-07-15-Amazon-Cognito-now-supports-importing-users-with-p",
+        "title": "Amazon Cognitoでパスワードハッシュのインポートに対応",
+        "date": "2026-07-15",
+        "year": 2026,
+        "month": 7,
+        "day": 15,
+        "path": "2026/07/15/Amazon-Cognito-now-supports-importing-users-with-p",
+        "summary": "Amazon Cognitoでパスワードハッシュのインポートに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/15/Amazon-Cognito-now-supports-importing-users-with-p/thumbnail.png"
       },
       {
         "id": "2026-07-15-Amazon-Managed-Service-for-Apache-Flink-now-offers",
