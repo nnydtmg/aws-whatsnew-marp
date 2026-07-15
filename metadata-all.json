@@ -13,6 +13,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/15/AWS-Lambda-console-provides-a-one-click-setup-prom/thumbnail.png"
       },
       {
+        "id": "2026-07-15-AWS-Security-Hub-now-provides-AI-inventory-for-org",
+        "title": "AWS Security Hub が AIインベントリ機能で組織全体のAIアセットを可視化",
+        "date": "2026-07-15",
+        "year": 2026,
+        "month": 7,
+        "day": 15,
+        "path": "2026/07/15/AWS-Security-Hub-now-provides-AI-inventory-for-org",
+        "summary": "AWS Security Hub が AIインベントリ機能で組織全体のAIアセットを可視化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/15/AWS-Security-Hub-now-provides-AI-inventory-for-org/thumbnail.png"
+      },
+      {
         "id": "2026-07-15-Amazon-CloudFront-Functions-now-supports-logging-t",
         "title": "Amazon CloudFront Functions でアクセスログへのカスタムデータ記録が可能に",
         "date": "2026-07-15",
@@ -4534,8 +4545,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-07-15T09:48:43.697Z",
-    "totalCount": 412
+    "updatedAt": "2026-07-15T11:20:27.110Z",
+    "totalCount": 413
   },
   "metadata:months": [
     "2026/07",
@@ -4559,6 +4570,17 @@
         "path": "2026/07/15/AWS-Lambda-console-provides-a-one-click-setup-prom",
         "summary": "AWS Lambda コンソールのコーディングエージェント向けワンクリックセットアップ",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/15/AWS-Lambda-console-provides-a-one-click-setup-prom/thumbnail.png"
+      },
+      {
+        "id": "2026-07-15-AWS-Security-Hub-now-provides-AI-inventory-for-org",
+        "title": "AWS Security Hub が AIインベントリ機能で組織全体のAIアセットを可視化",
+        "date": "2026-07-15",
+        "year": 2026,
+        "month": 7,
+        "day": 15,
+        "path": "2026/07/15/AWS-Security-Hub-now-provides-AI-inventory-for-org",
+        "summary": "AWS Security Hub が AIインベントリ機能で組織全体のAIアセットを可視化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/15/AWS-Security-Hub-now-provides-AI-inventory-for-org/thumbnail.png"
       },
       {
         "id": "2026-07-15-Amazon-CloudFront-Functions-now-supports-logging-t",
