@@ -6,6 +6,18 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-07-17-Amazon-CloudWatch-Logs-Insights-adds-25-new-query</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-07-16-Amazon-S3-Event-Notifications-now-include-system-g</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-07-15-AWS-Lambda-announces-self-managed-code-storage</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>never</changefreq>

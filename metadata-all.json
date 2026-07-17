@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-07-17-Amazon-CloudWatch-Logs-Insights-adds-25-new-query",
+        "title": "Amazon CloudWatch Logs Insights に25個の新しいクエリコマンドと関数が追加",
+        "date": "2026-07-17",
+        "year": 2026,
+        "month": 7,
+        "day": 17,
+        "path": "2026/07/17/Amazon-CloudWatch-Logs-Insights-adds-25-new-query",
+        "summary": "Amazon CloudWatch Logs Insights に25個の新しいクエリコマンドと関数が追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/17/Amazon-CloudWatch-Logs-Insights-adds-25-new-query/thumbnail.png"
+      },
+      {
+        "id": "2026-07-16-Amazon-S3-Event-Notifications-now-include-system-g",
+        "title": "Amazon S3 イベント通知がシステム生成タグに対応",
+        "date": "2026-07-16",
+        "year": 2026,
+        "month": 7,
+        "day": 16,
+        "path": "2026/07/16/Amazon-S3-Event-Notifications-now-include-system-g",
+        "summary": "Amazon S3 イベント通知がシステム生成タグに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/16/Amazon-S3-Event-Notifications-now-include-system-g/thumbnail.png"
+      },
+      {
         "id": "2026-07-15-AWS-Lambda-announces-self-managed-code-storage",
         "title": "AWS Lambda、自己管理型コード保存機能を発表",
         "date": "2026-07-15",
@@ -4600,8 +4622,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-07-16T23:47:38.588Z",
-    "totalCount": 418
+    "updatedAt": "2026-07-17T01:30:03.956Z",
+    "totalCount": 420
   },
   "metadata:months": [
     "2026/07",
@@ -4615,6 +4637,28 @@
     "year": 2026,
     "month": 7,
     "articles": [
+      {
+        "id": "2026-07-17-Amazon-CloudWatch-Logs-Insights-adds-25-new-query",
+        "title": "Amazon CloudWatch Logs Insights に25個の新しいクエリコマンドと関数が追加",
+        "date": "2026-07-17",
+        "year": 2026,
+        "month": 7,
+        "day": 17,
+        "path": "2026/07/17/Amazon-CloudWatch-Logs-Insights-adds-25-new-query",
+        "summary": "Amazon CloudWatch Logs Insights に25個の新しいクエリコマンドと関数が追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/17/Amazon-CloudWatch-Logs-Insights-adds-25-new-query/thumbnail.png"
+      },
+      {
+        "id": "2026-07-16-Amazon-S3-Event-Notifications-now-include-system-g",
+        "title": "Amazon S3 イベント通知がシステム生成タグに対応",
+        "date": "2026-07-16",
+        "year": 2026,
+        "month": 7,
+        "day": 16,
+        "path": "2026/07/16/Amazon-S3-Event-Notifications-now-include-system-g",
+        "summary": "Amazon S3 イベント通知がシステム生成タグに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/16/Amazon-S3-Event-Notifications-now-include-system-g/thumbnail.png"
+      },
       {
         "id": "2026-07-15-AWS-Lambda-announces-self-managed-code-storage",
         "title": "AWS Lambda、自己管理型コード保存機能を発表",
@@ -4935,7 +4979,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/01/Amazon-OpenSearch-Service-optimized-for-log-analyt/thumbnail.png"
       }
     ],
-    "totalPages": 3
+    "totalPages": 4
   },
   "metadata:2026/06": {
     "year": 2026,
