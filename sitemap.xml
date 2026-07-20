@@ -6,8 +6,26 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-07-20-Amazon-CloudWatch-announces-coding-agent-insights</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-07-20-Selectively-log-network-activity-events-by-identit</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-07-17-Amazon-CloudWatch-Logs-Insights-adds-25-new-query</loc>
     <lastmod>2026-07-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-07-16-Amazon-CloudWatch-Synthetics-now-supports-customer</loc>
+    <lastmod>2026-07-16</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
   </url>

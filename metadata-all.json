@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-07-20-Amazon-CloudWatch-announces-coding-agent-insights",
+        "title": "Amazon CloudWatch がコーディングエージェント分析機能を発表",
+        "date": "2026-07-20",
+        "year": 2026,
+        "month": 7,
+        "day": 20,
+        "path": "2026/07/20/Amazon-CloudWatch-announces-coding-agent-insights",
+        "summary": "Amazon CloudWatch がコーディングエージェント分析機能を発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/20/Amazon-CloudWatch-announces-coding-agent-insights/thumbnail.png"
+      },
+      {
+        "id": "2026-07-20-Selectively-log-network-activity-events-by-identit",
+        "title": "AWS CloudTrail で UserIdentity ベースのネットワークアクティビティイベントをフィルタリング",
+        "date": "2026-07-20",
+        "year": 2026,
+        "month": 7,
+        "day": 20,
+        "path": "2026/07/20/Selectively-log-network-activity-events-by-identit",
+        "summary": "AWS CloudTrail で UserIdentity ベースのネットワークアクティビティイベントをフィルタリング",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/20/Selectively-log-network-activity-events-by-identit/thumbnail.png"
+      },
+      {
         "id": "2026-07-17-Amazon-CloudWatch-Logs-Insights-adds-25-new-query",
         "title": "Amazon CloudWatch Logs Insights に25個の新しいクエリコマンドと関数が追加",
         "date": "2026-07-17",
@@ -11,6 +33,17 @@
         "path": "2026/07/17/Amazon-CloudWatch-Logs-Insights-adds-25-new-query",
         "summary": "Amazon CloudWatch Logs Insights に25個の新しいクエリコマンドと関数が追加",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/17/Amazon-CloudWatch-Logs-Insights-adds-25-new-query/thumbnail.png"
+      },
+      {
+        "id": "2026-07-16-Amazon-CloudWatch-Synthetics-now-supports-customer",
+        "title": "Amazon CloudWatch Synthetics で顧客管理キーによる暗号化に対応",
+        "date": "2026-07-16",
+        "year": 2026,
+        "month": 7,
+        "day": 16,
+        "path": "2026/07/16/Amazon-CloudWatch-Synthetics-now-supports-customer",
+        "summary": "Amazon CloudWatch Synthetics で顧客管理キーによる暗号化に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/16/Amazon-CloudWatch-Synthetics-now-supports-customer/thumbnail.png"
       },
       {
         "id": "2026-07-16-Amazon-S3-Event-Notifications-now-include-system-g",
@@ -4622,8 +4655,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-07-20T22:58:41.958Z",
-    "totalCount": 420
+    "updatedAt": "2026-07-20T23:55:09.182Z",
+    "totalCount": 423
   },
   "metadata:months": [
     "2026/07",
@@ -4638,6 +4671,28 @@
     "month": 7,
     "articles": [
       {
+        "id": "2026-07-20-Amazon-CloudWatch-announces-coding-agent-insights",
+        "title": "Amazon CloudWatch がコーディングエージェント分析機能を発表",
+        "date": "2026-07-20",
+        "year": 2026,
+        "month": 7,
+        "day": 20,
+        "path": "2026/07/20/Amazon-CloudWatch-announces-coding-agent-insights",
+        "summary": "Amazon CloudWatch がコーディングエージェント分析機能を発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/20/Amazon-CloudWatch-announces-coding-agent-insights/thumbnail.png"
+      },
+      {
+        "id": "2026-07-20-Selectively-log-network-activity-events-by-identit",
+        "title": "AWS CloudTrail で UserIdentity ベースのネットワークアクティビティイベントをフィルタリング",
+        "date": "2026-07-20",
+        "year": 2026,
+        "month": 7,
+        "day": 20,
+        "path": "2026/07/20/Selectively-log-network-activity-events-by-identit",
+        "summary": "AWS CloudTrail で UserIdentity ベースのネットワークアクティビティイベントをフィルタリング",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/20/Selectively-log-network-activity-events-by-identit/thumbnail.png"
+      },
+      {
         "id": "2026-07-17-Amazon-CloudWatch-Logs-Insights-adds-25-new-query",
         "title": "Amazon CloudWatch Logs Insights に25個の新しいクエリコマンドと関数が追加",
         "date": "2026-07-17",
@@ -4647,6 +4702,17 @@
         "path": "2026/07/17/Amazon-CloudWatch-Logs-Insights-adds-25-new-query",
         "summary": "Amazon CloudWatch Logs Insights に25個の新しいクエリコマンドと関数が追加",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/17/Amazon-CloudWatch-Logs-Insights-adds-25-new-query/thumbnail.png"
+      },
+      {
+        "id": "2026-07-16-Amazon-CloudWatch-Synthetics-now-supports-customer",
+        "title": "Amazon CloudWatch Synthetics で顧客管理キーによる暗号化に対応",
+        "date": "2026-07-16",
+        "year": 2026,
+        "month": 7,
+        "day": 16,
+        "path": "2026/07/16/Amazon-CloudWatch-Synthetics-now-supports-customer",
+        "summary": "Amazon CloudWatch Synthetics で顧客管理キーによる暗号化に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/16/Amazon-CloudWatch-Synthetics-now-supports-customer/thumbnail.png"
       },
       {
         "id": "2026-07-16-Amazon-S3-Event-Notifications-now-include-system-g",
