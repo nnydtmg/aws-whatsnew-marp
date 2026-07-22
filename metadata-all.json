@@ -2,6 +2,39 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-07-22-AWS-Entity-Resolution-now-supports-advanced-real-t",
+        "title": "AWS Entity Resolution がリアルタイムマッチングに対応",
+        "date": "2026-07-22",
+        "year": 2026,
+        "month": 7,
+        "day": 22,
+        "path": "2026/07/22/AWS-Entity-Resolution-now-supports-advanced-real-t",
+        "summary": "AWS Entity Resolution がリアルタイムマッチングに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/22/AWS-Entity-Resolution-now-supports-advanced-real-t/thumbnail.png"
+      },
+      {
+        "id": "2026-07-22-AWS-Network-Load-Balancer-now-supports-Listener-Ru",
+        "title": "AWS Network Load Balancerがリスナールールでカスタムトラフィックルーティングに対応",
+        "date": "2026-07-22",
+        "year": 2026,
+        "month": 7,
+        "day": 22,
+        "path": "2026/07/22/AWS-Network-Load-Balancer-now-supports-Listener-Ru",
+        "summary": "AWS Network Load Balancerがリスナールールでカスタムトラフィックルーティングに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/22/AWS-Network-Load-Balancer-now-supports-Listener-Ru/thumbnail.png"
+      },
+      {
+        "id": "2026-07-22-AWS-Secrets-Manager-now-publishes-secret-update-no",
+        "title": "AWS Secrets Manager が Amazon EventBridge への通知発行をサポート",
+        "date": "2026-07-22",
+        "year": 2026,
+        "month": 7,
+        "day": 22,
+        "path": "2026/07/22/AWS-Secrets-Manager-now-publishes-secret-update-no",
+        "summary": "AWS Secrets Manager が Amazon EventBridge への通知発行をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/22/AWS-Secrets-Manager-now-publishes-secret-update-no/thumbnail.png"
+      },
+      {
         "id": "2026-07-21-Amazon-ECS-now-provides-Action-Logs-for-deployment",
         "title": "Amazon ECS Action Logsでデプロイメントとオーケストレーションの可視性向上",
         "date": "2026-07-21",
@@ -4677,8 +4710,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-07-22T21:55:27.852Z",
-    "totalCount": 425
+    "updatedAt": "2026-07-22T22:52:40.107Z",
+    "totalCount": 428
   },
   "metadata:months": [
     "2026/07",
@@ -4692,6 +4725,39 @@
     "year": 2026,
     "month": 7,
     "articles": [
+      {
+        "id": "2026-07-22-AWS-Entity-Resolution-now-supports-advanced-real-t",
+        "title": "AWS Entity Resolution がリアルタイムマッチングに対応",
+        "date": "2026-07-22",
+        "year": 2026,
+        "month": 7,
+        "day": 22,
+        "path": "2026/07/22/AWS-Entity-Resolution-now-supports-advanced-real-t",
+        "summary": "AWS Entity Resolution がリアルタイムマッチングに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/22/AWS-Entity-Resolution-now-supports-advanced-real-t/thumbnail.png"
+      },
+      {
+        "id": "2026-07-22-AWS-Network-Load-Balancer-now-supports-Listener-Ru",
+        "title": "AWS Network Load Balancerがリスナールールでカスタムトラフィックルーティングに対応",
+        "date": "2026-07-22",
+        "year": 2026,
+        "month": 7,
+        "day": 22,
+        "path": "2026/07/22/AWS-Network-Load-Balancer-now-supports-Listener-Ru",
+        "summary": "AWS Network Load Balancerがリスナールールでカスタムトラフィックルーティングに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/22/AWS-Network-Load-Balancer-now-supports-Listener-Ru/thumbnail.png"
+      },
+      {
+        "id": "2026-07-22-AWS-Secrets-Manager-now-publishes-secret-update-no",
+        "title": "AWS Secrets Manager が Amazon EventBridge への通知発行をサポート",
+        "date": "2026-07-22",
+        "year": 2026,
+        "month": 7,
+        "day": 22,
+        "path": "2026/07/22/AWS-Secrets-Manager-now-publishes-secret-update-no",
+        "summary": "AWS Secrets Manager が Amazon EventBridge への通知発行をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/22/AWS-Secrets-Manager-now-publishes-secret-update-no/thumbnail.png"
+      },
       {
         "id": "2026-07-21-Amazon-ECS-now-provides-Action-Logs-for-deployment",
         "title": "Amazon ECS Action Logsでデプロイメントとオーケストレーションの可視性向上",

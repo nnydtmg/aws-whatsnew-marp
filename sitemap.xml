@@ -6,6 +6,24 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-07-22-AWS-Entity-Resolution-now-supports-advanced-real-t</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-07-22-AWS-Network-Load-Balancer-now-supports-Listener-Ru</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-07-22-AWS-Secrets-Manager-now-publishes-secret-update-no</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-07-21-Amazon-ECS-now-provides-Action-Logs-for-deployment</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>never</changefreq>
