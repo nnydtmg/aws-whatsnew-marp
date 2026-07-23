@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-07-23-Amazon-Bedrock-AgentCore-now-delivers-unified-obse",
+        "title": "Amazon Bedrock AgentCore の統合オブザーバビリティ機能が利用可能に",
+        "date": "2026-07-23",
+        "year": 2026,
+        "month": 7,
+        "day": 23,
+        "path": "2026/07/23/Amazon-Bedrock-AgentCore-now-delivers-unified-obse",
+        "summary": "Amazon Bedrock AgentCore の統合オブザーバビリティ機能が利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/23/Amazon-Bedrock-AgentCore-now-delivers-unified-obse/thumbnail.png"
+      },
+      {
         "id": "2026-07-22-AWS-Entity-Resolution-now-supports-advanced-real-t",
         "title": "AWS Entity Resolution がリアルタイムマッチングに対応",
         "date": "2026-07-22",
@@ -4710,8 +4721,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-07-23T21:55:26.258Z",
-    "totalCount": 428
+    "updatedAt": "2026-07-23T22:45:28.713Z",
+    "totalCount": 429
   },
   "metadata:months": [
     "2026/07",
@@ -4725,6 +4736,17 @@
     "year": 2026,
     "month": 7,
     "articles": [
+      {
+        "id": "2026-07-23-Amazon-Bedrock-AgentCore-now-delivers-unified-obse",
+        "title": "Amazon Bedrock AgentCore の統合オブザーバビリティ機能が利用可能に",
+        "date": "2026-07-23",
+        "year": 2026,
+        "month": 7,
+        "day": 23,
+        "path": "2026/07/23/Amazon-Bedrock-AgentCore-now-delivers-unified-obse",
+        "summary": "Amazon Bedrock AgentCore の統合オブザーバビリティ機能が利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/23/Amazon-Bedrock-AgentCore-now-delivers-unified-obse/thumbnail.png"
+      },
       {
         "id": "2026-07-22-AWS-Entity-Resolution-now-supports-advanced-real-t",
         "title": "AWS Entity Resolution がリアルタイムマッチングに対応",
