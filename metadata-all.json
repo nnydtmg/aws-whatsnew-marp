@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-07-24-AWS-Lambda-now-publishes-logs-for-Lambda-Managed-I",
+        "title": "AWS Lambda、Managed Instances キャパシティプロバイダーのログ発行機能を追加",
+        "date": "2026-07-24",
+        "year": 2026,
+        "month": 7,
+        "day": 24,
+        "path": "2026/07/24/AWS-Lambda-now-publishes-logs-for-Lambda-Managed-I",
+        "summary": "AWS Lambda、Managed Instances キャパシティプロバイダーのログ発行機能を追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/24/AWS-Lambda-now-publishes-logs-for-Lambda-Managed-I/thumbnail.png"
+      },
+      {
+        "id": "2026-07-24-AWS-announces-aws-bench-an-open-source-benchmark-f",
+        "title": "AWS が AIエージェント向けベンチマーク「aws-bench」をオープンソースで発表",
+        "date": "2026-07-24",
+        "year": 2026,
+        "month": 7,
+        "day": 24,
+        "path": "2026/07/24/AWS-announces-aws-bench-an-open-source-benchmark-f",
+        "summary": "AWS が AIエージェント向けベンチマーク「aws bench」をオープンソースで発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/24/AWS-announces-aws-bench-an-open-source-benchmark-f/thumbnail.png"
+      },
+      {
         "id": "2026-07-24-Amazon-CloudWatch-Logs-now-supports-Application-Lo",
         "title": "Amazon CloudWatch Logs が Application Load Balancer ログに対応",
         "date": "2026-07-24",
@@ -11,6 +33,28 @@
         "path": "2026/07/24/Amazon-CloudWatch-Logs-now-supports-Application-Lo",
         "summary": "Amazon CloudWatch Logs が Application Load Balancer ログに対応",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/24/Amazon-CloudWatch-Logs-now-supports-Application-Lo/thumbnail.png"
+      },
+      {
+        "id": "2026-07-24-Amazon-SES-simplifies-sending-emails-over-SMTP-usi",
+        "title": "Amazon SES で SMTP 経由のメール送信が簡素化 - Mail Manager 対応",
+        "date": "2026-07-24",
+        "year": 2026,
+        "month": 7,
+        "day": 24,
+        "path": "2026/07/24/Amazon-SES-simplifies-sending-emails-over-SMTP-usi",
+        "summary": "Amazon SES で SMTP 経由のメール送信が簡素化 Mail Manager 対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/24/Amazon-SES-simplifies-sending-emails-over-SMTP-usi/thumbnail.png"
+      },
+      {
+        "id": "2026-07-24-Claude-Opus-5-is-now-available-on-AWS",
+        "title": "Claude Opus 5が Amazon Bedrock で利用開始",
+        "date": "2026-07-24",
+        "year": 2026,
+        "month": 7,
+        "day": 24,
+        "path": "2026/07/24/Claude-Opus-5-is-now-available-on-AWS",
+        "summary": "Claude Opus 5が Amazon Bedrock で利用開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/24/Claude-Opus-5-is-now-available-on-AWS/thumbnail.png"
       },
       {
         "id": "2026-07-23-Amazon-Bedrock-AgentCore-now-delivers-unified-obse",
@@ -4732,8 +4776,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-07-24T21:54:23.230Z",
-    "totalCount": 430
+    "updatedAt": "2026-07-24T22:51:50.711Z",
+    "totalCount": 434
   },
   "metadata:months": [
     "2026/07",
@@ -4748,6 +4792,28 @@
     "month": 7,
     "articles": [
       {
+        "id": "2026-07-24-AWS-Lambda-now-publishes-logs-for-Lambda-Managed-I",
+        "title": "AWS Lambda、Managed Instances キャパシティプロバイダーのログ発行機能を追加",
+        "date": "2026-07-24",
+        "year": 2026,
+        "month": 7,
+        "day": 24,
+        "path": "2026/07/24/AWS-Lambda-now-publishes-logs-for-Lambda-Managed-I",
+        "summary": "AWS Lambda、Managed Instances キャパシティプロバイダーのログ発行機能を追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/24/AWS-Lambda-now-publishes-logs-for-Lambda-Managed-I/thumbnail.png"
+      },
+      {
+        "id": "2026-07-24-AWS-announces-aws-bench-an-open-source-benchmark-f",
+        "title": "AWS が AIエージェント向けベンチマーク「aws-bench」をオープンソースで発表",
+        "date": "2026-07-24",
+        "year": 2026,
+        "month": 7,
+        "day": 24,
+        "path": "2026/07/24/AWS-announces-aws-bench-an-open-source-benchmark-f",
+        "summary": "AWS が AIエージェント向けベンチマーク「aws bench」をオープンソースで発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/24/AWS-announces-aws-bench-an-open-source-benchmark-f/thumbnail.png"
+      },
+      {
         "id": "2026-07-24-Amazon-CloudWatch-Logs-now-supports-Application-Lo",
         "title": "Amazon CloudWatch Logs が Application Load Balancer ログに対応",
         "date": "2026-07-24",
@@ -4757,6 +4823,28 @@
         "path": "2026/07/24/Amazon-CloudWatch-Logs-now-supports-Application-Lo",
         "summary": "Amazon CloudWatch Logs が Application Load Balancer ログに対応",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/24/Amazon-CloudWatch-Logs-now-supports-Application-Lo/thumbnail.png"
+      },
+      {
+        "id": "2026-07-24-Amazon-SES-simplifies-sending-emails-over-SMTP-usi",
+        "title": "Amazon SES で SMTP 経由のメール送信が簡素化 - Mail Manager 対応",
+        "date": "2026-07-24",
+        "year": 2026,
+        "month": 7,
+        "day": 24,
+        "path": "2026/07/24/Amazon-SES-simplifies-sending-emails-over-SMTP-usi",
+        "summary": "Amazon SES で SMTP 経由のメール送信が簡素化 Mail Manager 対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/24/Amazon-SES-simplifies-sending-emails-over-SMTP-usi/thumbnail.png"
+      },
+      {
+        "id": "2026-07-24-Claude-Opus-5-is-now-available-on-AWS",
+        "title": "Claude Opus 5が Amazon Bedrock で利用開始",
+        "date": "2026-07-24",
+        "year": 2026,
+        "month": 7,
+        "day": 24,
+        "path": "2026/07/24/Claude-Opus-5-is-now-available-on-AWS",
+        "summary": "Claude Opus 5が Amazon Bedrock で利用開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/24/Claude-Opus-5-is-now-available-on-AWS/thumbnail.png"
       },
       {
         "id": "2026-07-23-Amazon-Bedrock-AgentCore-now-delivers-unified-obse",
