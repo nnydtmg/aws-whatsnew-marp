@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-07-24-Amazon-CloudWatch-Logs-now-supports-Application-Lo",
+        "title": "Amazon CloudWatch Logs が Application Load Balancer ログに対応",
+        "date": "2026-07-24",
+        "year": 2026,
+        "month": 7,
+        "day": 24,
+        "path": "2026/07/24/Amazon-CloudWatch-Logs-now-supports-Application-Lo",
+        "summary": "Amazon CloudWatch Logs が Application Load Balancer ログに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/24/Amazon-CloudWatch-Logs-now-supports-Application-Lo/thumbnail.png"
+      },
+      {
         "id": "2026-07-23-Amazon-Bedrock-AgentCore-now-delivers-unified-obse",
         "title": "Amazon Bedrock AgentCore の統合オブザーバビリティ機能が利用可能に",
         "date": "2026-07-23",
@@ -4721,8 +4732,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-07-24T04:59:26.862Z",
-    "totalCount": 429
+    "updatedAt": "2026-07-24T07:30:12.260Z",
+    "totalCount": 430
   },
   "metadata:months": [
     "2026/07",
@@ -4736,6 +4747,17 @@
     "year": 2026,
     "month": 7,
     "articles": [
+      {
+        "id": "2026-07-24-Amazon-CloudWatch-Logs-now-supports-Application-Lo",
+        "title": "Amazon CloudWatch Logs が Application Load Balancer ログに対応",
+        "date": "2026-07-24",
+        "year": 2026,
+        "month": 7,
+        "day": 24,
+        "path": "2026/07/24/Amazon-CloudWatch-Logs-now-supports-Application-Lo",
+        "summary": "Amazon CloudWatch Logs が Application Load Balancer ログに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/24/Amazon-CloudWatch-Logs-now-supports-Application-Lo/thumbnail.png"
+      },
       {
         "id": "2026-07-23-Amazon-Bedrock-AgentCore-now-delivers-unified-obse",
         "title": "Amazon Bedrock AgentCore の統合オブザーバビリティ機能が利用可能に",
@@ -5177,7 +5199,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/01/Amazon-OpenSearch-Service-optimized-for-log-analyt/thumbnail.png"
       }
     ],
-    "totalPages": 4
+    "totalPages": 5
   },
   "metadata:2026/06": {
     "year": 2026,
