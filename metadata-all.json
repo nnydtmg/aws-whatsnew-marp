@@ -35,6 +35,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/24/Amazon-CloudWatch-Logs-now-supports-Application-Lo/thumbnail.png"
       },
       {
+        "id": "2026-07-24-Amazon-Kinesis-Data-Streams-now-supports-scaling-d",
+        "title": "Amazon Kinesis Data Streams がウォームスループットでのスケールダウン機能に対応",
+        "date": "2026-07-24",
+        "year": 2026,
+        "month": 7,
+        "day": 24,
+        "path": "2026/07/24/Amazon-Kinesis-Data-Streams-now-supports-scaling-d",
+        "summary": "Amazon Kinesis Data Streams がウォームスループットでのスケールダウン機能に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/24/Amazon-Kinesis-Data-Streams-now-supports-scaling-d/thumbnail.png"
+      },
+      {
         "id": "2026-07-24-Amazon-SES-simplifies-sending-emails-over-SMTP-usi",
         "title": "Amazon SES で SMTP 経由のメール送信が簡素化 - Mail Manager 対応",
         "date": "2026-07-24",
@@ -4776,8 +4787,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-07-24T22:51:50.711Z",
-    "totalCount": 434
+    "updatedAt": "2026-07-24T23:55:03.147Z",
+    "totalCount": 435
   },
   "metadata:months": [
     "2026/07",
@@ -4823,6 +4834,17 @@
         "path": "2026/07/24/Amazon-CloudWatch-Logs-now-supports-Application-Lo",
         "summary": "Amazon CloudWatch Logs が Application Load Balancer ログに対応",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/24/Amazon-CloudWatch-Logs-now-supports-Application-Lo/thumbnail.png"
+      },
+      {
+        "id": "2026-07-24-Amazon-Kinesis-Data-Streams-now-supports-scaling-d",
+        "title": "Amazon Kinesis Data Streams がウォームスループットでのスケールダウン機能に対応",
+        "date": "2026-07-24",
+        "year": 2026,
+        "month": 7,
+        "day": 24,
+        "path": "2026/07/24/Amazon-Kinesis-Data-Streams-now-supports-scaling-d",
+        "summary": "Amazon Kinesis Data Streams がウォームスループットでのスケールダウン機能に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/24/Amazon-Kinesis-Data-Streams-now-supports-scaling-d/thumbnail.png"
       },
       {
         "id": "2026-07-24-Amazon-SES-simplifies-sending-emails-over-SMTP-usi",
