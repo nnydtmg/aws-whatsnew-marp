@@ -6,7 +6,19 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-07-28-Amazon-EKS-Provisioned-Control-Plane-now-delivers</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-07-27-AWS-Security-Hub-MCP-App-brings-exposure-findings</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-07-27-Amazon-EKS-now-supports-AWS-PrivateLink-for-the-cl</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>

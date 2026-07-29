@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-07-28-Amazon-EKS-Provisioned-Control-Plane-now-delivers",
+        "title": "Amazon EKS Provisioned Control Planeがポッドのオートスケーリングを高速化",
+        "date": "2026-07-28",
+        "year": 2026,
+        "month": 7,
+        "day": 28,
+        "path": "2026/07/28/Amazon-EKS-Provisioned-Control-Plane-now-delivers",
+        "summary": "Amazon EKS Provisioned Control Planeがポッドのオートスケーリングを高速化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/28/Amazon-EKS-Provisioned-Control-Plane-now-delivers/thumbnail.png"
+      },
+      {
         "id": "2026-07-27-AWS-Security-Hub-MCP-App-brings-exposure-findings",
         "title": "AWS Security Hub MCP App でセキュリティ調査を AI ワークフローに統合（プレビュー）",
         "date": "2026-07-27",
@@ -11,6 +22,17 @@
         "path": "2026/07/27/AWS-Security-Hub-MCP-App-brings-exposure-findings",
         "summary": "AWS Security Hub MCP App でセキュリティ調査を AI ワークフローに統合（プレビュー）",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/27/AWS-Security-Hub-MCP-App-brings-exposure-findings/thumbnail.png"
+      },
+      {
+        "id": "2026-07-27-Amazon-EKS-now-supports-AWS-PrivateLink-for-the-cl",
+        "title": "Amazon EKS が OIDC エンドポイント用 AWS PrivateLink に対応",
+        "date": "2026-07-27",
+        "year": 2026,
+        "month": 7,
+        "day": 27,
+        "path": "2026/07/27/Amazon-EKS-now-supports-AWS-PrivateLink-for-the-cl",
+        "summary": "Amazon EKS が OIDC エンドポイント用 AWS PrivateLink に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/27/Amazon-EKS-now-supports-AWS-PrivateLink-for-the-cl/thumbnail.png"
       },
       {
         "id": "2026-07-24-AWS-Lambda-now-publishes-logs-for-Lambda-Managed-I",
@@ -4798,8 +4820,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-07-28T22:54:40.180Z",
-    "totalCount": 436
+    "updatedAt": "2026-07-29T01:26:40.380Z",
+    "totalCount": 438
   },
   "metadata:months": [
     "2026/07",
@@ -4814,6 +4836,17 @@
     "month": 7,
     "articles": [
       {
+        "id": "2026-07-28-Amazon-EKS-Provisioned-Control-Plane-now-delivers",
+        "title": "Amazon EKS Provisioned Control Planeがポッドのオートスケーリングを高速化",
+        "date": "2026-07-28",
+        "year": 2026,
+        "month": 7,
+        "day": 28,
+        "path": "2026/07/28/Amazon-EKS-Provisioned-Control-Plane-now-delivers",
+        "summary": "Amazon EKS Provisioned Control Planeがポッドのオートスケーリングを高速化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/28/Amazon-EKS-Provisioned-Control-Plane-now-delivers/thumbnail.png"
+      },
+      {
         "id": "2026-07-27-AWS-Security-Hub-MCP-App-brings-exposure-findings",
         "title": "AWS Security Hub MCP App でセキュリティ調査を AI ワークフローに統合（プレビュー）",
         "date": "2026-07-27",
@@ -4823,6 +4856,17 @@
         "path": "2026/07/27/AWS-Security-Hub-MCP-App-brings-exposure-findings",
         "summary": "AWS Security Hub MCP App でセキュリティ調査を AI ワークフローに統合（プレビュー）",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/27/AWS-Security-Hub-MCP-App-brings-exposure-findings/thumbnail.png"
+      },
+      {
+        "id": "2026-07-27-Amazon-EKS-now-supports-AWS-PrivateLink-for-the-cl",
+        "title": "Amazon EKS が OIDC エンドポイント用 AWS PrivateLink に対応",
+        "date": "2026-07-27",
+        "year": 2026,
+        "month": 7,
+        "day": 27,
+        "path": "2026/07/27/Amazon-EKS-now-supports-AWS-PrivateLink-for-the-cl",
+        "summary": "Amazon EKS が OIDC エンドポイント用 AWS PrivateLink に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/27/Amazon-EKS-now-supports-AWS-PrivateLink-for-the-cl/thumbnail.png"
       },
       {
         "id": "2026-07-24-AWS-Lambda-now-publishes-logs-for-Lambda-Managed-I",
