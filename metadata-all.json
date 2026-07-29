@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-07-29-AWS-IAM-Identity-Center-extends-multi-Region-suppo",
+        "title": "AWS IAM Identity Center、Identity Center ディレクトリでマルチリージョン対応拡大",
+        "date": "2026-07-29",
+        "year": 2026,
+        "month": 7,
+        "day": 29,
+        "path": "2026/07/29/AWS-IAM-Identity-Center-extends-multi-Region-suppo",
+        "summary": "AWS IAM Identity Center、Identity Center ディレクトリでマルチリージョン対応拡大",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/29/AWS-IAM-Identity-Center-extends-multi-Region-suppo/thumbnail.png"
+      },
+      {
+        "id": "2026-07-29-AWS-announces-AWS-Interconnect---multicloud-connec",
+        "title": "AWS Interconnect - マルチクラウド接続が一般提供開始",
+        "date": "2026-07-29",
+        "year": 2026,
+        "month": 7,
+        "day": 29,
+        "path": "2026/07/29/AWS-announces-AWS-Interconnect---multicloud-connec",
+        "summary": "AWS Interconnect マルチクラウド接続が一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/29/AWS-announces-AWS-Interconnect---multicloud-connec/thumbnail.png"
+      },
+      {
         "id": "2026-07-28-Amazon-EKS-Provisioned-Control-Plane-now-delivers",
         "title": "Amazon EKS Provisioned Control Planeがポッドのオートスケーリングを高速化",
         "date": "2026-07-28",
@@ -4820,8 +4842,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-07-29T21:45:55.314Z",
-    "totalCount": 438
+    "updatedAt": "2026-07-29T22:47:36.732Z",
+    "totalCount": 440
   },
   "metadata:months": [
     "2026/07",
@@ -4835,6 +4857,28 @@
     "year": 2026,
     "month": 7,
     "articles": [
+      {
+        "id": "2026-07-29-AWS-IAM-Identity-Center-extends-multi-Region-suppo",
+        "title": "AWS IAM Identity Center、Identity Center ディレクトリでマルチリージョン対応拡大",
+        "date": "2026-07-29",
+        "year": 2026,
+        "month": 7,
+        "day": 29,
+        "path": "2026/07/29/AWS-IAM-Identity-Center-extends-multi-Region-suppo",
+        "summary": "AWS IAM Identity Center、Identity Center ディレクトリでマルチリージョン対応拡大",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/29/AWS-IAM-Identity-Center-extends-multi-Region-suppo/thumbnail.png"
+      },
+      {
+        "id": "2026-07-29-AWS-announces-AWS-Interconnect---multicloud-connec",
+        "title": "AWS Interconnect - マルチクラウド接続が一般提供開始",
+        "date": "2026-07-29",
+        "year": 2026,
+        "month": 7,
+        "day": 29,
+        "path": "2026/07/29/AWS-announces-AWS-Interconnect---multicloud-connec",
+        "summary": "AWS Interconnect マルチクラウド接続が一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/29/AWS-announces-AWS-Interconnect---multicloud-connec/thumbnail.png"
+      },
       {
         "id": "2026-07-28-Amazon-EKS-Provisioned-Control-Plane-now-delivers",
         "title": "Amazon EKS Provisioned Control Planeがポッドのオートスケーリングを高速化",
@@ -5375,7 +5419,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/01/Amazon-OpenSearch-Service-optimized-for-log-analyt/thumbnail.png"
       }
     ],
-    "totalPages": 5
+    "totalPages": 6
   },
   "metadata:2026/06": {
     "year": 2026,
