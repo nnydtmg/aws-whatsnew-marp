@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-07-30-AWS-WAF-adds-pre-parse-text-transformations-and-ne",
+        "title": "AWS WAFがプリパーステキスト変換と新しいテキスト変換を追加",
+        "date": "2026-07-30",
+        "year": 2026,
+        "month": 7,
+        "day": 30,
+        "path": "2026/07/30/AWS-WAF-adds-pre-parse-text-transformations-and-ne",
+        "summary": "AWS WAFがプリパーステキスト変換と新しいテキスト変換を追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/30/AWS-WAF-adds-pre-parse-text-transformations-and-ne/thumbnail.png"
+      },
+      {
         "id": "2026-07-29-AWS-IAM-Identity-Center-extends-multi-Region-suppo",
         "title": "AWS IAM Identity Center、Identity Center ディレクトリでマルチリージョン対応拡大",
         "date": "2026-07-29",
@@ -4842,8 +4853,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-07-29T23:52:21.082Z",
-    "totalCount": 440
+    "updatedAt": "2026-07-30T04:46:24.784Z",
+    "totalCount": 441
   },
   "metadata:months": [
     "2026/07",
@@ -4857,6 +4868,17 @@
     "year": 2026,
     "month": 7,
     "articles": [
+      {
+        "id": "2026-07-30-AWS-WAF-adds-pre-parse-text-transformations-and-ne",
+        "title": "AWS WAFがプリパーステキスト変換と新しいテキスト変換を追加",
+        "date": "2026-07-30",
+        "year": 2026,
+        "month": 7,
+        "day": 30,
+        "path": "2026/07/30/AWS-WAF-adds-pre-parse-text-transformations-and-ne",
+        "summary": "AWS WAFがプリパーステキスト変換と新しいテキスト変換を追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/30/AWS-WAF-adds-pre-parse-text-transformations-and-ne/thumbnail.png"
+      },
       {
         "id": "2026-07-29-AWS-IAM-Identity-Center-extends-multi-Region-suppo",
         "title": "AWS IAM Identity Center、Identity Center ディレクトリでマルチリージョン対応拡大",
