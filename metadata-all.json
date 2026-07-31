@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-07-31-Amazon-CloudWatch-announces-managed-Prometheus-col",
+        "title": "Amazon CloudWatch 管理型Prometheusコレクターを発表",
+        "date": "2026-07-31",
+        "year": 2026,
+        "month": 7,
+        "day": 31,
+        "path": "2026/07/31/Amazon-CloudWatch-announces-managed-Prometheus-col",
+        "summary": "Amazon CloudWatch 管理型Prometheusコレクターを発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/31/Amazon-CloudWatch-announces-managed-Prometheus-col/thumbnail.png"
+      },
+      {
         "id": "2026-07-30-AWS-Direct-Connect-now-supports-BGP-route-visibili",
         "title": "AWS Direct Connect に BGP ルート可視化機能が登場",
         "date": "2026-07-30",
@@ -4919,8 +4930,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-07-31T21:56:13.433Z",
-    "totalCount": 447
+    "updatedAt": "2026-07-31T22:51:56.487Z",
+    "totalCount": 448
   },
   "metadata:months": [
     "2026/07",
@@ -4934,6 +4945,17 @@
     "year": 2026,
     "month": 7,
     "articles": [
+      {
+        "id": "2026-07-31-Amazon-CloudWatch-announces-managed-Prometheus-col",
+        "title": "Amazon CloudWatch 管理型Prometheusコレクターを発表",
+        "date": "2026-07-31",
+        "year": 2026,
+        "month": 7,
+        "day": 31,
+        "path": "2026/07/31/Amazon-CloudWatch-announces-managed-Prometheus-col",
+        "summary": "Amazon CloudWatch 管理型Prometheusコレクターを発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/31/Amazon-CloudWatch-announces-managed-Prometheus-col/thumbnail.png"
+      },
       {
         "id": "2026-07-30-AWS-Direct-Connect-now-supports-BGP-route-visibili",
         "title": "AWS Direct Connect に BGP ルート可視化機能が登場",
