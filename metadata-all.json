@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-07-30-AWS-Direct-Connect-now-supports-BGP-route-visibili",
+        "title": "AWS Direct Connect に BGP ルート可視化機能が登場",
+        "date": "2026-07-30",
+        "year": 2026,
+        "month": 7,
+        "day": 30,
+        "path": "2026/07/30/AWS-Direct-Connect-now-supports-BGP-route-visibili",
+        "summary": "AWS Direct Connect に BGP ルート可視化機能が登場",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/30/AWS-Direct-Connect-now-supports-BGP-route-visibili/thumbnail.png"
+      },
+      {
         "id": "2026-07-30-AWS-WAF-adds-pre-parse-text-transformations-and-ne",
         "title": "AWS WAFがプリパーステキスト変換と新しいテキスト変換を追加",
         "date": "2026-07-30",
@@ -11,6 +22,61 @@
         "path": "2026/07/30/AWS-WAF-adds-pre-parse-text-transformations-and-ne",
         "summary": "AWS WAFがプリパーステキスト変換と新しいテキスト変換を追加",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/30/AWS-WAF-adds-pre-parse-text-transformations-and-ne/thumbnail.png"
+      },
+      {
+        "id": "2026-07-30-AWS-announces-general-availability-of-Policy-Based",
+        "title": "AWS Transit Gateway でPolicy-Based Routingが一般提供開始",
+        "date": "2026-07-30",
+        "year": 2026,
+        "month": 7,
+        "day": 30,
+        "path": "2026/07/30/AWS-announces-general-availability-of-Policy-Based",
+        "summary": "AWS Transit Gateway でPolicy Based Routingが一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/30/AWS-announces-general-availability-of-Policy-Based/thumbnail.png"
+      },
+      {
+        "id": "2026-07-30-Amazon-MSK-Express-brokers-now-deliver-data-to-str",
+        "title": "Amazon MSK Express が Apache Iceberg のストリーミングテーブルへのデータ配信をサポート",
+        "date": "2026-07-30",
+        "year": 2026,
+        "month": 7,
+        "day": 30,
+        "path": "2026/07/30/Amazon-MSK-Express-brokers-now-deliver-data-to-str",
+        "summary": "Amazon MSK Express が Apache Iceberg のストリーミングテーブルへのデータ配信をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/30/Amazon-MSK-Express-brokers-now-deliver-data-to-str/thumbnail.png"
+      },
+      {
+        "id": "2026-07-30-Amazon-MSK-Express-brokers-now-delivers-Apache-Kaf",
+        "title": "Amazon MSK Express ブローカーから Amazon S3 への Apache Kafka データ配信がサポート開始",
+        "date": "2026-07-30",
+        "year": 2026,
+        "month": 7,
+        "day": 30,
+        "path": "2026/07/30/Amazon-MSK-Express-brokers-now-delivers-Apache-Kaf",
+        "summary": "Amazon MSK Express ブローカーから Amazon S3 への Apache Kafka データ配信がサポート開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/30/Amazon-MSK-Express-brokers-now-delivers-Apache-Kaf/thumbnail.png"
+      },
+      {
+        "id": "2026-07-30-IAM-Policy-Simulator-moves-to-the-IAM-console-and",
+        "title": "IAM Policy SimulatorがIAMコンソールに統合、新機能も追加",
+        "date": "2026-07-30",
+        "year": 2026,
+        "month": 7,
+        "day": 30,
+        "path": "2026/07/30/IAM-Policy-Simulator-moves-to-the-IAM-console-and",
+        "summary": "IAM Policy SimulatorがIAMコンソールに統合、新機能も追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/30/IAM-Policy-Simulator-moves-to-the-IAM-console-and/thumbnail.png"
+      },
+      {
+        "id": "2026-07-30-OpenAI-GPT-56-Terra-and-GPT-56-Luna-pricing-update",
+        "title": "Amazon Bedrock上でOpenAI GPT-5.6 TerraとLunaの価格が更新",
+        "date": "2026-07-30",
+        "year": 2026,
+        "month": 7,
+        "day": 30,
+        "path": "2026/07/30/OpenAI-GPT-56-Terra-and-GPT-56-Luna-pricing-update",
+        "summary": "Amazon Bedrock上でOpenAI GPT 5.6 TerraとLunaの価格が更新",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/30/OpenAI-GPT-56-Terra-and-GPT-56-Luna-pricing-update/thumbnail.png"
       },
       {
         "id": "2026-07-29-AWS-IAM-Identity-Center-extends-multi-Region-suppo",
@@ -4853,8 +4919,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-07-30T21:57:58.040Z",
-    "totalCount": 441
+    "updatedAt": "2026-07-31T00:03:26.415Z",
+    "totalCount": 447
   },
   "metadata:months": [
     "2026/07",
@@ -4869,6 +4935,17 @@
     "month": 7,
     "articles": [
       {
+        "id": "2026-07-30-AWS-Direct-Connect-now-supports-BGP-route-visibili",
+        "title": "AWS Direct Connect に BGP ルート可視化機能が登場",
+        "date": "2026-07-30",
+        "year": 2026,
+        "month": 7,
+        "day": 30,
+        "path": "2026/07/30/AWS-Direct-Connect-now-supports-BGP-route-visibili",
+        "summary": "AWS Direct Connect に BGP ルート可視化機能が登場",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/30/AWS-Direct-Connect-now-supports-BGP-route-visibili/thumbnail.png"
+      },
+      {
         "id": "2026-07-30-AWS-WAF-adds-pre-parse-text-transformations-and-ne",
         "title": "AWS WAFがプリパーステキスト変換と新しいテキスト変換を追加",
         "date": "2026-07-30",
@@ -4878,6 +4955,61 @@
         "path": "2026/07/30/AWS-WAF-adds-pre-parse-text-transformations-and-ne",
         "summary": "AWS WAFがプリパーステキスト変換と新しいテキスト変換を追加",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/30/AWS-WAF-adds-pre-parse-text-transformations-and-ne/thumbnail.png"
+      },
+      {
+        "id": "2026-07-30-AWS-announces-general-availability-of-Policy-Based",
+        "title": "AWS Transit Gateway でPolicy-Based Routingが一般提供開始",
+        "date": "2026-07-30",
+        "year": 2026,
+        "month": 7,
+        "day": 30,
+        "path": "2026/07/30/AWS-announces-general-availability-of-Policy-Based",
+        "summary": "AWS Transit Gateway でPolicy Based Routingが一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/30/AWS-announces-general-availability-of-Policy-Based/thumbnail.png"
+      },
+      {
+        "id": "2026-07-30-Amazon-MSK-Express-brokers-now-deliver-data-to-str",
+        "title": "Amazon MSK Express が Apache Iceberg のストリーミングテーブルへのデータ配信をサポート",
+        "date": "2026-07-30",
+        "year": 2026,
+        "month": 7,
+        "day": 30,
+        "path": "2026/07/30/Amazon-MSK-Express-brokers-now-deliver-data-to-str",
+        "summary": "Amazon MSK Express が Apache Iceberg のストリーミングテーブルへのデータ配信をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/30/Amazon-MSK-Express-brokers-now-deliver-data-to-str/thumbnail.png"
+      },
+      {
+        "id": "2026-07-30-Amazon-MSK-Express-brokers-now-delivers-Apache-Kaf",
+        "title": "Amazon MSK Express ブローカーから Amazon S3 への Apache Kafka データ配信がサポート開始",
+        "date": "2026-07-30",
+        "year": 2026,
+        "month": 7,
+        "day": 30,
+        "path": "2026/07/30/Amazon-MSK-Express-brokers-now-delivers-Apache-Kaf",
+        "summary": "Amazon MSK Express ブローカーから Amazon S3 への Apache Kafka データ配信がサポート開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/30/Amazon-MSK-Express-brokers-now-delivers-Apache-Kaf/thumbnail.png"
+      },
+      {
+        "id": "2026-07-30-IAM-Policy-Simulator-moves-to-the-IAM-console-and",
+        "title": "IAM Policy SimulatorがIAMコンソールに統合、新機能も追加",
+        "date": "2026-07-30",
+        "year": 2026,
+        "month": 7,
+        "day": 30,
+        "path": "2026/07/30/IAM-Policy-Simulator-moves-to-the-IAM-console-and",
+        "summary": "IAM Policy SimulatorがIAMコンソールに統合、新機能も追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/30/IAM-Policy-Simulator-moves-to-the-IAM-console-and/thumbnail.png"
+      },
+      {
+        "id": "2026-07-30-OpenAI-GPT-56-Terra-and-GPT-56-Luna-pricing-update",
+        "title": "Amazon Bedrock上でOpenAI GPT-5.6 TerraとLunaの価格が更新",
+        "date": "2026-07-30",
+        "year": 2026,
+        "month": 7,
+        "day": 30,
+        "path": "2026/07/30/OpenAI-GPT-56-Terra-and-GPT-56-Luna-pricing-update",
+        "summary": "Amazon Bedrock上でOpenAI GPT 5.6 TerraとLunaの価格が更新",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/07/30/OpenAI-GPT-56-Terra-and-GPT-56-Luna-pricing-update/thumbnail.png"
       },
       {
         "id": "2026-07-29-AWS-IAM-Identity-Center-extends-multi-Region-suppo",
