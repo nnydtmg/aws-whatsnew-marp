@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-08-03-Amazon-ECR-now-supports-image-layers-up-to-200-GB",
+        "title": "Amazon ECR が 200GB までのイメージレイヤーをサポート",
+        "date": "2026-08-03",
+        "year": 2026,
+        "month": 8,
+        "day": 3,
+        "path": "2026/08/03/Amazon-ECR-now-supports-image-layers-up-to-200-GB",
+        "summary": "Amazon ECR が 200GB までのイメージレイヤーをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/03/Amazon-ECR-now-supports-image-layers-up-to-200-GB/thumbnail.png"
+      },
+      {
         "id": "2026-08-03-Amazon-Web-Services-now-introduces-Context-Ontolog",
         "title": "Context Ontology Accelerator が一般提供開始",
         "date": "2026-08-03",
@@ -4941,8 +4952,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-03T21:57:21.608Z",
-    "totalCount": 449
+    "updatedAt": "2026-08-03T22:54:55.094Z",
+    "totalCount": 450
   },
   "metadata:months": [
     "2026/08",
@@ -4957,6 +4968,17 @@
     "year": 2026,
     "month": 8,
     "articles": [
+      {
+        "id": "2026-08-03-Amazon-ECR-now-supports-image-layers-up-to-200-GB",
+        "title": "Amazon ECR が 200GB までのイメージレイヤーをサポート",
+        "date": "2026-08-03",
+        "year": 2026,
+        "month": 8,
+        "day": 3,
+        "path": "2026/08/03/Amazon-ECR-now-supports-image-layers-up-to-200-GB",
+        "summary": "Amazon ECR が 200GB までのイメージレイヤーをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/03/Amazon-ECR-now-supports-image-layers-up-to-200-GB/thumbnail.png"
+      },
       {
         "id": "2026-08-03-Amazon-Web-Services-now-introduces-Context-Ontolog",
         "title": "Context Ontology Accelerator が一般提供開始",
