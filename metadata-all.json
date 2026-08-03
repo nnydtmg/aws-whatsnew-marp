@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-08-03-Amazon-Web-Services-now-introduces-Context-Ontolog",
+        "title": "Context Ontology Accelerator が一般提供開始",
+        "date": "2026-08-03",
+        "year": 2026,
+        "month": 8,
+        "day": 3,
+        "path": "2026/08/03/Amazon-Web-Services-now-introduces-Context-Ontolog",
+        "summary": "Context Ontology Accelerator が一般提供開始 AWS の AI エージェント構築ツール",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/03/Amazon-Web-Services-now-introduces-Context-Ontolog/thumbnail.png"
+      },
+      {
         "id": "2026-07-31-Amazon-CloudWatch-announces-managed-Prometheus-col",
         "title": "Amazon CloudWatch 管理型Prometheusコレクターを発表",
         "date": "2026-07-31",
@@ -4930,10 +4941,11 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-03T20:53:13.850Z",
-    "totalCount": 448
+    "updatedAt": "2026-08-03T21:57:21.608Z",
+    "totalCount": 449
   },
   "metadata:months": [
+    "2026/08",
     "2026/07",
     "2026/06",
     "2026/05",
@@ -4941,6 +4953,24 @@
     "2026/03",
     "2026/02"
   ],
+  "metadata:2026/08": {
+    "year": 2026,
+    "month": 8,
+    "articles": [
+      {
+        "id": "2026-08-03-Amazon-Web-Services-now-introduces-Context-Ontolog",
+        "title": "Context Ontology Accelerator が一般提供開始",
+        "date": "2026-08-03",
+        "year": 2026,
+        "month": 8,
+        "day": 3,
+        "path": "2026/08/03/Amazon-Web-Services-now-introduces-Context-Ontolog",
+        "summary": "Context Ontology Accelerator が一般提供開始 AWS の AI エージェント構築ツール",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/03/Amazon-Web-Services-now-introduces-Context-Ontolog/thumbnail.png"
+      }
+    ],
+    "totalPages": 1
+  },
   "metadata:2026/07": {
     "year": 2026,
     "month": 7,
