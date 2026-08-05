@@ -6,6 +6,24 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-08-05-AWS-IAM-Identity-Center-makes-managment-of-AWS-acc</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-08-05-Amazon-Aurora-Serverless-now-scales-faster-to-supp</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-08-05-Amazon-DynamoDB-now-supports-real-time-vector-sear</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-08-05-Preview-Announcement-Re-introducing-Forward-Proxy</loc>
     <lastmod>2026-08-05</lastmod>
     <changefreq>never</changefreq>

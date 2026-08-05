@@ -2,6 +2,39 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-08-05-AWS-IAM-Identity-Center-makes-managment-of-AWS-acc",
+        "title": "AWS IAM Identity Center の AWS アカウントアクセス管理が任意に",
+        "date": "2026-08-05",
+        "year": 2026,
+        "month": 8,
+        "day": 5,
+        "path": "2026/08/05/AWS-IAM-Identity-Center-makes-managment-of-AWS-acc",
+        "summary": "AWS IAM Identity Center の AWS アカウントアクセス管理が任意に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/05/AWS-IAM-Identity-Center-makes-managment-of-AWS-acc/thumbnail.png"
+      },
+      {
+        "id": "2026-08-05-Amazon-Aurora-Serverless-now-scales-faster-to-supp",
+        "title": "Amazon Aurora Serverless がエージェンティック AI をサポートするために高速スケーリングに対応",
+        "date": "2026-08-05",
+        "year": 2026,
+        "month": 8,
+        "day": 5,
+        "path": "2026/08/05/Amazon-Aurora-Serverless-now-scales-faster-to-supp",
+        "summary": "Amazon Aurora Serverless がエージェンティック AI をサポートするために高速スケーリングに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/05/Amazon-Aurora-Serverless-now-scales-faster-to-supp/thumbnail.png"
+      },
+      {
+        "id": "2026-08-05-Amazon-DynamoDB-now-supports-real-time-vector-sear",
+        "title": "Amazon DynamoDB",
+        "date": "2026-08-05",
+        "year": 2026,
+        "month": 8,
+        "day": 5,
+        "path": "2026/08/05/Amazon-DynamoDB-now-supports-real-time-vector-sear",
+        "summary": "Amazon DynamoDB リアルタイムベクトル検索が一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/05/Amazon-DynamoDB-now-supports-real-time-vector-sear/thumbnail.png"
+      },
+      {
         "id": "2026-08-05-Preview-Announcement-Re-introducing-Forward-Proxy",
         "title": "AWS Network Firewall がフォワードプロキシ機能として再提供開始",
         "date": "2026-08-05",
@@ -5007,8 +5040,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-05T20:55:37.629Z",
-    "totalCount": 455
+    "updatedAt": "2026-08-05T23:47:18.108Z",
+    "totalCount": 458
   },
   "metadata:months": [
     "2026/08",
@@ -5023,6 +5056,39 @@
     "year": 2026,
     "month": 8,
     "articles": [
+      {
+        "id": "2026-08-05-AWS-IAM-Identity-Center-makes-managment-of-AWS-acc",
+        "title": "AWS IAM Identity Center の AWS アカウントアクセス管理が任意に",
+        "date": "2026-08-05",
+        "year": 2026,
+        "month": 8,
+        "day": 5,
+        "path": "2026/08/05/AWS-IAM-Identity-Center-makes-managment-of-AWS-acc",
+        "summary": "AWS IAM Identity Center の AWS アカウントアクセス管理が任意に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/05/AWS-IAM-Identity-Center-makes-managment-of-AWS-acc/thumbnail.png"
+      },
+      {
+        "id": "2026-08-05-Amazon-Aurora-Serverless-now-scales-faster-to-supp",
+        "title": "Amazon Aurora Serverless がエージェンティック AI をサポートするために高速スケーリングに対応",
+        "date": "2026-08-05",
+        "year": 2026,
+        "month": 8,
+        "day": 5,
+        "path": "2026/08/05/Amazon-Aurora-Serverless-now-scales-faster-to-supp",
+        "summary": "Amazon Aurora Serverless がエージェンティック AI をサポートするために高速スケーリングに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/05/Amazon-Aurora-Serverless-now-scales-faster-to-supp/thumbnail.png"
+      },
+      {
+        "id": "2026-08-05-Amazon-DynamoDB-now-supports-real-time-vector-sear",
+        "title": "Amazon DynamoDB",
+        "date": "2026-08-05",
+        "year": 2026,
+        "month": 8,
+        "day": 5,
+        "path": "2026/08/05/Amazon-DynamoDB-now-supports-real-time-vector-sear",
+        "summary": "Amazon DynamoDB リアルタイムベクトル検索が一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/05/Amazon-DynamoDB-now-supports-real-time-vector-sear/thumbnail.png"
+      },
       {
         "id": "2026-08-05-Preview-Announcement-Re-introducing-Forward-Proxy",
         "title": "AWS Network Firewall がフォワードプロキシ機能として再提供開始",
