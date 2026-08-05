@@ -24,6 +24,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/04/AWS-Transform-continuous-modernization-is-now-gene/thumbnail.png"
       },
       {
+        "id": "2026-08-04-Amazon-Bedrock-launches-Web-Search-for-OpenAI-GPT",
+        "title": "Amazon Bedrock、OpenAI GPTモデル向けWeb Search機能を一般提供開始",
+        "date": "2026-08-04",
+        "year": 2026,
+        "month": 8,
+        "day": 4,
+        "path": "2026/08/04/Amazon-Bedrock-launches-Web-Search-for-OpenAI-GPT",
+        "summary": "Amazon Bedrock、OpenAI GPTモデル向けWeb Search機能を一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/04/Amazon-Bedrock-launches-Web-Search-for-OpenAI-GPT/thumbnail.png"
+      },
+      {
         "id": "2026-08-03-AWS-Resilience-Hub-now-provides-recommended-resili",
         "title": "AWS Resilience Hub が推奨レジリエンステストを提供開始",
         "date": "2026-08-03",
@@ -4985,8 +4996,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-04T23:53:42.061Z",
-    "totalCount": 453
+    "updatedAt": "2026-08-05T01:27:09.016Z",
+    "totalCount": 454
   },
   "metadata:months": [
     "2026/08",
@@ -5022,6 +5033,17 @@
         "path": "2026/08/04/AWS-Transform-continuous-modernization-is-now-gene",
         "summary": "AWS Transform の継続的現代化機能が全リージョンで一般提供開始",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/04/AWS-Transform-continuous-modernization-is-now-gene/thumbnail.png"
+      },
+      {
+        "id": "2026-08-04-Amazon-Bedrock-launches-Web-Search-for-OpenAI-GPT",
+        "title": "Amazon Bedrock、OpenAI GPTモデル向けWeb Search機能を一般提供開始",
+        "date": "2026-08-04",
+        "year": 2026,
+        "month": 8,
+        "day": 4,
+        "path": "2026/08/04/Amazon-Bedrock-launches-Web-Search-for-OpenAI-GPT",
+        "summary": "Amazon Bedrock、OpenAI GPTモデル向けWeb Search機能を一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/04/Amazon-Bedrock-launches-Web-Search-for-OpenAI-GPT/thumbnail.png"
       },
       {
         "id": "2026-08-03-AWS-Resilience-Hub-now-provides-recommended-resili",
