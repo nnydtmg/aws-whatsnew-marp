@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-08-05-Preview-Announcement-Re-introducing-Forward-Proxy",
+        "title": "AWS Network Firewall がフォワードプロキシ機能として再提供開始",
+        "date": "2026-08-05",
+        "year": 2026,
+        "month": 8,
+        "day": 5,
+        "path": "2026/08/05/Preview-Announcement-Re-introducing-Forward-Proxy",
+        "summary": "AWS Network Firewall がフォワードプロキシ機能として再提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/05/Preview-Announcement-Re-introducing-Forward-Proxy/thumbnail.png"
+      },
+      {
         "id": "2026-08-04-AWS-Lambda-Provisioned-Mode-for-Amazon-SQS-event-s",
         "title": "AWS Lambda プロビジョニングモード向け Amazon SQS イベントソースマッピングが最大10,000ポーラーをサポート",
         "date": "2026-08-04",
@@ -4996,8 +5007,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-05T07:31:33.147Z",
-    "totalCount": 454
+    "updatedAt": "2026-08-05T10:23:38.461Z",
+    "totalCount": 455
   },
   "metadata:months": [
     "2026/08",
@@ -5012,6 +5023,17 @@
     "year": 2026,
     "month": 8,
     "articles": [
+      {
+        "id": "2026-08-05-Preview-Announcement-Re-introducing-Forward-Proxy",
+        "title": "AWS Network Firewall がフォワードプロキシ機能として再提供開始",
+        "date": "2026-08-05",
+        "year": 2026,
+        "month": 8,
+        "day": 5,
+        "path": "2026/08/05/Preview-Announcement-Re-introducing-Forward-Proxy",
+        "summary": "AWS Network Firewall がフォワードプロキシ機能として再提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/05/Preview-Announcement-Re-introducing-Forward-Proxy/thumbnail.png"
+      },
       {
         "id": "2026-08-04-AWS-Lambda-Provisioned-Mode-for-Amazon-SQS-event-s",
         "title": "AWS Lambda プロビジョニングモード向け Amazon SQS イベントソースマッピングが最大10,000ポーラーをサポート",
