@@ -2,6 +2,39 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-08-06-AWS-Security-Agent-now-supports-email-based-MFA-fo",
+        "title": "AWS Security Agent、メールベース多要素認証に対応",
+        "date": "2026-08-06",
+        "year": 2026,
+        "month": 8,
+        "day": 6,
+        "path": "2026/08/06/AWS-Security-Agent-now-supports-email-based-MFA-fo",
+        "summary": "AWS Security Agent、メールベース多要素認証に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/06/AWS-Security-Agent-now-supports-email-based-MFA-fo/thumbnail.png"
+      },
+      {
+        "id": "2026-08-06-Amazon-Quick-supports-multi-dataset-analytical-cap",
+        "title": "Amazon Quick、複数データセット分析機能に対応",
+        "date": "2026-08-06",
+        "year": 2026,
+        "month": 8,
+        "day": 6,
+        "path": "2026/08/06/Amazon-Quick-supports-multi-dataset-analytical-cap",
+        "summary": "Amazon Quick、複数データセット分析機能に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/06/Amazon-Quick-supports-multi-dataset-analytical-cap/thumbnail.png"
+      },
+      {
+        "id": "2026-08-06-Runtime-instances-persistent-compute-for-productio",
+        "title": "Amazon Bedrock AgentCore のランタイムインスタンス",
+        "date": "2026-08-06",
+        "year": 2026,
+        "month": 8,
+        "day": 6,
+        "path": "2026/08/06/Runtime-instances-persistent-compute-for-productio",
+        "summary": "Amazon Bedrock AgentCore のランタイムインスタンス 本番環境の AI エージェント向け永続的コンピュート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/06/Runtime-instances-persistent-compute-for-productio/thumbnail.png"
+      },
+      {
         "id": "2026-08-05-AWS-IAM-Identity-Center-makes-managment-of-AWS-acc",
         "title": "AWS IAM Identity Center の AWS アカウントアクセス管理が任意に",
         "date": "2026-08-05",
@@ -5040,8 +5073,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-06T15:05:18.248Z",
-    "totalCount": 458
+    "updatedAt": "2026-08-06T23:48:03.045Z",
+    "totalCount": 461
   },
   "metadata:months": [
     "2026/08",
@@ -5056,6 +5089,39 @@
     "year": 2026,
     "month": 8,
     "articles": [
+      {
+        "id": "2026-08-06-AWS-Security-Agent-now-supports-email-based-MFA-fo",
+        "title": "AWS Security Agent、メールベース多要素認証に対応",
+        "date": "2026-08-06",
+        "year": 2026,
+        "month": 8,
+        "day": 6,
+        "path": "2026/08/06/AWS-Security-Agent-now-supports-email-based-MFA-fo",
+        "summary": "AWS Security Agent、メールベース多要素認証に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/06/AWS-Security-Agent-now-supports-email-based-MFA-fo/thumbnail.png"
+      },
+      {
+        "id": "2026-08-06-Amazon-Quick-supports-multi-dataset-analytical-cap",
+        "title": "Amazon Quick、複数データセット分析機能に対応",
+        "date": "2026-08-06",
+        "year": 2026,
+        "month": 8,
+        "day": 6,
+        "path": "2026/08/06/Amazon-Quick-supports-multi-dataset-analytical-cap",
+        "summary": "Amazon Quick、複数データセット分析機能に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/06/Amazon-Quick-supports-multi-dataset-analytical-cap/thumbnail.png"
+      },
+      {
+        "id": "2026-08-06-Runtime-instances-persistent-compute-for-productio",
+        "title": "Amazon Bedrock AgentCore のランタイムインスタンス",
+        "date": "2026-08-06",
+        "year": 2026,
+        "month": 8,
+        "day": 6,
+        "path": "2026/08/06/Runtime-instances-persistent-compute-for-productio",
+        "summary": "Amazon Bedrock AgentCore のランタイムインスタンス 本番環境の AI エージェント向け永続的コンピュート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/06/Runtime-instances-persistent-compute-for-productio/thumbnail.png"
+      },
       {
         "id": "2026-08-05-AWS-IAM-Identity-Center-makes-managment-of-AWS-acc",
         "title": "AWS IAM Identity Center の AWS アカウントアクセス管理が任意に",
@@ -5167,7 +5233,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/03/Amazon-Web-Services-now-introduces-Context-Ontolog/thumbnail.png"
       }
     ],
-    "totalPages": 1
+    "totalPages": 2
   },
   "metadata:2026/07": {
     "year": 2026,
