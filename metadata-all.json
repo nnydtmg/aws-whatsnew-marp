@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-08-07-AWS-IAM-Identity-Center-supports-one-click-multi-R",
+        "title": "AWS IAM Identity Center で新組織インスタンスのワンクリックマルチリージョン設定が利用可能に",
+        "date": "2026-08-07",
+        "year": 2026,
+        "month": 8,
+        "day": 7,
+        "path": "2026/08/07/AWS-IAM-Identity-Center-supports-one-click-multi-R",
+        "summary": "AWS IAM Identity Center で新組織インスタンスのワンクリックマルチリージョン設定が利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/07/AWS-IAM-Identity-Center-supports-one-click-multi-R/thumbnail.png"
+      },
+      {
         "id": "2026-08-07-AgentCore-runtime-instances-are-now-generally-avai",
         "title": "Amazon Bedrock AgentCore runtime instances が一般提供開始",
         "date": "2026-08-07",
@@ -5095,8 +5106,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-07T21:27:23.805Z",
-    "totalCount": 463
+    "updatedAt": "2026-08-07T22:24:12.254Z",
+    "totalCount": 464
   },
   "metadata:months": [
     "2026/08",
@@ -5111,6 +5122,17 @@
     "year": 2026,
     "month": 8,
     "articles": [
+      {
+        "id": "2026-08-07-AWS-IAM-Identity-Center-supports-one-click-multi-R",
+        "title": "AWS IAM Identity Center で新組織インスタンスのワンクリックマルチリージョン設定が利用可能に",
+        "date": "2026-08-07",
+        "year": 2026,
+        "month": 8,
+        "day": 7,
+        "path": "2026/08/07/AWS-IAM-Identity-Center-supports-one-click-multi-R",
+        "summary": "AWS IAM Identity Center で新組織インスタンスのワンクリックマルチリージョン設定が利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/07/AWS-IAM-Identity-Center-supports-one-click-multi-R/thumbnail.png"
+      },
       {
         "id": "2026-08-07-AgentCore-runtime-instances-are-now-generally-avai",
         "title": "Amazon Bedrock AgentCore runtime instances が一般提供開始",
