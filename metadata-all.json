@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-08-08-AWS-WAF-now-supports-a-Salt-Security-managed-rule",
+        "title": "AWS WAFでSalt Securityの管理ルールグループがAPI・MCP脅威検出に対応",
+        "date": "2026-08-08",
+        "year": 2026,
+        "month": 8,
+        "day": 8,
+        "path": "2026/08/08/AWS-WAF-now-supports-a-Salt-Security-managed-rule",
+        "summary": "AWS WAFでSalt Securityの管理ルールグループがAPI・MCP脅威検出に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/08/AWS-WAF-now-supports-a-Salt-Security-managed-rule/thumbnail.png"
+      },
+      {
         "id": "2026-08-07-AWS-IAM-Identity-Center-supports-one-click-multi-R",
         "title": "AWS IAM Identity Center で新組織インスタンスのワンクリックマルチリージョン設定が利用可能に",
         "date": "2026-08-07",
@@ -5106,8 +5117,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-08T00:46:51.965Z",
-    "totalCount": 464
+    "updatedAt": "2026-08-08T02:49:05.655Z",
+    "totalCount": 465
   },
   "metadata:months": [
     "2026/08",
@@ -5122,6 +5133,17 @@
     "year": 2026,
     "month": 8,
     "articles": [
+      {
+        "id": "2026-08-08-AWS-WAF-now-supports-a-Salt-Security-managed-rule",
+        "title": "AWS WAFでSalt Securityの管理ルールグループがAPI・MCP脅威検出に対応",
+        "date": "2026-08-08",
+        "year": 2026,
+        "month": 8,
+        "day": 8,
+        "path": "2026/08/08/AWS-WAF-now-supports-a-Salt-Security-managed-rule",
+        "summary": "AWS WAFでSalt Securityの管理ルールグループがAPI・MCP脅威検出に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/08/AWS-WAF-now-supports-a-Salt-Security-managed-rule/thumbnail.png"
+      },
       {
         "id": "2026-08-07-AWS-IAM-Identity-Center-supports-one-click-multi-R",
         "title": "AWS IAM Identity Center で新組織インスタンスのワンクリックマルチリージョン設定が利用可能に",
