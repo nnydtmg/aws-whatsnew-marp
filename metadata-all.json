@@ -35,6 +35,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/07/AgentCore-runtime-instances-are-now-generally-avai/thumbnail.png"
       },
       {
+        "id": "2026-08-07-Amazon-Cognito-now-available-as-a-skill-in-the-Age",
+        "title": "Amazon Cognito が AWS Agent Toolkit のスキルとして利用可能に",
+        "date": "2026-08-07",
+        "year": 2026,
+        "month": 8,
+        "day": 7,
+        "path": "2026/08/07/Amazon-Cognito-now-available-as-a-skill-in-the-Age",
+        "summary": "Amazon Cognito が AWS Agent Toolkit のスキルとして利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/07/Amazon-Cognito-now-available-as-a-skill-in-the-Age/thumbnail.png"
+      },
+      {
         "id": "2026-08-06-AWS-Backup-for-Amazon-S3-now-supports-direct-acces",
         "title": "AWS Backup が Amazon S3 のバックアップデータへの直接アクセスに対応",
         "date": "2026-08-06",
@@ -5117,8 +5128,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-08T02:49:05.655Z",
-    "totalCount": 465
+    "updatedAt": "2026-08-08T04:03:02.785Z",
+    "totalCount": 466
   },
   "metadata:months": [
     "2026/08",
@@ -5165,6 +5176,17 @@
         "path": "2026/08/07/AgentCore-runtime-instances-are-now-generally-avai",
         "summary": "Amazon Bedrock AgentCore runtime instances が一般提供開始",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/07/AgentCore-runtime-instances-are-now-generally-avai/thumbnail.png"
+      },
+      {
+        "id": "2026-08-07-Amazon-Cognito-now-available-as-a-skill-in-the-Age",
+        "title": "Amazon Cognito が AWS Agent Toolkit のスキルとして利用可能に",
+        "date": "2026-08-07",
+        "year": 2026,
+        "month": 8,
+        "day": 7,
+        "path": "2026/08/07/Amazon-Cognito-now-available-as-a-skill-in-the-Age",
+        "summary": "Amazon Cognito が AWS Agent Toolkit のスキルとして利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/07/Amazon-Cognito-now-available-as-a-skill-in-the-Age/thumbnail.png"
       },
       {
         "id": "2026-08-06-AWS-Backup-for-Amazon-S3-now-supports-direct-acces",
