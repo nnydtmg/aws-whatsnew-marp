@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-08-10-Amazon-OpenSearch-Serverless-now-supports-up-to-10",
+        "title": "Amazon OpenSearch Serverless",
+        "date": "2026-08-10",
+        "year": 2026,
+        "month": 8,
+        "day": 10,
+        "path": "2026/08/10/Amazon-OpenSearch-Serverless-now-supports-up-to-10",
+        "summary": "Amazon OpenSearch Serverless コレクショングループごとに最大10,000コレクションをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/10/Amazon-OpenSearch-Serverless-now-supports-up-to-10/thumbnail.png"
+      },
+      {
         "id": "2026-08-08-AWS-WAF-now-supports-a-Salt-Security-managed-rule",
         "title": "AWS WAFでSalt Securityの管理ルールグループがAPI・MCP脅威検出に対応",
         "date": "2026-08-08",
@@ -5139,8 +5150,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-10T22:25:31.983Z",
-    "totalCount": 467
+    "updatedAt": "2026-08-10T23:24:17.642Z",
+    "totalCount": 468
   },
   "metadata:months": [
     "2026/08",
@@ -5155,6 +5166,17 @@
     "year": 2026,
     "month": 8,
     "articles": [
+      {
+        "id": "2026-08-10-Amazon-OpenSearch-Serverless-now-supports-up-to-10",
+        "title": "Amazon OpenSearch Serverless",
+        "date": "2026-08-10",
+        "year": 2026,
+        "month": 8,
+        "day": 10,
+        "path": "2026/08/10/Amazon-OpenSearch-Serverless-now-supports-up-to-10",
+        "summary": "Amazon OpenSearch Serverless コレクショングループごとに最大10,000コレクションをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/10/Amazon-OpenSearch-Serverless-now-supports-up-to-10/thumbnail.png"
+      },
       {
         "id": "2026-08-08-AWS-WAF-now-supports-a-Salt-Security-managed-rule",
         "title": "AWS WAFでSalt Securityの管理ルールグループがAPI・MCP脅威検出に対応",
