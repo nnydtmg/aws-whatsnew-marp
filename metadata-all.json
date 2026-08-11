@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-08-11-AWS-Identity-and-Access-Management-streamlines-ass",
+        "title": "AWS IAM アカウントアクセスマネージャーでワークフォースユーザーのIAMロール割り当てを簡素化",
+        "date": "2026-08-11",
+        "year": 2026,
+        "month": 8,
+        "day": 11,
+        "path": "2026/08/11/AWS-Identity-and-Access-Management-streamlines-ass",
+        "summary": "AWS IAM アカウントアクセスマネージャーでワークフォースユーザーのIAMロール割り当てを簡素化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/11/AWS-Identity-and-Access-Management-streamlines-ass/thumbnail.png"
+      },
+      {
+        "id": "2026-08-11-AWS-Secrets-Manager-adds-managed-external-secrets",
+        "title": "AWS Secrets ManagerがJenkinsとSonarQube向けマネージド外部シークレットをサポート開始",
+        "date": "2026-08-11",
+        "year": 2026,
+        "month": 8,
+        "day": 11,
+        "path": "2026/08/11/AWS-Secrets-Manager-adds-managed-external-secrets",
+        "summary": "AWS Secrets ManagerがJenkinsとSonarQube向けマネージド外部シークレットをサポート開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/11/AWS-Secrets-Manager-adds-managed-external-secrets/thumbnail.png"
+      },
+      {
         "id": "2026-08-10-Amazon-EC2-introduces-application-status-checks",
         "title": "Amazon EC2のアプリケーションステータスチェック機能が利用可能に",
         "date": "2026-08-10",
@@ -5161,8 +5183,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-11T22:30:31.167Z",
-    "totalCount": 469
+    "updatedAt": "2026-08-11T23:28:44.176Z",
+    "totalCount": 471
   },
   "metadata:months": [
     "2026/08",
@@ -5177,6 +5199,28 @@
     "year": 2026,
     "month": 8,
     "articles": [
+      {
+        "id": "2026-08-11-AWS-Identity-and-Access-Management-streamlines-ass",
+        "title": "AWS IAM アカウントアクセスマネージャーでワークフォースユーザーのIAMロール割り当てを簡素化",
+        "date": "2026-08-11",
+        "year": 2026,
+        "month": 8,
+        "day": 11,
+        "path": "2026/08/11/AWS-Identity-and-Access-Management-streamlines-ass",
+        "summary": "AWS IAM アカウントアクセスマネージャーでワークフォースユーザーのIAMロール割り当てを簡素化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/11/AWS-Identity-and-Access-Management-streamlines-ass/thumbnail.png"
+      },
+      {
+        "id": "2026-08-11-AWS-Secrets-Manager-adds-managed-external-secrets",
+        "title": "AWS Secrets ManagerがJenkinsとSonarQube向けマネージド外部シークレットをサポート開始",
+        "date": "2026-08-11",
+        "year": 2026,
+        "month": 8,
+        "day": 11,
+        "path": "2026/08/11/AWS-Secrets-Manager-adds-managed-external-secrets",
+        "summary": "AWS Secrets ManagerがJenkinsとSonarQube向けマネージド外部シークレットをサポート開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/11/AWS-Secrets-Manager-adds-managed-external-secrets/thumbnail.png"
+      },
       {
         "id": "2026-08-10-Amazon-EC2-introduces-application-status-checks",
         "title": "Amazon EC2のアプリケーションステータスチェック機能が利用可能に",
