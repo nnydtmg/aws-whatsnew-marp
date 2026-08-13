@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-08-13-Amazon-Quick-Microsoft-365-extensions-are-now-gene",
+        "title": "Amazon Quick がMicrosoft 365統合機能の一般提供を開始",
+        "date": "2026-08-13",
+        "year": 2026,
+        "month": 8,
+        "day": 13,
+        "path": "2026/08/13/Amazon-Quick-Microsoft-365-extensions-are-now-gene",
+        "summary": "Amazon Quick がMicrosoft 365統合機能の一般提供を開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/13/Amazon-Quick-Microsoft-365-extensions-are-now-gene/thumbnail.png"
+      },
+      {
+        "id": "2026-08-13-Amazon-S3-adds-additional-policy-details-to-access",
+        "title": "Amazon S3 がアクセス拒否エラーメッセージにポリシー詳細を追加",
+        "date": "2026-08-13",
+        "year": 2026,
+        "month": 8,
+        "day": 13,
+        "path": "2026/08/13/Amazon-S3-adds-additional-policy-details-to-access",
+        "summary": "Amazon S3 がアクセス拒否エラーメッセージにポリシー詳細を追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/13/Amazon-S3-adds-additional-policy-details-to-access/thumbnail.png"
+      },
+      {
         "id": "2026-08-12-AWS-IAM-now-provides-role-manager-to-set-up-IAM-ro",
         "title": "AWS IAM Role Manager がIAMロール自動セットアップに対応",
         "date": "2026-08-12",
@@ -5227,8 +5249,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-13T21:33:34.455Z",
-    "totalCount": 475
+    "updatedAt": "2026-08-13T22:29:56.635Z",
+    "totalCount": 477
   },
   "metadata:months": [
     "2026/08",
@@ -5243,6 +5265,28 @@
     "year": 2026,
     "month": 8,
     "articles": [
+      {
+        "id": "2026-08-13-Amazon-Quick-Microsoft-365-extensions-are-now-gene",
+        "title": "Amazon Quick がMicrosoft 365統合機能の一般提供を開始",
+        "date": "2026-08-13",
+        "year": 2026,
+        "month": 8,
+        "day": 13,
+        "path": "2026/08/13/Amazon-Quick-Microsoft-365-extensions-are-now-gene",
+        "summary": "Amazon Quick がMicrosoft 365統合機能の一般提供を開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/13/Amazon-Quick-Microsoft-365-extensions-are-now-gene/thumbnail.png"
+      },
+      {
+        "id": "2026-08-13-Amazon-S3-adds-additional-policy-details-to-access",
+        "title": "Amazon S3 がアクセス拒否エラーメッセージにポリシー詳細を追加",
+        "date": "2026-08-13",
+        "year": 2026,
+        "month": 8,
+        "day": 13,
+        "path": "2026/08/13/Amazon-S3-adds-additional-policy-details-to-access",
+        "summary": "Amazon S3 がアクセス拒否エラーメッセージにポリシー詳細を追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/13/Amazon-S3-adds-additional-policy-details-to-access/thumbnail.png"
+      },
       {
         "id": "2026-08-12-AWS-IAM-now-provides-role-manager-to-set-up-IAM-ro",
         "title": "AWS IAM Role Manager がIAMロール自動セットアップに対応",
