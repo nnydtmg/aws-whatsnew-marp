@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-08-12-AWS-IAM-now-provides-role-manager-to-set-up-IAM-ro",
+        "title": "AWS IAM Role Manager がIAMロール自動セットアップに対応",
+        "date": "2026-08-12",
+        "year": 2026,
+        "month": 8,
+        "day": 12,
+        "path": "2026/08/12/AWS-IAM-now-provides-role-manager-to-set-up-IAM-ro",
+        "summary": "AWS IAM Role Manager がIAMロール自動セットアップに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/12/AWS-IAM-now-provides-role-manager-to-set-up-IAM-ro/thumbnail.png"
+      },
+      {
         "id": "2026-08-12-Amazon-EKS-now-supports-advanced-Kubernetes-contro",
         "title": "Amazon EKS がKubernetesコントロールプレーンの詳細パラメータ設定に対応",
         "date": "2026-08-12",
@@ -5216,8 +5227,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-13T01:00:07.139Z",
-    "totalCount": 474
+    "updatedAt": "2026-08-13T05:26:55.380Z",
+    "totalCount": 475
   },
   "metadata:months": [
     "2026/08",
@@ -5232,6 +5243,17 @@
     "year": 2026,
     "month": 8,
     "articles": [
+      {
+        "id": "2026-08-12-AWS-IAM-now-provides-role-manager-to-set-up-IAM-ro",
+        "title": "AWS IAM Role Manager がIAMロール自動セットアップに対応",
+        "date": "2026-08-12",
+        "year": 2026,
+        "month": 8,
+        "day": 12,
+        "path": "2026/08/12/AWS-IAM-now-provides-role-manager-to-set-up-IAM-ro",
+        "summary": "AWS IAM Role Manager がIAMロール自動セットアップに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/12/AWS-IAM-now-provides-role-manager-to-set-up-IAM-ro/thumbnail.png"
+      },
       {
         "id": "2026-08-12-Amazon-EKS-now-supports-advanced-Kubernetes-contro",
         "title": "Amazon EKS がKubernetesコントロールプレーンの詳細パラメータ設定に対応",
