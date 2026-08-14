@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-08-13-AWS-Certificate-Manager-supports-switching-from-e",
+        "title": "AWS Certificate Manager がメール検証からDNS検証への切り替えをサポート",
+        "date": "2026-08-13",
+        "year": 2026,
+        "month": 8,
+        "day": 13,
+        "path": "2026/08/13/AWS-Certificate-Manager-supports-switching-from-e",
+        "summary": "AWS Certificate Manager がメール検証からDNS検証への切り替えをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/13/AWS-Certificate-Manager-supports-switching-from-e/thumbnail.png"
+      },
+      {
         "id": "2026-08-13-Amazon-Quick-Microsoft-365-extensions-are-now-gene",
         "title": "Amazon Quick がMicrosoft 365統合機能の一般提供を開始",
         "date": "2026-08-13",
@@ -11,6 +22,17 @@
         "path": "2026/08/13/Amazon-Quick-Microsoft-365-extensions-are-now-gene",
         "summary": "Amazon Quick がMicrosoft 365統合機能の一般提供を開始",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/13/Amazon-Quick-Microsoft-365-extensions-are-now-gene/thumbnail.png"
+      },
+      {
+        "id": "2026-08-13-Amazon-Quick-now-supports-per-user-resource-limits",
+        "title": "Amazon Quick のユーザー単位のリソース制限がサポート開始",
+        "date": "2026-08-13",
+        "year": 2026,
+        "month": 8,
+        "day": 13,
+        "path": "2026/08/13/Amazon-Quick-now-supports-per-user-resource-limits",
+        "summary": "Amazon Quick のユーザー単位のリソース制限がサポート開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/13/Amazon-Quick-now-supports-per-user-resource-limits/thumbnail.png"
       },
       {
         "id": "2026-08-13-Amazon-S3-adds-additional-policy-details-to-access",
@@ -44,6 +66,17 @@
         "path": "2026/08/12/Amazon-EKS-now-supports-advanced-Kubernetes-contro",
         "summary": "Amazon EKS がKubernetesコントロールプレーンの詳細パラメータ設定に対応",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/12/Amazon-EKS-now-supports-advanced-Kubernetes-contro/thumbnail.png"
+      },
+      {
+        "id": "2026-08-12-Amazon-Quick-now-supports-approval-policies-for-sh",
+        "title": "Amazon Quickが共有時の承認ポリシーに対応",
+        "date": "2026-08-12",
+        "year": 2026,
+        "month": 8,
+        "day": 12,
+        "path": "2026/08/12/Amazon-Quick-now-supports-approval-policies-for-sh",
+        "summary": "Amazon Quickが共有時の承認ポリシーに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/12/Amazon-Quick-now-supports-approval-policies-for-sh/thumbnail.png"
       },
       {
         "id": "2026-08-11-AWS-Clean-Rooms-supports-exporting-privacy-enhance",
@@ -5249,8 +5282,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-13T23:30:08.687Z",
-    "totalCount": 477
+    "updatedAt": "2026-08-14T00:59:35.889Z",
+    "totalCount": 480
   },
   "metadata:months": [
     "2026/08",
@@ -5266,6 +5299,17 @@
     "month": 8,
     "articles": [
       {
+        "id": "2026-08-13-AWS-Certificate-Manager-supports-switching-from-e",
+        "title": "AWS Certificate Manager がメール検証からDNS検証への切り替えをサポート",
+        "date": "2026-08-13",
+        "year": 2026,
+        "month": 8,
+        "day": 13,
+        "path": "2026/08/13/AWS-Certificate-Manager-supports-switching-from-e",
+        "summary": "AWS Certificate Manager がメール検証からDNS検証への切り替えをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/13/AWS-Certificate-Manager-supports-switching-from-e/thumbnail.png"
+      },
+      {
         "id": "2026-08-13-Amazon-Quick-Microsoft-365-extensions-are-now-gene",
         "title": "Amazon Quick がMicrosoft 365統合機能の一般提供を開始",
         "date": "2026-08-13",
@@ -5275,6 +5319,17 @@
         "path": "2026/08/13/Amazon-Quick-Microsoft-365-extensions-are-now-gene",
         "summary": "Amazon Quick がMicrosoft 365統合機能の一般提供を開始",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/13/Amazon-Quick-Microsoft-365-extensions-are-now-gene/thumbnail.png"
+      },
+      {
+        "id": "2026-08-13-Amazon-Quick-now-supports-per-user-resource-limits",
+        "title": "Amazon Quick のユーザー単位のリソース制限がサポート開始",
+        "date": "2026-08-13",
+        "year": 2026,
+        "month": 8,
+        "day": 13,
+        "path": "2026/08/13/Amazon-Quick-now-supports-per-user-resource-limits",
+        "summary": "Amazon Quick のユーザー単位のリソース制限がサポート開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/13/Amazon-Quick-now-supports-per-user-resource-limits/thumbnail.png"
       },
       {
         "id": "2026-08-13-Amazon-S3-adds-additional-policy-details-to-access",
@@ -5308,6 +5363,17 @@
         "path": "2026/08/12/Amazon-EKS-now-supports-advanced-Kubernetes-contro",
         "summary": "Amazon EKS がKubernetesコントロールプレーンの詳細パラメータ設定に対応",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/12/Amazon-EKS-now-supports-advanced-Kubernetes-contro/thumbnail.png"
+      },
+      {
+        "id": "2026-08-12-Amazon-Quick-now-supports-approval-policies-for-sh",
+        "title": "Amazon Quickが共有時の承認ポリシーに対応",
+        "date": "2026-08-12",
+        "year": 2026,
+        "month": 8,
+        "day": 12,
+        "path": "2026/08/12/Amazon-Quick-now-supports-approval-policies-for-sh",
+        "summary": "Amazon Quickが共有時の承認ポリシーに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/12/Amazon-Quick-now-supports-approval-policies-for-sh/thumbnail.png"
       },
       {
         "id": "2026-08-11-AWS-Clean-Rooms-supports-exporting-privacy-enhance",
@@ -5585,7 +5651,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/03/Amazon-Web-Services-now-introduces-Context-Ontolog/thumbnail.png"
       }
     ],
-    "totalPages": 3
+    "totalPages": 4
   },
   "metadata:2026/07": {
     "year": 2026,
