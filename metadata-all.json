@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-08-14-AWS-Billing-and-Cost-Management-introduces-Managed",
+        "title": "AWS Billing and Cost Management がマネージドダッシュボード機能を導入",
+        "date": "2026-08-14",
+        "year": 2026,
+        "month": 8,
+        "day": 14,
+        "path": "2026/08/14/AWS-Billing-and-Cost-Management-introduces-Managed",
+        "summary": "AWS Billing and Cost Management がマネージドダッシュボード機能を導入",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/14/AWS-Billing-and-Cost-Management-introduces-Managed/thumbnail.png"
+      },
+      {
         "id": "2026-08-13-AWS-Certificate-Manager-supports-switching-from-e",
         "title": "AWS Certificate Manager がメール検証からDNS検証への切り替えをサポート",
         "date": "2026-08-13",
@@ -5282,8 +5293,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-14T03:23:33.529Z",
-    "totalCount": 480
+    "updatedAt": "2026-08-14T05:23:23.972Z",
+    "totalCount": 481
   },
   "metadata:months": [
     "2026/08",
@@ -5298,6 +5309,17 @@
     "year": 2026,
     "month": 8,
     "articles": [
+      {
+        "id": "2026-08-14-AWS-Billing-and-Cost-Management-introduces-Managed",
+        "title": "AWS Billing and Cost Management がマネージドダッシュボード機能を導入",
+        "date": "2026-08-14",
+        "year": 2026,
+        "month": 8,
+        "day": 14,
+        "path": "2026/08/14/AWS-Billing-and-Cost-Management-introduces-Managed",
+        "summary": "AWS Billing and Cost Management がマネージドダッシュボード機能を導入",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/14/AWS-Billing-and-Cost-Management-introduces-Managed/thumbnail.png"
+      },
       {
         "id": "2026-08-13-AWS-Certificate-Manager-supports-switching-from-e",
         "title": "AWS Certificate Manager がメール検証からDNS検証への切り替えをサポート",
