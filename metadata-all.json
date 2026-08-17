@@ -2,6 +2,94 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-08-17-AWS-CloudShell-now-includes-a-built-in-visual-file",
+        "title": "AWS CloudShell に視覚的ファイルエディタを追加",
+        "date": "2026-08-17",
+        "year": 2026,
+        "month": 8,
+        "day": 17,
+        "path": "2026/08/17/AWS-CloudShell-now-includes-a-built-in-visual-file",
+        "summary": "AWS CloudShell に視覚的ファイルエディタを追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/17/AWS-CloudShell-now-includes-a-built-in-visual-file/thumbnail.png"
+      },
+      {
+        "id": "2026-08-17-Amazon-Bedrock-expands-API-support-and-introduces",
+        "title": "Amazon Bedrock、OpenAI モデルのクロスリージョン推論機能を導入",
+        "date": "2026-08-17",
+        "year": 2026,
+        "month": 8,
+        "day": 17,
+        "path": "2026/08/17/Amazon-Bedrock-expands-API-support-and-introduces",
+        "summary": "Amazon Bedrock、OpenAI モデルのクロスリージョン推論機能を導入",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/17/Amazon-Bedrock-expands-API-support-and-introduces/thumbnail.png"
+      },
+      {
+        "id": "2026-08-17-Amazon-EC2-Auto-Scaling-now-supports-batch-instanc",
+        "title": "Amazon EC2 Auto Scaling がバッチインスタンス終了に対応",
+        "date": "2026-08-17",
+        "year": 2026,
+        "month": 8,
+        "day": 17,
+        "path": "2026/08/17/Amazon-EC2-Auto-Scaling-now-supports-batch-instanc",
+        "summary": "Amazon EC2 Auto Scaling がバッチインスタンス終了に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/17/Amazon-EC2-Auto-Scaling-now-supports-batch-instanc/thumbnail.png"
+      },
+      {
+        "id": "2026-08-17-Amazon-OpenSearch-Service-now-supports-automatic-s",
+        "title": "Amazon OpenSearch Service が VPC ドメインの自動セマンティック エンリッチメントに対応",
+        "date": "2026-08-17",
+        "year": 2026,
+        "month": 8,
+        "day": 17,
+        "path": "2026/08/17/Amazon-OpenSearch-Service-now-supports-automatic-s",
+        "summary": "Amazon OpenSearch Service が VPC ドメインの自動セマンティック エンリッチメントに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/17/Amazon-OpenSearch-Service-now-supports-automatic-s/thumbnail.png"
+      },
+      {
+        "id": "2026-08-17-Amazon-Quick-Microsoft-365-extensions-are-now-gene",
+        "title": "Amazon Quick の Microsoft 365 拡張機能が一般提供開始",
+        "date": "2026-08-17",
+        "year": 2026,
+        "month": 8,
+        "day": 17,
+        "path": "2026/08/17/Amazon-Quick-Microsoft-365-extensions-are-now-gene",
+        "summary": "Amazon Quick の Microsoft 365 拡張機能が一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/17/Amazon-Quick-Microsoft-365-extensions-are-now-gene/thumbnail.png"
+      },
+      {
+        "id": "2026-08-17-Amazon-Quick-now-supports-approval-policies-for-sh",
+        "title": "Amazon Quick で共有の承認ポリシーをサポート",
+        "date": "2026-08-17",
+        "year": 2026,
+        "month": 8,
+        "day": 17,
+        "path": "2026/08/17/Amazon-Quick-now-supports-approval-policies-for-sh",
+        "summary": "Amazon Quick で共有の承認ポリシーをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/17/Amazon-Quick-now-supports-approval-policies-for-sh/thumbnail.png"
+      },
+      {
+        "id": "2026-08-17-Amazon-Quick-now-supports-customizable-no-data-mes",
+        "title": "Amazon Quickがビジュアルのカスタマイズ可能なデータなしメッセージに対応",
+        "date": "2026-08-17",
+        "year": 2026,
+        "month": 8,
+        "day": 17,
+        "path": "2026/08/17/Amazon-Quick-now-supports-customizable-no-data-mes",
+        "summary": "Amazon Quickがビジュアルのカスタマイズ可能なデータなしメッセージに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/17/Amazon-Quick-now-supports-customizable-no-data-mes/thumbnail.png"
+      },
+      {
+        "id": "2026-08-17-Amazon-Quick-now-supports-per-user-resource-limits",
+        "title": "Amazon Quickがユーザーごとのリソース制限に対応",
+        "date": "2026-08-17",
+        "year": 2026,
+        "month": 8,
+        "day": 17,
+        "path": "2026/08/17/Amazon-Quick-now-supports-per-user-resource-limits",
+        "summary": "Amazon Quickがユーザーごとのリソース制限に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/17/Amazon-Quick-now-supports-per-user-resource-limits/thumbnail.png"
+      },
+      {
         "id": "2026-08-14-AWS-Billing-and-Cost-Management-introduces-Managed",
         "title": "AWS Billing and Cost Management がマネージドダッシュボード機能を導入",
         "date": "2026-08-14",
@@ -11,6 +99,28 @@
         "path": "2026/08/14/AWS-Billing-and-Cost-Management-introduces-Managed",
         "summary": "AWS Billing and Cost Management がマネージドダッシュボード機能を導入",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/14/AWS-Billing-and-Cost-Management-introduces-Managed/thumbnail.png"
+      },
+      {
+        "id": "2026-08-14-Amazon-Quick-adds-deny-by-default-for-custom-permi",
+        "title": "Amazon Quick にカスタム権限のデフォルト拒否機能を追加",
+        "date": "2026-08-14",
+        "year": 2026,
+        "month": 8,
+        "day": 14,
+        "path": "2026/08/14/Amazon-Quick-adds-deny-by-default-for-custom-permi",
+        "summary": "Amazon Quick にカスタム権限のデフォルト拒否機能を追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/14/Amazon-Quick-adds-deny-by-default-for-custom-permi/thumbnail.png"
+      },
+      {
+        "id": "2026-08-14-Amazon-Quick-now-supports-data-loss-prevention-wit",
+        "title": "Amazon Quick が Microsoft Purview との統合でデータ損失防止に対応",
+        "date": "2026-08-14",
+        "year": 2026,
+        "month": 8,
+        "day": 14,
+        "path": "2026/08/14/Amazon-Quick-now-supports-data-loss-prevention-wit",
+        "summary": "Amazon Quick が Microsoft Purview との統合でデータ損失防止に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/14/Amazon-Quick-now-supports-data-loss-prevention-wit/thumbnail.png"
       },
       {
         "id": "2026-08-14-Amazon-SES-click-tracking-now-supports-custom-URL",
@@ -5304,8 +5414,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-17T22:12:43.455Z",
-    "totalCount": 482
+    "updatedAt": "2026-08-17T23:54:00.747Z",
+    "totalCount": 492
   },
   "metadata:months": [
     "2026/08",
@@ -5321,6 +5431,94 @@
     "month": 8,
     "articles": [
       {
+        "id": "2026-08-17-AWS-CloudShell-now-includes-a-built-in-visual-file",
+        "title": "AWS CloudShell に視覚的ファイルエディタを追加",
+        "date": "2026-08-17",
+        "year": 2026,
+        "month": 8,
+        "day": 17,
+        "path": "2026/08/17/AWS-CloudShell-now-includes-a-built-in-visual-file",
+        "summary": "AWS CloudShell に視覚的ファイルエディタを追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/17/AWS-CloudShell-now-includes-a-built-in-visual-file/thumbnail.png"
+      },
+      {
+        "id": "2026-08-17-Amazon-Bedrock-expands-API-support-and-introduces",
+        "title": "Amazon Bedrock、OpenAI モデルのクロスリージョン推論機能を導入",
+        "date": "2026-08-17",
+        "year": 2026,
+        "month": 8,
+        "day": 17,
+        "path": "2026/08/17/Amazon-Bedrock-expands-API-support-and-introduces",
+        "summary": "Amazon Bedrock、OpenAI モデルのクロスリージョン推論機能を導入",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/17/Amazon-Bedrock-expands-API-support-and-introduces/thumbnail.png"
+      },
+      {
+        "id": "2026-08-17-Amazon-EC2-Auto-Scaling-now-supports-batch-instanc",
+        "title": "Amazon EC2 Auto Scaling がバッチインスタンス終了に対応",
+        "date": "2026-08-17",
+        "year": 2026,
+        "month": 8,
+        "day": 17,
+        "path": "2026/08/17/Amazon-EC2-Auto-Scaling-now-supports-batch-instanc",
+        "summary": "Amazon EC2 Auto Scaling がバッチインスタンス終了に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/17/Amazon-EC2-Auto-Scaling-now-supports-batch-instanc/thumbnail.png"
+      },
+      {
+        "id": "2026-08-17-Amazon-OpenSearch-Service-now-supports-automatic-s",
+        "title": "Amazon OpenSearch Service が VPC ドメインの自動セマンティック エンリッチメントに対応",
+        "date": "2026-08-17",
+        "year": 2026,
+        "month": 8,
+        "day": 17,
+        "path": "2026/08/17/Amazon-OpenSearch-Service-now-supports-automatic-s",
+        "summary": "Amazon OpenSearch Service が VPC ドメインの自動セマンティック エンリッチメントに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/17/Amazon-OpenSearch-Service-now-supports-automatic-s/thumbnail.png"
+      },
+      {
+        "id": "2026-08-17-Amazon-Quick-Microsoft-365-extensions-are-now-gene",
+        "title": "Amazon Quick の Microsoft 365 拡張機能が一般提供開始",
+        "date": "2026-08-17",
+        "year": 2026,
+        "month": 8,
+        "day": 17,
+        "path": "2026/08/17/Amazon-Quick-Microsoft-365-extensions-are-now-gene",
+        "summary": "Amazon Quick の Microsoft 365 拡張機能が一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/17/Amazon-Quick-Microsoft-365-extensions-are-now-gene/thumbnail.png"
+      },
+      {
+        "id": "2026-08-17-Amazon-Quick-now-supports-approval-policies-for-sh",
+        "title": "Amazon Quick で共有の承認ポリシーをサポート",
+        "date": "2026-08-17",
+        "year": 2026,
+        "month": 8,
+        "day": 17,
+        "path": "2026/08/17/Amazon-Quick-now-supports-approval-policies-for-sh",
+        "summary": "Amazon Quick で共有の承認ポリシーをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/17/Amazon-Quick-now-supports-approval-policies-for-sh/thumbnail.png"
+      },
+      {
+        "id": "2026-08-17-Amazon-Quick-now-supports-customizable-no-data-mes",
+        "title": "Amazon Quickがビジュアルのカスタマイズ可能なデータなしメッセージに対応",
+        "date": "2026-08-17",
+        "year": 2026,
+        "month": 8,
+        "day": 17,
+        "path": "2026/08/17/Amazon-Quick-now-supports-customizable-no-data-mes",
+        "summary": "Amazon Quickがビジュアルのカスタマイズ可能なデータなしメッセージに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/17/Amazon-Quick-now-supports-customizable-no-data-mes/thumbnail.png"
+      },
+      {
+        "id": "2026-08-17-Amazon-Quick-now-supports-per-user-resource-limits",
+        "title": "Amazon Quickがユーザーごとのリソース制限に対応",
+        "date": "2026-08-17",
+        "year": 2026,
+        "month": 8,
+        "day": 17,
+        "path": "2026/08/17/Amazon-Quick-now-supports-per-user-resource-limits",
+        "summary": "Amazon Quickがユーザーごとのリソース制限に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/17/Amazon-Quick-now-supports-per-user-resource-limits/thumbnail.png"
+      },
+      {
         "id": "2026-08-14-AWS-Billing-and-Cost-Management-introduces-Managed",
         "title": "AWS Billing and Cost Management がマネージドダッシュボード機能を導入",
         "date": "2026-08-14",
@@ -5330,6 +5528,28 @@
         "path": "2026/08/14/AWS-Billing-and-Cost-Management-introduces-Managed",
         "summary": "AWS Billing and Cost Management がマネージドダッシュボード機能を導入",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/14/AWS-Billing-and-Cost-Management-introduces-Managed/thumbnail.png"
+      },
+      {
+        "id": "2026-08-14-Amazon-Quick-adds-deny-by-default-for-custom-permi",
+        "title": "Amazon Quick にカスタム権限のデフォルト拒否機能を追加",
+        "date": "2026-08-14",
+        "year": 2026,
+        "month": 8,
+        "day": 14,
+        "path": "2026/08/14/Amazon-Quick-adds-deny-by-default-for-custom-permi",
+        "summary": "Amazon Quick にカスタム権限のデフォルト拒否機能を追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/14/Amazon-Quick-adds-deny-by-default-for-custom-permi/thumbnail.png"
+      },
+      {
+        "id": "2026-08-14-Amazon-Quick-now-supports-data-loss-prevention-wit",
+        "title": "Amazon Quick が Microsoft Purview との統合でデータ損失防止に対応",
+        "date": "2026-08-14",
+        "year": 2026,
+        "month": 8,
+        "day": 14,
+        "path": "2026/08/14/Amazon-Quick-now-supports-data-loss-prevention-wit",
+        "summary": "Amazon Quick が Microsoft Purview との統合でデータ損失防止に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/14/Amazon-Quick-now-supports-data-loss-prevention-wit/thumbnail.png"
       },
       {
         "id": "2026-08-14-Amazon-SES-click-tracking-now-supports-custom-URL",
@@ -5695,7 +5915,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/03/Amazon-Web-Services-now-introduces-Context-Ontolog/thumbnail.png"
       }
     ],
-    "totalPages": 4
+    "totalPages": 5
   },
   "metadata:2026/07": {
     "year": 2026,
