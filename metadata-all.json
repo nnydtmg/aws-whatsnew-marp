@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-08-19-Amazon-Bedrock-now-supports-SpaceXAI-Grok-46",
+        "title": "Amazon Bedrock が SpaceXAI Grok 4.6 をサポート開始",
+        "date": "2026-08-19",
+        "year": 2026,
+        "month": 8,
+        "day": 19,
+        "path": "2026/08/19/Amazon-Bedrock-now-supports-SpaceXAI-Grok-46",
+        "summary": "Amazon Bedrock が SpaceXAI Grok 4.6 をサポート開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/19/Amazon-Bedrock-now-supports-SpaceXAI-Grok-46/thumbnail.png"
+      },
+      {
         "id": "2026-08-18-AgentCore-payments-is-now-generally-available-in-A",
         "title": "Amazon Bedrock AgentCore で支払い機能が一般公開",
         "date": "2026-08-18",
@@ -5436,8 +5447,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-19T07:31:48.710Z",
-    "totalCount": 494
+    "updatedAt": "2026-08-19T09:23:29.858Z",
+    "totalCount": 495
   },
   "metadata:months": [
     "2026/08",
@@ -5452,6 +5463,17 @@
     "year": 2026,
     "month": 8,
     "articles": [
+      {
+        "id": "2026-08-19-Amazon-Bedrock-now-supports-SpaceXAI-Grok-46",
+        "title": "Amazon Bedrock が SpaceXAI Grok 4.6 をサポート開始",
+        "date": "2026-08-19",
+        "year": 2026,
+        "month": 8,
+        "day": 19,
+        "path": "2026/08/19/Amazon-Bedrock-now-supports-SpaceXAI-Grok-46",
+        "summary": "Amazon Bedrock が SpaceXAI Grok 4.6 をサポート開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/19/Amazon-Bedrock-now-supports-SpaceXAI-Grok-46/thumbnail.png"
+      },
       {
         "id": "2026-08-18-AgentCore-payments-is-now-generally-available-in-A",
         "title": "Amazon Bedrock AgentCore で支払い機能が一般公開",
