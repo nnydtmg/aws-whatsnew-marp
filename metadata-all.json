@@ -13,6 +13,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/19/Amazon-Bedrock-now-supports-SpaceXAI-Grok-46/thumbnail.png"
       },
       {
+        "id": "2026-08-19-Amazon-Quick-adds-deny-by-default-for-custom-permi",
+        "title": "Amazon Quick のカスタム権限にデフォルト拒否機能を追加",
+        "date": "2026-08-19",
+        "year": 2026,
+        "month": 8,
+        "day": 19,
+        "path": "2026/08/19/Amazon-Quick-adds-deny-by-default-for-custom-permi",
+        "summary": "Amazon Quick のカスタム権限にデフォルト拒否機能を追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/19/Amazon-Quick-adds-deny-by-default-for-custom-permi/thumbnail.png"
+      },
+      {
         "id": "2026-08-18-AgentCore-payments-is-now-generally-available-in-A",
         "title": "Amazon Bedrock AgentCore で支払い機能が一般公開",
         "date": "2026-08-18",
@@ -5447,8 +5458,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-19T22:13:24.316Z",
-    "totalCount": 495
+    "updatedAt": "2026-08-19T23:13:34.366Z",
+    "totalCount": 496
   },
   "metadata:months": [
     "2026/08",
@@ -5473,6 +5484,17 @@
         "path": "2026/08/19/Amazon-Bedrock-now-supports-SpaceXAI-Grok-46",
         "summary": "Amazon Bedrock が SpaceXAI Grok 4.6 をサポート開始",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/19/Amazon-Bedrock-now-supports-SpaceXAI-Grok-46/thumbnail.png"
+      },
+      {
+        "id": "2026-08-19-Amazon-Quick-adds-deny-by-default-for-custom-permi",
+        "title": "Amazon Quick のカスタム権限にデフォルト拒否機能を追加",
+        "date": "2026-08-19",
+        "year": 2026,
+        "month": 8,
+        "day": 19,
+        "path": "2026/08/19/Amazon-Quick-adds-deny-by-default-for-custom-permi",
+        "summary": "Amazon Quick のカスタム権限にデフォルト拒否機能を追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/19/Amazon-Quick-adds-deny-by-default-for-custom-permi/thumbnail.png"
       },
       {
         "id": "2026-08-18-AgentCore-payments-is-now-generally-available-in-A",
