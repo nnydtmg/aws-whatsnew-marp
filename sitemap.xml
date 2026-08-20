@@ -6,6 +6,18 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-08-20-AWS-IAM-now-supports-20-managed-policies-per-role</loc>
+    <lastmod>2026-08-20</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-08-20-Amazon-CloudWatch-log-Centralization-now-supports</loc>
+    <lastmod>2026-08-20</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-08-19-Amazon-Bedrock-now-supports-SpaceXAI-Grok-46</loc>
     <lastmod>2026-08-19</lastmod>
     <changefreq>never</changefreq>
