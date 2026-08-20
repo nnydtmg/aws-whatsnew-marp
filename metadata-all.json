@@ -24,6 +24,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/20/Amazon-CloudWatch-log-Centralization-now-supports/thumbnail.png"
       },
       {
+        "id": "2026-08-20-Amazon-CloudWatch-pipelines-adds-GeoIP-RDS-and-XML",
+        "title": "Amazon CloudWatch パイプラインに GeoIP、RDS、XML プロセッサが追加",
+        "date": "2026-08-20",
+        "year": 2026,
+        "month": 8,
+        "day": 20,
+        "path": "2026/08/20/Amazon-CloudWatch-pipelines-adds-GeoIP-RDS-and-XML",
+        "summary": "Amazon CloudWatch パイプラインに GeoIP、RDS、XML プロセッサが追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/20/Amazon-CloudWatch-pipelines-adds-GeoIP-RDS-and-XML/thumbnail.png"
+      },
+      {
         "id": "2026-08-20-Web-Search-in-Amazon-Bedrock-AgentCore-adds-domain",
         "title": "Amazon Bedrock AgentCore の Web Search",
         "date": "2026-08-20",
@@ -5491,8 +5502,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-20T09:22:31.523Z",
-    "totalCount": 499
+    "updatedAt": "2026-08-20T10:18:55.116Z",
+    "totalCount": 500
   },
   "metadata:months": [
     "2026/08",
@@ -5528,6 +5539,17 @@
         "path": "2026/08/20/Amazon-CloudWatch-log-Centralization-now-supports",
         "summary": "Amazon CloudWatch log Centralization でロググループタグの伝播がサポート開始",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/20/Amazon-CloudWatch-log-Centralization-now-supports/thumbnail.png"
+      },
+      {
+        "id": "2026-08-20-Amazon-CloudWatch-pipelines-adds-GeoIP-RDS-and-XML",
+        "title": "Amazon CloudWatch パイプラインに GeoIP、RDS、XML プロセッサが追加",
+        "date": "2026-08-20",
+        "year": 2026,
+        "month": 8,
+        "day": 20,
+        "path": "2026/08/20/Amazon-CloudWatch-pipelines-adds-GeoIP-RDS-and-XML",
+        "summary": "Amazon CloudWatch パイプラインに GeoIP、RDS、XML プロセッサが追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/20/Amazon-CloudWatch-pipelines-adds-GeoIP-RDS-and-XML/thumbnail.png"
       },
       {
         "id": "2026-08-20-Web-Search-in-Amazon-Bedrock-AgentCore-adds-domain",
