@@ -6,9 +6,7 @@ paginate: true
 
 <!-- _class: title -->
 
-# Amazon CloudFront が Amazon S3 マルチリージョンアクセスポイント用 OAC に対応
-
-セキュアで高速なグローバルコンテンツ配信を実現
+# Amazon CloudFront が Amazon S3 マルチリージョンアクセスポイント向け Origin Access Control に対応
 
 **発表日: 2026年8月20日**
 
@@ -16,12 +14,13 @@ paginate: true
 
 ## 概要
 
-### 新機能のポイント
+### このアップデートで何が変わったか
 
-- **CloudFront OAC のネイティブ対応**: Amazon S3 マルチリージョンアクセスポイント（MRAP）に Origin Access Control（OAC）を直接対応
-- **Lambda@Edge 不要**: カスタム関数なしでセキュアなアクセス制御を実現
-- **高速化と耐障害性向上**: グローバル分散ユーザーへの最適なパフォーマンス
-- **追加料金なし**: 既存の CloudFront・S3 の料金体系で利用可能
+- **CloudFront OAC ネイティブ対応**: Amazon S3 マルチリージョンアクセスポイント（MRAP）に対して Origin Access Control（OAC）がネイティブにサポートされました
+- **Lambda@Edge 不要**: カスタム Lambda@Edge 関数を使用せずに SigV4a 署名が自動的に行われます
+- **セキュアなアクセス制御**: 指定された CloudFront ディストリビューションからのアクセスのみを許可可能
+- **グローバルなパフォーマンス向上**: 高速で耐障害性の高いグローバルコンテンツ配信が実現
+- **追加料金なし**: この機能を使用するための追加コストはなし
 
 ---
 
@@ -29,128 +28,114 @@ paginate: true
 
 ### これまでの課題
 
-- CloudFront から S3 MRAP へのアクセス保護が複雑
-- カスタム Lambda@Edge 関数が必須
-  - 非対称署名バージョン4（SigV4a）認可ヘッダーを手動計算
-  - 追加の開発・運用コスト
-  - パフォーマンスオーバーヘッド
+- 従来は、カスタム Lambda@Edge 関数を使用して非対称署名バージョン 4（SigV4a）認可ヘッダーを計算・転送する必要がありました
+- Lambda@Edge の複雑な実装とメンテナンスの負担
+- S3 MRAP のセキュアなアクセス制御が複雑だった
 
-### グローバルコンテンツ配信の需要
+### 市場の動向
 
-- 複数リージョンでの耐障害性が重要
-- 低遅延なコンテンツ配信が必須
-- セキュリティと利便性の両立が課題
+- グローバルに分散したコンテンツ配信の需要増加
+- セキュアで高速なエッジキャッシング機能の要求
+- Lambda@Edge などの複雑な実装を避けたい企業ニーズ
 
 ---
 
-## 主な機能
+## 主な機能と改善
 
-### 1. Origin Access Control（OAC）のネイティブサポート
+### 1. CloudFront OAC for S3 MRAP
 
-- CloudFront ディストリビューションからのアクセスのみを許可
-- S3 MRAP オリジンを直接保護
-- IAM ベースのセキュアな認可
+- CloudFront がネイティブに S3 MRAP へのリクエストに署名
+- SigV4a 認可ヘッダーが自動計算・付加される
+- CloudFront ディストリビューションからのアクセスのみを許可する粒度の細かい制御
 
-### 2. 自動署名処理
+### 2. 導入方法
 
-- CloudFront がネイティブに SigV4a 署名を計算
-- カスタム Lambda@Edge 関数が不要
-- シンプルな設定で実現
-
----
-
-## 変更内容・新機能
-
-### 対応範囲
-
-- **地域**: CloudFront 中国リージョンを除く世界中で利用可能
-- **設定方法**: 
-  - CloudFront コンソール
-  - AWS SDK
-  - AWS CLI
-  - AWS CloudFormation
-
-### パフォーマンス向上
-
-- **キャッシュミス時の最適化**: 最も近いリージョンから高速取得
-- **グローバル分散ユーザー対応**: 各地域で最適なレスポンスタイム
-- **耐障害性**: 複数リージョンへの自動フェイルオーバー
+- CloudFront コンソール、AWS SDK、AWS CLI、CloudFormation で設定可能
+- S3 MRAP エンドポイントを CloudFront オリジンとして設定時に OAC を有効化
+- 既存の CloudFront ディストリビューションにも適用可能
 
 ---
 
 ## 効果・メリット
 
-### セキュリティ
+- **パフォーマンス向上**: キャッシュミス時に最も近いリージョンから高速にコンテンツを取得
+- **耐障害性強化**: グローバルに分散したユーザーへのレジリエンスが向上
+- **運用効率化**: Lambda@Edge 不要で管理負担を削減
+- **セキュリティ強化**: CloudFront ディストリビューションからのアクセスのみに制限
+- **コスト最適化**: 追加料金なく利用可能
 
-- CloudFront を経由したアクセスのみに限定
-- 不正なダイレクトアクセスを防止
-- IAM ポリシーで細かく制御
+---
 
-### 開発効率
+## 利用可能リージョン
 
-- Lambda@Edge の開発・保守コストを削減
-- シンプルな設定で実現
-- デバッグが容易
+### グローバルデプロイ
 
-### パフォーマンス
-
-- 低遅延なコンテンツ配信
-- グローバルユーザーに最適な応答
-- キャッシュヒット率の向上
-
-### コスト
-
-- 追加料金なし
-- Lambda@Edge の実行コスト削減
-- 運用コストの最小化
+- **CloudFront 中国リージョンを除く世界中で利用可能**
+- すべての CloudFront エッジロケーションで S3 MRAP への OAC アクセスが可能
+- リージョン固有の制限なし（中国リージョン除く）
 
 ---
 
 ## ユースケース
 
-### グローバルなメディア配信
+### 1. グローバルなメディア配信
 
-- 動画・画像・ドキュメントの高速配信
-- 複数リージョンでの耐障害性
-- セキュアなアクセス制御
+- 世界中のユーザーへの動画・画像コンテンツ配信
+- キャッシュミス時に地理的に最も近い S3 バケットから取得
+- レイテンシー低下とスループット向上
 
-### SaaS アプリケーション
+### 2. エンタープライズコンテンツ配信
 
-- マルチテナント対応
-- テナントごとのデータ分離
-- 各地域でのローカル最適化
+- 複数リージョンの S3 バケットからの統一インターフェース
+- セキュアなアクセス制御で企業内リソース保護
+- 災害復旧・事業継続性の強化
 
-### エンタープライズコンテンツ管理
+### 3. API & 動的コンテンツ配信
 
-- 企業資産の安全な配信
-- グローバルオフィス対応
-- コンプライアンス要件への対応
+- S3 MRAP を通じた API レスポンスのキャッシング
+- 低レイテンシーな API 応答実現
+- グローバルスケーラビリティ
+
+---
+
+## 設定例
+
+### CloudFront で S3 MRAP を OAC で保護
+
+```
+1. CloudFront ディストリビューションを作成
+2. Origin as Custom Origin を選択
+3. Domain name に S3 MRAP エンドポイント（*.mrap.accesspoint.s3-global.amazonaws.com）を入力
+4. OAC を作成して適用
+5. S3 バケットのポリシーを自動更新
+```
 
 ---
 
 ## まとめ
 
-### 重要なポイント
+### 主な活用シーン
 
-- **CloudFront が Amazon S3 MRAP 用 OAC をネイティブサポート**
-- **Lambda@Edge 関数が不要に**
-- **セキュリティとパフォーマンスを同時に実現**
-- **追加料金なしで利用可能**
+- **グローバルなコンテンツ配信** を求める企業
+- **セキュリティと運用効率** の両立を目指す組織
+- **Lambda@Edge 実装の複雑性** を削減したい開発チーム
+- **S3 マルチリージョンアクセスポイント** を活用するワークロード
 
-### 次のステップ
+### 推奨される次のステップ
 
-1. 既存の CloudFront ディストリビューション設定を確認
-2. S3 MRAP への OAC 設定に移行
-3. Lambda@Edge 関数の廃止を検討
+1. 既存の CloudFront + S3 MRAP 構成を確認
+2. Lambda@Edge を使用している場合は、OAC への移行を検討
+3. 新規プロジェクトでは OAC を標準として採用
+4. AWS マネジメントコンソールで OAC の設定をテスト
 
 ---
 
 ## 参考リソース
 
-- **AWS What's New**: https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudfront-oac-s3-mrap/
-- **CloudFront ドキュメント**: https://docs.aws.amazon.com/AmazonCloudFront/
-- **S3 Multi-Region Access Points**: https://docs.aws.amazon.com/AmazonS3/latest/userguide/MultiRegionAccessPoints.html
-- **関連資料**: https://github.com/aws-samples/amazon-cloudfront-with-s3-multi-region-access-points
+- **AWS What's New 記事**: [Amazon CloudFront now supports Origin Access Control (OAC) for Amazon S3 Multi-Region Access Points](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudfront-oac-s3-mrap)
+- **Amazon CloudFront ドキュメント**: https://docs.aws.amazon.com/cloudfront/
+- **Amazon S3 Multi-Region Access Points**: https://docs.aws.amazon.com/AmazonS3/latest/userguide/MultiRegionAccessPointArns.html
+- **CloudFront Origin Access Control**: https://docs.aws.amazon.com/cloudfront/latest/developerguide/private-content-restricting-access-to-origin.html
 
 ---
 
