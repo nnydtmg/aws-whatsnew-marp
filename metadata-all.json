@@ -24,6 +24,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/20/Amazon-CloudWatch-log-Centralization-now-supports/thumbnail.png"
       },
       {
+        "id": "2026-08-20-Web-Search-in-Amazon-Bedrock-AgentCore-adds-domain",
+        "title": "Amazon Bedrock AgentCore の Web Search",
+        "date": "2026-08-20",
+        "year": 2026,
+        "month": 8,
+        "day": 20,
+        "path": "2026/08/20/Web-Search-in-Amazon-Bedrock-AgentCore-adds-domain",
+        "summary": "Amazon Bedrock AgentCore の Web Search がドメイン・公開日フィルタリングに対応、欧州・アジア太平洋地域に展開",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/20/Web-Search-in-Amazon-Bedrock-AgentCore-adds-domain/thumbnail.png"
+      },
+      {
         "id": "2026-08-19-Amazon-Bedrock-now-supports-SpaceXAI-Grok-46",
         "title": "Amazon Bedrock が SpaceXAI Grok 4.6 をサポート開始",
         "date": "2026-08-19",
@@ -5480,8 +5491,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-20T02:10:00.773Z",
-    "totalCount": 498
+    "updatedAt": "2026-08-20T03:37:23.565Z",
+    "totalCount": 499
   },
   "metadata:months": [
     "2026/08",
@@ -5517,6 +5528,17 @@
         "path": "2026/08/20/Amazon-CloudWatch-log-Centralization-now-supports",
         "summary": "Amazon CloudWatch log Centralization でロググループタグの伝播がサポート開始",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/20/Amazon-CloudWatch-log-Centralization-now-supports/thumbnail.png"
+      },
+      {
+        "id": "2026-08-20-Web-Search-in-Amazon-Bedrock-AgentCore-adds-domain",
+        "title": "Amazon Bedrock AgentCore の Web Search",
+        "date": "2026-08-20",
+        "year": 2026,
+        "month": 8,
+        "day": 20,
+        "path": "2026/08/20/Web-Search-in-Amazon-Bedrock-AgentCore-adds-domain",
+        "summary": "Amazon Bedrock AgentCore の Web Search がドメイン・公開日フィルタリングに対応、欧州・アジア太平洋地域に展開",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/20/Web-Search-in-Amazon-Bedrock-AgentCore-adds-domain/thumbnail.png"
       },
       {
         "id": "2026-08-19-Amazon-Bedrock-now-supports-SpaceXAI-Grok-46",
@@ -6047,7 +6069,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/03/Amazon-Web-Services-now-introduces-Context-Ontolog/thumbnail.png"
       }
     ],
-    "totalPages": 5
+    "totalPages": 6
   },
   "metadata:2026/07": {
     "year": 2026,
