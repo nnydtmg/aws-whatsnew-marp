@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-08-20-AWS-Direct-Connect-introduces-inbound-prefix-contr",
+        "title": "AWS Direct Connect にプレフィックスコントロール機能が登場",
+        "date": "2026-08-20",
+        "year": 2026,
+        "month": 8,
+        "day": 20,
+        "path": "2026/08/20/AWS-Direct-Connect-introduces-inbound-prefix-contr",
+        "summary": "AWS Direct Connect にプレフィックスコントロール機能が登場",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/20/AWS-Direct-Connect-introduces-inbound-prefix-contr/thumbnail.png"
+      },
+      {
         "id": "2026-08-20-AWS-IAM-now-supports-20-managed-policies-per-role",
         "title": "AWS IAM のロールあたりのマネージドポリシー制限が20に拡大",
         "date": "2026-08-20",
@@ -11,6 +22,17 @@
         "path": "2026/08/20/AWS-IAM-now-supports-20-managed-policies-per-role",
         "summary": "AWS IAM のロールあたりのマネージドポリシー制限が20に拡大",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/20/AWS-IAM-now-supports-20-managed-policies-per-role/thumbnail.png"
+      },
+      {
+        "id": "2026-08-20-Amazon-CloudFront-now-supports-Origin-Access-Contr",
+        "title": "Amazon CloudFront が Amazon S3 マルチリージョンアクセスポイント向け Origin Access Control に対応",
+        "date": "2026-08-20",
+        "year": 2026,
+        "month": 8,
+        "day": 20,
+        "path": "2026/08/20/Amazon-CloudFront-now-supports-Origin-Access-Contr",
+        "summary": "Amazon CloudFront が Amazon S3 マルチリージョンアクセスポイント向け Origin Access Control に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/20/Amazon-CloudFront-now-supports-Origin-Access-Contr/thumbnail.png"
       },
       {
         "id": "2026-08-20-Amazon-CloudWatch-log-Centralization-now-supports",
@@ -33,6 +55,17 @@
         "path": "2026/08/20/Amazon-CloudWatch-pipelines-adds-GeoIP-RDS-and-XML",
         "summary": "Amazon CloudWatch パイプラインに GeoIP、RDS、XML プロセッサが追加",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/20/Amazon-CloudWatch-pipelines-adds-GeoIP-RDS-and-XML/thumbnail.png"
+      },
+      {
+        "id": "2026-08-20-Amazon-DynamoDB-Streams-now-supports-attribute-bas",
+        "title": "Amazon DynamoDB Streams が ABAC に対応",
+        "date": "2026-08-20",
+        "year": 2026,
+        "month": 8,
+        "day": 20,
+        "path": "2026/08/20/Amazon-DynamoDB-Streams-now-supports-attribute-bas",
+        "summary": "Amazon DynamoDB Streams が ABAC に対応 タグベースアクセス制御が利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/20/Amazon-DynamoDB-Streams-now-supports-attribute-bas/thumbnail.png"
       },
       {
         "id": "2026-08-20-Web-Search-in-Amazon-Bedrock-AgentCore-adds-domain",
@@ -5502,8 +5535,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-20T22:15:16.856Z",
-    "totalCount": 500
+    "updatedAt": "2026-08-21T00:38:03.155Z",
+    "totalCount": 503
   },
   "metadata:months": [
     "2026/08",
@@ -5519,6 +5552,17 @@
     "month": 8,
     "articles": [
       {
+        "id": "2026-08-20-AWS-Direct-Connect-introduces-inbound-prefix-contr",
+        "title": "AWS Direct Connect にプレフィックスコントロール機能が登場",
+        "date": "2026-08-20",
+        "year": 2026,
+        "month": 8,
+        "day": 20,
+        "path": "2026/08/20/AWS-Direct-Connect-introduces-inbound-prefix-contr",
+        "summary": "AWS Direct Connect にプレフィックスコントロール機能が登場",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/20/AWS-Direct-Connect-introduces-inbound-prefix-contr/thumbnail.png"
+      },
+      {
         "id": "2026-08-20-AWS-IAM-now-supports-20-managed-policies-per-role",
         "title": "AWS IAM のロールあたりのマネージドポリシー制限が20に拡大",
         "date": "2026-08-20",
@@ -5528,6 +5572,17 @@
         "path": "2026/08/20/AWS-IAM-now-supports-20-managed-policies-per-role",
         "summary": "AWS IAM のロールあたりのマネージドポリシー制限が20に拡大",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/20/AWS-IAM-now-supports-20-managed-policies-per-role/thumbnail.png"
+      },
+      {
+        "id": "2026-08-20-Amazon-CloudFront-now-supports-Origin-Access-Contr",
+        "title": "Amazon CloudFront が Amazon S3 マルチリージョンアクセスポイント向け Origin Access Control に対応",
+        "date": "2026-08-20",
+        "year": 2026,
+        "month": 8,
+        "day": 20,
+        "path": "2026/08/20/Amazon-CloudFront-now-supports-Origin-Access-Contr",
+        "summary": "Amazon CloudFront が Amazon S3 マルチリージョンアクセスポイント向け Origin Access Control に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/20/Amazon-CloudFront-now-supports-Origin-Access-Contr/thumbnail.png"
       },
       {
         "id": "2026-08-20-Amazon-CloudWatch-log-Centralization-now-supports",
@@ -5550,6 +5605,17 @@
         "path": "2026/08/20/Amazon-CloudWatch-pipelines-adds-GeoIP-RDS-and-XML",
         "summary": "Amazon CloudWatch パイプラインに GeoIP、RDS、XML プロセッサが追加",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/20/Amazon-CloudWatch-pipelines-adds-GeoIP-RDS-and-XML/thumbnail.png"
+      },
+      {
+        "id": "2026-08-20-Amazon-DynamoDB-Streams-now-supports-attribute-bas",
+        "title": "Amazon DynamoDB Streams が ABAC に対応",
+        "date": "2026-08-20",
+        "year": 2026,
+        "month": 8,
+        "day": 20,
+        "path": "2026/08/20/Amazon-DynamoDB-Streams-now-supports-attribute-bas",
+        "summary": "Amazon DynamoDB Streams が ABAC に対応 タグベースアクセス制御が利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/20/Amazon-DynamoDB-Streams-now-supports-attribute-bas/thumbnail.png"
       },
       {
         "id": "2026-08-20-Web-Search-in-Amazon-Bedrock-AgentCore-adds-domain",
