@@ -6,6 +6,12 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-08-21-ARC-Region-switch-adds-Amazon-RDS-Switchover-Read</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-08-20-AWS-Direct-Connect-introduces-inbound-prefix-contr</loc>
     <lastmod>2026-08-20</lastmod>
     <changefreq>never</changefreq>

@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-08-21-ARC-Region-switch-adds-Amazon-RDS-Switchover-Read",
+        "title": "ARC Region switch が Amazon RDS スイッチオーバー実行ブロック対応",
+        "date": "2026-08-21",
+        "year": 2026,
+        "month": 8,
+        "day": 21,
+        "path": "2026/08/21/ARC-Region-switch-adds-Amazon-RDS-Switchover-Read",
+        "summary": "ARC Region switch が Amazon RDS スイッチオーバー実行ブロック対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/21/ARC-Region-switch-adds-Amazon-RDS-Switchover-Read/thumbnail.png"
+      },
+      {
         "id": "2026-08-20-AWS-Direct-Connect-introduces-inbound-prefix-contr",
         "title": "AWS Direct Connect にプレフィックスコントロール機能が登場",
         "date": "2026-08-20",
@@ -5535,8 +5546,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-21T00:38:03.155Z",
-    "totalCount": 503
+    "updatedAt": "2026-08-21T02:16:50.615Z",
+    "totalCount": 504
   },
   "metadata:months": [
     "2026/08",
@@ -5551,6 +5562,17 @@
     "year": 2026,
     "month": 8,
     "articles": [
+      {
+        "id": "2026-08-21-ARC-Region-switch-adds-Amazon-RDS-Switchover-Read",
+        "title": "ARC Region switch が Amazon RDS スイッチオーバー実行ブロック対応",
+        "date": "2026-08-21",
+        "year": 2026,
+        "month": 8,
+        "day": 21,
+        "path": "2026/08/21/ARC-Region-switch-adds-Amazon-RDS-Switchover-Read",
+        "summary": "ARC Region switch が Amazon RDS スイッチオーバー実行ブロック対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/21/ARC-Region-switch-adds-Amazon-RDS-Switchover-Read/thumbnail.png"
+      },
       {
         "id": "2026-08-20-AWS-Direct-Connect-introduces-inbound-prefix-contr",
         "title": "AWS Direct Connect にプレフィックスコントロール機能が登場",
