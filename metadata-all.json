@@ -13,6 +13,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/21/ARC-Region-switch-adds-Amazon-RDS-Switchover-Read/thumbnail.png"
       },
       {
+        "id": "2026-08-21-Amazon-Aurora-DSQL-now-supports-Amazon-CloudWatch",
+        "title": "Amazon Aurora DSQLが Amazon CloudWatch Database Insightsに対応",
+        "date": "2026-08-21",
+        "year": 2026,
+        "month": 8,
+        "day": 21,
+        "path": "2026/08/21/Amazon-Aurora-DSQL-now-supports-Amazon-CloudWatch",
+        "summary": "Amazon Aurora DSQLが Amazon CloudWatch Database Insightsに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/21/Amazon-Aurora-DSQL-now-supports-Amazon-CloudWatch/thumbnail.png"
+      },
+      {
         "id": "2026-08-21-Amazon-SES-now-supports-open-and-click-tracking-ov",
         "title": "Amazon SES がメール開封・クリック追跡をリクエスト単位で制御可能に",
         "date": "2026-08-21",
@@ -5557,8 +5568,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-21T23:13:16.370Z",
-    "totalCount": 505
+    "updatedAt": "2026-08-22T00:35:06.846Z",
+    "totalCount": 506
   },
   "metadata:months": [
     "2026/08",
@@ -5583,6 +5594,17 @@
         "path": "2026/08/21/ARC-Region-switch-adds-Amazon-RDS-Switchover-Read",
         "summary": "ARC Region switch が Amazon RDS スイッチオーバー実行ブロック対応",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/21/ARC-Region-switch-adds-Amazon-RDS-Switchover-Read/thumbnail.png"
+      },
+      {
+        "id": "2026-08-21-Amazon-Aurora-DSQL-now-supports-Amazon-CloudWatch",
+        "title": "Amazon Aurora DSQLが Amazon CloudWatch Database Insightsに対応",
+        "date": "2026-08-21",
+        "year": 2026,
+        "month": 8,
+        "day": 21,
+        "path": "2026/08/21/Amazon-Aurora-DSQL-now-supports-Amazon-CloudWatch",
+        "summary": "Amazon Aurora DSQLが Amazon CloudWatch Database Insightsに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/21/Amazon-Aurora-DSQL-now-supports-Amazon-CloudWatch/thumbnail.png"
       },
       {
         "id": "2026-08-21-Amazon-SES-now-supports-open-and-click-tracking-ov",
