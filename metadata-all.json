@@ -24,6 +24,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/21/Amazon-Aurora-DSQL-now-supports-Amazon-CloudWatch/thumbnail.png"
       },
       {
+        "id": "2026-08-21-Amazon-Bedrock-announces-reduced-pricing-for-OpenA",
+        "title": "Amazon Bedrock、OpenAI GPT-5.6 Sol の価格引き下げを発表",
+        "date": "2026-08-21",
+        "year": 2026,
+        "month": 8,
+        "day": 21,
+        "path": "2026/08/21/Amazon-Bedrock-announces-reduced-pricing-for-OpenA",
+        "summary": "Amazon Bedrock、OpenAI GPT 5.6 Sol の価格引き下げを発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/21/Amazon-Bedrock-announces-reduced-pricing-for-OpenA/thumbnail.png"
+      },
+      {
         "id": "2026-08-21-Amazon-SES-now-supports-open-and-click-tracking-ov",
         "title": "Amazon SES がメール開封・クリック追跡をリクエスト単位で制御可能に",
         "date": "2026-08-21",
@@ -5568,8 +5579,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-23T00:38:04.799Z",
-    "totalCount": 506
+    "updatedAt": "2026-08-23T02:17:46.560Z",
+    "totalCount": 507
   },
   "metadata:months": [
     "2026/08",
@@ -5605,6 +5616,17 @@
         "path": "2026/08/21/Amazon-Aurora-DSQL-now-supports-Amazon-CloudWatch",
         "summary": "Amazon Aurora DSQLが Amazon CloudWatch Database Insightsに対応",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/21/Amazon-Aurora-DSQL-now-supports-Amazon-CloudWatch/thumbnail.png"
+      },
+      {
+        "id": "2026-08-21-Amazon-Bedrock-announces-reduced-pricing-for-OpenA",
+        "title": "Amazon Bedrock、OpenAI GPT-5.6 Sol の価格引き下げを発表",
+        "date": "2026-08-21",
+        "year": 2026,
+        "month": 8,
+        "day": 21,
+        "path": "2026/08/21/Amazon-Bedrock-announces-reduced-pricing-for-OpenA",
+        "summary": "Amazon Bedrock、OpenAI GPT 5.6 Sol の価格引き下げを発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/21/Amazon-Bedrock-announces-reduced-pricing-for-OpenA/thumbnail.png"
       },
       {
         "id": "2026-08-21-Amazon-SES-now-supports-open-and-click-tracking-ov",
