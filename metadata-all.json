@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-08-24-Amazon-Bedrock-AgentCore-Memory-now-supports-extra",
+        "title": "Amazon Bedrock AgentCore Memory が JSON ペイロードからメモリ抽出に対応",
+        "date": "2026-08-24",
+        "year": 2026,
+        "month": 8,
+        "day": 24,
+        "path": "2026/08/24/Amazon-Bedrock-AgentCore-Memory-now-supports-extra",
+        "summary": "Amazon Bedrock AgentCore Memory が JSON ペイロードからメモリ抽出に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/24/Amazon-Bedrock-AgentCore-Memory-now-supports-extra/thumbnail.png"
+      },
+      {
         "id": "2026-08-21-ARC-Region-switch-adds-Amazon-RDS-Switchover-Read",
         "title": "ARC Region switch が Amazon RDS スイッチオーバー実行ブロック対応",
         "date": "2026-08-21",
@@ -5579,8 +5590,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-24T22:14:18.206Z",
-    "totalCount": 507
+    "updatedAt": "2026-08-24T23:13:47.936Z",
+    "totalCount": 508
   },
   "metadata:months": [
     "2026/08",
@@ -5595,6 +5606,17 @@
     "year": 2026,
     "month": 8,
     "articles": [
+      {
+        "id": "2026-08-24-Amazon-Bedrock-AgentCore-Memory-now-supports-extra",
+        "title": "Amazon Bedrock AgentCore Memory が JSON ペイロードからメモリ抽出に対応",
+        "date": "2026-08-24",
+        "year": 2026,
+        "month": 8,
+        "day": 24,
+        "path": "2026/08/24/Amazon-Bedrock-AgentCore-Memory-now-supports-extra",
+        "summary": "Amazon Bedrock AgentCore Memory が JSON ペイロードからメモリ抽出に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/24/Amazon-Bedrock-AgentCore-Memory-now-supports-extra/thumbnail.png"
+      },
       {
         "id": "2026-08-21-ARC-Region-switch-adds-Amazon-RDS-Switchover-Read",
         "title": "ARC Region switch が Amazon RDS スイッチオーバー実行ブロック対応",
