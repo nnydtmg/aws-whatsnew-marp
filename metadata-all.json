@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-08-25-AWS-Lambda-functions-now-support-full-IAM-resource",
+        "title": "AWS Lambda が完全な IAM リソースベースのポリシーをサポート",
+        "date": "2026-08-25",
+        "year": 2026,
+        "month": 8,
+        "day": 25,
+        "path": "2026/08/25/AWS-Lambda-functions-now-support-full-IAM-resource",
+        "summary": "AWS Lambda が完全な IAM リソースベースのポリシーをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/25/AWS-Lambda-functions-now-support-full-IAM-resource/thumbnail.png"
+      },
+      {
         "id": "2026-08-24-Amazon-Bedrock-AgentCore-Memory-now-supports-extra",
         "title": "Amazon Bedrock AgentCore Memory が JSON ペイロードからメモリ抽出に対応",
         "date": "2026-08-24",
@@ -5612,8 +5623,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-25T13:39:52.948Z",
-    "totalCount": 510
+    "updatedAt": "2026-08-25T14:33:43.135Z",
+    "totalCount": 511
   },
   "metadata:months": [
     "2026/08",
@@ -5628,6 +5639,17 @@
     "year": 2026,
     "month": 8,
     "articles": [
+      {
+        "id": "2026-08-25-AWS-Lambda-functions-now-support-full-IAM-resource",
+        "title": "AWS Lambda が完全な IAM リソースベースのポリシーをサポート",
+        "date": "2026-08-25",
+        "year": 2026,
+        "month": 8,
+        "day": 25,
+        "path": "2026/08/25/AWS-Lambda-functions-now-support-full-IAM-resource",
+        "summary": "AWS Lambda が完全な IAM リソースベースのポリシーをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/25/AWS-Lambda-functions-now-support-full-IAM-resource/thumbnail.png"
+      },
       {
         "id": "2026-08-24-Amazon-Bedrock-AgentCore-Memory-now-supports-extra",
         "title": "Amazon Bedrock AgentCore Memory が JSON ペイロードからメモリ抽出に対応",
