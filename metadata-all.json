@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-08-25-AWS-Batch-now-supports-Amazon-ECS-Managed-Instance",
+        "title": "AWS Batch が Amazon ECS Managed Instances に対応",
+        "date": "2026-08-25",
+        "year": 2026,
+        "month": 8,
+        "day": 25,
+        "path": "2026/08/25/AWS-Batch-now-supports-Amazon-ECS-Managed-Instance",
+        "summary": "AWS Batch が Amazon ECS Managed Instances に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/25/AWS-Batch-now-supports-Amazon-ECS-Managed-Instance/thumbnail.png"
+      },
+      {
         "id": "2026-08-25-AWS-Lambda-functions-now-support-full-IAM-resource",
         "title": "AWS Lambda が完全な IAM リソースベースのポリシーをサポート",
         "date": "2026-08-25",
@@ -11,6 +22,17 @@
         "path": "2026/08/25/AWS-Lambda-functions-now-support-full-IAM-resource",
         "summary": "AWS Lambda が完全な IAM リソースベースのポリシーをサポート",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/25/AWS-Lambda-functions-now-support-full-IAM-resource/thumbnail.png"
+      },
+      {
+        "id": "2026-08-25-IAM-Roles-Anywhere-now-provides-a-Java-plugin-for",
+        "title": "IAM Roles Anywhere が AWS SDK for Java v2 向けプラグインを提供",
+        "date": "2026-08-25",
+        "year": 2026,
+        "month": 8,
+        "day": 25,
+        "path": "2026/08/25/IAM-Roles-Anywhere-now-provides-a-Java-plugin-for",
+        "summary": "IAM Roles Anywhere が AWS SDK for Java v2 向けプラグインを提供",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/25/IAM-Roles-Anywhere-now-provides-a-Java-plugin-for/thumbnail.png"
       },
       {
         "id": "2026-08-24-Amazon-Bedrock-AgentCore-Memory-now-supports-extra",
@@ -5623,8 +5645,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-25T22:14:29.255Z",
-    "totalCount": 511
+    "updatedAt": "2026-08-25T23:15:55.177Z",
+    "totalCount": 513
   },
   "metadata:months": [
     "2026/08",
@@ -5640,6 +5662,17 @@
     "month": 8,
     "articles": [
       {
+        "id": "2026-08-25-AWS-Batch-now-supports-Amazon-ECS-Managed-Instance",
+        "title": "AWS Batch が Amazon ECS Managed Instances に対応",
+        "date": "2026-08-25",
+        "year": 2026,
+        "month": 8,
+        "day": 25,
+        "path": "2026/08/25/AWS-Batch-now-supports-Amazon-ECS-Managed-Instance",
+        "summary": "AWS Batch が Amazon ECS Managed Instances に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/25/AWS-Batch-now-supports-Amazon-ECS-Managed-Instance/thumbnail.png"
+      },
+      {
         "id": "2026-08-25-AWS-Lambda-functions-now-support-full-IAM-resource",
         "title": "AWS Lambda が完全な IAM リソースベースのポリシーをサポート",
         "date": "2026-08-25",
@@ -5649,6 +5682,17 @@
         "path": "2026/08/25/AWS-Lambda-functions-now-support-full-IAM-resource",
         "summary": "AWS Lambda が完全な IAM リソースベースのポリシーをサポート",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/25/AWS-Lambda-functions-now-support-full-IAM-resource/thumbnail.png"
+      },
+      {
+        "id": "2026-08-25-IAM-Roles-Anywhere-now-provides-a-Java-plugin-for",
+        "title": "IAM Roles Anywhere が AWS SDK for Java v2 向けプラグインを提供",
+        "date": "2026-08-25",
+        "year": 2026,
+        "month": 8,
+        "day": 25,
+        "path": "2026/08/25/IAM-Roles-Anywhere-now-provides-a-Java-plugin-for",
+        "summary": "IAM Roles Anywhere が AWS SDK for Java v2 向けプラグインを提供",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/25/IAM-Roles-Anywhere-now-provides-a-Java-plugin-for/thumbnail.png"
       },
       {
         "id": "2026-08-24-Amazon-Bedrock-AgentCore-Memory-now-supports-extra",

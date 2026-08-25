@@ -6,7 +6,19 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-08-25-AWS-Batch-now-supports-Amazon-ECS-Managed-Instance</loc>
+    <lastmod>2026-08-25</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-08-25-AWS-Lambda-functions-now-support-full-IAM-resource</loc>
+    <lastmod>2026-08-25</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-08-25-IAM-Roles-Anywhere-now-provides-a-Java-plugin-for</loc>
     <lastmod>2026-08-25</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
