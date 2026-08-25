@@ -13,6 +13,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/24/Amazon-Bedrock-AgentCore-Memory-now-supports-extra/thumbnail.png"
       },
       {
+        "id": "2026-08-24-Amazon-ECS-now-automatically-detects-and-repairs-c",
+        "title": "Amazon ECS、エージェント接続の自動修復機能が利用可能に",
+        "date": "2026-08-24",
+        "year": 2026,
+        "month": 8,
+        "day": 24,
+        "path": "2026/08/24/Amazon-ECS-now-automatically-detects-and-repairs-c",
+        "summary": "Amazon ECS、エージェント接続の自動修復機能が利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/24/Amazon-ECS-now-automatically-detects-and-repairs-c/thumbnail.png"
+      },
+      {
         "id": "2026-08-24-Amazon-EKS-now-supports-multiple-external-OIDC-ide",
         "title": "Amazon EKSが複数の外部OIDCアイデンティティプロバイダーをサポート",
         "date": "2026-08-24",
@@ -5601,8 +5612,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-25T00:36:03.215Z",
-    "totalCount": 509
+    "updatedAt": "2026-08-25T02:11:45.037Z",
+    "totalCount": 510
   },
   "metadata:months": [
     "2026/08",
@@ -5627,6 +5638,17 @@
         "path": "2026/08/24/Amazon-Bedrock-AgentCore-Memory-now-supports-extra",
         "summary": "Amazon Bedrock AgentCore Memory が JSON ペイロードからメモリ抽出に対応",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/24/Amazon-Bedrock-AgentCore-Memory-now-supports-extra/thumbnail.png"
+      },
+      {
+        "id": "2026-08-24-Amazon-ECS-now-automatically-detects-and-repairs-c",
+        "title": "Amazon ECS、エージェント接続の自動修復機能が利用可能に",
+        "date": "2026-08-24",
+        "year": 2026,
+        "month": 8,
+        "day": 24,
+        "path": "2026/08/24/Amazon-ECS-now-automatically-detects-and-repairs-c",
+        "summary": "Amazon ECS、エージェント接続の自動修復機能が利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/24/Amazon-ECS-now-automatically-detects-and-repairs-c/thumbnail.png"
       },
       {
         "id": "2026-08-24-Amazon-EKS-now-supports-multiple-external-OIDC-ide",
