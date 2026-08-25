@@ -1,247 +1,254 @@
-# IAM Roles Anywhere で Java プラグイン提供開始
+# IAM Roles Anywhere が AWS SDK for Java v2 向けプラグインを提供
 
-**IAM Roles Anywhere now provides a Java plugin for the AWS SDK**
+IAM Roles Anywhere now provides a Java plugin for the AWS SDK
 
-**公開日:** 2026年8月25日  
+**カテゴリ:** What's New
+**公開日:** 2026年8月25日
 **元記事:** [AWS What's New](https://aws.amazon.com/about-aws/whats-new/2026/08/iam-roles-anywhere-java/)
 
-このページでは、AWS What's Newで発表された「IAM Roles Anywhere now provides a Java plugin for the AWS SDK」の内容を要約しています。
+---
+
+## 要約
+
+IAM Roles Anywhereが新たにAWS SDK for Java v2向けのプラグインを提供開始いたしました。このプラグインにより、AWS外で実行されるJavaアプリケーションは、別プロセスの実行や複雑な設定なしに、JVM内で直接一時的なAWS認証情報を自動的に取得・更新できるようになります。
 
 ---
 
-## 📋 要約
+## 対象者
 
-IAM Roles Anywhereが新たに **AWS SDK for Java v2 向けのネイティブプラグイン** を提供開始しました。
-
-このプラグインにより、AWS外で実行される Javaアプリケーションは、以下を実現できるようになります：
-
-- ✅ **JVM内での直接認証情報取得**: 別プロセス実行が不要
-- ✅ **複雑な設定の排除**: credential_process の設定が不要  
-- ✅ **自動的な認証情報更新**: 有効期限前の自動リフレッシュ
-- ✅ **シンプルな実装**: SDK クライアントビルダーへのプラグイン追加のみ
+- AWS外で実行されるJavaアプリケーション開発者
+- オンプレミス環境やエッジ環境でJavaを使用している組織
+- IAM Roles Anywhereを既に導入している企業
+- ハイブリッド環境で統一された認証管理を求める企業
 
 ---
 
-## 🔄 何が変わったか
+## このアップデートで何が変わったか
 
-### 従来の方法（credential_process 利用）
+### 新機能の概要
 
-```
-Java アプリケーション
-  ↓
-  別プロセス（credential_process）
-  ↓
-  IAM Roles Anywhere Credential Helper
-  ↓
-  AWS 認証情報
-```
+1. **AWS SDK for Java v2向けプラグイン提供**
+   - JVM内で直接認証情報を取得可能
+   - 別プロセス実行が不要に
 
-**課題:**
-- 別プロセス管理の複雑性
-- プロセス間通信のオーバーヘッド
-- 設定ファイルの管理が必要
+2. **シンプルな設定**
+   - AWS SDK for Java v2のサービスクライアントビルダーで設定
+   - credential_process設定が不要
+   - 認証情報取得ロジック記述が不要
 
-### 新しい方法（Java プラグイン）
+3. **自動更新機能**
+   - CreateSessionの呼び出しを自動処理
+   - 認証情報の有効期限切れ前に自動更新
 
-```
-Java アプリケーション（JVM 内）
-  ↓
-  IAM Roles Anywhere Java プラグイン
-  ↓
-  AWS 認証情報
-```
+4. **複数鍵タイプ対応**
+   - RSA、楕円曲線（EC）、ML-DSA に対応
+   - Java 8以上で利用可能
 
-**メリット:**
-- シンプルな統合（SDK クライアントビルダーでプラグイン追加）
-- 低オーバーヘッド（同一 JVM 内実行）
-- 自動認証情報更新
-- 追加料金なし
+5. **グローバル対応**
+   - すべてのAWSリージョンで利用可能
+   - AWS GovCloud（US）リージョン対応
+   - AWSヨーロッパソブリンクラウド対応
+   - 中国リージョン対応
 
 ---
 
-## 🎯 主な特徴
-
-### 1. JVM インプロセス実行
-
-- アプリケーションと同じ JVM 内で実行
-- 別プロセス実行や credential_process 設定が不要
-- シームレスな統合
-
-### 2. 自動認証情報管理
-
-- **CreateSession 呼び出しの自動処理**
-- **有効期限切れ前の自動リフレッシュ**
-- デベロッパーは実装コードを記述不要
-
-### 3. 高度なセキュリティ
-
-- **RSA**（従来型の公開鍵暗号）
-- **楕円曲線（EC）**（効率的な暗号化）
-- **ML-DSA**（ポスト量子暗号 - 将来的な量子コンピュータ対策）
-
-### 4. 広範なリージョン対応
-
-- すべての AWS リージョン
-- AWS GovCloud (US)
-- AWS ヨーロッパソブリンクラウド（ドイツ）
-- 中国リージョン
-
----
-
-## 💻 実装例
-
-### Maven 依存関係
-
-```xml
-<dependency>
-    <groupId>software.amazon.rolesanywhere.plugin</groupId>
-    <artifactId>roles-anywhere-java</artifactId>
-    <version>[最新バージョン]</version>
-</dependency>
-```
-
-### Java コード例（S3 Client）
-
-```java
-import software.amazon.awssdk.services.s3.S3Client;
-import software.amazon.awssdk.services.s3.model.ListBucketsRequest;
-import software.amazon.rolesanywhere.plugin.RolesAnywherePlugin;
-
-public class S3Example {
-    public static void main(String[] args) {
-        // プラグイン設定
-        RolesAnywherePlugin plugin = RolesAnywherePlugin.builder()
-            .trustAnchorArn("arn:aws:rolesanywhere:us-east-1:123456789012:trust-anchor/example")
-            .profileArn("arn:aws:rolesanywhere:us-east-1:123456789012:profile/example")
-            .roleArn("arn:aws:iam::123456789012:role/example")
-            .build();
-        
-        // S3 Client にプラグインを追加
-        S3Client s3 = S3Client.builder()
-            .addPlugin(plugin)
-            .build();
-        
-        // 認証情報は自動的に取得・更新される
-        ListBucketsRequest request = ListBucketsRequest.builder().build();
-        s3.listBuckets(request);
-        
-        s3.close();
-    }
-}
-```
-
----
-
-## 📊 技術仕様
+## 技術仕様
 
 ### システム要件
 
-| 項目 | 仕様 |
-|------|------|
-| **Java バージョン** | 8 以上 |
-| **AWS SDK** | AWS SDK for Java v2 |
-| **配布** | Maven Central Repository |
-| **リリース** | SDK とは独立したサイクル |
-| **ライセンス** | Apache License 2.0 |
+- **Java バージョン**: Java 8以上
+- **AWS SDK**: AWS SDK for Java v2
+- **鍵タイプ**: RSA、楕円曲線（EC）、ML-DSA
+- **追加コスト**: なし
 
-### セキュリティ機能
+### プラグイン入手方法
 
-| 機能 | 説明 |
-|------|------|
-| **X.509 証明書** | クライアント認証用 |
-| **暗号化アルゴリズム** | RSA、楕円曲線（EC）、ML-DSA |
-| **自動リフレッシュ** | 有効期限前に自動更新 |
-| **CRL 対応** | 証明書失効リスト チェック |
+- **Maven Central リポジトリ**: アーティファクト `software.amazon.rolesanywhere.plugin:roles-anywhere-java`
+- **GitHub リポジトリ**: https://github.com/aws-sdk-plugin/roles-anywhere-java
+- **ドキュメント**: https://docs.aws.amazon.com/rolesanywhere/latest/userguide/java-plugin.html
 
 ---
 
-## 💰 料金
+## 効果・メリット
 
-**追加料金なし**
+### 開発側のメリット
 
-- 既存の IAM Roles Anywhere 料金体系に含まれる
-- プラグイン使用による追加費用は発生しない
-- リソース効率の向上により運用コストを削減可能
+1. **開発効率向上**
+   - 認証情報取得ロジックを記述する必要がない
+   - AWS SDK の標準的な設定で対応可能
+   - 開発期間を短縮
 
----
+2. **コード複雑度低減**
+   - IAM Roles Anywhere ヘルパープロセス管理不要
+   - エラーハンドリングが簡素化
+   - 保守性向上
 
-## 🎯 ユースケース
+3. **IDE統合強化**
+   - IDE のコード補完が有効
+   - 型安全性が確保される
 
-### 1. オンプレミス Javaアプリケーション
+### 運用側のメリット
 
-- **シナリオ**: データセンター内の既存 Javaシステムが AWS リソースにアクセス必要
-- **メリット**: 
-  - IAM ロールによる統一的な権限管理
-  - 長期認証情報管理の負担を排除
-  - 設定負担が軽減
+1. **運用効率向上**
+   - プロセス数削減により管理負担軽減
+   - 自動更新により認証情報切れを防止
+   - リソース使用量の削減
 
-### 2. IoT・エッジデバイス
+2. **セキュリティ強化**
+   - プロセス間通信が不要（セキュリティリスク低減）
+   - IAM Roles Anywhere による一元認証管理
+   - 監査ログの簡素化
 
-- **シナリオ**: エッジで実行される Javaアプリケーションが AWS サービスと連携
-- **メリット**: 
-  - セキュアな認証情報自動管理
-  - リソース制約環境でのインプロセス実行
-  - 有効期限を気にせず利用
-
-### 3. ハイブリッド・マルチクラウド環境
-
-- **シナリオ**: オンプレ + AWS のハイブリッド構成で統一的な認証管理が必要
-- **メリット**: 
-  - オンプレ側でも AWS IAM の権限体系を利用
-  - 一元的な RBAC 管理
-  - コンテナ・VM 内での簡潔な設定
-
-### 4. マイグレーション中のアプリケーション
-
-- **シナリオ**: 段階的なクラウドへのマイグレーション実施中
-- **メリット**: 
-  - 段階的な移行が容易
-  - 認証情報管理の複雑性を最小化
-  - 完全なクラウド移行までの過渡期をサポート
+3. **スケーラビリティ**
+   - マイクロサービス環境で効果的
+   - コンテナ化環境での採用容易
+   - 自動スケーリング環境での安定動作
 
 ---
 
-## 🚀 次のステップ
+## ユースケース
 
-### すぐに始める
+### ユースケース1: オンプレミス Javaアプリケーション
 
-1. **Maven Central から依存関係を追加**
-   - `software.amazon.rolesanywhere.plugin:roles-anywhere-java`
+**状況**: オンプレミスで実行されているJavaアプリケーションが AWS のリソースにアクセスしたい
 
-2. **IAM Roles Anywhere セットアップ確認**
-   - Trust Anchor、Profile、Role が構成済みか確認
+**従来の方法**:
+- IAM Roles Anywhere の認証情報ヘルパーを別プロセスで実行
+- credential_process を設定
+- プロセス管理の複雑さ
 
-3. **プラグインをクライアントビルダーに追加**
-   - `S3Client.builder().addPlugin(...).build()`
+**新しい方法**:
+- Java プラグインを使用
+- AWS SDK for Java v2 の設定のみ
+- JVM内で完結し、プロセス管理が不要
 
-4. **テストと検証**
-   - ローカル環境で動作確認
-   - ステージング環境でパフォーマンス測定
+### ユースケース2: エッジ/コンテナ環境
 
-### ドキュメント参照
+**状況**: Kubernetes 上で実行されるマイクロサービスが AWS リソースにアクセス
 
-- **GitHub リポジトリ**: `aws/aws-sdk-java-v2` → roles-anywhere-java プラグイン
-- **[IAM Roles Anywhere ユーザーガイド](https://docs.aws.amazon.com/rolesanywhere/latest/userguide/java-plugin.html)**
-- **[AWS SDK for Java v2 ドキュメント](https://docs.aws.amazon.com/sdk-for-java/)**
+**利点**:
+- Pod あたりのプロセス数削減
+- メモリ使用量の最適化
+- リソースリクエストの削減
+- スケーリング性能向上
 
----
+### ユースケース3: ハイブリッド/マルチクラウド環境
 
-## 📚 参考リソース
+**状況**: オンプレミス + AWS + 他クラウド間で統一された認証方式が必要
 
-### 公式リンク
-
-- [AWS What's New](https://aws.amazon.com/about-aws/whats-new/2026/08/iam-roles-anywhere-java/)
-- [IAM Roles Anywhere Java プラグイン ドキュメント](https://docs.aws.amazon.com/rolesanywhere/latest/userguide/java-plugin.html)
-- [Maven Central Repository](https://mvnrepository.com/artifact/software.amazon.rolesanywhere.plugin/roles-anywhere-java)
-- [GitHub - roles-anywhere-java](https://github.com/aws/aws-rolesanywhere-java)
-
-### 関連ドキュメント
-
-- [IAM Roles Anywhere 公式ドキュメント](https://docs.aws.amazon.com/rolesanywhere/)
-- [AWS SDK for Java v2 公式ガイド](https://docs.aws.amazon.com/sdk-for-java/)
-- [IAM Roles Anywhere Credential Helper](https://docs.aws.amazon.com/rolesanywhere/latest/userguide/credential-helper.html)
+**利点**:
+- Java アプリケーション側の設定が統一
+- 認証管理の一元化
+- ポータビリティ向上
+- 運用複雑度低減
 
 ---
 
-**最終更新:** 2026年8月25日  
-**ステータス:** 一般提供（GA）
+## 関連情報
+
+### IAM Roles Anywhere の最近の更新
+
+1. **Credential Helper の更新**
+   - バージョン 1.8.4（2026年6月9日）
+   - セキュリティパッチ適用
+   - PKCS#11 サポート強化
+
+2. **ML-DSA 署名サポート**
+   - 2026年2月27日より対応開始
+   - ML-DSA-44、ML-DSA-65、ML-DSA-87 をサポート
+
+3. **サブジェクト共通名の長さ拡大**
+   - 2026年8月6日より対応
+   - 64文字から256文字に増加
+
+### AWS SDK for Java v2 との連携
+
+- AWS SDK for Java v2 は標準的な認証メカニズムをサポート
+- プラグインはこの標準メカニズムを活用
+- 既存のSDK設定と互換性を保持
+
+---
+
+## 利用開始方法
+
+### ステップ1: 前提条件の確認
+
+- AWS アカウントと IAM Roles Anywhere の設定が完了していること
+- Java 8以上がインストールされていること
+- AWS SDK for Java v2 がプロジェクトに含まれていること
+
+### ステップ2: プラグインの追加
+
+**Maven の場合:**
+```xml
+<dependency>
+  <groupId>software.amazon.rolesanywhere.plugin</groupId>
+  <artifactId>roles-anywhere-java</artifactId>
+  <version>[最新バージョン]</version>
+</dependency>
+```
+
+### ステップ3: AWS SDK for Java v2 の設定
+
+- サービスクライアントビルダーでプラグインを指定
+- CreateSession パラメータを設定
+- 対応する鍵タイプと証明書を準備
+
+### ステップ4: テストと検証
+
+- 開発環境で動作確認
+- 認証情報の自動更新を検証
+- ロードテストを実施
+
+### ステップ5: 本番環境への展開
+
+- 段階的なロールアウト
+- 監視とログの設定
+- バックアップシステムの準備
+
+---
+
+## 料金
+
+- **IAM Roles Anywhere Java プラグイン**: 追加料金なし
+- IAM Roles Anywhere は既存の課金体系で利用可能
+- リクエストベースの料金体系
+
+---
+
+## まとめ
+
+### 主なポイント
+
+1. **新しい選択肢の提供**
+   - AWS SDK for Java v2 向けプラグインで簡素化
+   - JVM内で直接認証情報を取得
+   - 開発・運用効率が大幅向上
+
+2. **既存技術との統合**
+   - IAM Roles Anywhere と AWS SDK の統合
+   - 標準的なAWS認証メカニズムを活用
+   - 後方互換性を保持
+
+3. **グローバル対応**
+   - すべてのAWSリージョンで利用可能
+   - GovCloud、ヨーロッパソブリンクラウド対応
+   - 中国リージョン対応
+
+4. **推奨される次のステップ**
+   - 既存Java アプリケーションでの適用検討
+   - パイロットプロジェクトでの検証
+   - チーム全体への情報共有
+   - 本番環境への段階的展開
+
+---
+
+## 参考リンク
+
+- **AWS What's New 記事**: https://aws.amazon.com/about-aws/whats-new/2026/08/iam-roles-anywhere-java/
+- **IAM Roles Anywhere Java プラグイン ドキュメント**: https://docs.aws.amazon.com/rolesanywhere/latest/userguide/java-plugin.html
+- **GitHub リポジトリ (roles-anywhere-java)**: https://github.com/aws-sdk-plugin/roles-anywhere-java
+- **Maven Central (プラグインアーティファクト)**: https://central.sonatype.com/artifact/software.amazon.rolesanywhere.plugin/roles-anywhere-java
+- **AWS IAM Roles Anywhere ドキュメント**: https://docs.aws.amazon.com/rolesanywhere/latest/userguide/
+- **AWS SDK for Java v2 ドキュメント**: https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/home.html
+- **IAM Roles Anywhere Credential Helper**: https://docs.aws.amazon.com/rolesanywhere/latest/userguide/credential-helper.html
