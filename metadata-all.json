@@ -13,6 +13,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/24/Amazon-Bedrock-AgentCore-Memory-now-supports-extra/thumbnail.png"
       },
       {
+        "id": "2026-08-24-Amazon-EKS-now-supports-multiple-external-OIDC-ide",
+        "title": "Amazon EKSが複数の外部OIDCアイデンティティプロバイダーをサポート",
+        "date": "2026-08-24",
+        "year": 2026,
+        "month": 8,
+        "day": 24,
+        "path": "2026/08/24/Amazon-EKS-now-supports-multiple-external-OIDC-ide",
+        "summary": "Amazon EKSが複数の外部OIDCアイデンティティプロバイダーをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/24/Amazon-EKS-now-supports-multiple-external-OIDC-ide/thumbnail.png"
+      },
+      {
         "id": "2026-08-21-ARC-Region-switch-adds-Amazon-RDS-Switchover-Read",
         "title": "ARC Region switch が Amazon RDS スイッチオーバー実行ブロック対応",
         "date": "2026-08-21",
@@ -5590,8 +5601,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-24T23:13:47.936Z",
-    "totalCount": 508
+    "updatedAt": "2026-08-25T00:36:03.215Z",
+    "totalCount": 509
   },
   "metadata:months": [
     "2026/08",
@@ -5616,6 +5627,17 @@
         "path": "2026/08/24/Amazon-Bedrock-AgentCore-Memory-now-supports-extra",
         "summary": "Amazon Bedrock AgentCore Memory が JSON ペイロードからメモリ抽出に対応",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/24/Amazon-Bedrock-AgentCore-Memory-now-supports-extra/thumbnail.png"
+      },
+      {
+        "id": "2026-08-24-Amazon-EKS-now-supports-multiple-external-OIDC-ide",
+        "title": "Amazon EKSが複数の外部OIDCアイデンティティプロバイダーをサポート",
+        "date": "2026-08-24",
+        "year": 2026,
+        "month": 8,
+        "day": 24,
+        "path": "2026/08/24/Amazon-EKS-now-supports-multiple-external-OIDC-ide",
+        "summary": "Amazon EKSが複数の外部OIDCアイデンティティプロバイダーをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/24/Amazon-EKS-now-supports-multiple-external-OIDC-ide/thumbnail.png"
       },
       {
         "id": "2026-08-21-ARC-Region-switch-adds-Amazon-RDS-Switchover-Read",
@@ -6267,7 +6289,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/03/Amazon-Web-Services-now-introduces-Context-Ontolog/thumbnail.png"
       }
     ],
-    "totalPages": 6
+    "totalPages": 7
   },
   "metadata:2026/07": {
     "year": 2026,
