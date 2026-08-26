@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-08-26-AWS-Lambda-MicroVMs-now-supports-AWS-PrivateLink",
+        "title": "AWS Lambda MicroVMs が AWS PrivateLink をサポート",
+        "date": "2026-08-26",
+        "year": 2026,
+        "month": 8,
+        "day": 26,
+        "path": "2026/08/26/AWS-Lambda-MicroVMs-now-supports-AWS-PrivateLink",
+        "summary": "AWS Lambda MicroVMs が AWS PrivateLink をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/26/AWS-Lambda-MicroVMs-now-supports-AWS-PrivateLink/thumbnail.png"
+      },
+      {
         "id": "2026-08-25-AWS-Batch-now-supports-Amazon-ECS-Managed-Instance",
         "title": "AWS Batch が Amazon ECS Managed Instances に対応",
         "date": "2026-08-25",
@@ -5645,8 +5656,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-25T23:15:55.177Z",
-    "totalCount": 513
+    "updatedAt": "2026-08-26T00:37:15.214Z",
+    "totalCount": 514
   },
   "metadata:months": [
     "2026/08",
@@ -5661,6 +5672,17 @@
     "year": 2026,
     "month": 8,
     "articles": [
+      {
+        "id": "2026-08-26-AWS-Lambda-MicroVMs-now-supports-AWS-PrivateLink",
+        "title": "AWS Lambda MicroVMs が AWS PrivateLink をサポート",
+        "date": "2026-08-26",
+        "year": 2026,
+        "month": 8,
+        "day": 26,
+        "path": "2026/08/26/AWS-Lambda-MicroVMs-now-supports-AWS-PrivateLink",
+        "summary": "AWS Lambda MicroVMs が AWS PrivateLink をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/26/AWS-Lambda-MicroVMs-now-supports-AWS-PrivateLink/thumbnail.png"
+      },
       {
         "id": "2026-08-25-AWS-Batch-now-supports-Amazon-ECS-Managed-Instance",
         "title": "AWS Batch が Amazon ECS Managed Instances に対応",
