@@ -13,6 +13,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/26/AWS-Lambda-MicroVMs-now-supports-AWS-PrivateLink/thumbnail.png"
       },
       {
+        "id": "2026-08-26-Mountpoint-for-Amazon-S3-adds-memory-usage-control",
+        "title": "Amazon S3 用 Mountpoint がメモリ使用量制御機能を追加",
+        "date": "2026-08-26",
+        "year": 2026,
+        "month": 8,
+        "day": 26,
+        "path": "2026/08/26/Mountpoint-for-Amazon-S3-adds-memory-usage-control",
+        "summary": "Amazon S3 用 Mountpoint がメモリ使用量制御機能を追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/26/Mountpoint-for-Amazon-S3-adds-memory-usage-control/thumbnail.png"
+      },
+      {
         "id": "2026-08-25-AWS-Batch-now-supports-Amazon-ECS-Managed-Instance",
         "title": "AWS Batch が Amazon ECS Managed Instances に対応",
         "date": "2026-08-25",
@@ -5656,8 +5667,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-26T21:26:16.243Z",
-    "totalCount": 514
+    "updatedAt": "2026-08-27T02:22:53.369Z",
+    "totalCount": 515
   },
   "metadata:months": [
     "2026/08",
@@ -5682,6 +5693,17 @@
         "path": "2026/08/26/AWS-Lambda-MicroVMs-now-supports-AWS-PrivateLink",
         "summary": "AWS Lambda MicroVMs が AWS PrivateLink をサポート",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/26/AWS-Lambda-MicroVMs-now-supports-AWS-PrivateLink/thumbnail.png"
+      },
+      {
+        "id": "2026-08-26-Mountpoint-for-Amazon-S3-adds-memory-usage-control",
+        "title": "Amazon S3 用 Mountpoint がメモリ使用量制御機能を追加",
+        "date": "2026-08-26",
+        "year": 2026,
+        "month": 8,
+        "day": 26,
+        "path": "2026/08/26/Mountpoint-for-Amazon-S3-adds-memory-usage-control",
+        "summary": "Amazon S3 用 Mountpoint がメモリ使用量制御機能を追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/26/Mountpoint-for-Amazon-S3-adds-memory-usage-control/thumbnail.png"
       },
       {
         "id": "2026-08-25-AWS-Batch-now-supports-Amazon-ECS-Managed-Instance",
