@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-08-27-Amazon-Cognito-adds-admin-API-operation-to-reset-u",
+        "title": "Amazon Cognito で TOTP 設定をリセットする管理 API 操作が利用可能に",
+        "date": "2026-08-27",
+        "year": 2026,
+        "month": 8,
+        "day": 27,
+        "path": "2026/08/27/Amazon-Cognito-adds-admin-API-operation-to-reset-u",
+        "summary": "Amazon Cognito で TOTP 設定をリセットする管理 API 操作が利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/27/Amazon-Cognito-adds-admin-API-operation-to-reset-u/thumbnail.png"
+      },
+      {
         "id": "2026-08-26-AWS-Lambda-MicroVMs-now-supports-AWS-PrivateLink",
         "title": "AWS Lambda MicroVMs が AWS PrivateLink をサポート",
         "date": "2026-08-26",
@@ -5667,8 +5678,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-27T02:22:53.369Z",
-    "totalCount": 515
+    "updatedAt": "2026-08-27T13:17:18.658Z",
+    "totalCount": 516
   },
   "metadata:months": [
     "2026/08",
@@ -5683,6 +5694,17 @@
     "year": 2026,
     "month": 8,
     "articles": [
+      {
+        "id": "2026-08-27-Amazon-Cognito-adds-admin-API-operation-to-reset-u",
+        "title": "Amazon Cognito で TOTP 設定をリセットする管理 API 操作が利用可能に",
+        "date": "2026-08-27",
+        "year": 2026,
+        "month": 8,
+        "day": 27,
+        "path": "2026/08/27/Amazon-Cognito-adds-admin-API-operation-to-reset-u",
+        "summary": "Amazon Cognito で TOTP 設定をリセットする管理 API 操作が利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/27/Amazon-Cognito-adds-admin-API-operation-to-reset-u/thumbnail.png"
+      },
       {
         "id": "2026-08-26-AWS-Lambda-MicroVMs-now-supports-AWS-PrivateLink",
         "title": "AWS Lambda MicroVMs が AWS PrivateLink をサポート",
