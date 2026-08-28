@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-08-28-Amazon-Aurora-DSQL-now-supports-foreign-key-constr",
+        "title": "Amazon Aurora DSQLで外部キー制約がサポート",
+        "date": "2026-08-28",
+        "year": 2026,
+        "month": 8,
+        "day": 28,
+        "path": "2026/08/28/Amazon-Aurora-DSQL-now-supports-foreign-key-constr",
+        "summary": "Amazon Aurora DSQLで外部キー制約がサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/28/Amazon-Aurora-DSQL-now-supports-foreign-key-constr/thumbnail.png"
+      },
+      {
         "id": "2026-08-27-Amazon-Cognito-adds-admin-API-operation-to-reset-u",
         "title": "Amazon Cognito で TOTP 設定をリセットする管理 API 操作が利用可能に",
         "date": "2026-08-27",
@@ -5689,8 +5700,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-27T23:20:24.536Z",
-    "totalCount": 517
+    "updatedAt": "2026-08-28T07:30:24.861Z",
+    "totalCount": 518
   },
   "metadata:months": [
     "2026/08",
@@ -5705,6 +5716,17 @@
     "year": 2026,
     "month": 8,
     "articles": [
+      {
+        "id": "2026-08-28-Amazon-Aurora-DSQL-now-supports-foreign-key-constr",
+        "title": "Amazon Aurora DSQLで外部キー制約がサポート",
+        "date": "2026-08-28",
+        "year": 2026,
+        "month": 8,
+        "day": 28,
+        "path": "2026/08/28/Amazon-Aurora-DSQL-now-supports-foreign-key-constr",
+        "summary": "Amazon Aurora DSQLで外部キー制約がサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/28/Amazon-Aurora-DSQL-now-supports-foreign-key-constr/thumbnail.png"
+      },
       {
         "id": "2026-08-27-Amazon-Cognito-adds-admin-API-operation-to-reset-u",
         "title": "Amazon Cognito で TOTP 設定をリセットする管理 API 操作が利用可能に",
