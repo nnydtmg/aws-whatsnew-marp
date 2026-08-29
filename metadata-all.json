@@ -13,6 +13,28 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/28/Amazon-Aurora-DSQL-now-supports-foreign-key-constr/thumbnail.png"
       },
       {
+        "id": "2026-08-28-Amazon-Bedrock-AgentCore-Memory-now-supports-fine",
+        "title": "Amazon Bedrock AgentCore Memoryが細粒度アクセス制御に対応",
+        "date": "2026-08-28",
+        "year": 2026,
+        "month": 8,
+        "day": 28,
+        "path": "2026/08/28/Amazon-Bedrock-AgentCore-Memory-now-supports-fine",
+        "summary": "Amazon Bedrock AgentCore Memoryが細粒度アクセス制御に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/28/Amazon-Bedrock-AgentCore-Memory-now-supports-fine/thumbnail.png"
+      },
+      {
+        "id": "2026-08-28-Amazon-CloudWatch-agent-adds-support-for-journald",
+        "title": "Amazon CloudWatch agent が journald ログ収集に対応",
+        "date": "2026-08-28",
+        "year": 2026,
+        "month": 8,
+        "day": 28,
+        "path": "2026/08/28/Amazon-CloudWatch-agent-adds-support-for-journald",
+        "summary": "Amazon CloudWatch agent が journald ログ収集に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/28/Amazon-CloudWatch-agent-adds-support-for-journald/thumbnail.png"
+      },
+      {
         "id": "2026-08-27-Amazon-Cognito-adds-admin-API-operation-to-reset-u",
         "title": "Amazon Cognito で TOTP 設定をリセットする管理 API 操作が利用可能に",
         "date": "2026-08-27",
@@ -5700,8 +5722,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-08-28T19:44:43.250Z",
-    "totalCount": 518
+    "updatedAt": "2026-08-29T02:34:37.046Z",
+    "totalCount": 520
   },
   "metadata:months": [
     "2026/08",
@@ -5726,6 +5748,28 @@
         "path": "2026/08/28/Amazon-Aurora-DSQL-now-supports-foreign-key-constr",
         "summary": "Amazon Aurora DSQLで外部キー制約がサポート",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/28/Amazon-Aurora-DSQL-now-supports-foreign-key-constr/thumbnail.png"
+      },
+      {
+        "id": "2026-08-28-Amazon-Bedrock-AgentCore-Memory-now-supports-fine",
+        "title": "Amazon Bedrock AgentCore Memoryが細粒度アクセス制御に対応",
+        "date": "2026-08-28",
+        "year": 2026,
+        "month": 8,
+        "day": 28,
+        "path": "2026/08/28/Amazon-Bedrock-AgentCore-Memory-now-supports-fine",
+        "summary": "Amazon Bedrock AgentCore Memoryが細粒度アクセス制御に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/28/Amazon-Bedrock-AgentCore-Memory-now-supports-fine/thumbnail.png"
+      },
+      {
+        "id": "2026-08-28-Amazon-CloudWatch-agent-adds-support-for-journald",
+        "title": "Amazon CloudWatch agent が journald ログ収集に対応",
+        "date": "2026-08-28",
+        "year": 2026,
+        "month": 8,
+        "day": 28,
+        "path": "2026/08/28/Amazon-CloudWatch-agent-adds-support-for-journald",
+        "summary": "Amazon CloudWatch agent が journald ログ収集に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/28/Amazon-CloudWatch-agent-adds-support-for-journald/thumbnail.png"
       },
       {
         "id": "2026-08-27-Amazon-Cognito-adds-admin-API-operation-to-reset-u",
@@ -6487,7 +6531,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/03/Amazon-Web-Services-now-introduces-Context-Ontolog/thumbnail.png"
       }
     ],
-    "totalPages": 7
+    "totalPages": 8
   },
   "metadata:2026/07": {
     "year": 2026,
