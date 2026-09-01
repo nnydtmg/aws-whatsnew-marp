@@ -24,6 +24,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/01/AWS-Elastic-Beanstalk-now-supports-Active-Director/thumbnail.png"
       },
       {
+        "id": "2026-09-01-Amazon-CloudWatch-Database-Insights-now-supports-s",
+        "title": "Amazon CloudWatch Database Insights がセルフマネージド PostgreSQL に対応",
+        "date": "2026-09-01",
+        "year": 2026,
+        "month": 9,
+        "day": 1,
+        "path": "2026/09/01/Amazon-CloudWatch-Database-Insights-now-supports-s",
+        "summary": "Amazon CloudWatch Database Insights がセルフマネージド PostgreSQL に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/01/Amazon-CloudWatch-Database-Insights-now-supports-s/thumbnail.png"
+      },
+      {
         "id": "2026-09-01-Amazon-EMR-on-EKS-now-supports-job-run-concurrency",
         "title": "Amazon EMR on EKS がジョブ同時実行数制御に対応",
         "date": "2026-09-01",
@@ -33,6 +44,17 @@
         "path": "2026/09/01/Amazon-EMR-on-EKS-now-supports-job-run-concurrency",
         "summary": "Amazon EMR on EKS がジョブ同時実行数制御に対応",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/01/Amazon-EMR-on-EKS-now-supports-job-run-concurrency/thumbnail.png"
+      },
+      {
+        "id": "2026-09-01-Claude-Fable-51-Anthropics-new-frontier-model-is-n",
+        "title": "Claude Fable 5.1がAWSで利用可能に、Anthropicの最先端フロンティアモデル",
+        "date": "2026-09-01",
+        "year": 2026,
+        "month": 9,
+        "day": 1,
+        "path": "2026/09/01/Claude-Fable-51-Anthropics-new-frontier-model-is-n",
+        "summary": "Claude Fable 5.1がAWSで利用可能に、Anthropicの最先端フロンティアモデル",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/01/Claude-Fable-51-Anthropics-new-frontier-model-is-n/thumbnail.png"
       },
       {
         "id": "2026-08-31-AWS-Agent-Registry-for-centralized-agent-discovery",
@@ -5799,8 +5821,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-09-01T21:32:37.795Z",
-    "totalCount": 527
+    "updatedAt": "2026-09-01T23:39:28.893Z",
+    "totalCount": 529
   },
   "metadata:months": [
     "2026/09",
@@ -5839,6 +5861,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/01/AWS-Elastic-Beanstalk-now-supports-Active-Director/thumbnail.png"
       },
       {
+        "id": "2026-09-01-Amazon-CloudWatch-Database-Insights-now-supports-s",
+        "title": "Amazon CloudWatch Database Insights がセルフマネージド PostgreSQL に対応",
+        "date": "2026-09-01",
+        "year": 2026,
+        "month": 9,
+        "day": 1,
+        "path": "2026/09/01/Amazon-CloudWatch-Database-Insights-now-supports-s",
+        "summary": "Amazon CloudWatch Database Insights がセルフマネージド PostgreSQL に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/01/Amazon-CloudWatch-Database-Insights-now-supports-s/thumbnail.png"
+      },
+      {
         "id": "2026-09-01-Amazon-EMR-on-EKS-now-supports-job-run-concurrency",
         "title": "Amazon EMR on EKS がジョブ同時実行数制御に対応",
         "date": "2026-09-01",
@@ -5848,6 +5881,17 @@
         "path": "2026/09/01/Amazon-EMR-on-EKS-now-supports-job-run-concurrency",
         "summary": "Amazon EMR on EKS がジョブ同時実行数制御に対応",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/01/Amazon-EMR-on-EKS-now-supports-job-run-concurrency/thumbnail.png"
+      },
+      {
+        "id": "2026-09-01-Claude-Fable-51-Anthropics-new-frontier-model-is-n",
+        "title": "Claude Fable 5.1がAWSで利用可能に、Anthropicの最先端フロンティアモデル",
+        "date": "2026-09-01",
+        "year": 2026,
+        "month": 9,
+        "day": 1,
+        "path": "2026/09/01/Claude-Fable-51-Anthropics-new-frontier-model-is-n",
+        "summary": "Claude Fable 5.1がAWSで利用可能に、Anthropicの最先端フロンティアモデル",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/01/Claude-Fable-51-Anthropics-new-frontier-model-is-n/thumbnail.png"
       }
     ],
     "totalPages": 1
