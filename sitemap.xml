@@ -6,6 +6,48 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-01-AWS-Agent-Registry-agents-and-MCP-servers-now-avai</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-01-AWS-Elastic-Beanstalk-now-supports-Active-Director</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-01-Amazon-EMR-on-EKS-now-supports-job-run-concurrency</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-08-31-AWS-Agent-Registry-for-centralized-agent-discovery</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-08-31-AWS-announces-AWS-Interconnect---multicloud-connec</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-08-31-Amazon-Cognito-now-supports-machine-to-machine-aut</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-08-31-Amazon-Redshift-now-supports-Apache-Iceberg-v3-tab</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-08-28-Amazon-Aurora-DSQL-now-supports-foreign-key-constr</loc>
     <lastmod>2026-08-28</lastmod>
     <changefreq>never</changefreq>

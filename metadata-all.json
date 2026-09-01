@@ -2,6 +2,83 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-09-01-AWS-Agent-Registry-agents-and-MCP-servers-now-avai",
+        "title": "AWS Agent Registry のエージェントと MCP サーバーが Amazon Quick で利用可能に",
+        "date": "2026-09-01",
+        "year": 2026,
+        "month": 9,
+        "day": 1,
+        "path": "2026/09/01/AWS-Agent-Registry-agents-and-MCP-servers-now-avai",
+        "summary": "AWS Agent Registry のエージェントと MCP サーバーが Amazon Quick で利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/01/AWS-Agent-Registry-agents-and-MCP-servers-now-avai/thumbnail.png"
+      },
+      {
+        "id": "2026-09-01-AWS-Elastic-Beanstalk-now-supports-Active-Director",
+        "title": "AWS Elastic Beanstalk が Windows Server 環境の Active Directory ドメイン参加に対応",
+        "date": "2026-09-01",
+        "year": 2026,
+        "month": 9,
+        "day": 1,
+        "path": "2026/09/01/AWS-Elastic-Beanstalk-now-supports-Active-Director",
+        "summary": "AWS Elastic Beanstalk が Windows Server 環境の Active Directory ドメイン参加に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/01/AWS-Elastic-Beanstalk-now-supports-Active-Director/thumbnail.png"
+      },
+      {
+        "id": "2026-09-01-Amazon-EMR-on-EKS-now-supports-job-run-concurrency",
+        "title": "Amazon EMR on EKS がジョブ同時実行数制御に対応",
+        "date": "2026-09-01",
+        "year": 2026,
+        "month": 9,
+        "day": 1,
+        "path": "2026/09/01/Amazon-EMR-on-EKS-now-supports-job-run-concurrency",
+        "summary": "Amazon EMR on EKS がジョブ同時実行数制御に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/01/Amazon-EMR-on-EKS-now-supports-job-run-concurrency/thumbnail.png"
+      },
+      {
+        "id": "2026-08-31-AWS-Agent-Registry-for-centralized-agent-discovery",
+        "title": "AWS Agent Registryが一般提供開始",
+        "date": "2026-08-31",
+        "year": 2026,
+        "month": 8,
+        "day": 31,
+        "path": "2026/08/31/AWS-Agent-Registry-for-centralized-agent-discovery",
+        "summary": "AWS Agent Registryが一般提供開始 エージェント検出とガバナンスの集中管理",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/31/AWS-Agent-Registry-for-centralized-agent-discovery/thumbnail.png"
+      },
+      {
+        "id": "2026-08-31-AWS-announces-AWS-Interconnect---multicloud-connec",
+        "title": "AWS Interconnect - Microsoft Azure マルチクラウド接続がプレビュー開始",
+        "date": "2026-08-31",
+        "year": 2026,
+        "month": 8,
+        "day": 31,
+        "path": "2026/08/31/AWS-announces-AWS-Interconnect---multicloud-connec",
+        "summary": "AWS Interconnect Microsoft Azure マルチクラウド接続がプレビュー開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/31/AWS-announces-AWS-Interconnect---multicloud-connec/thumbnail.png"
+      },
+      {
+        "id": "2026-08-31-Amazon-Cognito-now-supports-machine-to-machine-aut",
+        "title": "Amazon Cognito がユーザープールドメインなしでマシン間認可に対応",
+        "date": "2026-08-31",
+        "year": 2026,
+        "month": 8,
+        "day": 31,
+        "path": "2026/08/31/Amazon-Cognito-now-supports-machine-to-machine-aut",
+        "summary": "Amazon Cognito がユーザープールドメインなしでマシン間認可に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/31/Amazon-Cognito-now-supports-machine-to-machine-aut/thumbnail.png"
+      },
+      {
+        "id": "2026-08-31-Amazon-Redshift-now-supports-Apache-Iceberg-v3-tab",
+        "title": "Amazon Redshift が Apache Iceberg v3 テーブルをサポート",
+        "date": "2026-08-31",
+        "year": 2026,
+        "month": 8,
+        "day": 31,
+        "path": "2026/08/31/Amazon-Redshift-now-supports-Apache-Iceberg-v3-tab",
+        "summary": "Amazon Redshift が Apache Iceberg v3 テーブルをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/31/Amazon-Redshift-now-supports-Apache-Iceberg-v3-tab/thumbnail.png"
+      },
+      {
         "id": "2026-08-28-Amazon-Aurora-DSQL-now-supports-foreign-key-constr",
         "title": "Amazon Aurora DSQLで外部キー制約がサポート",
         "date": "2026-08-28",
@@ -5722,10 +5799,11 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-09-01T10:42:08.149Z",
-    "totalCount": 520
+    "updatedAt": "2026-09-01T15:35:40.354Z",
+    "totalCount": 527
   },
   "metadata:months": [
+    "2026/09",
     "2026/08",
     "2026/07",
     "2026/06",
@@ -5734,10 +5812,94 @@
     "2026/03",
     "2026/02"
   ],
+  "metadata:2026/09": {
+    "year": 2026,
+    "month": 9,
+    "articles": [
+      {
+        "id": "2026-09-01-AWS-Agent-Registry-agents-and-MCP-servers-now-avai",
+        "title": "AWS Agent Registry のエージェントと MCP サーバーが Amazon Quick で利用可能に",
+        "date": "2026-09-01",
+        "year": 2026,
+        "month": 9,
+        "day": 1,
+        "path": "2026/09/01/AWS-Agent-Registry-agents-and-MCP-servers-now-avai",
+        "summary": "AWS Agent Registry のエージェントと MCP サーバーが Amazon Quick で利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/01/AWS-Agent-Registry-agents-and-MCP-servers-now-avai/thumbnail.png"
+      },
+      {
+        "id": "2026-09-01-AWS-Elastic-Beanstalk-now-supports-Active-Director",
+        "title": "AWS Elastic Beanstalk が Windows Server 環境の Active Directory ドメイン参加に対応",
+        "date": "2026-09-01",
+        "year": 2026,
+        "month": 9,
+        "day": 1,
+        "path": "2026/09/01/AWS-Elastic-Beanstalk-now-supports-Active-Director",
+        "summary": "AWS Elastic Beanstalk が Windows Server 環境の Active Directory ドメイン参加に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/01/AWS-Elastic-Beanstalk-now-supports-Active-Director/thumbnail.png"
+      },
+      {
+        "id": "2026-09-01-Amazon-EMR-on-EKS-now-supports-job-run-concurrency",
+        "title": "Amazon EMR on EKS がジョブ同時実行数制御に対応",
+        "date": "2026-09-01",
+        "year": 2026,
+        "month": 9,
+        "day": 1,
+        "path": "2026/09/01/Amazon-EMR-on-EKS-now-supports-job-run-concurrency",
+        "summary": "Amazon EMR on EKS がジョブ同時実行数制御に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/01/Amazon-EMR-on-EKS-now-supports-job-run-concurrency/thumbnail.png"
+      }
+    ],
+    "totalPages": 1
+  },
   "metadata:2026/08": {
     "year": 2026,
     "month": 8,
     "articles": [
+      {
+        "id": "2026-08-31-AWS-Agent-Registry-for-centralized-agent-discovery",
+        "title": "AWS Agent Registryが一般提供開始",
+        "date": "2026-08-31",
+        "year": 2026,
+        "month": 8,
+        "day": 31,
+        "path": "2026/08/31/AWS-Agent-Registry-for-centralized-agent-discovery",
+        "summary": "AWS Agent Registryが一般提供開始 エージェント検出とガバナンスの集中管理",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/31/AWS-Agent-Registry-for-centralized-agent-discovery/thumbnail.png"
+      },
+      {
+        "id": "2026-08-31-AWS-announces-AWS-Interconnect---multicloud-connec",
+        "title": "AWS Interconnect - Microsoft Azure マルチクラウド接続がプレビュー開始",
+        "date": "2026-08-31",
+        "year": 2026,
+        "month": 8,
+        "day": 31,
+        "path": "2026/08/31/AWS-announces-AWS-Interconnect---multicloud-connec",
+        "summary": "AWS Interconnect Microsoft Azure マルチクラウド接続がプレビュー開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/31/AWS-announces-AWS-Interconnect---multicloud-connec/thumbnail.png"
+      },
+      {
+        "id": "2026-08-31-Amazon-Cognito-now-supports-machine-to-machine-aut",
+        "title": "Amazon Cognito がユーザープールドメインなしでマシン間認可に対応",
+        "date": "2026-08-31",
+        "year": 2026,
+        "month": 8,
+        "day": 31,
+        "path": "2026/08/31/Amazon-Cognito-now-supports-machine-to-machine-aut",
+        "summary": "Amazon Cognito がユーザープールドメインなしでマシン間認可に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/31/Amazon-Cognito-now-supports-machine-to-machine-aut/thumbnail.png"
+      },
+      {
+        "id": "2026-08-31-Amazon-Redshift-now-supports-Apache-Iceberg-v3-tab",
+        "title": "Amazon Redshift が Apache Iceberg v3 テーブルをサポート",
+        "date": "2026-08-31",
+        "year": 2026,
+        "month": 8,
+        "day": 31,
+        "path": "2026/08/31/Amazon-Redshift-now-supports-Apache-Iceberg-v3-tab",
+        "summary": "Amazon Redshift が Apache Iceberg v3 テーブルをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/08/31/Amazon-Redshift-now-supports-Apache-Iceberg-v3-tab/thumbnail.png"
+      },
       {
         "id": "2026-08-28-Amazon-Aurora-DSQL-now-supports-foreign-key-constr",
         "title": "Amazon Aurora DSQLで外部キー制約がサポート",
