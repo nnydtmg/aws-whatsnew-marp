@@ -2,6 +2,72 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-09-03-AWS-Gateway-Load-Balancer-now-supports-TCP-Reset-f",
+        "title": "AWS Gateway Load Balancer が TCP リセット機能をサポート、障害回復を高速化",
+        "date": "2026-09-03",
+        "year": 2026,
+        "month": 9,
+        "day": 3,
+        "path": "2026/09/03/AWS-Gateway-Load-Balancer-now-supports-TCP-Reset-f",
+        "summary": "AWS Gateway Load Balancer が TCP リセット機能をサポート、障害回復を高速化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/03/AWS-Gateway-Load-Balancer-now-supports-TCP-Reset-f/thumbnail.png"
+      },
+      {
+        "id": "2026-09-03-Amazon-Aurora-MySQL-now-supports-multi-source-repl",
+        "title": "Amazon Aurora MySQL がマルチソースレプリケーションと遅延レプリケーションに対応",
+        "date": "2026-09-03",
+        "year": 2026,
+        "month": 9,
+        "day": 3,
+        "path": "2026/09/03/Amazon-Aurora-MySQL-now-supports-multi-source-repl",
+        "summary": "Amazon Aurora MySQL がマルチソースレプリケーションと遅延レプリケーションに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/03/Amazon-Aurora-MySQL-now-supports-multi-source-repl/thumbnail.png"
+      },
+      {
+        "id": "2026-09-03-Amazon-CloudFront-announces-API-support-for-flat-r",
+        "title": "Amazon CloudFront の定額料金プランが API で管理可能に",
+        "date": "2026-09-03",
+        "year": 2026,
+        "month": 9,
+        "day": 3,
+        "path": "2026/09/03/Amazon-CloudFront-announces-API-support-for-flat-r",
+        "summary": "Amazon CloudFront の定額料金プランが API で管理可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/03/Amazon-CloudFront-announces-API-support-for-flat-r/thumbnail.png"
+      },
+      {
+        "id": "2026-09-03-Amazon-MWAA-adds-built-in-monitoring-with-Amazon-C",
+        "title": "Amazon MWAA が Amazon CloudWatch による組み込みモニタリングを追加",
+        "date": "2026-09-03",
+        "year": 2026,
+        "month": 9,
+        "day": 3,
+        "path": "2026/09/03/Amazon-MWAA-adds-built-in-monitoring-with-Amazon-C",
+        "summary": "Amazon MWAA が Amazon CloudWatch による組み込みモニタリングを追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/03/Amazon-MWAA-adds-built-in-monitoring-with-Amazon-C/thumbnail.png"
+      },
+      {
+        "id": "2026-09-03-Amazon-SES-now-supports-SMIME-email-signing",
+        "title": "Amazon SES が S/MIME メール署名に対応",
+        "date": "2026-09-03",
+        "year": 2026,
+        "month": 9,
+        "day": 3,
+        "path": "2026/09/03/Amazon-SES-now-supports-SMIME-email-signing",
+        "summary": "Amazon SES が S/MIME メール署名に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/03/Amazon-SES-now-supports-SMIME-email-signing/thumbnail.png"
+      },
+      {
+        "id": "2026-09-03-Introducing-Amazon-Quick-Max-5x-the-usage-for-powe",
+        "title": "Amazon Quick Max発表",
+        "date": "2026-09-03",
+        "year": 2026,
+        "month": 9,
+        "day": 3,
+        "path": "2026/09/03/Introducing-Amazon-Quick-Max-5x-the-usage-for-powe",
+        "summary": "Amazon Quick Max発表：パワーユーザー向けに使用量5倍のプランが利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/03/Introducing-Amazon-Quick-Max-5x-the-usage-for-powe/thumbnail.png"
+      },
+      {
         "id": "2026-09-01-AWS-Agent-Registry-agents-and-MCP-servers-now-avai",
         "title": "AWS Agent Registry のエージェントと MCP サーバーが Amazon Quick で利用可能に",
         "date": "2026-09-01",
@@ -5821,8 +5887,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-09-03T21:29:25.661Z",
-    "totalCount": 529
+    "updatedAt": "2026-09-03T23:39:35.552Z",
+    "totalCount": 535
   },
   "metadata:months": [
     "2026/09",
@@ -5838,6 +5904,72 @@
     "year": 2026,
     "month": 9,
     "articles": [
+      {
+        "id": "2026-09-03-AWS-Gateway-Load-Balancer-now-supports-TCP-Reset-f",
+        "title": "AWS Gateway Load Balancer が TCP リセット機能をサポート、障害回復を高速化",
+        "date": "2026-09-03",
+        "year": 2026,
+        "month": 9,
+        "day": 3,
+        "path": "2026/09/03/AWS-Gateway-Load-Balancer-now-supports-TCP-Reset-f",
+        "summary": "AWS Gateway Load Balancer が TCP リセット機能をサポート、障害回復を高速化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/03/AWS-Gateway-Load-Balancer-now-supports-TCP-Reset-f/thumbnail.png"
+      },
+      {
+        "id": "2026-09-03-Amazon-Aurora-MySQL-now-supports-multi-source-repl",
+        "title": "Amazon Aurora MySQL がマルチソースレプリケーションと遅延レプリケーションに対応",
+        "date": "2026-09-03",
+        "year": 2026,
+        "month": 9,
+        "day": 3,
+        "path": "2026/09/03/Amazon-Aurora-MySQL-now-supports-multi-source-repl",
+        "summary": "Amazon Aurora MySQL がマルチソースレプリケーションと遅延レプリケーションに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/03/Amazon-Aurora-MySQL-now-supports-multi-source-repl/thumbnail.png"
+      },
+      {
+        "id": "2026-09-03-Amazon-CloudFront-announces-API-support-for-flat-r",
+        "title": "Amazon CloudFront の定額料金プランが API で管理可能に",
+        "date": "2026-09-03",
+        "year": 2026,
+        "month": 9,
+        "day": 3,
+        "path": "2026/09/03/Amazon-CloudFront-announces-API-support-for-flat-r",
+        "summary": "Amazon CloudFront の定額料金プランが API で管理可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/03/Amazon-CloudFront-announces-API-support-for-flat-r/thumbnail.png"
+      },
+      {
+        "id": "2026-09-03-Amazon-MWAA-adds-built-in-monitoring-with-Amazon-C",
+        "title": "Amazon MWAA が Amazon CloudWatch による組み込みモニタリングを追加",
+        "date": "2026-09-03",
+        "year": 2026,
+        "month": 9,
+        "day": 3,
+        "path": "2026/09/03/Amazon-MWAA-adds-built-in-monitoring-with-Amazon-C",
+        "summary": "Amazon MWAA が Amazon CloudWatch による組み込みモニタリングを追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/03/Amazon-MWAA-adds-built-in-monitoring-with-Amazon-C/thumbnail.png"
+      },
+      {
+        "id": "2026-09-03-Amazon-SES-now-supports-SMIME-email-signing",
+        "title": "Amazon SES が S/MIME メール署名に対応",
+        "date": "2026-09-03",
+        "year": 2026,
+        "month": 9,
+        "day": 3,
+        "path": "2026/09/03/Amazon-SES-now-supports-SMIME-email-signing",
+        "summary": "Amazon SES が S/MIME メール署名に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/03/Amazon-SES-now-supports-SMIME-email-signing/thumbnail.png"
+      },
+      {
+        "id": "2026-09-03-Introducing-Amazon-Quick-Max-5x-the-usage-for-powe",
+        "title": "Amazon Quick Max発表",
+        "date": "2026-09-03",
+        "year": 2026,
+        "month": 9,
+        "day": 3,
+        "path": "2026/09/03/Introducing-Amazon-Quick-Max-5x-the-usage-for-powe",
+        "summary": "Amazon Quick Max発表：パワーユーザー向けに使用量5倍のプランが利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/03/Introducing-Amazon-Quick-Max-5x-the-usage-for-powe/thumbnail.png"
+      },
       {
         "id": "2026-09-01-AWS-Agent-Registry-agents-and-MCP-servers-now-avai",
         "title": "AWS Agent Registry のエージェントと MCP サーバーが Amazon Quick で利用可能に",
@@ -5894,7 +6026,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/01/Claude-Fable-51-Anthropics-new-frontier-model-is-n/thumbnail.png"
       }
     ],
-    "totalPages": 1
+    "totalPages": 2
   },
   "metadata:2026/08": {
     "year": 2026,

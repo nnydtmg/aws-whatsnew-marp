@@ -6,6 +6,42 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-03-AWS-Gateway-Load-Balancer-now-supports-TCP-Reset-f</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-03-Amazon-Aurora-MySQL-now-supports-multi-source-repl</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-03-Amazon-CloudFront-announces-API-support-for-flat-r</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-03-Amazon-MWAA-adds-built-in-monitoring-with-Amazon-C</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-03-Amazon-SES-now-supports-SMIME-email-signing</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-03-Introducing-Amazon-Quick-Max-5x-the-usage-for-powe</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-01-AWS-Agent-Registry-agents-and-MCP-servers-now-avai</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>never</changefreq>
