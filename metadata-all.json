@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-09-04-Amazon-Bedrock-AgentCore-Identity-now-offers-a-man",
+        "title": "Amazon Bedrock AgentCore Identityがマネージド同意ポータルを提供開始",
+        "date": "2026-09-04",
+        "year": 2026,
+        "month": 9,
+        "day": 4,
+        "path": "2026/09/04/Amazon-Bedrock-AgentCore-Identity-now-offers-a-man",
+        "summary": "Amazon Bedrock AgentCore Identityがマネージド同意ポータルを提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/04/Amazon-Bedrock-AgentCore-Identity-now-offers-a-man/thumbnail.png"
+      },
+      {
+        "id": "2026-09-04-Amazon-ECS-Managed-Daemons-now-support-non-critica",
+        "title": "Amazon ECS Managed Daemonsが非クリティカルデーモンをサポート",
+        "date": "2026-09-04",
+        "year": 2026,
+        "month": 9,
+        "day": 4,
+        "path": "2026/09/04/Amazon-ECS-Managed-Daemons-now-support-non-critica",
+        "summary": "Amazon ECS Managed Daemonsが非クリティカルデーモンをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/04/Amazon-ECS-Managed-Daemons-now-support-non-critica/thumbnail.png"
+      },
+      {
         "id": "2026-09-03-AWS-Gateway-Load-Balancer-now-supports-TCP-Reset-f",
         "title": "AWS Gateway Load Balancer が TCP リセット機能をサポート、障害回復を高速化",
         "date": "2026-09-03",
@@ -5887,8 +5909,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-09-04T01:50:02.060Z",
-    "totalCount": 535
+    "updatedAt": "2026-09-04T06:41:44.125Z",
+    "totalCount": 537
   },
   "metadata:months": [
     "2026/09",
@@ -5904,6 +5926,28 @@
     "year": 2026,
     "month": 9,
     "articles": [
+      {
+        "id": "2026-09-04-Amazon-Bedrock-AgentCore-Identity-now-offers-a-man",
+        "title": "Amazon Bedrock AgentCore Identityがマネージド同意ポータルを提供開始",
+        "date": "2026-09-04",
+        "year": 2026,
+        "month": 9,
+        "day": 4,
+        "path": "2026/09/04/Amazon-Bedrock-AgentCore-Identity-now-offers-a-man",
+        "summary": "Amazon Bedrock AgentCore Identityがマネージド同意ポータルを提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/04/Amazon-Bedrock-AgentCore-Identity-now-offers-a-man/thumbnail.png"
+      },
+      {
+        "id": "2026-09-04-Amazon-ECS-Managed-Daemons-now-support-non-critica",
+        "title": "Amazon ECS Managed Daemonsが非クリティカルデーモンをサポート",
+        "date": "2026-09-04",
+        "year": 2026,
+        "month": 9,
+        "day": 4,
+        "path": "2026/09/04/Amazon-ECS-Managed-Daemons-now-support-non-critica",
+        "summary": "Amazon ECS Managed Daemonsが非クリティカルデーモンをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/04/Amazon-ECS-Managed-Daemons-now-support-non-critica/thumbnail.png"
+      },
       {
         "id": "2026-09-03-AWS-Gateway-Load-Balancer-now-supports-TCP-Reset-f",
         "title": "AWS Gateway Load Balancer が TCP リセット機能をサポート、障害回復を高速化",
