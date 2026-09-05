@@ -1,31 +1,35 @@
-# Amazon Bedrock Managed Knowledge BaseがServiceNowをネイティブデータソースコネクタとしてサポート
+# Amazon Bedrock Managed Knowledge Baseで自動同期スケジューリングが利用可能に
 
-Amazon Bedrock Managed Knowledge Base now supports ServiceNow as a native data source connector
+Amazon Bedrock Managed Knowledge Base now supports automatic sync scheduling for data source connectors
 
 **カテゴリ:** What's New
-**公開日:** 2026-09-04T21:14:00
-**元記事:** [AWS What's New](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-servicenow-native-data-source-connector/)
+**公開日:** 2026-09-04T21:01:00
+**元記事:** [AWS What's New](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-automatic-sync-scheduling-data-source-connectors/)
 
-このページでは、AWS What's Newで発表された「Amazon Bedrock Managed Knowledge Base now supports ServiceNow as a native data source connector」の内容を日本語で要約し、スライド形式で確認できます。
+このページでは、AWS What's Newで発表された「Amazon Bedrock Managed Knowledge Base now supports automatic sync scheduling for data source connectors」の内容を日本語で要約し、スライド形式で確認できます。
 
 ---
 
 ## 要約
 
-Amazon BedrockマネージドナレッジベースがServiceNowをネイティブコネクタとしてサポートし、認証情報の提供のみでコンテンツを自動取り込みできるようになりました。本機能は、ServiceNowの最新コンテンツに基づくAIエージェントを構築したいお客様に最適です。
+Amazon Bedrockマネージドナレッジベースにデータソースコネクタの自動同期スケジューリングが追加され、日次、週次、月次の設定が可能になりました。これにより運用オーバーヘッドが削減され、AIエージェントが常に最新情報を取得できます。
 
 ## このアップデートで何が変わったか
 
-AWSはAmazon Bedrock Managed Knowledge Base向けのServiceNowデータソースコネクタを発表しました。完全マネージド型のRAGサービスであるManaged Knowledge Baseに、ServiceNowインスタンスを接続してナレッジ記事とサービスカタログアイテムを直接クロールできるようになりました。これまではServiceNowコンテンツをBedrock Knowledge Basesに取り込むにはカスタム取り込みパイプラインの構築と維持が必要でしたが、今後はServiceNowインスタンスの認証情報を提供するだけで、コネクタがデータクロール、メタデータ抽出、増分同期を自動的に処理します。コネクタはナレッジ記事とサービスカタログアイテム（ファイル添付を含む）をクロールし、AIエージェントがServiceNowで管理されている組織のナレッジにアクセスできるようにします。sys IDのインクルージョンリストを使って、特定のナレッジベース、記事カテゴリ、サービスカタログにクロール範囲を限定でき、関連コンテンツのみを取り込めます。従業員向けITア
+AWS announces automatic sync scheduling for Amazon Bedrock Managed Knowledge Base, a fully managed retrieval-augmented generation (RAG) service that handles data ingestion, storage optimization, and advanced retrieval without requiring you to manage vector databases or data pipelines. Previously, keeping your knowledge base current required manually triggering a sync each time your source data changed or building a custom solution. Now, you can configure daily, weekly, or monthly sync schedules 
 
 ## 対象ユーザー
 
-AWSはAmazon Bedrock Managed Knowledge Base向けのServiceNowデータソースコネクタを発表しました。完全マネージド型のRAGサービスであるManaged Knowledge Baseに、ServiceNowインスタンスを接続してナレッジ記事とサービスカタログアイテムを直接クロールできるようになりました。これまではServiceNowコンテンツをBedrock Knowledge Basesに取り込むにはカスタム取り込みパイプラインの構築と維持が必要でしたが、今後はServiceNowインスタンスの認証情報を提供するだけで、コネクタがデータクロール、メ
+AWS announces automatic sync scheduling for Amazon Bedrock Managed Knowledge Base, a fully managed retrieval-augmented generation (RAG) service that handles data ingestion, storage optimization, and advanced retrieval without requiring you to manage vector databases or data pipelines. Previously, ke
+
+## 活用シーン
+
+AWS announces automatic sync scheduling for Amazon Bedrock Managed Knowledge Base, a fully managed retrieval-augmented generation (RAG) service that handles data ingestion, storage optimization, and advanced retrieval without requiring you to manage vector databases or data pipelines. Previously, ke
 
 ## 詳細
 
-AWSはAmazon Bedrock Managed Knowledge Base向けのServiceNowデータソースコネクタを発表しました。完全マネージド型のRAGサービスであるManaged Knowledge Baseに、ServiceNowインスタンスを接続してナレッジ記事とサービスカタログアイテムを直接クロールできるようになりました。これまではServiceNowコンテンツをBedrock Knowledge Basesに取り込むにはカスタム取り込みパイプラインの構築と維持が必要でしたが、今後はServiceNowインスタンスの認証情報を提供するだけで、コネクタがデータクロール、メタデータ抽出、増分同期を自動的に処理します。コネクタはナレッジ記事とサービスカタログアイテム（ファイル添付を含む）をクロールし、AIエージェントがServiceNowで管理されている組織のナレッジにアクセスできるようにします。sys IDのインクルージョンリストを使って、特定のナレッジベース、記事カテゴリ、サービスカタログにクロール範囲を限定でき、関連コンテンツのみを取り込めます。従業員向けITアシスタント、HRヘルプデスク、カスタマーサポートエージェントを、組織の最新ServiceNowコンテンツに基づいて構築することが容易になります。
+AWS announces automatic sync scheduling for Amazon Bedrock Managed Knowledge Base, a fully managed retrieval-augmented generation (RAG) service that handles data ingestion, storage optimization, and advanced retrieval without requiring you to manage vector databases or data pipelines. Previously, keeping your knowledge base current required manually triggering a sync each time your source data changed or building a custom solution. Now, you can configure daily, weekly, or monthly sync schedules for all native data source connectors, so your AI agents always retrieve the most up-to-date information. With automatic sync scheduling, you can match your sync frequency to how often your source content changes. For example, set a daily sync for a rapidly evolving customer support knowledge base in Confluence, a weekly sync for SharePoint policy documents that update periodically, or a monthly sync for reference materials stored in Amazon S3. This eliminates the need to build and maintain custom scheduling workarounds, reducing operational overhead while ensuring your retrieval-augmented generation applications stay grounded in current enterprise data. Native connectors include Amazon S3, Microsoft SharePoint, Atlassian Confluence, Google Drive, Microsoft OneDrive, Web Crawler, and Custom data sources.
 
 ## 参考リンク
 
-- [元記事](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-servicenow-native-data-source-connector/)
+- [元記事](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-automatic-sync-scheduling-data-source-connectors/)
