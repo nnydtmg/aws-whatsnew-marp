@@ -6,6 +6,12 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-04-AWS-MCP-Server-adds-a-serverless-capability-for-AW</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-04-Amazon-Bedrock-AgentCore-Identity-now-offers-a-man</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>never</changefreq>
@@ -13,6 +19,12 @@
   </url>
   <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-04-Amazon-ECS-Managed-Daemons-now-support-non-critica</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-04-Amazon-ECS-introduces-Early-Success-Criteria-for-s</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
