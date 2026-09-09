@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-09-09-AWS-Lambda-now-supports-90-minute-function-timeout",
+        "title": "AWS Lambda Managed Instances が関数タイムアウト最大90分をサポート",
+        "date": "2026-09-09",
+        "year": 2026,
+        "month": 9,
+        "day": 9,
+        "path": "2026/09/09/AWS-Lambda-now-supports-90-minute-function-timeout",
+        "summary": "AWS Lambda Managed Instances が関数タイムアウト最大90分をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/09/AWS-Lambda-now-supports-90-minute-function-timeout/thumbnail.png"
+      },
+      {
+        "id": "2026-09-09-AWS-Systems-Manager-now-diagnoses-more-issues-that",
+        "title": "AWS Systems ManagerがEC2未管理インスタンスの診断対象を6カテゴリ追加",
+        "date": "2026-09-09",
+        "year": 2026,
+        "month": 9,
+        "day": 9,
+        "path": "2026/09/09/AWS-Systems-Manager-now-diagnoses-more-issues-that",
+        "summary": "AWS Systems ManagerがEC2未管理インスタンスの診断対象を6カテゴリ追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/09/AWS-Systems-Manager-now-diagnoses-more-issues-that/thumbnail.png"
+      },
+      {
         "id": "2026-09-09-AWS-announces-Nx-Plugin-for-AWS-for-scaffolding-fu",
         "title": "Nx Plugin for AWS 1.0が一般提供開始、フルスタックアプリを迅速にスキャフォールディング",
         "date": "2026-09-09",
@@ -24,6 +46,28 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/09/Amazon-API-Gateway-now-supports-mutual-TLS-for-bac/thumbnail.png"
       },
       {
+        "id": "2026-09-09-Amazon-Bedrock-Managed-Knowledge-Base-adds-APIs-an",
+        "title": "Amazon Bedrock Knowledge BaseがドキュメントACLデバッグ用APIとコンソールを追加",
+        "date": "2026-09-09",
+        "year": 2026,
+        "month": 9,
+        "day": 9,
+        "path": "2026/09/09/Amazon-Bedrock-Managed-Knowledge-Base-adds-APIs-an",
+        "summary": "Amazon Bedrock Knowledge BaseがドキュメントACLデバッグ用APIとコンソールを追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/09/Amazon-Bedrock-Managed-Knowledge-Base-adds-APIs-an/thumbnail.png"
+      },
+      {
+        "id": "2026-09-09-Amazon-Bedrock-Managed-Knowledge-Base-now-supports",
+        "title": "Amazon BedrockがConfluence Data Centerのネイティブコネクタに対応",
+        "date": "2026-09-09",
+        "year": 2026,
+        "month": 9,
+        "day": 9,
+        "path": "2026/09/09/Amazon-Bedrock-Managed-Knowledge-Base-now-supports",
+        "summary": "Amazon BedrockがConfluence Data Centerのネイティブコネクタに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/09/Amazon-Bedrock-Managed-Knowledge-Base-now-supports/thumbnail.png"
+      },
+      {
         "id": "2026-09-09-Amazon-S3-Object-Lock-now-supports-variable-retent",
         "title": "Amazon S3 Object Lockがイベントホールドによる可変保持をサポート",
         "date": "2026-09-09",
@@ -33,6 +77,17 @@
         "path": "2026/09/09/Amazon-S3-Object-Lock-now-supports-variable-retent",
         "summary": "Amazon S3 Object Lockがイベントホールドによる可変保持をサポート",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/09/Amazon-S3-Object-Lock-now-supports-variable-retent/thumbnail.png"
+      },
+      {
+        "id": "2026-09-09-Dynamic-Image-Transformation-for-Amazon-CloudFront",
+        "title": "Amazon CloudFront向け動的画像変換に4つの新機能が追加",
+        "date": "2026-09-09",
+        "year": 2026,
+        "month": 9,
+        "day": 9,
+        "path": "2026/09/09/Dynamic-Image-Transformation-for-Amazon-CloudFront",
+        "summary": "Amazon CloudFront向け動的画像変換に4つの新機能が追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/09/Dynamic-Image-Transformation-for-Amazon-CloudFront/thumbnail.png"
       },
       {
         "id": "2026-09-09-OpenAI-GPT-6-Astra-is-now-generally-available-on-A",
@@ -6041,8 +6096,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-09-09T21:21:07.062Z",
-    "totalCount": 549
+    "updatedAt": "2026-09-09T23:38:56.528Z",
+    "totalCount": 554
   },
   "metadata:months": [
     "2026/09",
@@ -6058,6 +6113,28 @@
     "year": 2026,
     "month": 9,
     "articles": [
+      {
+        "id": "2026-09-09-AWS-Lambda-now-supports-90-minute-function-timeout",
+        "title": "AWS Lambda Managed Instances が関数タイムアウト最大90分をサポート",
+        "date": "2026-09-09",
+        "year": 2026,
+        "month": 9,
+        "day": 9,
+        "path": "2026/09/09/AWS-Lambda-now-supports-90-minute-function-timeout",
+        "summary": "AWS Lambda Managed Instances が関数タイムアウト最大90分をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/09/AWS-Lambda-now-supports-90-minute-function-timeout/thumbnail.png"
+      },
+      {
+        "id": "2026-09-09-AWS-Systems-Manager-now-diagnoses-more-issues-that",
+        "title": "AWS Systems ManagerがEC2未管理インスタンスの診断対象を6カテゴリ追加",
+        "date": "2026-09-09",
+        "year": 2026,
+        "month": 9,
+        "day": 9,
+        "path": "2026/09/09/AWS-Systems-Manager-now-diagnoses-more-issues-that",
+        "summary": "AWS Systems ManagerがEC2未管理インスタンスの診断対象を6カテゴリ追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/09/AWS-Systems-Manager-now-diagnoses-more-issues-that/thumbnail.png"
+      },
       {
         "id": "2026-09-09-AWS-announces-Nx-Plugin-for-AWS-for-scaffolding-fu",
         "title": "Nx Plugin for AWS 1.0が一般提供開始、フルスタックアプリを迅速にスキャフォールディング",
@@ -6081,6 +6158,28 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/09/Amazon-API-Gateway-now-supports-mutual-TLS-for-bac/thumbnail.png"
       },
       {
+        "id": "2026-09-09-Amazon-Bedrock-Managed-Knowledge-Base-adds-APIs-an",
+        "title": "Amazon Bedrock Knowledge BaseがドキュメントACLデバッグ用APIとコンソールを追加",
+        "date": "2026-09-09",
+        "year": 2026,
+        "month": 9,
+        "day": 9,
+        "path": "2026/09/09/Amazon-Bedrock-Managed-Knowledge-Base-adds-APIs-an",
+        "summary": "Amazon Bedrock Knowledge BaseがドキュメントACLデバッグ用APIとコンソールを追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/09/Amazon-Bedrock-Managed-Knowledge-Base-adds-APIs-an/thumbnail.png"
+      },
+      {
+        "id": "2026-09-09-Amazon-Bedrock-Managed-Knowledge-Base-now-supports",
+        "title": "Amazon BedrockがConfluence Data Centerのネイティブコネクタに対応",
+        "date": "2026-09-09",
+        "year": 2026,
+        "month": 9,
+        "day": 9,
+        "path": "2026/09/09/Amazon-Bedrock-Managed-Knowledge-Base-now-supports",
+        "summary": "Amazon BedrockがConfluence Data Centerのネイティブコネクタに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/09/Amazon-Bedrock-Managed-Knowledge-Base-now-supports/thumbnail.png"
+      },
+      {
         "id": "2026-09-09-Amazon-S3-Object-Lock-now-supports-variable-retent",
         "title": "Amazon S3 Object Lockがイベントホールドによる可変保持をサポート",
         "date": "2026-09-09",
@@ -6090,6 +6189,17 @@
         "path": "2026/09/09/Amazon-S3-Object-Lock-now-supports-variable-retent",
         "summary": "Amazon S3 Object Lockがイベントホールドによる可変保持をサポート",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/09/Amazon-S3-Object-Lock-now-supports-variable-retent/thumbnail.png"
+      },
+      {
+        "id": "2026-09-09-Dynamic-Image-Transformation-for-Amazon-CloudFront",
+        "title": "Amazon CloudFront向け動的画像変換に4つの新機能が追加",
+        "date": "2026-09-09",
+        "year": 2026,
+        "month": 9,
+        "day": 9,
+        "path": "2026/09/09/Dynamic-Image-Transformation-for-Amazon-CloudFront",
+        "summary": "Amazon CloudFront向け動的画像変換に4つの新機能が追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/09/Dynamic-Image-Transformation-for-Amazon-CloudFront/thumbnail.png"
       },
       {
         "id": "2026-09-09-OpenAI-GPT-6-Astra-is-now-generally-available-on-A",
