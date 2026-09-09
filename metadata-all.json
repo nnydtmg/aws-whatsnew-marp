@@ -2,6 +2,50 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-09-09-AWS-announces-Nx-Plugin-for-AWS-for-scaffolding-fu",
+        "title": "Nx Plugin for AWS 1.0が一般提供開始、フルスタックアプリを迅速にスキャフォールディング",
+        "date": "2026-09-09",
+        "year": 2026,
+        "month": 9,
+        "day": 9,
+        "path": "2026/09/09/AWS-announces-Nx-Plugin-for-AWS-for-scaffolding-fu",
+        "summary": "Nx Plugin for AWS 1.0が一般提供開始、フルスタックアプリを迅速にスキャフォールディング",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/09/AWS-announces-Nx-Plugin-for-AWS-for-scaffolding-fu/thumbnail.png"
+      },
+      {
+        "id": "2026-09-09-Amazon-API-Gateway-now-supports-mutual-TLS-for-bac",
+        "title": "Amazon API Gatewayがバックエンド統合で相互TLSをサポート",
+        "date": "2026-09-09",
+        "year": 2026,
+        "month": 9,
+        "day": 9,
+        "path": "2026/09/09/Amazon-API-Gateway-now-supports-mutual-TLS-for-bac",
+        "summary": "Amazon API Gatewayがバックエンド統合で相互TLSをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/09/Amazon-API-Gateway-now-supports-mutual-TLS-for-bac/thumbnail.png"
+      },
+      {
+        "id": "2026-09-09-Amazon-S3-Object-Lock-now-supports-variable-retent",
+        "title": "Amazon S3 Object Lockがイベントホールドによる可変保持をサポート",
+        "date": "2026-09-09",
+        "year": 2026,
+        "month": 9,
+        "day": 9,
+        "path": "2026/09/09/Amazon-S3-Object-Lock-now-supports-variable-retent",
+        "summary": "Amazon S3 Object Lockがイベントホールドによる可変保持をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/09/Amazon-S3-Object-Lock-now-supports-variable-retent/thumbnail.png"
+      },
+      {
+        "id": "2026-09-09-OpenAI-GPT-6-Astra-is-now-generally-available-on-A",
+        "title": "Amazon Bedrock で OpenAI GPT-6 Astra が一般提供開始",
+        "date": "2026-09-09",
+        "year": 2026,
+        "month": 9,
+        "day": 9,
+        "path": "2026/09/09/OpenAI-GPT-6-Astra-is-now-generally-available-on-A",
+        "summary": "Amazon Bedrock で OpenAI GPT 6 Astra が一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/09/OpenAI-GPT-6-Astra-is-now-generally-available-on-A/thumbnail.png"
+      },
+      {
         "id": "2026-09-08-AWS-Builder-ID-adds-recovery-options-and-multi-fac",
         "title": "AWS Builder IDがリカバリーオプションとサードパーティログイン向けMFAを追加",
         "date": "2026-09-08",
@@ -5997,8 +6041,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-09-09T00:49:46.629Z",
-    "totalCount": 545
+    "updatedAt": "2026-09-09T05:30:49.973Z",
+    "totalCount": 549
   },
   "metadata:months": [
     "2026/09",
@@ -6014,6 +6058,50 @@
     "year": 2026,
     "month": 9,
     "articles": [
+      {
+        "id": "2026-09-09-AWS-announces-Nx-Plugin-for-AWS-for-scaffolding-fu",
+        "title": "Nx Plugin for AWS 1.0が一般提供開始、フルスタックアプリを迅速にスキャフォールディング",
+        "date": "2026-09-09",
+        "year": 2026,
+        "month": 9,
+        "day": 9,
+        "path": "2026/09/09/AWS-announces-Nx-Plugin-for-AWS-for-scaffolding-fu",
+        "summary": "Nx Plugin for AWS 1.0が一般提供開始、フルスタックアプリを迅速にスキャフォールディング",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/09/AWS-announces-Nx-Plugin-for-AWS-for-scaffolding-fu/thumbnail.png"
+      },
+      {
+        "id": "2026-09-09-Amazon-API-Gateway-now-supports-mutual-TLS-for-bac",
+        "title": "Amazon API Gatewayがバックエンド統合で相互TLSをサポート",
+        "date": "2026-09-09",
+        "year": 2026,
+        "month": 9,
+        "day": 9,
+        "path": "2026/09/09/Amazon-API-Gateway-now-supports-mutual-TLS-for-bac",
+        "summary": "Amazon API Gatewayがバックエンド統合で相互TLSをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/09/Amazon-API-Gateway-now-supports-mutual-TLS-for-bac/thumbnail.png"
+      },
+      {
+        "id": "2026-09-09-Amazon-S3-Object-Lock-now-supports-variable-retent",
+        "title": "Amazon S3 Object Lockがイベントホールドによる可変保持をサポート",
+        "date": "2026-09-09",
+        "year": 2026,
+        "month": 9,
+        "day": 9,
+        "path": "2026/09/09/Amazon-S3-Object-Lock-now-supports-variable-retent",
+        "summary": "Amazon S3 Object Lockがイベントホールドによる可変保持をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/09/Amazon-S3-Object-Lock-now-supports-variable-retent/thumbnail.png"
+      },
+      {
+        "id": "2026-09-09-OpenAI-GPT-6-Astra-is-now-generally-available-on-A",
+        "title": "Amazon Bedrock で OpenAI GPT-6 Astra が一般提供開始",
+        "date": "2026-09-09",
+        "year": 2026,
+        "month": 9,
+        "day": 9,
+        "path": "2026/09/09/OpenAI-GPT-6-Astra-is-now-generally-available-on-A",
+        "summary": "Amazon Bedrock で OpenAI GPT 6 Astra が一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/09/OpenAI-GPT-6-Astra-is-now-generally-available-on-A/thumbnail.png"
+      },
       {
         "id": "2026-09-08-AWS-Builder-ID-adds-recovery-options-and-multi-fac",
         "title": "AWS Builder IDがリカバリーオプションとサードパーティログイン向けMFAを追加",
