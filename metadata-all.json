@@ -2,6 +2,83 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-09-10-AWS-Lambda-durable-functions-integrates-with-Pydan",
+        "title": "AWS Lambda durable functions が Pydantic AI との統合を発表",
+        "date": "2026-09-10",
+        "year": 2026,
+        "month": 9,
+        "day": 10,
+        "path": "2026/09/10/AWS-Lambda-durable-functions-integrates-with-Pydan",
+        "summary": "AWS Lambda durable functions が Pydantic AI との統合を発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/10/AWS-Lambda-durable-functions-integrates-with-Pydan/thumbnail.png"
+      },
+      {
+        "id": "2026-09-10-Amazon-API-Gateway-now-supports-1-MB-execution-log",
+        "title": "Amazon API Gateway が1MBの実行ログと設定可能な配信先をサポート",
+        "date": "2026-09-10",
+        "year": 2026,
+        "month": 9,
+        "day": 10,
+        "path": "2026/09/10/Amazon-API-Gateway-now-supports-1-MB-execution-log",
+        "summary": "Amazon API Gateway が1MBの実行ログと設定可能な配信先をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/10/Amazon-API-Gateway-now-supports-1-MB-execution-log/thumbnail.png"
+      },
+      {
+        "id": "2026-09-10-Amazon-CloudWatch-now-supports-network-health-indi",
+        "title": "Amazon CloudWatch が TGW インターリージョンピアリングのネットワークヘルスインジケーターをサポート",
+        "date": "2026-09-10",
+        "year": 2026,
+        "month": 9,
+        "day": 10,
+        "path": "2026/09/10/Amazon-CloudWatch-now-supports-network-health-indi",
+        "summary": "Amazon CloudWatch が TGW インターリージョンピアリングのネットワークヘルスインジケーターをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/10/Amazon-CloudWatch-now-supports-network-health-indi/thumbnail.png"
+      },
+      {
+        "id": "2026-09-10-Amazon-ECS-expands-IAM-condition-key-support-for-R",
+        "title": "Amazon ECS が RunTask / StartTask API で IAM 条件キーのサポートを拡大",
+        "date": "2026-09-10",
+        "year": 2026,
+        "month": 9,
+        "day": 10,
+        "path": "2026/09/10/Amazon-ECS-expands-IAM-condition-key-support-for-R",
+        "summary": "Amazon ECS が RunTask / StartTask API で IAM 条件キーのサポートを拡大",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/10/Amazon-ECS-expands-IAM-condition-key-support-for-R/thumbnail.png"
+      },
+      {
+        "id": "2026-09-10-Amazon-OpenSearch-Serverless-is-now-available-on-v",
+        "title": "Amazon OpenSearch ServerlessがVercelのv0で利用可能に",
+        "date": "2026-09-10",
+        "year": 2026,
+        "month": 9,
+        "day": 10,
+        "path": "2026/09/10/Amazon-OpenSearch-Serverless-is-now-available-on-v",
+        "summary": "Amazon OpenSearch ServerlessがVercelのv0で利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/10/Amazon-OpenSearch-Serverless-is-now-available-on-v/thumbnail.png"
+      },
+      {
+        "id": "2026-09-10-CloudWatch-Network-Monitor-now-provides-NHI-for-Tr",
+        "title": "Amazon CloudWatch Network Monitor、Transit Gateway ピアリングで NHI をサポート",
+        "date": "2026-09-10",
+        "year": 2026,
+        "month": 9,
+        "day": 10,
+        "path": "2026/09/10/CloudWatch-Network-Monitor-now-provides-NHI-for-Tr",
+        "summary": "Amazon CloudWatch Network Monitor、Transit Gateway ピアリングで NHI をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/10/CloudWatch-Network-Monitor-now-provides-NHI-for-Tr/thumbnail.png"
+      },
+      {
+        "id": "2026-09-10-Introducing-Amazon-EBS-Volume-Clones-across-AWS-ac",
+        "title": "Amazon EBS Volume ClonesがAWSアカウント間コピーに対応",
+        "date": "2026-09-10",
+        "year": 2026,
+        "month": 9,
+        "day": 10,
+        "path": "2026/09/10/Introducing-Amazon-EBS-Volume-Clones-across-AWS-ac",
+        "summary": "Amazon EBS Volume ClonesがAWSアカウント間コピーに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/10/Introducing-Amazon-EBS-Volume-Clones-across-AWS-ac/thumbnail.png"
+      },
+      {
         "id": "2026-09-09-AWS-Lambda-now-supports-90-minute-function-timeout",
         "title": "AWS Lambda Managed Instances が関数タイムアウト最大90分をサポート",
         "date": "2026-09-09",
@@ -66,6 +143,39 @@
         "path": "2026/09/09/Amazon-Bedrock-Managed-Knowledge-Base-now-supports",
         "summary": "Amazon BedrockがConfluence Data Centerのネイティブコネクタに対応",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/09/Amazon-Bedrock-Managed-Knowledge-Base-now-supports/thumbnail.png"
+      },
+      {
+        "id": "2026-09-09-Amazon-Quick-activity-feed-now-available-on-iOS-an",
+        "title": "Amazon Quick アクティビティフィードがiOS・Androidモバイルアプリで利用可能に",
+        "date": "2026-09-09",
+        "year": 2026,
+        "month": 9,
+        "day": 9,
+        "path": "2026/09/09/Amazon-Quick-activity-feed-now-available-on-iOS-an",
+        "summary": "Amazon Quick アクティビティフィードがiOS・Androidモバイルアプリで利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/09/Amazon-Quick-activity-feed-now-available-on-iOS-an/thumbnail.png"
+      },
+      {
+        "id": "2026-09-09-Amazon-Quick-adds-always-on-agents-a-sharper-feed",
+        "title": "Amazon Quick が常時稼働エージェント、強化フィード、エンタープライズ管理機能を追加",
+        "date": "2026-09-09",
+        "year": 2026,
+        "month": 9,
+        "day": 9,
+        "path": "2026/09/09/Amazon-Quick-adds-always-on-agents-a-sharper-feed",
+        "summary": "Amazon Quick が常時稼働エージェント、強化フィード、エンタープライズ管理機能を追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/09/Amazon-Quick-adds-always-on-agents-a-sharper-feed/thumbnail.png"
+      },
+      {
+        "id": "2026-09-09-Amazon-Quick-desktop-app-is-now-generally-availabl",
+        "title": "Amazon Quick デスクトップアプリが macOS と Windows で一般提供開始",
+        "date": "2026-09-09",
+        "year": 2026,
+        "month": 9,
+        "day": 9,
+        "path": "2026/09/09/Amazon-Quick-desktop-app-is-now-generally-availabl",
+        "summary": "Amazon Quick デスクトップアプリが macOS と Windows で一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/09/Amazon-Quick-desktop-app-is-now-generally-availabl/thumbnail.png"
       },
       {
         "id": "2026-09-09-Amazon-S3-Object-Lock-now-supports-variable-retent",
@@ -6096,8 +6206,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-09-10T21:17:28.653Z",
-    "totalCount": 554
+    "updatedAt": "2026-09-10T23:32:51.753Z",
+    "totalCount": 564
   },
   "metadata:months": [
     "2026/09",
@@ -6113,6 +6223,83 @@
     "year": 2026,
     "month": 9,
     "articles": [
+      {
+        "id": "2026-09-10-AWS-Lambda-durable-functions-integrates-with-Pydan",
+        "title": "AWS Lambda durable functions が Pydantic AI との統合を発表",
+        "date": "2026-09-10",
+        "year": 2026,
+        "month": 9,
+        "day": 10,
+        "path": "2026/09/10/AWS-Lambda-durable-functions-integrates-with-Pydan",
+        "summary": "AWS Lambda durable functions が Pydantic AI との統合を発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/10/AWS-Lambda-durable-functions-integrates-with-Pydan/thumbnail.png"
+      },
+      {
+        "id": "2026-09-10-Amazon-API-Gateway-now-supports-1-MB-execution-log",
+        "title": "Amazon API Gateway が1MBの実行ログと設定可能な配信先をサポート",
+        "date": "2026-09-10",
+        "year": 2026,
+        "month": 9,
+        "day": 10,
+        "path": "2026/09/10/Amazon-API-Gateway-now-supports-1-MB-execution-log",
+        "summary": "Amazon API Gateway が1MBの実行ログと設定可能な配信先をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/10/Amazon-API-Gateway-now-supports-1-MB-execution-log/thumbnail.png"
+      },
+      {
+        "id": "2026-09-10-Amazon-CloudWatch-now-supports-network-health-indi",
+        "title": "Amazon CloudWatch が TGW インターリージョンピアリングのネットワークヘルスインジケーターをサポート",
+        "date": "2026-09-10",
+        "year": 2026,
+        "month": 9,
+        "day": 10,
+        "path": "2026/09/10/Amazon-CloudWatch-now-supports-network-health-indi",
+        "summary": "Amazon CloudWatch が TGW インターリージョンピアリングのネットワークヘルスインジケーターをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/10/Amazon-CloudWatch-now-supports-network-health-indi/thumbnail.png"
+      },
+      {
+        "id": "2026-09-10-Amazon-ECS-expands-IAM-condition-key-support-for-R",
+        "title": "Amazon ECS が RunTask / StartTask API で IAM 条件キーのサポートを拡大",
+        "date": "2026-09-10",
+        "year": 2026,
+        "month": 9,
+        "day": 10,
+        "path": "2026/09/10/Amazon-ECS-expands-IAM-condition-key-support-for-R",
+        "summary": "Amazon ECS が RunTask / StartTask API で IAM 条件キーのサポートを拡大",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/10/Amazon-ECS-expands-IAM-condition-key-support-for-R/thumbnail.png"
+      },
+      {
+        "id": "2026-09-10-Amazon-OpenSearch-Serverless-is-now-available-on-v",
+        "title": "Amazon OpenSearch ServerlessがVercelのv0で利用可能に",
+        "date": "2026-09-10",
+        "year": 2026,
+        "month": 9,
+        "day": 10,
+        "path": "2026/09/10/Amazon-OpenSearch-Serverless-is-now-available-on-v",
+        "summary": "Amazon OpenSearch ServerlessがVercelのv0で利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/10/Amazon-OpenSearch-Serverless-is-now-available-on-v/thumbnail.png"
+      },
+      {
+        "id": "2026-09-10-CloudWatch-Network-Monitor-now-provides-NHI-for-Tr",
+        "title": "Amazon CloudWatch Network Monitor、Transit Gateway ピアリングで NHI をサポート",
+        "date": "2026-09-10",
+        "year": 2026,
+        "month": 9,
+        "day": 10,
+        "path": "2026/09/10/CloudWatch-Network-Monitor-now-provides-NHI-for-Tr",
+        "summary": "Amazon CloudWatch Network Monitor、Transit Gateway ピアリングで NHI をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/10/CloudWatch-Network-Monitor-now-provides-NHI-for-Tr/thumbnail.png"
+      },
+      {
+        "id": "2026-09-10-Introducing-Amazon-EBS-Volume-Clones-across-AWS-ac",
+        "title": "Amazon EBS Volume ClonesがAWSアカウント間コピーに対応",
+        "date": "2026-09-10",
+        "year": 2026,
+        "month": 9,
+        "day": 10,
+        "path": "2026/09/10/Introducing-Amazon-EBS-Volume-Clones-across-AWS-ac",
+        "summary": "Amazon EBS Volume ClonesがAWSアカウント間コピーに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/10/Introducing-Amazon-EBS-Volume-Clones-across-AWS-ac/thumbnail.png"
+      },
       {
         "id": "2026-09-09-AWS-Lambda-now-supports-90-minute-function-timeout",
         "title": "AWS Lambda Managed Instances が関数タイムアウト最大90分をサポート",
@@ -6178,6 +6365,39 @@
         "path": "2026/09/09/Amazon-Bedrock-Managed-Knowledge-Base-now-supports",
         "summary": "Amazon BedrockがConfluence Data Centerのネイティブコネクタに対応",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/09/Amazon-Bedrock-Managed-Knowledge-Base-now-supports/thumbnail.png"
+      },
+      {
+        "id": "2026-09-09-Amazon-Quick-activity-feed-now-available-on-iOS-an",
+        "title": "Amazon Quick アクティビティフィードがiOS・Androidモバイルアプリで利用可能に",
+        "date": "2026-09-09",
+        "year": 2026,
+        "month": 9,
+        "day": 9,
+        "path": "2026/09/09/Amazon-Quick-activity-feed-now-available-on-iOS-an",
+        "summary": "Amazon Quick アクティビティフィードがiOS・Androidモバイルアプリで利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/09/Amazon-Quick-activity-feed-now-available-on-iOS-an/thumbnail.png"
+      },
+      {
+        "id": "2026-09-09-Amazon-Quick-adds-always-on-agents-a-sharper-feed",
+        "title": "Amazon Quick が常時稼働エージェント、強化フィード、エンタープライズ管理機能を追加",
+        "date": "2026-09-09",
+        "year": 2026,
+        "month": 9,
+        "day": 9,
+        "path": "2026/09/09/Amazon-Quick-adds-always-on-agents-a-sharper-feed",
+        "summary": "Amazon Quick が常時稼働エージェント、強化フィード、エンタープライズ管理機能を追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/09/Amazon-Quick-adds-always-on-agents-a-sharper-feed/thumbnail.png"
+      },
+      {
+        "id": "2026-09-09-Amazon-Quick-desktop-app-is-now-generally-availabl",
+        "title": "Amazon Quick デスクトップアプリが macOS と Windows で一般提供開始",
+        "date": "2026-09-09",
+        "year": 2026,
+        "month": 9,
+        "day": 9,
+        "path": "2026/09/09/Amazon-Quick-desktop-app-is-now-generally-availabl",
+        "summary": "Amazon Quick デスクトップアプリが macOS と Windows で一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/09/Amazon-Quick-desktop-app-is-now-generally-availabl/thumbnail.png"
       },
       {
         "id": "2026-09-09-Amazon-S3-Object-Lock-now-supports-variable-retent",
@@ -6444,7 +6664,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/01/Claude-Fable-51-Anthropics-new-frontier-model-is-n/thumbnail.png"
       }
     ],
-    "totalPages": 3
+    "totalPages": 4
   },
   "metadata:2026/08": {
     "year": 2026,

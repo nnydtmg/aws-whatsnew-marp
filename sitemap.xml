@@ -6,6 +6,48 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-10-AWS-Lambda-durable-functions-integrates-with-Pydan</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-10-Amazon-API-Gateway-now-supports-1-MB-execution-log</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-10-Amazon-CloudWatch-now-supports-network-health-indi</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-10-Amazon-ECS-expands-IAM-condition-key-support-for-R</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-10-Amazon-OpenSearch-Serverless-is-now-available-on-v</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-10-CloudWatch-Network-Monitor-now-provides-NHI-for-Tr</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-10-Introducing-Amazon-EBS-Volume-Clones-across-AWS-ac</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-09-AWS-Lambda-now-supports-90-minute-function-timeout</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>never</changefreq>
@@ -37,6 +79,24 @@
   </url>
   <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-09-Amazon-Bedrock-Managed-Knowledge-Base-now-supports</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-09-Amazon-Quick-activity-feed-now-available-on-iOS-an</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-09-Amazon-Quick-adds-always-on-agents-a-sharper-feed</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-09-Amazon-Quick-desktop-app-is-now-generally-availabl</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
