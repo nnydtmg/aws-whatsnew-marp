@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-09-12-AWS-Lambda-now-supports-direct-read-configuration",
+        "title": "AWS LambdaがAmazon S3 Filesのダイレクトリード設定をサポート",
+        "date": "2026-09-12",
+        "year": 2026,
+        "month": 9,
+        "day": 12,
+        "path": "2026/09/12/AWS-Lambda-now-supports-direct-read-configuration",
+        "summary": "AWS LambdaがAmazon S3 Filesのダイレクトリード設定をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/12/AWS-Lambda-now-supports-direct-read-configuration/thumbnail.png"
+      },
+      {
         "id": "2026-09-11-AWS-DevOps-Agent-adds-support-for-bidirectional-Sl",
         "title": "AWS DevOps AgentがSlackとの双方向通信に対応",
         "date": "2026-09-11",
@@ -6239,8 +6250,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-09-12T02:00:07.081Z",
-    "totalCount": 567
+    "updatedAt": "2026-09-12T06:52:36.079Z",
+    "totalCount": 568
   },
   "metadata:months": [
     "2026/09",
@@ -6256,6 +6267,17 @@
     "year": 2026,
     "month": 9,
     "articles": [
+      {
+        "id": "2026-09-12-AWS-Lambda-now-supports-direct-read-configuration",
+        "title": "AWS LambdaがAmazon S3 Filesのダイレクトリード設定をサポート",
+        "date": "2026-09-12",
+        "year": 2026,
+        "month": 9,
+        "day": 12,
+        "path": "2026/09/12/AWS-Lambda-now-supports-direct-read-configuration",
+        "summary": "AWS LambdaがAmazon S3 Filesのダイレクトリード設定をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/12/AWS-Lambda-now-supports-direct-read-configuration/thumbnail.png"
+      },
       {
         "id": "2026-09-11-AWS-DevOps-Agent-adds-support-for-bidirectional-Sl",
         "title": "AWS DevOps AgentがSlackとの双方向通信に対応",
