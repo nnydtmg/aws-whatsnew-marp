@@ -2,6 +2,39 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-09-11-AWS-DevOps-Agent-adds-support-for-bidirectional-Sl",
+        "title": "AWS DevOps AgentがSlackとの双方向通信に対応",
+        "date": "2026-09-11",
+        "year": 2026,
+        "month": 9,
+        "day": 11,
+        "path": "2026/09/11/AWS-DevOps-Agent-adds-support-for-bidirectional-Sl",
+        "summary": "AWS DevOps AgentがSlackとの双方向通信に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/11/AWS-DevOps-Agent-adds-support-for-bidirectional-Sl/thumbnail.png"
+      },
+      {
+        "id": "2026-09-11-AWS-Marketplace-sellers-now-receive-qualified-demo",
+        "title": "AWS Marketplaceの販売者が資格確認済みのデモ・プライベートオファー依頼を数分で受信可能に",
+        "date": "2026-09-11",
+        "year": 2026,
+        "month": 9,
+        "day": 11,
+        "path": "2026/09/11/AWS-Marketplace-sellers-now-receive-qualified-demo",
+        "summary": "AWS Marketplaceの販売者が資格確認済みのデモ・プライベートオファー依頼を数分で受信可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/11/AWS-Marketplace-sellers-now-receive-qualified-demo/thumbnail.png"
+      },
+      {
+        "id": "2026-09-11-Amazon-Bedrock-Managed-Knowledge-Base-now-supports",
+        "title": "Amazon Bedrock Knowledge BaseがTwelveLabs Marengo 3.0のマルチモーダル埋め込みに対応",
+        "date": "2026-09-11",
+        "year": 2026,
+        "month": 9,
+        "day": 11,
+        "path": "2026/09/11/Amazon-Bedrock-Managed-Knowledge-Base-now-supports",
+        "summary": "Amazon Bedrock Knowledge BaseがTwelveLabs Marengo 3.0のマルチモーダル埋め込みに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/11/Amazon-Bedrock-Managed-Knowledge-Base-now-supports/thumbnail.png"
+      },
+      {
         "id": "2026-09-10-AWS-Lambda-durable-functions-integrates-with-Pydan",
         "title": "AWS Lambda durable functions が Pydantic AI との統合を発表",
         "date": "2026-09-10",
@@ -6206,8 +6239,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-09-11T21:25:32.596Z",
-    "totalCount": 564
+    "updatedAt": "2026-09-12T02:00:07.081Z",
+    "totalCount": 567
   },
   "metadata:months": [
     "2026/09",
@@ -6223,6 +6256,39 @@
     "year": 2026,
     "month": 9,
     "articles": [
+      {
+        "id": "2026-09-11-AWS-DevOps-Agent-adds-support-for-bidirectional-Sl",
+        "title": "AWS DevOps AgentがSlackとの双方向通信に対応",
+        "date": "2026-09-11",
+        "year": 2026,
+        "month": 9,
+        "day": 11,
+        "path": "2026/09/11/AWS-DevOps-Agent-adds-support-for-bidirectional-Sl",
+        "summary": "AWS DevOps AgentがSlackとの双方向通信に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/11/AWS-DevOps-Agent-adds-support-for-bidirectional-Sl/thumbnail.png"
+      },
+      {
+        "id": "2026-09-11-AWS-Marketplace-sellers-now-receive-qualified-demo",
+        "title": "AWS Marketplaceの販売者が資格確認済みのデモ・プライベートオファー依頼を数分で受信可能に",
+        "date": "2026-09-11",
+        "year": 2026,
+        "month": 9,
+        "day": 11,
+        "path": "2026/09/11/AWS-Marketplace-sellers-now-receive-qualified-demo",
+        "summary": "AWS Marketplaceの販売者が資格確認済みのデモ・プライベートオファー依頼を数分で受信可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/11/AWS-Marketplace-sellers-now-receive-qualified-demo/thumbnail.png"
+      },
+      {
+        "id": "2026-09-11-Amazon-Bedrock-Managed-Knowledge-Base-now-supports",
+        "title": "Amazon Bedrock Knowledge BaseがTwelveLabs Marengo 3.0のマルチモーダル埋め込みに対応",
+        "date": "2026-09-11",
+        "year": 2026,
+        "month": 9,
+        "day": 11,
+        "path": "2026/09/11/Amazon-Bedrock-Managed-Knowledge-Base-now-supports",
+        "summary": "Amazon Bedrock Knowledge BaseがTwelveLabs Marengo 3.0のマルチモーダル埋め込みに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/11/Amazon-Bedrock-Managed-Knowledge-Base-now-supports/thumbnail.png"
+      },
       {
         "id": "2026-09-10-AWS-Lambda-durable-functions-integrates-with-Pydan",
         "title": "AWS Lambda durable functions が Pydantic AI との統合を発表",
@@ -6664,7 +6730,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/01/Claude-Fable-51-Anthropics-new-frontier-model-is-n/thumbnail.png"
       }
     ],
-    "totalPages": 4
+    "totalPages": 5
   },
   "metadata:2026/08": {
     "year": 2026,
