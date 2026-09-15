@@ -6,7 +6,25 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-15-AWS-Billing-Conductor-now-supports-custom-rates-an</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-15-AWS-Glue-zero-ETL-adds-target-table-property-owner</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-15-AWS-improves-regional-resiliency-for-root-user-sig</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-15-Analyze-your-CloudTrail-events-using-natural-langu</loc>
     <lastmod>2026-09-15</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
