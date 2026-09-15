@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-09-14-AWS-End-User-Messaging-strengthens-SMS-deliverabil",
+        "title": "AWS End User MessagingがSMS配信に自動フェイルオーバーを導入",
+        "date": "2026-09-14",
+        "year": 2026,
+        "month": 9,
+        "day": 14,
+        "path": "2026/09/14/AWS-End-User-Messaging-strengthens-SMS-deliverabil",
+        "summary": "AWS End User MessagingがSMS配信に自動フェイルオーバーを導入",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/14/AWS-End-User-Messaging-strengthens-SMS-deliverabil/thumbnail.png"
+      },
+      {
         "id": "2026-09-12-AWS-Lambda-now-supports-direct-read-configuration",
         "title": "AWS LambdaがAmazon S3 Filesのダイレクトリード設定をサポート",
         "date": "2026-09-12",
@@ -6250,8 +6261,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-09-14T23:00:05.669Z",
-    "totalCount": 568
+    "updatedAt": "2026-09-15T01:13:05.563Z",
+    "totalCount": 569
   },
   "metadata:months": [
     "2026/09",
@@ -6267,6 +6278,17 @@
     "year": 2026,
     "month": 9,
     "articles": [
+      {
+        "id": "2026-09-14-AWS-End-User-Messaging-strengthens-SMS-deliverabil",
+        "title": "AWS End User MessagingがSMS配信に自動フェイルオーバーを導入",
+        "date": "2026-09-14",
+        "year": 2026,
+        "month": 9,
+        "day": 14,
+        "path": "2026/09/14/AWS-End-User-Messaging-strengthens-SMS-deliverabil",
+        "summary": "AWS End User MessagingがSMS配信に自動フェイルオーバーを導入",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/14/AWS-End-User-Messaging-strengthens-SMS-deliverabil/thumbnail.png"
+      },
       {
         "id": "2026-09-12-AWS-Lambda-now-supports-direct-read-configuration",
         "title": "AWS LambdaがAmazon S3 Filesのダイレクトリード設定をサポート",
