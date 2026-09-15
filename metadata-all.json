@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-09-15-AWS-Glue-zero-ETL-adds-target-table-property-owner",
+        "title": "AWS Glue zero-ETLがターゲットテーブルの所有権追跡と競合検出を追加",
+        "date": "2026-09-15",
+        "year": 2026,
+        "month": 9,
+        "day": 15,
+        "path": "2026/09/15/AWS-Glue-zero-ETL-adds-target-table-property-owner",
+        "summary": "AWS Glue zero ETLがターゲットテーブルの所有権追跡と競合検出を追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/15/AWS-Glue-zero-ETL-adds-target-table-property-owner/thumbnail.png"
+      },
+      {
         "id": "2026-09-14-AWS-End-User-Messaging-strengthens-SMS-deliverabil",
         "title": "AWS End User MessagingがSMS配信に自動フェイルオーバーを導入",
         "date": "2026-09-14",
@@ -6261,8 +6272,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-09-15T06:55:36.758Z",
-    "totalCount": 569
+    "updatedAt": "2026-09-15T12:20:48.105Z",
+    "totalCount": 570
   },
   "metadata:months": [
     "2026/09",
@@ -6278,6 +6289,17 @@
     "year": 2026,
     "month": 9,
     "articles": [
+      {
+        "id": "2026-09-15-AWS-Glue-zero-ETL-adds-target-table-property-owner",
+        "title": "AWS Glue zero-ETLがターゲットテーブルの所有権追跡と競合検出を追加",
+        "date": "2026-09-15",
+        "year": 2026,
+        "month": 9,
+        "day": 15,
+        "path": "2026/09/15/AWS-Glue-zero-ETL-adds-target-table-property-owner",
+        "summary": "AWS Glue zero ETLがターゲットテーブルの所有権追跡と競合検出を追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/15/AWS-Glue-zero-ETL-adds-target-table-property-owner/thumbnail.png"
+      },
       {
         "id": "2026-09-14-AWS-End-User-Messaging-strengthens-SMS-deliverabil",
         "title": "AWS End User MessagingがSMS配信に自動フェイルオーバーを導入",
