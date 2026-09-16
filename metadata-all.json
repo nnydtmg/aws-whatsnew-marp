@@ -13,6 +13,50 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/16/AWS-Direct-Connect-announces-flat-rate-pricing-for/thumbnail.png"
       },
       {
+        "id": "2026-09-16-AWS-STS-simplifies-session-token-size-limits-and-a",
+        "title": "AWS STSがセッショントークンサイズ制限を簡素化し監視機能を追加",
+        "date": "2026-09-16",
+        "year": 2026,
+        "month": 9,
+        "day": 16,
+        "path": "2026/09/16/AWS-STS-simplifies-session-token-size-limits-and-a",
+        "summary": "AWS STSがセッショントークンサイズ制限を簡素化し監視機能を追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/16/AWS-STS-simplifies-session-token-size-limits-and-a/thumbnail.png"
+      },
+      {
+        "id": "2026-09-16-AWS-Step-Functions-adds-new-AWS-service-integratio",
+        "title": "AWS Step Functionsが新サービス統合を自動追加、Lambda MicroVMsから開始",
+        "date": "2026-09-16",
+        "year": 2026,
+        "month": 9,
+        "day": 16,
+        "path": "2026/09/16/AWS-Step-Functions-adds-new-AWS-service-integratio",
+        "summary": "AWS Step Functionsが新サービス統合を自動追加、Lambda MicroVMsから開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/16/AWS-Step-Functions-adds-new-AWS-service-integratio/thumbnail.png"
+      },
+      {
+        "id": "2026-09-16-AWS-reimagines-the-getting-started-experience",
+        "title": "AWSが新規顧客向けの開始体験を刷新",
+        "date": "2026-09-16",
+        "year": 2026,
+        "month": 9,
+        "day": 16,
+        "path": "2026/09/16/AWS-reimagines-the-getting-started-experience",
+        "summary": "AWSが新規顧客向けの開始体験を刷新",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/16/AWS-reimagines-the-getting-started-experience/thumbnail.png"
+      },
+      {
+        "id": "2026-09-16-Amazon-ECS-extends-Amazon-S3-Files-support-to-the",
+        "title": "Amazon ECS が Amazon S3 Files のサポートを EC2 起動タイプに拡張",
+        "date": "2026-09-16",
+        "year": 2026,
+        "month": 9,
+        "day": 16,
+        "path": "2026/09/16/Amazon-ECS-extends-Amazon-S3-Files-support-to-the",
+        "summary": "Amazon ECS が Amazon S3 Files のサポートを EC2 起動タイプに拡張",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/16/Amazon-ECS-extends-Amazon-S3-Files-support-to-the/thumbnail.png"
+      },
+      {
         "id": "2026-09-16-Monitor-cost-anomalies-directly-in-Billing-and-Cos",
         "title": "AWS Billing and Cost Managementダッシュボードでコスト異常を監視可能に",
         "date": "2026-09-16",
@@ -6327,8 +6371,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-09-16T20:35:23.683Z",
-    "totalCount": 575
+    "updatedAt": "2026-09-16T23:22:32.341Z",
+    "totalCount": 579
   },
   "metadata:months": [
     "2026/09",
@@ -6354,6 +6398,50 @@
         "path": "2026/09/16/AWS-Direct-Connect-announces-flat-rate-pricing-for",
         "summary": "AWS Direct Connectが専用接続向け定額料金を発表",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/16/AWS-Direct-Connect-announces-flat-rate-pricing-for/thumbnail.png"
+      },
+      {
+        "id": "2026-09-16-AWS-STS-simplifies-session-token-size-limits-and-a",
+        "title": "AWS STSがセッショントークンサイズ制限を簡素化し監視機能を追加",
+        "date": "2026-09-16",
+        "year": 2026,
+        "month": 9,
+        "day": 16,
+        "path": "2026/09/16/AWS-STS-simplifies-session-token-size-limits-and-a",
+        "summary": "AWS STSがセッショントークンサイズ制限を簡素化し監視機能を追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/16/AWS-STS-simplifies-session-token-size-limits-and-a/thumbnail.png"
+      },
+      {
+        "id": "2026-09-16-AWS-Step-Functions-adds-new-AWS-service-integratio",
+        "title": "AWS Step Functionsが新サービス統合を自動追加、Lambda MicroVMsから開始",
+        "date": "2026-09-16",
+        "year": 2026,
+        "month": 9,
+        "day": 16,
+        "path": "2026/09/16/AWS-Step-Functions-adds-new-AWS-service-integratio",
+        "summary": "AWS Step Functionsが新サービス統合を自動追加、Lambda MicroVMsから開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/16/AWS-Step-Functions-adds-new-AWS-service-integratio/thumbnail.png"
+      },
+      {
+        "id": "2026-09-16-AWS-reimagines-the-getting-started-experience",
+        "title": "AWSが新規顧客向けの開始体験を刷新",
+        "date": "2026-09-16",
+        "year": 2026,
+        "month": 9,
+        "day": 16,
+        "path": "2026/09/16/AWS-reimagines-the-getting-started-experience",
+        "summary": "AWSが新規顧客向けの開始体験を刷新",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/16/AWS-reimagines-the-getting-started-experience/thumbnail.png"
+      },
+      {
+        "id": "2026-09-16-Amazon-ECS-extends-Amazon-S3-Files-support-to-the",
+        "title": "Amazon ECS が Amazon S3 Files のサポートを EC2 起動タイプに拡張",
+        "date": "2026-09-16",
+        "year": 2026,
+        "month": 9,
+        "day": 16,
+        "path": "2026/09/16/Amazon-ECS-extends-Amazon-S3-Files-support-to-the",
+        "summary": "Amazon ECS が Amazon S3 Files のサポートを EC2 起動タイプに拡張",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/16/Amazon-ECS-extends-Amazon-S3-Files-support-to-the/thumbnail.png"
       },
       {
         "id": "2026-09-16-Monitor-cost-anomalies-directly-in-Billing-and-Cos",
