@@ -6,6 +6,12 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-17-AWS-Batch-now-supports-bulk-job-cancellation-and-t</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-16-AWS-Direct-Connect-announces-flat-rate-pricing-for</loc>
     <lastmod>2026-09-16</lastmod>
     <changefreq>never</changefreq>
@@ -25,6 +31,12 @@
   </url>
   <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-16-AWS-reimagines-the-getting-started-experience</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-16-Amazon-ECS-deployment-observability-for-Amazon-ECS</loc>
     <lastmod>2026-09-16</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>

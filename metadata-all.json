@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-09-17-AWS-Batch-now-supports-bulk-job-cancellation-and-t",
+        "title": "AWS Batch が一括ジョブキャンセル・終了機能に対応",
+        "date": "2026-09-17",
+        "year": 2026,
+        "month": 9,
+        "day": 17,
+        "path": "2026/09/17/AWS-Batch-now-supports-bulk-job-cancellation-and-t",
+        "summary": "AWS Batch が一括ジョブキャンセル・終了機能に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/17/AWS-Batch-now-supports-bulk-job-cancellation-and-t/thumbnail.png"
+      },
+      {
         "id": "2026-09-16-AWS-Direct-Connect-announces-flat-rate-pricing-for",
         "title": "AWS Direct Connectが専用接続向け定額料金を発表",
         "date": "2026-09-16",
@@ -44,6 +55,17 @@
         "path": "2026/09/16/AWS-reimagines-the-getting-started-experience",
         "summary": "AWSが新規顧客向けの開始体験を刷新",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/16/AWS-reimagines-the-getting-started-experience/thumbnail.png"
+      },
+      {
+        "id": "2026-09-16-Amazon-ECS-deployment-observability-for-Amazon-ECS",
+        "title": "Amazon ECS Managed Daemons のデプロイメント可視化がコンソールで利用可能に",
+        "date": "2026-09-16",
+        "year": 2026,
+        "month": 9,
+        "day": 16,
+        "path": "2026/09/16/Amazon-ECS-deployment-observability-for-Amazon-ECS",
+        "summary": "Amazon ECS Managed Daemons のデプロイメント可視化がコンソールで利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/16/Amazon-ECS-deployment-observability-for-Amazon-ECS/thumbnail.png"
       },
       {
         "id": "2026-09-16-Amazon-ECS-extends-Amazon-S3-Files-support-to-the",
@@ -6371,8 +6393,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-09-17T20:42:16.152Z",
-    "totalCount": 579
+    "updatedAt": "2026-09-17T23:13:42.572Z",
+    "totalCount": 581
   },
   "metadata:months": [
     "2026/09",
@@ -6388,6 +6410,17 @@
     "year": 2026,
     "month": 9,
     "articles": [
+      {
+        "id": "2026-09-17-AWS-Batch-now-supports-bulk-job-cancellation-and-t",
+        "title": "AWS Batch が一括ジョブキャンセル・終了機能に対応",
+        "date": "2026-09-17",
+        "year": 2026,
+        "month": 9,
+        "day": 17,
+        "path": "2026/09/17/AWS-Batch-now-supports-bulk-job-cancellation-and-t",
+        "summary": "AWS Batch が一括ジョブキャンセル・終了機能に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/17/AWS-Batch-now-supports-bulk-job-cancellation-and-t/thumbnail.png"
+      },
       {
         "id": "2026-09-16-AWS-Direct-Connect-announces-flat-rate-pricing-for",
         "title": "AWS Direct Connectが専用接続向け定額料金を発表",
@@ -6431,6 +6464,17 @@
         "path": "2026/09/16/AWS-reimagines-the-getting-started-experience",
         "summary": "AWSが新規顧客向けの開始体験を刷新",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/16/AWS-reimagines-the-getting-started-experience/thumbnail.png"
+      },
+      {
+        "id": "2026-09-16-Amazon-ECS-deployment-observability-for-Amazon-ECS",
+        "title": "Amazon ECS Managed Daemons のデプロイメント可視化がコンソールで利用可能に",
+        "date": "2026-09-16",
+        "year": 2026,
+        "month": 9,
+        "day": 16,
+        "path": "2026/09/16/Amazon-ECS-deployment-observability-for-Amazon-ECS",
+        "summary": "Amazon ECS Managed Daemons のデプロイメント可視化がコンソールで利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/16/Amazon-ECS-deployment-observability-for-Amazon-ECS/thumbnail.png"
       },
       {
         "id": "2026-09-16-Amazon-ECS-extends-Amazon-S3-Files-support-to-the",
