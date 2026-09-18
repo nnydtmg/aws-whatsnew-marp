@@ -13,6 +13,28 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/17/AWS-Batch-now-supports-bulk-job-cancellation-and-t/thumbnail.png"
       },
       {
+        "id": "2026-09-17-AWS-Builder-Center-now-available-as-mobile-app-on",
+        "title": "AWS Builder Center がiOS・Androidのモバイルアプリで利用可能に",
+        "date": "2026-09-17",
+        "year": 2026,
+        "month": 9,
+        "day": 17,
+        "path": "2026/09/17/AWS-Builder-Center-now-available-as-mobile-app-on",
+        "summary": "AWS Builder Center がiOS・Androidのモバイルアプリで利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/17/AWS-Builder-Center-now-available-as-mobile-app-on/thumbnail.png"
+      },
+      {
+        "id": "2026-09-17-Amazon-Quick-now-generates-individual-sheets-and-b",
+        "title": "Amazon Quickが個別シート生成と画像からの分析構築に対応",
+        "date": "2026-09-17",
+        "year": 2026,
+        "month": 9,
+        "day": 17,
+        "path": "2026/09/17/Amazon-Quick-now-generates-individual-sheets-and-b",
+        "summary": "Amazon Quickが個別シート生成と画像からの分析構築に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/17/Amazon-Quick-now-generates-individual-sheets-and-b/thumbnail.png"
+      },
+      {
         "id": "2026-09-16-AWS-Direct-Connect-announces-flat-rate-pricing-for",
         "title": "AWS Direct Connectが専用接続向け定額料金を発表",
         "date": "2026-09-16",
@@ -6393,8 +6415,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-09-17T23:13:42.572Z",
-    "totalCount": 581
+    "updatedAt": "2026-09-18T02:00:41.460Z",
+    "totalCount": 583
   },
   "metadata:months": [
     "2026/09",
@@ -6420,6 +6442,28 @@
         "path": "2026/09/17/AWS-Batch-now-supports-bulk-job-cancellation-and-t",
         "summary": "AWS Batch が一括ジョブキャンセル・終了機能に対応",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/17/AWS-Batch-now-supports-bulk-job-cancellation-and-t/thumbnail.png"
+      },
+      {
+        "id": "2026-09-17-AWS-Builder-Center-now-available-as-mobile-app-on",
+        "title": "AWS Builder Center がiOS・Androidのモバイルアプリで利用可能に",
+        "date": "2026-09-17",
+        "year": 2026,
+        "month": 9,
+        "day": 17,
+        "path": "2026/09/17/AWS-Builder-Center-now-available-as-mobile-app-on",
+        "summary": "AWS Builder Center がiOS・Androidのモバイルアプリで利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/17/AWS-Builder-Center-now-available-as-mobile-app-on/thumbnail.png"
+      },
+      {
+        "id": "2026-09-17-Amazon-Quick-now-generates-individual-sheets-and-b",
+        "title": "Amazon Quickが個別シート生成と画像からの分析構築に対応",
+        "date": "2026-09-17",
+        "year": 2026,
+        "month": 9,
+        "day": 17,
+        "path": "2026/09/17/Amazon-Quick-now-generates-individual-sheets-and-b",
+        "summary": "Amazon Quickが個別シート生成と画像からの分析構築に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/17/Amazon-Quick-now-generates-individual-sheets-and-b/thumbnail.png"
       },
       {
         "id": "2026-09-16-AWS-Direct-Connect-announces-flat-rate-pricing-for",
