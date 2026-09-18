@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-09-18-AWS-Elastic-Beanstalk-introduces-Cluster-Mode-to-r",
+        "title": "AWS Elastic Beanstalk のCluster Modeで複数アプリケーションを共有インフラで実行可能に",
+        "date": "2026-09-18",
+        "year": 2026,
+        "month": 9,
+        "day": 18,
+        "path": "2026/09/18/AWS-Elastic-Beanstalk-introduces-Cluster-Mode-to-r",
+        "summary": "AWS Elastic Beanstalk のCluster Modeで複数アプリケーションを共有インフラで実行可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/18/AWS-Elastic-Beanstalk-introduces-Cluster-Mode-to-r/thumbnail.png"
+      },
+      {
         "id": "2026-09-17-AWS-Batch-now-supports-bulk-job-cancellation-and-t",
         "title": "AWS Batch が一括ジョブキャンセル・終了機能に対応",
         "date": "2026-09-17",
@@ -6415,8 +6426,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-09-18T02:00:41.460Z",
-    "totalCount": 583
+    "updatedAt": "2026-09-18T07:10:37.601Z",
+    "totalCount": 584
   },
   "metadata:months": [
     "2026/09",
@@ -6432,6 +6443,17 @@
     "year": 2026,
     "month": 9,
     "articles": [
+      {
+        "id": "2026-09-18-AWS-Elastic-Beanstalk-introduces-Cluster-Mode-to-r",
+        "title": "AWS Elastic Beanstalk のCluster Modeで複数アプリケーションを共有インフラで実行可能に",
+        "date": "2026-09-18",
+        "year": 2026,
+        "month": 9,
+        "day": 18,
+        "path": "2026/09/18/AWS-Elastic-Beanstalk-introduces-Cluster-Mode-to-r",
+        "summary": "AWS Elastic Beanstalk のCluster Modeで複数アプリケーションを共有インフラで実行可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/18/AWS-Elastic-Beanstalk-introduces-Cluster-Mode-to-r/thumbnail.png"
+      },
       {
         "id": "2026-09-17-AWS-Batch-now-supports-bulk-job-cancellation-and-t",
         "title": "AWS Batch が一括ジョブキャンセル・終了機能に対応",
