@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-09-18-AWS-Continuum-now-supports-credential-testing-and",
+        "title": "AWS Continuumが認証情報テストとアクセス可能ドメイン提案をサポート",
+        "date": "2026-09-18",
+        "year": 2026,
+        "month": 9,
+        "day": 18,
+        "path": "2026/09/18/AWS-Continuum-now-supports-credential-testing-and",
+        "summary": "AWS Continuumが認証情報テストとアクセス可能ドメイン提案をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/18/AWS-Continuum-now-supports-credential-testing-and/thumbnail.png"
+      },
+      {
         "id": "2026-09-18-AWS-Elastic-Beanstalk-introduces-Cluster-Mode-to-r",
         "title": "AWS Elastic Beanstalk のCluster Modeで複数アプリケーションを共有インフラで実行可能に",
         "date": "2026-09-18",
@@ -11,6 +22,50 @@
         "path": "2026/09/18/AWS-Elastic-Beanstalk-introduces-Cluster-Mode-to-r",
         "summary": "AWS Elastic Beanstalk のCluster Modeで複数アプリケーションを共有インフラで実行可能に",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/18/AWS-Elastic-Beanstalk-introduces-Cluster-Mode-to-r/thumbnail.png"
+      },
+      {
+        "id": "2026-09-18-AWS-PrivateLink-announces-Tunnel-Endpoints-to-acce",
+        "title": "AWS PrivateLink、ネットワークセグメントへのアクセスを実現するトンネルエンドポイントを発表",
+        "date": "2026-09-18",
+        "year": 2026,
+        "month": 9,
+        "day": 18,
+        "path": "2026/09/18/AWS-PrivateLink-announces-Tunnel-Endpoints-to-acce",
+        "summary": "AWS PrivateLink、ネットワークセグメントへのアクセスを実現するトンネルエンドポイントを発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/18/AWS-PrivateLink-announces-Tunnel-Endpoints-to-acce/thumbnail.png"
+      },
+      {
+        "id": "2026-09-18-Amazon-ECS-Express-Mode-now-supports-AWS-Graviton",
+        "title": "Amazon ECS Express Mode が AWS Graviton (ARM64) ワークロードをサポート",
+        "date": "2026-09-18",
+        "year": 2026,
+        "month": 9,
+        "day": 18,
+        "path": "2026/09/18/Amazon-ECS-Express-Mode-now-supports-AWS-Graviton",
+        "summary": "Amazon ECS Express Mode が AWS Graviton (ARM64) ワークロードをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/18/Amazon-ECS-Express-Mode-now-supports-AWS-Graviton/thumbnail.png"
+      },
+      {
+        "id": "2026-09-18-Amazon-SNS-now-supports-message-payloads-up-to-1-M",
+        "title": "Amazon SNS が最大1 MiBのメッセージペイロードに対応",
+        "date": "2026-09-18",
+        "year": 2026,
+        "month": 9,
+        "day": 18,
+        "path": "2026/09/18/Amazon-SNS-now-supports-message-payloads-up-to-1-M",
+        "summary": "Amazon SNS が最大1 MiBのメッセージペイロードに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/18/Amazon-SNS-now-supports-message-payloads-up-to-1-M/thumbnail.png"
+      },
+      {
+        "id": "2026-09-18-The-new-AgentCore-Runtime-is-now-available-in-Amaz",
+        "title": "Amazon Bedrock AgentCore で次世代 Runtime が利用可能に",
+        "date": "2026-09-18",
+        "year": 2026,
+        "month": 9,
+        "day": 18,
+        "path": "2026/09/18/The-new-AgentCore-Runtime-is-now-available-in-Amaz",
+        "summary": "Amazon Bedrock AgentCore で次世代 Runtime が利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/18/The-new-AgentCore-Runtime-is-now-available-in-Amaz/thumbnail.png"
       },
       {
         "id": "2026-09-17-AWS-Batch-now-supports-bulk-job-cancellation-and-t",
@@ -44,6 +99,17 @@
         "path": "2026/09/17/Amazon-Quick-now-generates-individual-sheets-and-b",
         "summary": "Amazon Quickが個別シート生成と画像からの分析構築に対応",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/17/Amazon-Quick-now-generates-individual-sheets-and-b/thumbnail.png"
+      },
+      {
+        "id": "2026-09-17-Amazon-SES-now-supports-tenant-level-deliverabilit",
+        "title": "Amazon SES テナントレベルの配信可能性インサイトに対応",
+        "date": "2026-09-17",
+        "year": 2026,
+        "month": 9,
+        "day": 17,
+        "path": "2026/09/17/Amazon-SES-now-supports-tenant-level-deliverabilit",
+        "summary": "Amazon SES テナントレベルの配信可能性インサイトに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/17/Amazon-SES-now-supports-tenant-level-deliverabilit/thumbnail.png"
       },
       {
         "id": "2026-09-16-AWS-Direct-Connect-announces-flat-rate-pricing-for",
@@ -6426,8 +6492,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-09-18T22:01:13.284Z",
-    "totalCount": 584
+    "updatedAt": "2026-09-19T00:45:39.114Z",
+    "totalCount": 590
   },
   "metadata:months": [
     "2026/09",
@@ -6444,6 +6510,17 @@
     "month": 9,
     "articles": [
       {
+        "id": "2026-09-18-AWS-Continuum-now-supports-credential-testing-and",
+        "title": "AWS Continuumが認証情報テストとアクセス可能ドメイン提案をサポート",
+        "date": "2026-09-18",
+        "year": 2026,
+        "month": 9,
+        "day": 18,
+        "path": "2026/09/18/AWS-Continuum-now-supports-credential-testing-and",
+        "summary": "AWS Continuumが認証情報テストとアクセス可能ドメイン提案をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/18/AWS-Continuum-now-supports-credential-testing-and/thumbnail.png"
+      },
+      {
         "id": "2026-09-18-AWS-Elastic-Beanstalk-introduces-Cluster-Mode-to-r",
         "title": "AWS Elastic Beanstalk のCluster Modeで複数アプリケーションを共有インフラで実行可能に",
         "date": "2026-09-18",
@@ -6453,6 +6530,50 @@
         "path": "2026/09/18/AWS-Elastic-Beanstalk-introduces-Cluster-Mode-to-r",
         "summary": "AWS Elastic Beanstalk のCluster Modeで複数アプリケーションを共有インフラで実行可能に",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/18/AWS-Elastic-Beanstalk-introduces-Cluster-Mode-to-r/thumbnail.png"
+      },
+      {
+        "id": "2026-09-18-AWS-PrivateLink-announces-Tunnel-Endpoints-to-acce",
+        "title": "AWS PrivateLink、ネットワークセグメントへのアクセスを実現するトンネルエンドポイントを発表",
+        "date": "2026-09-18",
+        "year": 2026,
+        "month": 9,
+        "day": 18,
+        "path": "2026/09/18/AWS-PrivateLink-announces-Tunnel-Endpoints-to-acce",
+        "summary": "AWS PrivateLink、ネットワークセグメントへのアクセスを実現するトンネルエンドポイントを発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/18/AWS-PrivateLink-announces-Tunnel-Endpoints-to-acce/thumbnail.png"
+      },
+      {
+        "id": "2026-09-18-Amazon-ECS-Express-Mode-now-supports-AWS-Graviton",
+        "title": "Amazon ECS Express Mode が AWS Graviton (ARM64) ワークロードをサポート",
+        "date": "2026-09-18",
+        "year": 2026,
+        "month": 9,
+        "day": 18,
+        "path": "2026/09/18/Amazon-ECS-Express-Mode-now-supports-AWS-Graviton",
+        "summary": "Amazon ECS Express Mode が AWS Graviton (ARM64) ワークロードをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/18/Amazon-ECS-Express-Mode-now-supports-AWS-Graviton/thumbnail.png"
+      },
+      {
+        "id": "2026-09-18-Amazon-SNS-now-supports-message-payloads-up-to-1-M",
+        "title": "Amazon SNS が最大1 MiBのメッセージペイロードに対応",
+        "date": "2026-09-18",
+        "year": 2026,
+        "month": 9,
+        "day": 18,
+        "path": "2026/09/18/Amazon-SNS-now-supports-message-payloads-up-to-1-M",
+        "summary": "Amazon SNS が最大1 MiBのメッセージペイロードに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/18/Amazon-SNS-now-supports-message-payloads-up-to-1-M/thumbnail.png"
+      },
+      {
+        "id": "2026-09-18-The-new-AgentCore-Runtime-is-now-available-in-Amaz",
+        "title": "Amazon Bedrock AgentCore で次世代 Runtime が利用可能に",
+        "date": "2026-09-18",
+        "year": 2026,
+        "month": 9,
+        "day": 18,
+        "path": "2026/09/18/The-new-AgentCore-Runtime-is-now-available-in-Amaz",
+        "summary": "Amazon Bedrock AgentCore で次世代 Runtime が利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/18/The-new-AgentCore-Runtime-is-now-available-in-Amaz/thumbnail.png"
       },
       {
         "id": "2026-09-17-AWS-Batch-now-supports-bulk-job-cancellation-and-t",
@@ -6486,6 +6607,17 @@
         "path": "2026/09/17/Amazon-Quick-now-generates-individual-sheets-and-b",
         "summary": "Amazon Quickが個別シート生成と画像からの分析構築に対応",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/17/Amazon-Quick-now-generates-individual-sheets-and-b/thumbnail.png"
+      },
+      {
+        "id": "2026-09-17-Amazon-SES-now-supports-tenant-level-deliverabilit",
+        "title": "Amazon SES テナントレベルの配信可能性インサイトに対応",
+        "date": "2026-09-17",
+        "year": 2026,
+        "month": 9,
+        "day": 17,
+        "path": "2026/09/17/Amazon-SES-now-supports-tenant-level-deliverabilit",
+        "summary": "Amazon SES テナントレベルの配信可能性インサイトに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/17/Amazon-SES-now-supports-tenant-level-deliverabilit/thumbnail.png"
       },
       {
         "id": "2026-09-16-AWS-Direct-Connect-announces-flat-rate-pricing-for",
@@ -7104,7 +7236,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/01/Claude-Fable-51-Anthropics-new-frontier-model-is-n/thumbnail.png"
       }
     ],
-    "totalPages": 6
+    "totalPages": 7
   },
   "metadata:2026/08": {
     "year": 2026,

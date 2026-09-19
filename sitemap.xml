@@ -6,7 +6,37 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-18-AWS-Continuum-now-supports-credential-testing-and</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-18-AWS-Elastic-Beanstalk-introduces-Cluster-Mode-to-r</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-18-AWS-PrivateLink-announces-Tunnel-Endpoints-to-acce</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-18-Amazon-ECS-Express-Mode-now-supports-AWS-Graviton</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-18-Amazon-SNS-now-supports-message-payloads-up-to-1-M</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-18-The-new-AgentCore-Runtime-is-now-available-in-Amaz</loc>
     <lastmod>2026-09-18</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
@@ -25,6 +55,12 @@
   </url>
   <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-17-Amazon-Quick-now-generates-individual-sheets-and-b</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-17-Amazon-SES-now-supports-tenant-level-deliverabilit</loc>
     <lastmod>2026-09-17</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
