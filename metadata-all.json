@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-09-22-Amazon-ECS-now-provides-real-time-deployment-obser",
+        "title": "Amazon ECSコンソールでリアルタイムのデプロイメント可観測性が利用可能に",
+        "date": "2026-09-22",
+        "year": 2026,
+        "month": 9,
+        "day": 22,
+        "path": "2026/09/22/Amazon-ECS-now-provides-real-time-deployment-obser",
+        "summary": "Amazon ECSコンソールでリアルタイムのデプロイメント可観測性が利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/22/Amazon-ECS-now-provides-real-time-deployment-obser/thumbnail.png"
+      },
+      {
         "id": "2026-09-18-AWS-Continuum-now-supports-credential-testing-and",
         "title": "AWS Continuumが認証情報テストとアクセス可能ドメイン提案をサポート",
         "date": "2026-09-18",
@@ -6492,8 +6503,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-09-22T00:21:24.378Z",
-    "totalCount": 590
+    "updatedAt": "2026-09-22T05:34:33.681Z",
+    "totalCount": 591
   },
   "metadata:months": [
     "2026/09",
@@ -6509,6 +6520,17 @@
     "year": 2026,
     "month": 9,
     "articles": [
+      {
+        "id": "2026-09-22-Amazon-ECS-now-provides-real-time-deployment-obser",
+        "title": "Amazon ECSコンソールでリアルタイムのデプロイメント可観測性が利用可能に",
+        "date": "2026-09-22",
+        "year": 2026,
+        "month": 9,
+        "day": 22,
+        "path": "2026/09/22/Amazon-ECS-now-provides-real-time-deployment-obser",
+        "summary": "Amazon ECSコンソールでリアルタイムのデプロイメント可観測性が利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/22/Amazon-ECS-now-provides-real-time-deployment-obser/thumbnail.png"
+      },
       {
         "id": "2026-09-18-AWS-Continuum-now-supports-credential-testing-and",
         "title": "AWS Continuumが認証情報テストとアクセス可能ドメイン提案をサポート",
