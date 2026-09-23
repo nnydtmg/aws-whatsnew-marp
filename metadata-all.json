@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-09-22-AWS-Glue-Data-Quality-delivers-context-specific-ru",
+        "title": "AWS Glue Data Qualityが生成AIでコンテキスト固有のルール推奨を数秒で提供",
+        "date": "2026-09-22",
+        "year": 2026,
+        "month": 9,
+        "day": 22,
+        "path": "2026/09/22/AWS-Glue-Data-Quality-delivers-context-specific-ru",
+        "summary": "AWS Glue Data Qualityが生成AIでコンテキスト固有のルール推奨を数秒で提供",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/22/AWS-Glue-Data-Quality-delivers-context-specific-ru/thumbnail.png"
+      },
+      {
+        "id": "2026-09-22-AWS-Security-Hub-AI-Inventory-adds-Azure-self-host",
+        "title": "AWS Security Hub AI InventoryがAzureセルフホストインスタンスをサポート",
+        "date": "2026-09-22",
+        "year": 2026,
+        "month": 9,
+        "day": 22,
+        "path": "2026/09/22/AWS-Security-Hub-AI-Inventory-adds-Azure-self-host",
+        "summary": "AWS Security Hub AI InventoryがAzureセルフホストインスタンスをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/22/AWS-Security-Hub-AI-Inventory-adds-Azure-self-host/thumbnail.png"
+      },
+      {
         "id": "2026-09-22-Amazon-ECS-now-provides-real-time-deployment-obser",
         "title": "Amazon ECSコンソールでリアルタイムのデプロイメント可観測性が利用可能に",
         "date": "2026-09-22",
@@ -11,6 +33,50 @@
         "path": "2026/09/22/Amazon-ECS-now-provides-real-time-deployment-obser",
         "summary": "Amazon ECSコンソールでリアルタイムのデプロイメント可観測性が利用可能に",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/22/Amazon-ECS-now-provides-real-time-deployment-obser/thumbnail.png"
+      },
+      {
+        "id": "2026-09-22-Billing-Transfer-now-supports-automatic-billing-gr",
+        "title": "AWS Billing Transferが二階層転送向けの自動請求グループ作成をサポート",
+        "date": "2026-09-22",
+        "year": 2026,
+        "month": 9,
+        "day": 22,
+        "path": "2026/09/22/Billing-Transfer-now-supports-automatic-billing-gr",
+        "summary": "AWS Billing Transferが二階層転送向けの自動請求グループ作成をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/22/Billing-Transfer-now-supports-automatic-billing-gr/thumbnail.png"
+      },
+      {
+        "id": "2026-09-22-Claude-Opus-55-is-now-available-on-AWS",
+        "title": "Claude Opus 5.5 が AWS で利用可能に",
+        "date": "2026-09-22",
+        "year": 2026,
+        "month": 9,
+        "day": 22,
+        "path": "2026/09/22/Claude-Opus-55-is-now-available-on-AWS",
+        "summary": "Claude Opus 5.5 が AWS で利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/22/Claude-Opus-55-is-now-available-on-AWS/thumbnail.png"
+      },
+      {
+        "id": "2026-09-22-Introducing-Amazon-CloudWatch-Omni-AI-powered-obse",
+        "title": "Amazon CloudWatch Omni: 生成AIとエージェントワークロード向けAI駆動オブザーバビリティ",
+        "date": "2026-09-22",
+        "year": 2026,
+        "month": 9,
+        "day": 22,
+        "path": "2026/09/22/Introducing-Amazon-CloudWatch-Omni-AI-powered-obse",
+        "summary": "Amazon CloudWatch Omni: 生成AIとエージェントワークロード向けAI駆動オブザーバビリティ",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/22/Introducing-Amazon-CloudWatch-Omni-AI-powered-obse/thumbnail.png"
+      },
+      {
+        "id": "2026-09-22-OpenAI-GPT-6-Sol-and-GPT-6-Luna-are-now-generally",
+        "title": "OpenAI GPT-6 SolとGPT-6 LunaがAmazon Bedrockで一般提供開始",
+        "date": "2026-09-22",
+        "year": 2026,
+        "month": 9,
+        "day": 22,
+        "path": "2026/09/22/OpenAI-GPT-6-Sol-and-GPT-6-Luna-are-now-generally",
+        "summary": "OpenAI GPT 6 SolとGPT 6 LunaがAmazon Bedrockで一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/22/OpenAI-GPT-6-Sol-and-GPT-6-Luna-are-now-generally/thumbnail.png"
       },
       {
         "id": "2026-09-18-AWS-Continuum-now-supports-credential-testing-and",
@@ -6503,8 +6569,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-09-22T22:29:37.147Z",
-    "totalCount": 591
+    "updatedAt": "2026-09-23T01:01:44.989Z",
+    "totalCount": 597
   },
   "metadata:months": [
     "2026/09",
@@ -6521,6 +6587,28 @@
     "month": 9,
     "articles": [
       {
+        "id": "2026-09-22-AWS-Glue-Data-Quality-delivers-context-specific-ru",
+        "title": "AWS Glue Data Qualityが生成AIでコンテキスト固有のルール推奨を数秒で提供",
+        "date": "2026-09-22",
+        "year": 2026,
+        "month": 9,
+        "day": 22,
+        "path": "2026/09/22/AWS-Glue-Data-Quality-delivers-context-specific-ru",
+        "summary": "AWS Glue Data Qualityが生成AIでコンテキスト固有のルール推奨を数秒で提供",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/22/AWS-Glue-Data-Quality-delivers-context-specific-ru/thumbnail.png"
+      },
+      {
+        "id": "2026-09-22-AWS-Security-Hub-AI-Inventory-adds-Azure-self-host",
+        "title": "AWS Security Hub AI InventoryがAzureセルフホストインスタンスをサポート",
+        "date": "2026-09-22",
+        "year": 2026,
+        "month": 9,
+        "day": 22,
+        "path": "2026/09/22/AWS-Security-Hub-AI-Inventory-adds-Azure-self-host",
+        "summary": "AWS Security Hub AI InventoryがAzureセルフホストインスタンスをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/22/AWS-Security-Hub-AI-Inventory-adds-Azure-self-host/thumbnail.png"
+      },
+      {
         "id": "2026-09-22-Amazon-ECS-now-provides-real-time-deployment-obser",
         "title": "Amazon ECSコンソールでリアルタイムのデプロイメント可観測性が利用可能に",
         "date": "2026-09-22",
@@ -6530,6 +6618,50 @@
         "path": "2026/09/22/Amazon-ECS-now-provides-real-time-deployment-obser",
         "summary": "Amazon ECSコンソールでリアルタイムのデプロイメント可観測性が利用可能に",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/22/Amazon-ECS-now-provides-real-time-deployment-obser/thumbnail.png"
+      },
+      {
+        "id": "2026-09-22-Billing-Transfer-now-supports-automatic-billing-gr",
+        "title": "AWS Billing Transferが二階層転送向けの自動請求グループ作成をサポート",
+        "date": "2026-09-22",
+        "year": 2026,
+        "month": 9,
+        "day": 22,
+        "path": "2026/09/22/Billing-Transfer-now-supports-automatic-billing-gr",
+        "summary": "AWS Billing Transferが二階層転送向けの自動請求グループ作成をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/22/Billing-Transfer-now-supports-automatic-billing-gr/thumbnail.png"
+      },
+      {
+        "id": "2026-09-22-Claude-Opus-55-is-now-available-on-AWS",
+        "title": "Claude Opus 5.5 が AWS で利用可能に",
+        "date": "2026-09-22",
+        "year": 2026,
+        "month": 9,
+        "day": 22,
+        "path": "2026/09/22/Claude-Opus-55-is-now-available-on-AWS",
+        "summary": "Claude Opus 5.5 が AWS で利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/22/Claude-Opus-55-is-now-available-on-AWS/thumbnail.png"
+      },
+      {
+        "id": "2026-09-22-Introducing-Amazon-CloudWatch-Omni-AI-powered-obse",
+        "title": "Amazon CloudWatch Omni: 生成AIとエージェントワークロード向けAI駆動オブザーバビリティ",
+        "date": "2026-09-22",
+        "year": 2026,
+        "month": 9,
+        "day": 22,
+        "path": "2026/09/22/Introducing-Amazon-CloudWatch-Omni-AI-powered-obse",
+        "summary": "Amazon CloudWatch Omni: 生成AIとエージェントワークロード向けAI駆動オブザーバビリティ",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/22/Introducing-Amazon-CloudWatch-Omni-AI-powered-obse/thumbnail.png"
+      },
+      {
+        "id": "2026-09-22-OpenAI-GPT-6-Sol-and-GPT-6-Luna-are-now-generally",
+        "title": "OpenAI GPT-6 SolとGPT-6 LunaがAmazon Bedrockで一般提供開始",
+        "date": "2026-09-22",
+        "year": 2026,
+        "month": 9,
+        "day": 22,
+        "path": "2026/09/22/OpenAI-GPT-6-Sol-and-GPT-6-Luna-are-now-generally",
+        "summary": "OpenAI GPT 6 SolとGPT 6 LunaがAmazon Bedrockで一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/22/OpenAI-GPT-6-Sol-and-GPT-6-Luna-are-now-generally/thumbnail.png"
       },
       {
         "id": "2026-09-18-AWS-Continuum-now-supports-credential-testing-and",
@@ -7258,7 +7390,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/01/Claude-Fable-51-Anthropics-new-frontier-model-is-n/thumbnail.png"
       }
     ],
-    "totalPages": 7
+    "totalPages": 8
   },
   "metadata:2026/08": {
     "year": 2026,
