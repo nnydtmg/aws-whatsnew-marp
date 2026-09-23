@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-09-23-Amazon-CloudWatch-Omni-AI-first-observability-for",
+        "title": "Amazon CloudWatch Omni: AIを活用したエージェント・アプリケーション向けオブザーバビリティが一般提供開始",
+        "date": "2026-09-23",
+        "year": 2026,
+        "month": 9,
+        "day": 23,
+        "path": "2026/09/23/Amazon-CloudWatch-Omni-AI-first-observability-for",
+        "summary": "Amazon CloudWatch Omni: AIを活用したエージェント・アプリケーション向けオブザーバビリティが一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/23/Amazon-CloudWatch-Omni-AI-first-observability-for/thumbnail.png"
+      },
+      {
         "id": "2026-09-22-AWS-Glue-Data-Quality-delivers-context-specific-ru",
         "title": "AWS Glue Data Qualityが生成AIでコンテキスト固有のルール推奨を数秒で提供",
         "date": "2026-09-22",
@@ -6569,8 +6580,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-09-23T01:01:44.989Z",
-    "totalCount": 597
+    "updatedAt": "2026-09-23T06:54:53.302Z",
+    "totalCount": 598
   },
   "metadata:months": [
     "2026/09",
@@ -6586,6 +6597,17 @@
     "year": 2026,
     "month": 9,
     "articles": [
+      {
+        "id": "2026-09-23-Amazon-CloudWatch-Omni-AI-first-observability-for",
+        "title": "Amazon CloudWatch Omni: AIを活用したエージェント・アプリケーション向けオブザーバビリティが一般提供開始",
+        "date": "2026-09-23",
+        "year": 2026,
+        "month": 9,
+        "day": 23,
+        "path": "2026/09/23/Amazon-CloudWatch-Omni-AI-first-observability-for",
+        "summary": "Amazon CloudWatch Omni: AIを活用したエージェント・アプリケーション向けオブザーバビリティが一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/23/Amazon-CloudWatch-Omni-AI-first-observability-for/thumbnail.png"
+      },
       {
         "id": "2026-09-22-AWS-Glue-Data-Quality-delivers-context-specific-ru",
         "title": "AWS Glue Data Qualityが生成AIでコンテキスト固有のルール推奨を数秒で提供",
