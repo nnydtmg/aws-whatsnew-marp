@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-09-24-Amazon-EMR-on-EKS-now-supports-IPv6-Amazon-EKS-clu",
+        "title": "Amazon EMR on EKS が IPv6 対応の Amazon EKS クラスターをサポート",
+        "date": "2026-09-24",
+        "year": 2026,
+        "month": 9,
+        "day": 24,
+        "path": "2026/09/24/Amazon-EMR-on-EKS-now-supports-IPv6-Amazon-EKS-clu",
+        "summary": "Amazon EMR on EKS が IPv6 対応の Amazon EKS クラスターをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/24/Amazon-EMR-on-EKS-now-supports-IPv6-Amazon-EKS-clu/thumbnail.png"
+      },
+      {
+        "id": "2026-09-24-Amazon-Kinesis-Data-Streams-announces-Service-Mana",
+        "title": "Amazon Kinesis Data StreamsがService-Managed Partition Keysを発表、データ取り込みを簡素化",
+        "date": "2026-09-24",
+        "year": 2026,
+        "month": 9,
+        "day": 24,
+        "path": "2026/09/24/Amazon-Kinesis-Data-Streams-announces-Service-Mana",
+        "summary": "Amazon Kinesis Data StreamsがService Managed Partition Keysを発表、データ取り込みを簡素化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/24/Amazon-Kinesis-Data-Streams-announces-Service-Mana/thumbnail.png"
+      },
+      {
         "id": "2026-09-23-Amazon-CloudWatch-Omni-AI-first-observability-for",
         "title": "Amazon CloudWatch Omni: AIを活用したエージェント・アプリケーション向けオブザーバビリティが一般提供開始",
         "date": "2026-09-23",
@@ -6580,8 +6602,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-09-24T02:02:51.359Z",
-    "totalCount": 598
+    "updatedAt": "2026-09-24T07:55:02.396Z",
+    "totalCount": 600
   },
   "metadata:months": [
     "2026/09",
@@ -6597,6 +6619,28 @@
     "year": 2026,
     "month": 9,
     "articles": [
+      {
+        "id": "2026-09-24-Amazon-EMR-on-EKS-now-supports-IPv6-Amazon-EKS-clu",
+        "title": "Amazon EMR on EKS が IPv6 対応の Amazon EKS クラスターをサポート",
+        "date": "2026-09-24",
+        "year": 2026,
+        "month": 9,
+        "day": 24,
+        "path": "2026/09/24/Amazon-EMR-on-EKS-now-supports-IPv6-Amazon-EKS-clu",
+        "summary": "Amazon EMR on EKS が IPv6 対応の Amazon EKS クラスターをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/24/Amazon-EMR-on-EKS-now-supports-IPv6-Amazon-EKS-clu/thumbnail.png"
+      },
+      {
+        "id": "2026-09-24-Amazon-Kinesis-Data-Streams-announces-Service-Mana",
+        "title": "Amazon Kinesis Data StreamsがService-Managed Partition Keysを発表、データ取り込みを簡素化",
+        "date": "2026-09-24",
+        "year": 2026,
+        "month": 9,
+        "day": 24,
+        "path": "2026/09/24/Amazon-Kinesis-Data-Streams-announces-Service-Mana",
+        "summary": "Amazon Kinesis Data StreamsがService Managed Partition Keysを発表、データ取り込みを簡素化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/24/Amazon-Kinesis-Data-Streams-announces-Service-Mana/thumbnail.png"
+      },
       {
         "id": "2026-09-23-Amazon-CloudWatch-Omni-AI-first-observability-for",
         "title": "Amazon CloudWatch Omni: AIを活用したエージェント・アプリケーション向けオブザーバビリティが一般提供開始",
