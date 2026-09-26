@@ -2,6 +2,39 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-09-25-AWS-Billing-and-Cost-Management-now-provides-billi",
+        "title": "AWS Billing and Cost ManagementがListBillingViewSegments APIで請求コンテキストを提供",
+        "date": "2026-09-25",
+        "year": 2026,
+        "month": 9,
+        "day": 25,
+        "path": "2026/09/25/AWS-Billing-and-Cost-Management-now-provides-billi",
+        "summary": "AWS Billing and Cost ManagementがListBillingViewSegments APIで請求コンテキストを提供",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/25/AWS-Billing-and-Cost-Management-now-provides-billi/thumbnail.png"
+      },
+      {
+        "id": "2026-09-25-AWS-DataSync-launches-a-monitoring-dashboard-for-t",
+        "title": "AWS DataSyncがモニタリングダッシュボードを発表、タスク実行の横断監視が可能に",
+        "date": "2026-09-25",
+        "year": 2026,
+        "month": 9,
+        "day": 25,
+        "path": "2026/09/25/AWS-DataSync-launches-a-monitoring-dashboard-for-t",
+        "summary": "AWS DataSyncがモニタリングダッシュボードを発表、タスク実行の横断監視が可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/25/AWS-DataSync-launches-a-monitoring-dashboard-for-t/thumbnail.png"
+      },
+      {
+        "id": "2026-09-25-AWS-IAM-outbound-identity-federation-now-supports",
+        "title": "IAMアウトバウンドフェデレーションがOIDCディスカバリー向けVPCエンドポイントをサポート",
+        "date": "2026-09-25",
+        "year": 2026,
+        "month": 9,
+        "day": 25,
+        "path": "2026/09/25/AWS-IAM-outbound-identity-federation-now-supports",
+        "summary": "IAMアウトバウンドフェデレーションがOIDCディスカバリー向けVPCエンドポイントをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/25/AWS-IAM-outbound-identity-federation-now-supports/thumbnail.png"
+      },
+      {
         "id": "2026-09-25-Amazon-ElastiCache-Global-Datastore-now-supports-t",
         "title": "Amazon ElastiCache Global Datastoreがタグ付けとタグベースアクセス制御に対応",
         "date": "2026-09-25",
@@ -6635,8 +6668,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-09-25T22:55:22.621Z",
-    "totalCount": 603
+    "updatedAt": "2026-09-26T01:03:11.671Z",
+    "totalCount": 606
   },
   "metadata:months": [
     "2026/09",
@@ -6652,6 +6685,39 @@
     "year": 2026,
     "month": 9,
     "articles": [
+      {
+        "id": "2026-09-25-AWS-Billing-and-Cost-Management-now-provides-billi",
+        "title": "AWS Billing and Cost ManagementがListBillingViewSegments APIで請求コンテキストを提供",
+        "date": "2026-09-25",
+        "year": 2026,
+        "month": 9,
+        "day": 25,
+        "path": "2026/09/25/AWS-Billing-and-Cost-Management-now-provides-billi",
+        "summary": "AWS Billing and Cost ManagementがListBillingViewSegments APIで請求コンテキストを提供",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/25/AWS-Billing-and-Cost-Management-now-provides-billi/thumbnail.png"
+      },
+      {
+        "id": "2026-09-25-AWS-DataSync-launches-a-monitoring-dashboard-for-t",
+        "title": "AWS DataSyncがモニタリングダッシュボードを発表、タスク実行の横断監視が可能に",
+        "date": "2026-09-25",
+        "year": 2026,
+        "month": 9,
+        "day": 25,
+        "path": "2026/09/25/AWS-DataSync-launches-a-monitoring-dashboard-for-t",
+        "summary": "AWS DataSyncがモニタリングダッシュボードを発表、タスク実行の横断監視が可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/25/AWS-DataSync-launches-a-monitoring-dashboard-for-t/thumbnail.png"
+      },
+      {
+        "id": "2026-09-25-AWS-IAM-outbound-identity-federation-now-supports",
+        "title": "IAMアウトバウンドフェデレーションがOIDCディスカバリー向けVPCエンドポイントをサポート",
+        "date": "2026-09-25",
+        "year": 2026,
+        "month": 9,
+        "day": 25,
+        "path": "2026/09/25/AWS-IAM-outbound-identity-federation-now-supports",
+        "summary": "IAMアウトバウンドフェデレーションがOIDCディスカバリー向けVPCエンドポイントをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/25/AWS-IAM-outbound-identity-federation-now-supports/thumbnail.png"
+      },
       {
         "id": "2026-09-25-Amazon-ElastiCache-Global-Datastore-now-supports-t",
         "title": "Amazon ElastiCache Global Datastoreがタグ付けとタグベースアクセス制御に対応",
@@ -7522,7 +7588,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/01/Claude-Fable-51-Anthropics-new-frontier-model-is-n/thumbnail.png"
       }
     ],
-    "totalPages": 8
+    "totalPages": 9
   },
   "metadata:2026/08": {
     "year": 2026,
