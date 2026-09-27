@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-09-27-AWS-End-User-Messaging-and-Amazon-SES-now-offer-AI",
+        "title": "AWS End User MessagingとAmazon SESがMCP Server向けAIスキルを提供",
+        "date": "2026-09-27",
+        "year": 2026,
+        "month": 9,
+        "day": 27,
+        "path": "2026/09/27/AWS-End-User-Messaging-and-Amazon-SES-now-offer-AI",
+        "summary": "AWS End User MessagingとAmazon SESがMCP Server向けAIスキルを提供",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/27/AWS-End-User-Messaging-and-Amazon-SES-now-offer-AI/thumbnail.png"
+      },
+      {
         "id": "2026-09-25-AWS-Billing-and-Cost-Management-now-provides-billi",
         "title": "AWS Billing and Cost ManagementがListBillingViewSegments APIで請求コンテキストを提供",
         "date": "2026-09-25",
@@ -6668,8 +6679,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-09-27T04:17:56.756Z",
-    "totalCount": 606
+    "updatedAt": "2026-09-27T10:16:40.712Z",
+    "totalCount": 607
   },
   "metadata:months": [
     "2026/09",
@@ -6685,6 +6696,17 @@
     "year": 2026,
     "month": 9,
     "articles": [
+      {
+        "id": "2026-09-27-AWS-End-User-Messaging-and-Amazon-SES-now-offer-AI",
+        "title": "AWS End User MessagingとAmazon SESがMCP Server向けAIスキルを提供",
+        "date": "2026-09-27",
+        "year": 2026,
+        "month": 9,
+        "day": 27,
+        "path": "2026/09/27/AWS-End-User-Messaging-and-Amazon-SES-now-offer-AI",
+        "summary": "AWS End User MessagingとAmazon SESがMCP Server向けAIスキルを提供",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/27/AWS-End-User-Messaging-and-Amazon-SES-now-offer-AI/thumbnail.png"
+      },
       {
         "id": "2026-09-25-AWS-Billing-and-Cost-Management-now-provides-billi",
         "title": "AWS Billing and Cost ManagementがListBillingViewSegments APIで請求コンテキストを提供",
