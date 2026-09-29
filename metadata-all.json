@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-09-28-AWS-Backup-adds-logically-air-gapped-vault-support",
+        "title": "AWS Backupの論理的エアギャップボールトがAmazon FSx for NetApp ONTAPをサポート",
+        "date": "2026-09-28",
+        "year": 2026,
+        "month": 9,
+        "day": 28,
+        "path": "2026/09/28/AWS-Backup-adds-logically-air-gapped-vault-support",
+        "summary": "AWS Backupの論理的エアギャップボールトがAmazon FSx for NetApp ONTAPをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/28/AWS-Backup-adds-logically-air-gapped-vault-support/thumbnail.png"
+      },
+      {
+        "id": "2026-09-28-Claude-Sonnet-55-now-available-on-AWS",
+        "title": "Claude Sonnet 5.5 が AWS で利用可能に",
+        "date": "2026-09-28",
+        "year": 2026,
+        "month": 9,
+        "day": 28,
+        "path": "2026/09/28/Claude-Sonnet-55-now-available-on-AWS",
+        "summary": "Claude Sonnet 5.5 が AWS で利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/28/Claude-Sonnet-55-now-available-on-AWS/thumbnail.png"
+      },
+      {
         "id": "2026-09-27-AWS-End-User-Messaging-and-Amazon-SES-now-offer-AI",
         "title": "AWS End User MessagingとAmazon SESがMCP Server向けAIスキルを提供",
         "date": "2026-09-27",
@@ -6679,8 +6701,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-09-28T22:19:34.274Z",
-    "totalCount": 607
+    "updatedAt": "2026-09-29T02:22:59.716Z",
+    "totalCount": 609
   },
   "metadata:months": [
     "2026/09",
@@ -6696,6 +6718,28 @@
     "year": 2026,
     "month": 9,
     "articles": [
+      {
+        "id": "2026-09-28-AWS-Backup-adds-logically-air-gapped-vault-support",
+        "title": "AWS Backupの論理的エアギャップボールトがAmazon FSx for NetApp ONTAPをサポート",
+        "date": "2026-09-28",
+        "year": 2026,
+        "month": 9,
+        "day": 28,
+        "path": "2026/09/28/AWS-Backup-adds-logically-air-gapped-vault-support",
+        "summary": "AWS Backupの論理的エアギャップボールトがAmazon FSx for NetApp ONTAPをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/28/AWS-Backup-adds-logically-air-gapped-vault-support/thumbnail.png"
+      },
+      {
+        "id": "2026-09-28-Claude-Sonnet-55-now-available-on-AWS",
+        "title": "Claude Sonnet 5.5 が AWS で利用可能に",
+        "date": "2026-09-28",
+        "year": 2026,
+        "month": 9,
+        "day": 28,
+        "path": "2026/09/28/Claude-Sonnet-55-now-available-on-AWS",
+        "summary": "Claude Sonnet 5.5 が AWS で利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/28/Claude-Sonnet-55-now-available-on-AWS/thumbnail.png"
+      },
       {
         "id": "2026-09-27-AWS-End-User-Messaging-and-Amazon-SES-now-offer-AI",
         "title": "AWS End User MessagingとAmazon SESがMCP Server向けAIスキルを提供",
