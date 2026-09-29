@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-09-29-Grok-47-is-now-available-on-Amazon-Bedrock",
+        "title": "Amazon BedrockでxAIのGrok 4.7が利用可能に",
+        "date": "2026-09-29",
+        "year": 2026,
+        "month": 9,
+        "day": 29,
+        "path": "2026/09/29/Grok-47-is-now-available-on-Amazon-Bedrock",
+        "summary": "Amazon BedrockでxAIのGrok 4.7が利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/29/Grok-47-is-now-available-on-Amazon-Bedrock/thumbnail.png"
+      },
+      {
         "id": "2026-09-28-AWS-Backup-adds-logically-air-gapped-vault-support",
         "title": "AWS Backupの論理的エアギャップボールトがAmazon FSx for NetApp ONTAPをサポート",
         "date": "2026-09-28",
@@ -6701,8 +6712,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-09-29T09:13:07.001Z",
-    "totalCount": 609
+    "updatedAt": "2026-09-29T16:12:42.547Z",
+    "totalCount": 610
   },
   "metadata:months": [
     "2026/09",
@@ -6718,6 +6729,17 @@
     "year": 2026,
     "month": 9,
     "articles": [
+      {
+        "id": "2026-09-29-Grok-47-is-now-available-on-Amazon-Bedrock",
+        "title": "Amazon BedrockでxAIのGrok 4.7が利用可能に",
+        "date": "2026-09-29",
+        "year": 2026,
+        "month": 9,
+        "day": 29,
+        "path": "2026/09/29/Grok-47-is-now-available-on-Amazon-Bedrock",
+        "summary": "Amazon BedrockでxAIのGrok 4.7が利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/29/Grok-47-is-now-available-on-Amazon-Bedrock/thumbnail.png"
+      },
       {
         "id": "2026-09-28-AWS-Backup-adds-logically-air-gapped-vault-support",
         "title": "AWS Backupの論理的エアギャップボールトがAmazon FSx for NetApp ONTAPをサポート",
