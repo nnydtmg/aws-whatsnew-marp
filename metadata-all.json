@@ -2,6 +2,182 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-09-30-AWS-CLI-now-supports-bulk-skill-updates-and-versio",
+        "title": "AWS CLIがAgent Toolkitのスキル一括更新とバージョン確認に対応",
+        "date": "2026-09-30",
+        "year": 2026,
+        "month": 9,
+        "day": 30,
+        "path": "2026/09/30/AWS-CLI-now-supports-bulk-skill-updates-and-versio",
+        "summary": "AWS CLIがAgent Toolkitのスキル一括更新とバージョン確認に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/30/AWS-CLI-now-supports-bulk-skill-updates-and-versio/thumbnail.png"
+      },
+      {
+        "id": "2026-09-30-AWS-DataSync-now-supports-shared-VPCs",
+        "title": "AWS DataSync が共有 VPC をサポート開始",
+        "date": "2026-09-30",
+        "year": 2026,
+        "month": 9,
+        "day": 30,
+        "path": "2026/09/30/AWS-DataSync-now-supports-shared-VPCs",
+        "summary": "AWS DataSync が共有 VPC をサポート開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/30/AWS-DataSync-now-supports-shared-VPCs/thumbnail.png"
+      },
+      {
+        "id": "2026-09-30-AWS-IAM-Identity-Center-Identity-Store-APIs-now-ac",
+        "title": "IAM Identity Center の Identity Store API がリソースARNの直接指定に対応",
+        "date": "2026-09-30",
+        "year": 2026,
+        "month": 9,
+        "day": 30,
+        "path": "2026/09/30/AWS-IAM-Identity-Center-Identity-Store-APIs-now-ac",
+        "summary": "IAM Identity Center の Identity Store API がリソースARNの直接指定に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/30/AWS-IAM-Identity-Center-Identity-Store-APIs-now-ac/thumbnail.png"
+      },
+      {
+        "id": "2026-09-30-AWS-Marketplace-launches-an-AI-agent-skill-for-usa",
+        "title": "AWS Marketplaceが従量課金メータリング向けAIエージェントスキルを一般提供",
+        "date": "2026-09-30",
+        "year": 2026,
+        "month": 9,
+        "day": 30,
+        "path": "2026/09/30/AWS-Marketplace-launches-an-AI-agent-skill-for-usa",
+        "summary": "AWS Marketplaceが従量課金メータリング向けAIエージェントスキルを一般提供",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/30/AWS-Marketplace-launches-an-AI-agent-skill-for-usa/thumbnail.png"
+      },
+      {
+        "id": "2026-09-30-AWS-Service-Availability-Updates",
+        "title": "AWSが複数サービスのメンテナンス移行とサンセットを発表",
+        "date": "2026-09-30",
+        "year": 2026,
+        "month": 9,
+        "day": 30,
+        "path": "2026/09/30/AWS-Service-Availability-Updates",
+        "summary": "AWSが複数サービスのメンテナンス移行とサンセットを発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/30/AWS-Service-Availability-Updates/thumbnail.png"
+      },
+      {
+        "id": "2026-09-30-AWS-Systems-Manager-now-supports-sharing-documents",
+        "title": "AWS Systems Manager が AWS RAM 経由の SSM ドキュメント共有をサポート",
+        "date": "2026-09-30",
+        "year": 2026,
+        "month": 9,
+        "day": 30,
+        "path": "2026/09/30/AWS-Systems-Manager-now-supports-sharing-documents",
+        "summary": "AWS Systems Manager が AWS RAM 経由の SSM ドキュメント共有をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/30/AWS-Systems-Manager-now-supports-sharing-documents/thumbnail.png"
+      },
+      {
+        "id": "2026-09-30-AWS-accounts-now-support-phone-number-verification",
+        "title": "AWSアカウントが主要連絡先の電話番号検証をサポート",
+        "date": "2026-09-30",
+        "year": 2026,
+        "month": 9,
+        "day": 30,
+        "path": "2026/09/30/AWS-accounts-now-support-phone-number-verification",
+        "summary": "AWSアカウントが主要連絡先の電話番号検証をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/30/AWS-accounts-now-support-phone-number-verification/thumbnail.png"
+      },
+      {
+        "id": "2026-09-30-Amazon-Aurora-serverless-now-scales-faster-to-supp",
+        "title": "Amazon Aurora Serverlessが高速スケーリングに対応、エージェント型AIやバースト性ワークロードを支援",
+        "date": "2026-09-30",
+        "year": 2026,
+        "month": 9,
+        "day": 30,
+        "path": "2026/09/30/Amazon-Aurora-serverless-now-scales-faster-to-supp",
+        "summary": "Amazon Aurora Serverlessが高速スケーリングに対応、エージェント型AIやバースト性ワークロードを支援",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/30/Amazon-Aurora-serverless-now-scales-faster-to-supp/thumbnail.png"
+      },
+      {
+        "id": "2026-09-30-Amazon-Bedrock-Managed-Agents-powered-by-OpenAI-is",
+        "title": "Amazon Bedrock Managed Agents が OpenAI 連携でプレビュー提供開始",
+        "date": "2026-09-30",
+        "year": 2026,
+        "month": 9,
+        "day": 30,
+        "path": "2026/09/30/Amazon-Bedrock-Managed-Agents-powered-by-OpenAI-is",
+        "summary": "Amazon Bedrock Managed Agents が OpenAI 連携でプレビュー提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/30/Amazon-Bedrock-Managed-Agents-powered-by-OpenAI-is/thumbnail.png"
+      },
+      {
+        "id": "2026-09-30-Amazon-CloudWatch-Logs-Insights-now-lets-you-estim",
+        "title": "Amazon CloudWatch Logs Insightsがクエリ実行前のスキャンバイト数見積もりをサポート",
+        "date": "2026-09-30",
+        "year": 2026,
+        "month": 9,
+        "day": 30,
+        "path": "2026/09/30/Amazon-CloudWatch-Logs-Insights-now-lets-you-estim",
+        "summary": "Amazon CloudWatch Logs Insightsがクエリ実行前のスキャンバイト数見積もりをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/30/Amazon-CloudWatch-Logs-Insights-now-lets-you-estim/thumbnail.png"
+      },
+      {
+        "id": "2026-09-30-Amazon-CloudWatch-Logs-now-automatically-indexes-f",
+        "title": "Amazon CloudWatch Logsが頻繁にクエリされるフィールドを自動インデックス化",
+        "date": "2026-09-30",
+        "year": 2026,
+        "month": 9,
+        "day": 30,
+        "path": "2026/09/30/Amazon-CloudWatch-Logs-now-automatically-indexes-f",
+        "summary": "Amazon CloudWatch Logsが頻繁にクエリされるフィールドを自動インデックス化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/30/Amazon-CloudWatch-Logs-now-automatically-indexes-f/thumbnail.png"
+      },
+      {
+        "id": "2026-09-30-Amazon-S3-Tables-now-support-all-Apache-Iceberg-V3",
+        "title": "Amazon S3 TablesがApache Iceberg V3の全データ型をサポート",
+        "date": "2026-09-30",
+        "year": 2026,
+        "month": 9,
+        "day": 30,
+        "path": "2026/09/30/Amazon-S3-Tables-now-support-all-Apache-Iceberg-V3",
+        "summary": "Amazon S3 TablesがApache Iceberg V3の全データ型をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/30/Amazon-S3-Tables-now-support-all-Apache-Iceberg-V3/thumbnail.png"
+      },
+      {
+        "id": "2026-09-30-Amazon-S3-Vectors-introduces-metadata-pre-filterin",
+        "title": "Amazon S3 Vectorsがメタデータ事前フィルタリングを導入、フィルタ検索の再現率が最大5倍に",
+        "date": "2026-09-30",
+        "year": 2026,
+        "month": 9,
+        "day": 30,
+        "path": "2026/09/30/Amazon-S3-Vectors-introduces-metadata-pre-filterin",
+        "summary": "Amazon S3 Vectorsがメタデータ事前フィルタリングを導入、フィルタ検索の再現率が最大5倍に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/30/Amazon-S3-Vectors-introduces-metadata-pre-filterin/thumbnail.png"
+      },
+      {
+        "id": "2026-09-30-Amazon-S3-Vectors-now-supports-metadata-pre-filter",
+        "title": "Amazon S3 Vectorsがメタデータ事前フィルタリングをサポート",
+        "date": "2026-09-30",
+        "year": 2026,
+        "month": 9,
+        "day": 30,
+        "path": "2026/09/30/Amazon-S3-Vectors-now-supports-metadata-pre-filter",
+        "summary": "Amazon S3 Vectorsがメタデータ事前フィルタリングをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/30/Amazon-S3-Vectors-now-supports-metadata-pre-filter/thumbnail.png"
+      },
+      {
+        "id": "2026-09-30-Uncover-blind-spots-in-AWS-data-plane-operations-w",
+        "title": "AWS CloudTrail Event Coverageでデータプレーン操作の盲点を可視化",
+        "date": "2026-09-30",
+        "year": 2026,
+        "month": 9,
+        "day": 30,
+        "path": "2026/09/30/Uncover-blind-spots-in-AWS-data-plane-operations-w",
+        "summary": "AWS CloudTrail Event Coverageでデータプレーン操作の盲点を可視化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/30/Uncover-blind-spots-in-AWS-data-plane-operations-w/thumbnail.png"
+      },
+      {
+        "id": "2026-09-29-Amazon-ElastiCache-Serverless-for-Valkey-now-suppo",
+        "title": "Amazon ElastiCache Serverless for Valkey がパブリックエンドポイントをサポート",
+        "date": "2026-09-29",
+        "year": 2026,
+        "month": 9,
+        "day": 29,
+        "path": "2026/09/29/Amazon-ElastiCache-Serverless-for-Valkey-now-suppo",
+        "summary": "Amazon ElastiCache Serverless for Valkey がパブリックエンドポイントをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/29/Amazon-ElastiCache-Serverless-for-Valkey-now-suppo/thumbnail.png"
+      },
+      {
         "id": "2026-09-29-Grok-47-is-now-available-on-Amazon-Bedrock",
         "title": "Amazon BedrockでxAIのGrok 4.7が利用可能に",
         "date": "2026-09-29",
@@ -6712,8 +6888,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-09-30T22:42:27.366Z",
-    "totalCount": 610
+    "updatedAt": "2026-10-01T01:40:49.729Z",
+    "totalCount": 626
   },
   "metadata:months": [
     "2026/09",
@@ -6729,6 +6905,182 @@
     "year": 2026,
     "month": 9,
     "articles": [
+      {
+        "id": "2026-09-30-AWS-CLI-now-supports-bulk-skill-updates-and-versio",
+        "title": "AWS CLIがAgent Toolkitのスキル一括更新とバージョン確認に対応",
+        "date": "2026-09-30",
+        "year": 2026,
+        "month": 9,
+        "day": 30,
+        "path": "2026/09/30/AWS-CLI-now-supports-bulk-skill-updates-and-versio",
+        "summary": "AWS CLIがAgent Toolkitのスキル一括更新とバージョン確認に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/30/AWS-CLI-now-supports-bulk-skill-updates-and-versio/thumbnail.png"
+      },
+      {
+        "id": "2026-09-30-AWS-DataSync-now-supports-shared-VPCs",
+        "title": "AWS DataSync が共有 VPC をサポート開始",
+        "date": "2026-09-30",
+        "year": 2026,
+        "month": 9,
+        "day": 30,
+        "path": "2026/09/30/AWS-DataSync-now-supports-shared-VPCs",
+        "summary": "AWS DataSync が共有 VPC をサポート開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/30/AWS-DataSync-now-supports-shared-VPCs/thumbnail.png"
+      },
+      {
+        "id": "2026-09-30-AWS-IAM-Identity-Center-Identity-Store-APIs-now-ac",
+        "title": "IAM Identity Center の Identity Store API がリソースARNの直接指定に対応",
+        "date": "2026-09-30",
+        "year": 2026,
+        "month": 9,
+        "day": 30,
+        "path": "2026/09/30/AWS-IAM-Identity-Center-Identity-Store-APIs-now-ac",
+        "summary": "IAM Identity Center の Identity Store API がリソースARNの直接指定に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/30/AWS-IAM-Identity-Center-Identity-Store-APIs-now-ac/thumbnail.png"
+      },
+      {
+        "id": "2026-09-30-AWS-Marketplace-launches-an-AI-agent-skill-for-usa",
+        "title": "AWS Marketplaceが従量課金メータリング向けAIエージェントスキルを一般提供",
+        "date": "2026-09-30",
+        "year": 2026,
+        "month": 9,
+        "day": 30,
+        "path": "2026/09/30/AWS-Marketplace-launches-an-AI-agent-skill-for-usa",
+        "summary": "AWS Marketplaceが従量課金メータリング向けAIエージェントスキルを一般提供",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/30/AWS-Marketplace-launches-an-AI-agent-skill-for-usa/thumbnail.png"
+      },
+      {
+        "id": "2026-09-30-AWS-Service-Availability-Updates",
+        "title": "AWSが複数サービスのメンテナンス移行とサンセットを発表",
+        "date": "2026-09-30",
+        "year": 2026,
+        "month": 9,
+        "day": 30,
+        "path": "2026/09/30/AWS-Service-Availability-Updates",
+        "summary": "AWSが複数サービスのメンテナンス移行とサンセットを発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/30/AWS-Service-Availability-Updates/thumbnail.png"
+      },
+      {
+        "id": "2026-09-30-AWS-Systems-Manager-now-supports-sharing-documents",
+        "title": "AWS Systems Manager が AWS RAM 経由の SSM ドキュメント共有をサポート",
+        "date": "2026-09-30",
+        "year": 2026,
+        "month": 9,
+        "day": 30,
+        "path": "2026/09/30/AWS-Systems-Manager-now-supports-sharing-documents",
+        "summary": "AWS Systems Manager が AWS RAM 経由の SSM ドキュメント共有をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/30/AWS-Systems-Manager-now-supports-sharing-documents/thumbnail.png"
+      },
+      {
+        "id": "2026-09-30-AWS-accounts-now-support-phone-number-verification",
+        "title": "AWSアカウントが主要連絡先の電話番号検証をサポート",
+        "date": "2026-09-30",
+        "year": 2026,
+        "month": 9,
+        "day": 30,
+        "path": "2026/09/30/AWS-accounts-now-support-phone-number-verification",
+        "summary": "AWSアカウントが主要連絡先の電話番号検証をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/30/AWS-accounts-now-support-phone-number-verification/thumbnail.png"
+      },
+      {
+        "id": "2026-09-30-Amazon-Aurora-serverless-now-scales-faster-to-supp",
+        "title": "Amazon Aurora Serverlessが高速スケーリングに対応、エージェント型AIやバースト性ワークロードを支援",
+        "date": "2026-09-30",
+        "year": 2026,
+        "month": 9,
+        "day": 30,
+        "path": "2026/09/30/Amazon-Aurora-serverless-now-scales-faster-to-supp",
+        "summary": "Amazon Aurora Serverlessが高速スケーリングに対応、エージェント型AIやバースト性ワークロードを支援",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/30/Amazon-Aurora-serverless-now-scales-faster-to-supp/thumbnail.png"
+      },
+      {
+        "id": "2026-09-30-Amazon-Bedrock-Managed-Agents-powered-by-OpenAI-is",
+        "title": "Amazon Bedrock Managed Agents が OpenAI 連携でプレビュー提供開始",
+        "date": "2026-09-30",
+        "year": 2026,
+        "month": 9,
+        "day": 30,
+        "path": "2026/09/30/Amazon-Bedrock-Managed-Agents-powered-by-OpenAI-is",
+        "summary": "Amazon Bedrock Managed Agents が OpenAI 連携でプレビュー提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/30/Amazon-Bedrock-Managed-Agents-powered-by-OpenAI-is/thumbnail.png"
+      },
+      {
+        "id": "2026-09-30-Amazon-CloudWatch-Logs-Insights-now-lets-you-estim",
+        "title": "Amazon CloudWatch Logs Insightsがクエリ実行前のスキャンバイト数見積もりをサポート",
+        "date": "2026-09-30",
+        "year": 2026,
+        "month": 9,
+        "day": 30,
+        "path": "2026/09/30/Amazon-CloudWatch-Logs-Insights-now-lets-you-estim",
+        "summary": "Amazon CloudWatch Logs Insightsがクエリ実行前のスキャンバイト数見積もりをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/30/Amazon-CloudWatch-Logs-Insights-now-lets-you-estim/thumbnail.png"
+      },
+      {
+        "id": "2026-09-30-Amazon-CloudWatch-Logs-now-automatically-indexes-f",
+        "title": "Amazon CloudWatch Logsが頻繁にクエリされるフィールドを自動インデックス化",
+        "date": "2026-09-30",
+        "year": 2026,
+        "month": 9,
+        "day": 30,
+        "path": "2026/09/30/Amazon-CloudWatch-Logs-now-automatically-indexes-f",
+        "summary": "Amazon CloudWatch Logsが頻繁にクエリされるフィールドを自動インデックス化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/30/Amazon-CloudWatch-Logs-now-automatically-indexes-f/thumbnail.png"
+      },
+      {
+        "id": "2026-09-30-Amazon-S3-Tables-now-support-all-Apache-Iceberg-V3",
+        "title": "Amazon S3 TablesがApache Iceberg V3の全データ型をサポート",
+        "date": "2026-09-30",
+        "year": 2026,
+        "month": 9,
+        "day": 30,
+        "path": "2026/09/30/Amazon-S3-Tables-now-support-all-Apache-Iceberg-V3",
+        "summary": "Amazon S3 TablesがApache Iceberg V3の全データ型をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/30/Amazon-S3-Tables-now-support-all-Apache-Iceberg-V3/thumbnail.png"
+      },
+      {
+        "id": "2026-09-30-Amazon-S3-Vectors-introduces-metadata-pre-filterin",
+        "title": "Amazon S3 Vectorsがメタデータ事前フィルタリングを導入、フィルタ検索の再現率が最大5倍に",
+        "date": "2026-09-30",
+        "year": 2026,
+        "month": 9,
+        "day": 30,
+        "path": "2026/09/30/Amazon-S3-Vectors-introduces-metadata-pre-filterin",
+        "summary": "Amazon S3 Vectorsがメタデータ事前フィルタリングを導入、フィルタ検索の再現率が最大5倍に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/30/Amazon-S3-Vectors-introduces-metadata-pre-filterin/thumbnail.png"
+      },
+      {
+        "id": "2026-09-30-Amazon-S3-Vectors-now-supports-metadata-pre-filter",
+        "title": "Amazon S3 Vectorsがメタデータ事前フィルタリングをサポート",
+        "date": "2026-09-30",
+        "year": 2026,
+        "month": 9,
+        "day": 30,
+        "path": "2026/09/30/Amazon-S3-Vectors-now-supports-metadata-pre-filter",
+        "summary": "Amazon S3 Vectorsがメタデータ事前フィルタリングをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/30/Amazon-S3-Vectors-now-supports-metadata-pre-filter/thumbnail.png"
+      },
+      {
+        "id": "2026-09-30-Uncover-blind-spots-in-AWS-data-plane-operations-w",
+        "title": "AWS CloudTrail Event Coverageでデータプレーン操作の盲点を可視化",
+        "date": "2026-09-30",
+        "year": 2026,
+        "month": 9,
+        "day": 30,
+        "path": "2026/09/30/Uncover-blind-spots-in-AWS-data-plane-operations-w",
+        "summary": "AWS CloudTrail Event Coverageでデータプレーン操作の盲点を可視化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/30/Uncover-blind-spots-in-AWS-data-plane-operations-w/thumbnail.png"
+      },
+      {
+        "id": "2026-09-29-Amazon-ElastiCache-Serverless-for-Valkey-now-suppo",
+        "title": "Amazon ElastiCache Serverless for Valkey がパブリックエンドポイントをサポート",
+        "date": "2026-09-29",
+        "year": 2026,
+        "month": 9,
+        "day": 29,
+        "path": "2026/09/29/Amazon-ElastiCache-Serverless-for-Valkey-now-suppo",
+        "summary": "Amazon ElastiCache Serverless for Valkey がパブリックエンドポイントをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/29/Amazon-ElastiCache-Serverless-for-Valkey-now-suppo/thumbnail.png"
+      },
       {
         "id": "2026-09-29-Grok-47-is-now-available-on-Amazon-Bedrock",
         "title": "Amazon BedrockでxAIのGrok 4.7が利用可能に",
@@ -7676,7 +8028,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/09/01/Claude-Fable-51-Anthropics-new-frontier-model-is-n/thumbnail.png"
       }
     ],
-    "totalPages": 9
+    "totalPages": 11
   },
   "metadata:2026/08": {
     "year": 2026,
