@@ -6,6 +6,48 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-01-AWS-Well-Architected-Agent-is-now-available-in-pre</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-01-Amazon-DynamoDB-introduces-filtered-export-to-Amaz</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-01-Amazon-Kinesis-Video-Streams-now-supports-VPC-endp</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-01-Amazon-Quick-adds-Hierarchy-Filter-for-guided-dash</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-01-Announcing-DNS-analytics-and-insights-for-Route-53</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-01-Apache-Iceberg-materialized-views-now-support-syst</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-01-Improve-your-secrets-security-posture-with-actiona</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-09-30-AWS-CLI-now-supports-bulk-skill-updates-and-versio</loc>
     <lastmod>2026-09-30</lastmod>
     <changefreq>never</changefreq>

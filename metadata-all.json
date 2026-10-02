@@ -2,6 +2,83 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-10-01-AWS-Well-Architected-Agent-is-now-available-in-pre",
+        "title": "AWS Well-Architected Agentがプレビューで利用可能に",
+        "date": "2026-10-01",
+        "year": 2026,
+        "month": 10,
+        "day": 1,
+        "path": "2026/10/01/AWS-Well-Architected-Agent-is-now-available-in-pre",
+        "summary": "AWS Well Architected Agentがプレビューで利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/01/AWS-Well-Architected-Agent-is-now-available-in-pre/thumbnail.png"
+      },
+      {
+        "id": "2026-10-01-Amazon-DynamoDB-introduces-filtered-export-to-Amaz",
+        "title": "Amazon DynamoDB が Amazon S3 へのフィルタ付きエクスポート機能を発表",
+        "date": "2026-10-01",
+        "year": 2026,
+        "month": 10,
+        "day": 1,
+        "path": "2026/10/01/Amazon-DynamoDB-introduces-filtered-export-to-Amaz",
+        "summary": "Amazon DynamoDB が Amazon S3 へのフィルタ付きエクスポート機能を発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/01/Amazon-DynamoDB-introduces-filtered-export-to-Amaz/thumbnail.png"
+      },
+      {
+        "id": "2026-10-01-Amazon-Kinesis-Video-Streams-now-supports-VPC-endp",
+        "title": "Amazon Kinesis Video StreamsがAWS PrivateLinkによるVPCエンドポイントをサポート",
+        "date": "2026-10-01",
+        "year": 2026,
+        "month": 10,
+        "day": 1,
+        "path": "2026/10/01/Amazon-Kinesis-Video-Streams-now-supports-VPC-endp",
+        "summary": "Amazon Kinesis Video StreamsがAWS PrivateLinkによるVPCエンドポイントをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/01/Amazon-Kinesis-Video-Streams-now-supports-VPC-endp/thumbnail.png"
+      },
+      {
+        "id": "2026-10-01-Amazon-Quick-adds-Hierarchy-Filter-for-guided-dash",
+        "title": "Amazon QuickがHierarchy Filterを追加、ダッシュボードのドリルダウンが容易に",
+        "date": "2026-10-01",
+        "year": 2026,
+        "month": 10,
+        "day": 1,
+        "path": "2026/10/01/Amazon-Quick-adds-Hierarchy-Filter-for-guided-dash",
+        "summary": "Amazon QuickがHierarchy Filterを追加、ダッシュボードのドリルダウンが容易に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/01/Amazon-Quick-adds-Hierarchy-Filter-for-guided-dash/thumbnail.png"
+      },
+      {
+        "id": "2026-10-01-Announcing-DNS-analytics-and-insights-for-Route-53",
+        "title": "Route 53 Global ResolverとDNS FirewallでDNS分析・インサイトが利用可能に",
+        "date": "2026-10-01",
+        "year": 2026,
+        "month": 10,
+        "day": 1,
+        "path": "2026/10/01/Announcing-DNS-analytics-and-insights-for-Route-53",
+        "summary": "Route 53 Global ResolverとDNS FirewallでDNS分析・インサイトが利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/01/Announcing-DNS-analytics-and-insights-for-Route-53/thumbnail.png"
+      },
+      {
+        "id": "2026-10-01-Apache-Iceberg-materialized-views-now-support-syst",
+        "title": "Apache Icebergマテリアライズドビューがシステム管理の書き込み保護をサポート",
+        "date": "2026-10-01",
+        "year": 2026,
+        "month": 10,
+        "day": 1,
+        "path": "2026/10/01/Apache-Iceberg-materialized-views-now-support-syst",
+        "summary": "Apache Icebergマテリアライズドビューがシステム管理の書き込み保護をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/01/Apache-Iceberg-materialized-views-now-support-syst/thumbnail.png"
+      },
+      {
+        "id": "2026-10-01-Improve-your-secrets-security-posture-with-actiona",
+        "title": "AWS Secrets Manager コンソールでセキュリティ姿勢の推奨アクションが利用可能に",
+        "date": "2026-10-01",
+        "year": 2026,
+        "month": 10,
+        "day": 1,
+        "path": "2026/10/01/Improve-your-secrets-security-posture-with-actiona",
+        "summary": "AWS Secrets Manager コンソールでセキュリティ姿勢の推奨アクションが利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/01/Improve-your-secrets-security-posture-with-actiona/thumbnail.png"
+      },
+      {
         "id": "2026-09-30-AWS-CLI-now-supports-bulk-skill-updates-and-versio",
         "title": "AWS CLIがAgent Toolkitのスキル一括更新とバージョン確認に対応",
         "date": "2026-09-30",
@@ -6888,10 +6965,11 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-10-01T20:06:54.727Z",
-    "totalCount": 626
+    "updatedAt": "2026-10-02T00:18:57.430Z",
+    "totalCount": 633
   },
   "metadata:months": [
+    "2026/10",
     "2026/09",
     "2026/08",
     "2026/07",
@@ -6901,6 +6979,90 @@
     "2026/03",
     "2026/02"
   ],
+  "metadata:2026/10": {
+    "year": 2026,
+    "month": 10,
+    "articles": [
+      {
+        "id": "2026-10-01-AWS-Well-Architected-Agent-is-now-available-in-pre",
+        "title": "AWS Well-Architected Agentがプレビューで利用可能に",
+        "date": "2026-10-01",
+        "year": 2026,
+        "month": 10,
+        "day": 1,
+        "path": "2026/10/01/AWS-Well-Architected-Agent-is-now-available-in-pre",
+        "summary": "AWS Well Architected Agentがプレビューで利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/01/AWS-Well-Architected-Agent-is-now-available-in-pre/thumbnail.png"
+      },
+      {
+        "id": "2026-10-01-Amazon-DynamoDB-introduces-filtered-export-to-Amaz",
+        "title": "Amazon DynamoDB が Amazon S3 へのフィルタ付きエクスポート機能を発表",
+        "date": "2026-10-01",
+        "year": 2026,
+        "month": 10,
+        "day": 1,
+        "path": "2026/10/01/Amazon-DynamoDB-introduces-filtered-export-to-Amaz",
+        "summary": "Amazon DynamoDB が Amazon S3 へのフィルタ付きエクスポート機能を発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/01/Amazon-DynamoDB-introduces-filtered-export-to-Amaz/thumbnail.png"
+      },
+      {
+        "id": "2026-10-01-Amazon-Kinesis-Video-Streams-now-supports-VPC-endp",
+        "title": "Amazon Kinesis Video StreamsがAWS PrivateLinkによるVPCエンドポイントをサポート",
+        "date": "2026-10-01",
+        "year": 2026,
+        "month": 10,
+        "day": 1,
+        "path": "2026/10/01/Amazon-Kinesis-Video-Streams-now-supports-VPC-endp",
+        "summary": "Amazon Kinesis Video StreamsがAWS PrivateLinkによるVPCエンドポイントをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/01/Amazon-Kinesis-Video-Streams-now-supports-VPC-endp/thumbnail.png"
+      },
+      {
+        "id": "2026-10-01-Amazon-Quick-adds-Hierarchy-Filter-for-guided-dash",
+        "title": "Amazon QuickがHierarchy Filterを追加、ダッシュボードのドリルダウンが容易に",
+        "date": "2026-10-01",
+        "year": 2026,
+        "month": 10,
+        "day": 1,
+        "path": "2026/10/01/Amazon-Quick-adds-Hierarchy-Filter-for-guided-dash",
+        "summary": "Amazon QuickがHierarchy Filterを追加、ダッシュボードのドリルダウンが容易に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/01/Amazon-Quick-adds-Hierarchy-Filter-for-guided-dash/thumbnail.png"
+      },
+      {
+        "id": "2026-10-01-Announcing-DNS-analytics-and-insights-for-Route-53",
+        "title": "Route 53 Global ResolverとDNS FirewallでDNS分析・インサイトが利用可能に",
+        "date": "2026-10-01",
+        "year": 2026,
+        "month": 10,
+        "day": 1,
+        "path": "2026/10/01/Announcing-DNS-analytics-and-insights-for-Route-53",
+        "summary": "Route 53 Global ResolverとDNS FirewallでDNS分析・インサイトが利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/01/Announcing-DNS-analytics-and-insights-for-Route-53/thumbnail.png"
+      },
+      {
+        "id": "2026-10-01-Apache-Iceberg-materialized-views-now-support-syst",
+        "title": "Apache Icebergマテリアライズドビューがシステム管理の書き込み保護をサポート",
+        "date": "2026-10-01",
+        "year": 2026,
+        "month": 10,
+        "day": 1,
+        "path": "2026/10/01/Apache-Iceberg-materialized-views-now-support-syst",
+        "summary": "Apache Icebergマテリアライズドビューがシステム管理の書き込み保護をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/01/Apache-Iceberg-materialized-views-now-support-syst/thumbnail.png"
+      },
+      {
+        "id": "2026-10-01-Improve-your-secrets-security-posture-with-actiona",
+        "title": "AWS Secrets Manager コンソールでセキュリティ姿勢の推奨アクションが利用可能に",
+        "date": "2026-10-01",
+        "year": 2026,
+        "month": 10,
+        "day": 1,
+        "path": "2026/10/01/Improve-your-secrets-security-posture-with-actiona",
+        "summary": "AWS Secrets Manager コンソールでセキュリティ姿勢の推奨アクションが利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/01/Improve-your-secrets-security-posture-with-actiona/thumbnail.png"
+      }
+    ],
+    "totalPages": 1
+  },
   "metadata:2026/09": {
     "year": 2026,
     "month": 9,
