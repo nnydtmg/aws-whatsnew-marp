@@ -13,6 +13,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/02/AWS-Budgets-now-supports-email-verification-for-no/thumbnail.png"
       },
       {
+        "id": "2026-10-02-Amazon-Quick-now-supports-live-data-from-your-data",
+        "title": "Amazon Quickがアプリでデータセットのライブデータをサポート",
+        "date": "2026-10-02",
+        "year": 2026,
+        "month": 10,
+        "day": 2,
+        "path": "2026/10/02/Amazon-Quick-now-supports-live-data-from-your-data",
+        "summary": "Amazon Quickがアプリでデータセットのライブデータをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/02/Amazon-Quick-now-supports-live-data-from-your-data/thumbnail.png"
+      },
+      {
         "id": "2026-10-01-AWS-Well-Architected-Agent-is-now-available-in-pre",
         "title": "AWS Well-Architected Agentがプレビューで利用可能に",
         "date": "2026-10-01",
@@ -6976,8 +6987,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-10-02T06:24:28.865Z",
-    "totalCount": 634
+    "updatedAt": "2026-10-02T13:19:18.868Z",
+    "totalCount": 635
   },
   "metadata:months": [
     "2026/10",
@@ -7004,6 +7015,17 @@
         "path": "2026/10/02/AWS-Budgets-now-supports-email-verification-for-no",
         "summary": "AWS Budgetsが通知購読者のメール検証をサポート",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/02/AWS-Budgets-now-supports-email-verification-for-no/thumbnail.png"
+      },
+      {
+        "id": "2026-10-02-Amazon-Quick-now-supports-live-data-from-your-data",
+        "title": "Amazon Quickがアプリでデータセットのライブデータをサポート",
+        "date": "2026-10-02",
+        "year": 2026,
+        "month": 10,
+        "day": 2,
+        "path": "2026/10/02/Amazon-Quick-now-supports-live-data-from-your-data",
+        "summary": "Amazon Quickがアプリでデータセットのライブデータをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/02/Amazon-Quick-now-supports-live-data-from-your-data/thumbnail.png"
       },
       {
         "id": "2026-10-01-AWS-Well-Architected-Agent-is-now-available-in-pre",
