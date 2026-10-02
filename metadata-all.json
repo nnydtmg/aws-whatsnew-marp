@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-10-02-AWS-Budgets-now-supports-email-verification-for-no",
+        "title": "AWS Budgetsが通知購読者のメール検証をサポート",
+        "date": "2026-10-02",
+        "year": 2026,
+        "month": 10,
+        "day": 2,
+        "path": "2026/10/02/AWS-Budgets-now-supports-email-verification-for-no",
+        "summary": "AWS Budgetsが通知購読者のメール検証をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/02/AWS-Budgets-now-supports-email-verification-for-no/thumbnail.png"
+      },
+      {
         "id": "2026-10-01-AWS-Well-Architected-Agent-is-now-available-in-pre",
         "title": "AWS Well-Architected Agentがプレビューで利用可能に",
         "date": "2026-10-01",
@@ -6965,8 +6976,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-10-02T00:18:57.430Z",
-    "totalCount": 633
+    "updatedAt": "2026-10-02T06:24:28.865Z",
+    "totalCount": 634
   },
   "metadata:months": [
     "2026/10",
@@ -6983,6 +6994,17 @@
     "year": 2026,
     "month": 10,
     "articles": [
+      {
+        "id": "2026-10-02-AWS-Budgets-now-supports-email-verification-for-no",
+        "title": "AWS Budgetsが通知購読者のメール検証をサポート",
+        "date": "2026-10-02",
+        "year": 2026,
+        "month": 10,
+        "day": 2,
+        "path": "2026/10/02/AWS-Budgets-now-supports-email-verification-for-no",
+        "summary": "AWS Budgetsが通知購読者のメール検証をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/02/AWS-Budgets-now-supports-email-verification-for-no/thumbnail.png"
+      },
       {
         "id": "2026-10-01-AWS-Well-Architected-Agent-is-now-available-in-pre",
         "title": "AWS Well-Architected Agentがプレビューで利用可能に",
