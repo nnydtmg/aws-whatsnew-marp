@@ -6,6 +6,42 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-03-AWS-Brazil-automates-distribution-of-non-Brazilian</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-03-AWS-Health-introduces-the-version-catalog-for-soft</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-03-AgentCore-Gateway-supports-private-TLS-certificate</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-03-Amazon-Aurora-DSQL-now-supports-partial-indexes</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-03-Amazon-ECS-adds-Amazon-VPC-Lattice-support-for-blu</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-03-Amazon-ElastiCache-for-Valkey-now-supports-OpenTel</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-02-AWS-Budgets-now-supports-email-verification-for-no</loc>
     <lastmod>2026-10-02</lastmod>
     <changefreq>never</changefreq>

@@ -2,6 +2,72 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-10-03-AWS-Brazil-automates-distribution-of-non-Brazilian",
+        "title": "AWS Brazilが国外ISVのSaaSライセンス自動配布を開始",
+        "date": "2026-10-03",
+        "year": 2026,
+        "month": 10,
+        "day": 3,
+        "path": "2026/10/03/AWS-Brazil-automates-distribution-of-non-Brazilian",
+        "summary": "AWS Brazilが国外ISVのSaaSライセンス自動配布を開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/03/AWS-Brazil-automates-distribution-of-non-Brazilian/thumbnail.png"
+      },
+      {
+        "id": "2026-10-03-AWS-Health-introduces-the-version-catalog-for-soft",
+        "title": "AWS Health がバージョンカタログを導入 ソフトウェアライフサイクル管理を強化",
+        "date": "2026-10-03",
+        "year": 2026,
+        "month": 10,
+        "day": 3,
+        "path": "2026/10/03/AWS-Health-introduces-the-version-catalog-for-soft",
+        "summary": "AWS Health がバージョンカタログを導入 ソフトウェアライフサイクル管理を強化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/03/AWS-Health-introduces-the-version-catalog-for-soft/thumbnail.png"
+      },
+      {
+        "id": "2026-10-03-AgentCore-Gateway-supports-private-TLS-certificate",
+        "title": "Amazon Bedrock AgentCore GatewayがVPCエンドポイント向けプライベートTLS証明書をサポート",
+        "date": "2026-10-03",
+        "year": 2026,
+        "month": 10,
+        "day": 3,
+        "path": "2026/10/03/AgentCore-Gateway-supports-private-TLS-certificate",
+        "summary": "Amazon Bedrock AgentCore GatewayがVPCエンドポイント向けプライベートTLS証明書をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/03/AgentCore-Gateway-supports-private-TLS-certificate/thumbnail.png"
+      },
+      {
+        "id": "2026-10-03-Amazon-Aurora-DSQL-now-supports-partial-indexes",
+        "title": "Amazon Aurora DSQLが部分インデックスをサポート、クエリ性能向上とコスト削減を実現",
+        "date": "2026-10-03",
+        "year": 2026,
+        "month": 10,
+        "day": 3,
+        "path": "2026/10/03/Amazon-Aurora-DSQL-now-supports-partial-indexes",
+        "summary": "Amazon Aurora DSQLが部分インデックスをサポート、クエリ性能向上とコスト削減を実現",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/03/Amazon-Aurora-DSQL-now-supports-partial-indexes/thumbnail.png"
+      },
+      {
+        "id": "2026-10-03-Amazon-ECS-adds-Amazon-VPC-Lattice-support-for-blu",
+        "title": "Amazon ECSがVPC Lattice向けにブルー/グリーン・リニア・カナリアデプロイをサポート",
+        "date": "2026-10-03",
+        "year": 2026,
+        "month": 10,
+        "day": 3,
+        "path": "2026/10/03/Amazon-ECS-adds-Amazon-VPC-Lattice-support-for-blu",
+        "summary": "Amazon ECSがVPC Lattice向けにブルー/グリーン・リニア・カナリアデプロイをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/03/Amazon-ECS-adds-Amazon-VPC-Lattice-support-for-blu/thumbnail.png"
+      },
+      {
+        "id": "2026-10-03-Amazon-ElastiCache-for-Valkey-now-supports-OpenTel",
+        "title": "Amazon ElastiCache for ValkeyがOpenTelemetryメトリクスと詳細モニタリングをサポート",
+        "date": "2026-10-03",
+        "year": 2026,
+        "month": 10,
+        "day": 3,
+        "path": "2026/10/03/Amazon-ElastiCache-for-Valkey-now-supports-OpenTel",
+        "summary": "Amazon ElastiCache for ValkeyがOpenTelemetryメトリクスと詳細モニタリングをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/03/Amazon-ElastiCache-for-Valkey-now-supports-OpenTel/thumbnail.png"
+      },
+      {
         "id": "2026-10-02-AWS-Budgets-now-supports-email-verification-for-no",
         "title": "AWS Budgetsが通知購読者のメール検証をサポート",
         "date": "2026-10-02",
@@ -6987,8 +7053,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-10-03T01:32:07.400Z",
-    "totalCount": 635
+    "updatedAt": "2026-10-03T07:14:37.949Z",
+    "totalCount": 641
   },
   "metadata:months": [
     "2026/10",
@@ -7005,6 +7071,72 @@
     "year": 2026,
     "month": 10,
     "articles": [
+      {
+        "id": "2026-10-03-AWS-Brazil-automates-distribution-of-non-Brazilian",
+        "title": "AWS Brazilが国外ISVのSaaSライセンス自動配布を開始",
+        "date": "2026-10-03",
+        "year": 2026,
+        "month": 10,
+        "day": 3,
+        "path": "2026/10/03/AWS-Brazil-automates-distribution-of-non-Brazilian",
+        "summary": "AWS Brazilが国外ISVのSaaSライセンス自動配布を開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/03/AWS-Brazil-automates-distribution-of-non-Brazilian/thumbnail.png"
+      },
+      {
+        "id": "2026-10-03-AWS-Health-introduces-the-version-catalog-for-soft",
+        "title": "AWS Health がバージョンカタログを導入 ソフトウェアライフサイクル管理を強化",
+        "date": "2026-10-03",
+        "year": 2026,
+        "month": 10,
+        "day": 3,
+        "path": "2026/10/03/AWS-Health-introduces-the-version-catalog-for-soft",
+        "summary": "AWS Health がバージョンカタログを導入 ソフトウェアライフサイクル管理を強化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/03/AWS-Health-introduces-the-version-catalog-for-soft/thumbnail.png"
+      },
+      {
+        "id": "2026-10-03-AgentCore-Gateway-supports-private-TLS-certificate",
+        "title": "Amazon Bedrock AgentCore GatewayがVPCエンドポイント向けプライベートTLS証明書をサポート",
+        "date": "2026-10-03",
+        "year": 2026,
+        "month": 10,
+        "day": 3,
+        "path": "2026/10/03/AgentCore-Gateway-supports-private-TLS-certificate",
+        "summary": "Amazon Bedrock AgentCore GatewayがVPCエンドポイント向けプライベートTLS証明書をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/03/AgentCore-Gateway-supports-private-TLS-certificate/thumbnail.png"
+      },
+      {
+        "id": "2026-10-03-Amazon-Aurora-DSQL-now-supports-partial-indexes",
+        "title": "Amazon Aurora DSQLが部分インデックスをサポート、クエリ性能向上とコスト削減を実現",
+        "date": "2026-10-03",
+        "year": 2026,
+        "month": 10,
+        "day": 3,
+        "path": "2026/10/03/Amazon-Aurora-DSQL-now-supports-partial-indexes",
+        "summary": "Amazon Aurora DSQLが部分インデックスをサポート、クエリ性能向上とコスト削減を実現",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/03/Amazon-Aurora-DSQL-now-supports-partial-indexes/thumbnail.png"
+      },
+      {
+        "id": "2026-10-03-Amazon-ECS-adds-Amazon-VPC-Lattice-support-for-blu",
+        "title": "Amazon ECSがVPC Lattice向けにブルー/グリーン・リニア・カナリアデプロイをサポート",
+        "date": "2026-10-03",
+        "year": 2026,
+        "month": 10,
+        "day": 3,
+        "path": "2026/10/03/Amazon-ECS-adds-Amazon-VPC-Lattice-support-for-blu",
+        "summary": "Amazon ECSがVPC Lattice向けにブルー/グリーン・リニア・カナリアデプロイをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/03/Amazon-ECS-adds-Amazon-VPC-Lattice-support-for-blu/thumbnail.png"
+      },
+      {
+        "id": "2026-10-03-Amazon-ElastiCache-for-Valkey-now-supports-OpenTel",
+        "title": "Amazon ElastiCache for ValkeyがOpenTelemetryメトリクスと詳細モニタリングをサポート",
+        "date": "2026-10-03",
+        "year": 2026,
+        "month": 10,
+        "day": 3,
+        "path": "2026/10/03/Amazon-ElastiCache-for-Valkey-now-supports-OpenTel",
+        "summary": "Amazon ElastiCache for ValkeyがOpenTelemetryメトリクスと詳細モニタリングをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/03/Amazon-ElastiCache-for-Valkey-now-supports-OpenTel/thumbnail.png"
+      },
       {
         "id": "2026-10-02-AWS-Budgets-now-supports-email-verification-for-no",
         "title": "AWS Budgetsが通知購読者のメール検証をサポート",
@@ -7105,7 +7237,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/01/Improve-your-secrets-security-posture-with-actiona/thumbnail.png"
       }
     ],
-    "totalPages": 1
+    "totalPages": 2
   },
   "metadata:2026/09": {
     "year": 2026,
