@@ -21,19 +21,19 @@ echo "Updating Workers KV..."
 # metadata:index
 echo "Updating metadata:index..."
 cat metadata-all.json | jq '."metadata:index"' | \
-  npx wrangler kv:key put "metadata:index" --namespace-id="$NAMESPACE_ID" --path=/dev/stdin
+  npx cf kv keys put "metadata:index" --namespace-id="$NAMESPACE_ID" --file /dev/stdin
 
 # metadata:months
 echo "Updating metadata:months..."
 cat metadata-all.json | jq '."metadata:months"' | \
-  npx wrangler kv:key put "metadata:months" --namespace-id="$NAMESPACE_ID" --path=/dev/stdin
+  npx cf kv keys put "metadata:months" --namespace-id="$NAMESPACE_ID" --file /dev/stdin
 
 # 各月のメタデータ
 echo "Updating monthly metadata..."
 cat metadata-all.json | jq -r 'keys[] | select(startswith("metadata:") and (. != "metadata:index") and (. != "metadata:months"))' | while read key; do
   echo "  Updating $key..."
   cat metadata-all.json | jq ".\"$key\"" | \
-    npx wrangler kv:key put "$key" --namespace-id="$NAMESPACE_ID" --path=/dev/stdin
+    npx cf kv keys put "$key" --namespace-id="$NAMESPACE_ID" --file /dev/stdin
 done
 
 echo "KV metadata update completed!"
