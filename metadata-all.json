@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-10-05-Amazon-Q-Developer-now-delivers-enhanced-visualiza",
+        "title": "Amazon Q DeveloperがAWSマネジメントコンソールで強化された可視化機能を提供",
+        "date": "2026-10-05",
+        "year": 2026,
+        "month": 10,
+        "day": 5,
+        "path": "2026/10/05/Amazon-Q-Developer-now-delivers-enhanced-visualiza",
+        "summary": "Amazon Q DeveloperがAWSマネジメントコンソールで強化された可視化機能を提供",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/05/Amazon-Q-Developer-now-delivers-enhanced-visualiza/thumbnail.png"
+      },
+      {
         "id": "2026-10-03-AWS-Brazil-automates-distribution-of-non-Brazilian",
         "title": "AWS Brazilが国外ISVのSaaSライセンス自動配布を開始",
         "date": "2026-10-03",
@@ -7053,8 +7064,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-10-05T16:33:29.437Z",
-    "totalCount": 641
+    "updatedAt": "2026-10-05T22:58:59.714Z",
+    "totalCount": 642
   },
   "metadata:months": [
     "2026/10",
@@ -7071,6 +7082,17 @@
     "year": 2026,
     "month": 10,
     "articles": [
+      {
+        "id": "2026-10-05-Amazon-Q-Developer-now-delivers-enhanced-visualiza",
+        "title": "Amazon Q DeveloperがAWSマネジメントコンソールで強化された可視化機能を提供",
+        "date": "2026-10-05",
+        "year": 2026,
+        "month": 10,
+        "day": 5,
+        "path": "2026/10/05/Amazon-Q-Developer-now-delivers-enhanced-visualiza",
+        "summary": "Amazon Q DeveloperがAWSマネジメントコンソールで強化された可視化機能を提供",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/05/Amazon-Q-Developer-now-delivers-enhanced-visualiza/thumbnail.png"
+      },
       {
         "id": "2026-10-03-AWS-Brazil-automates-distribution-of-non-Brazilian",
         "title": "AWS Brazilが国外ISVのSaaSライセンス自動配布を開始",
