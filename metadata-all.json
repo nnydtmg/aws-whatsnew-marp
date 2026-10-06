@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-10-06-AWS-Client-VPN-now-supports-device-posture-assessm",
+        "title": "AWS Client VPNがデバイスポスチャ評価をサポート",
+        "date": "2026-10-06",
+        "year": 2026,
+        "month": 10,
+        "day": 6,
+        "path": "2026/10/06/AWS-Client-VPN-now-supports-device-posture-assessm",
+        "summary": "AWS Client VPNがデバイスポスチャ評価をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/06/AWS-Client-VPN-now-supports-device-posture-assessm/thumbnail.png"
+      },
+      {
         "id": "2026-10-06-AWS-Continuum-for-Penetration-Testing-now-supports",
         "title": "AWS Continuum for Penetration TestingがCI/CDへの継続的ペネトレーションテスト統合を提供",
         "date": "2026-10-06",
@@ -33,6 +44,17 @@
         "path": "2026/10/06/Amazon-EKS-Auto-Mode-now-supports-advanced-compute",
         "summary": "Amazon EKS Auto Modeが高度なコンピューティング設定をサポート",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/06/Amazon-EKS-Auto-Mode-now-supports-advanced-compute/thumbnail.png"
+      },
+      {
+        "id": "2026-10-06-Announcing-Amazon-Nova-25-Sonic-with-improved-reas",
+        "title": "Amazon Nova 2.5 Sonic が一般提供開始 — 音声エージェントの推論能力が向上",
+        "date": "2026-10-06",
+        "year": 2026,
+        "month": 10,
+        "day": 6,
+        "path": "2026/10/06/Announcing-Amazon-Nova-25-Sonic-with-improved-reas",
+        "summary": "Amazon Nova 2.5 Sonic が一般提供開始 — 音声エージェントの推論能力が向上",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/06/Announcing-Amazon-Nova-25-Sonic-with-improved-reas/thumbnail.png"
       },
       {
         "id": "2026-10-05-Amazon-Q-Developer-now-delivers-enhanced-visualiza",
@@ -7097,8 +7119,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-10-06T02:41:06.386Z",
-    "totalCount": 645
+    "updatedAt": "2026-10-06T09:33:37.130Z",
+    "totalCount": 647
   },
   "metadata:months": [
     "2026/10",
@@ -7115,6 +7137,17 @@
     "year": 2026,
     "month": 10,
     "articles": [
+      {
+        "id": "2026-10-06-AWS-Client-VPN-now-supports-device-posture-assessm",
+        "title": "AWS Client VPNがデバイスポスチャ評価をサポート",
+        "date": "2026-10-06",
+        "year": 2026,
+        "month": 10,
+        "day": 6,
+        "path": "2026/10/06/AWS-Client-VPN-now-supports-device-posture-assessm",
+        "summary": "AWS Client VPNがデバイスポスチャ評価をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/06/AWS-Client-VPN-now-supports-device-posture-assessm/thumbnail.png"
+      },
       {
         "id": "2026-10-06-AWS-Continuum-for-Penetration-Testing-now-supports",
         "title": "AWS Continuum for Penetration TestingがCI/CDへの継続的ペネトレーションテスト統合を提供",
@@ -7147,6 +7180,17 @@
         "path": "2026/10/06/Amazon-EKS-Auto-Mode-now-supports-advanced-compute",
         "summary": "Amazon EKS Auto Modeが高度なコンピューティング設定をサポート",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/06/Amazon-EKS-Auto-Mode-now-supports-advanced-compute/thumbnail.png"
+      },
+      {
+        "id": "2026-10-06-Announcing-Amazon-Nova-25-Sonic-with-improved-reas",
+        "title": "Amazon Nova 2.5 Sonic が一般提供開始 — 音声エージェントの推論能力が向上",
+        "date": "2026-10-06",
+        "year": 2026,
+        "month": 10,
+        "day": 6,
+        "path": "2026/10/06/Announcing-Amazon-Nova-25-Sonic-with-improved-reas",
+        "summary": "Amazon Nova 2.5 Sonic が一般提供開始 — 音声エージェントの推論能力が向上",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/06/Announcing-Amazon-Nova-25-Sonic-with-improved-reas/thumbnail.png"
       },
       {
         "id": "2026-10-05-Amazon-Q-Developer-now-delivers-enhanced-visualiza",
@@ -7325,7 +7369,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/01/Improve-your-secrets-security-posture-with-actiona/thumbnail.png"
       }
     ],
-    "totalPages": 2
+    "totalPages": 3
   },
   "metadata:2026/09": {
     "year": 2026,
