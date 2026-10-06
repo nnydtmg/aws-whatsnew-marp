@@ -2,6 +2,39 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-10-06-AWS-Continuum-for-Penetration-Testing-now-supports",
+        "title": "AWS Continuum for Penetration TestingがCI/CDへの継続的ペネトレーションテスト統合を提供",
+        "date": "2026-10-06",
+        "year": 2026,
+        "month": 10,
+        "day": 6,
+        "path": "2026/10/06/AWS-Continuum-for-Penetration-Testing-now-supports",
+        "summary": "AWS Continuum for Penetration TestingがCI/CDへの継続的ペネトレーションテスト統合を提供",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/06/AWS-Continuum-for-Penetration-Testing-now-supports/thumbnail.png"
+      },
+      {
+        "id": "2026-10-06-AWS-IAM-Identity-Center-now-supports-network-acces",
+        "title": "AWS IAM Identity Center が Identity Store のネットワークアクセスコントロールをサポート",
+        "date": "2026-10-06",
+        "year": 2026,
+        "month": 10,
+        "day": 6,
+        "path": "2026/10/06/AWS-IAM-Identity-Center-now-supports-network-acces",
+        "summary": "AWS IAM Identity Center が Identity Store のネットワークアクセスコントロールをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/06/AWS-IAM-Identity-Center-now-supports-network-acces/thumbnail.png"
+      },
+      {
+        "id": "2026-10-06-Amazon-EKS-Auto-Mode-now-supports-advanced-compute",
+        "title": "Amazon EKS Auto Modeが高度なコンピューティング設定をサポート",
+        "date": "2026-10-06",
+        "year": 2026,
+        "month": 10,
+        "day": 6,
+        "path": "2026/10/06/Amazon-EKS-Auto-Mode-now-supports-advanced-compute",
+        "summary": "Amazon EKS Auto Modeが高度なコンピューティング設定をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/06/Amazon-EKS-Auto-Mode-now-supports-advanced-compute/thumbnail.png"
+      },
+      {
         "id": "2026-10-05-Amazon-Q-Developer-now-delivers-enhanced-visualiza",
         "title": "Amazon Q DeveloperがAWSマネジメントコンソールで強化された可視化機能を提供",
         "date": "2026-10-05",
@@ -7064,8 +7097,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-10-05T22:58:59.714Z",
-    "totalCount": 642
+    "updatedAt": "2026-10-06T02:41:06.386Z",
+    "totalCount": 645
   },
   "metadata:months": [
     "2026/10",
@@ -7082,6 +7115,39 @@
     "year": 2026,
     "month": 10,
     "articles": [
+      {
+        "id": "2026-10-06-AWS-Continuum-for-Penetration-Testing-now-supports",
+        "title": "AWS Continuum for Penetration TestingがCI/CDへの継続的ペネトレーションテスト統合を提供",
+        "date": "2026-10-06",
+        "year": 2026,
+        "month": 10,
+        "day": 6,
+        "path": "2026/10/06/AWS-Continuum-for-Penetration-Testing-now-supports",
+        "summary": "AWS Continuum for Penetration TestingがCI/CDへの継続的ペネトレーションテスト統合を提供",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/06/AWS-Continuum-for-Penetration-Testing-now-supports/thumbnail.png"
+      },
+      {
+        "id": "2026-10-06-AWS-IAM-Identity-Center-now-supports-network-acces",
+        "title": "AWS IAM Identity Center が Identity Store のネットワークアクセスコントロールをサポート",
+        "date": "2026-10-06",
+        "year": 2026,
+        "month": 10,
+        "day": 6,
+        "path": "2026/10/06/AWS-IAM-Identity-Center-now-supports-network-acces",
+        "summary": "AWS IAM Identity Center が Identity Store のネットワークアクセスコントロールをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/06/AWS-IAM-Identity-Center-now-supports-network-acces/thumbnail.png"
+      },
+      {
+        "id": "2026-10-06-Amazon-EKS-Auto-Mode-now-supports-advanced-compute",
+        "title": "Amazon EKS Auto Modeが高度なコンピューティング設定をサポート",
+        "date": "2026-10-06",
+        "year": 2026,
+        "month": 10,
+        "day": 6,
+        "path": "2026/10/06/Amazon-EKS-Auto-Mode-now-supports-advanced-compute",
+        "summary": "Amazon EKS Auto Modeが高度なコンピューティング設定をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/06/Amazon-EKS-Auto-Mode-now-supports-advanced-compute/thumbnail.png"
+      },
       {
         "id": "2026-10-05-Amazon-Q-Developer-now-delivers-enhanced-visualiza",
         "title": "Amazon Q DeveloperがAWSマネジメントコンソールで強化された可視化機能を提供",
