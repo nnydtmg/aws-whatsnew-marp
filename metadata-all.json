@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-10-07-AWS-Batch-now-publishes-job-metrics-to-Amazon-Clou",
+        "title": "AWS Batch がジョブメトリクスを Amazon CloudWatch に公開",
+        "date": "2026-10-07",
+        "year": 2026,
+        "month": 10,
+        "day": 7,
+        "path": "2026/10/07/AWS-Batch-now-publishes-job-metrics-to-Amazon-Clou",
+        "summary": "AWS Batch がジョブメトリクスを Amazon CloudWatch に公開",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/07/AWS-Batch-now-publishes-job-metrics-to-Amazon-Clou/thumbnail.png"
+      },
+      {
+        "id": "2026-10-07-AWS-Control-Tower-AFT-now-supports-plan-only-custo",
+        "title": "AWS Control Tower AFTがplan-onlyカスタマイズ実行をサポート",
+        "date": "2026-10-07",
+        "year": 2026,
+        "month": 10,
+        "day": 7,
+        "path": "2026/10/07/AWS-Control-Tower-AFT-now-supports-plan-only-custo",
+        "summary": "AWS Control Tower AFTがplan onlyカスタマイズ実行をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/07/AWS-Control-Tower-AFT-now-supports-plan-only-custo/thumbnail.png"
+      },
+      {
         "id": "2026-10-06-AWS-Client-VPN-now-supports-device-posture-assessm",
         "title": "AWS Client VPNがデバイスポスチャ評価をサポート",
         "date": "2026-10-06",
@@ -7119,8 +7141,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-10-07T01:06:08.662Z",
-    "totalCount": 647
+    "updatedAt": "2026-10-07T07:52:00.525Z",
+    "totalCount": 649
   },
   "metadata:months": [
     "2026/10",
@@ -7137,6 +7159,28 @@
     "year": 2026,
     "month": 10,
     "articles": [
+      {
+        "id": "2026-10-07-AWS-Batch-now-publishes-job-metrics-to-Amazon-Clou",
+        "title": "AWS Batch がジョブメトリクスを Amazon CloudWatch に公開",
+        "date": "2026-10-07",
+        "year": 2026,
+        "month": 10,
+        "day": 7,
+        "path": "2026/10/07/AWS-Batch-now-publishes-job-metrics-to-Amazon-Clou",
+        "summary": "AWS Batch がジョブメトリクスを Amazon CloudWatch に公開",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/07/AWS-Batch-now-publishes-job-metrics-to-Amazon-Clou/thumbnail.png"
+      },
+      {
+        "id": "2026-10-07-AWS-Control-Tower-AFT-now-supports-plan-only-custo",
+        "title": "AWS Control Tower AFTがplan-onlyカスタマイズ実行をサポート",
+        "date": "2026-10-07",
+        "year": 2026,
+        "month": 10,
+        "day": 7,
+        "path": "2026/10/07/AWS-Control-Tower-AFT-now-supports-plan-only-custo",
+        "summary": "AWS Control Tower AFTがplan onlyカスタマイズ実行をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/07/AWS-Control-Tower-AFT-now-supports-plan-only-custo/thumbnail.png"
+      },
       {
         "id": "2026-10-06-AWS-Client-VPN-now-supports-device-posture-assessm",
         "title": "AWS Client VPNがデバイスポスチャ評価をサポート",
