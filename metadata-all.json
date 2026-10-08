@@ -24,6 +24,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/07/AWS-Control-Tower-AFT-now-supports-plan-only-custo/thumbnail.png"
       },
       {
+        "id": "2026-10-07-Claude-Haiku-55-is-now-available-on-AWS",
+        "title": "Amazon BedrockとClaude Platform on AWSでClaude Haiku 5.5が利用可能に",
+        "date": "2026-10-07",
+        "year": 2026,
+        "month": 10,
+        "day": 7,
+        "path": "2026/10/07/Claude-Haiku-55-is-now-available-on-AWS",
+        "summary": "Amazon BedrockとClaude Platform on AWSでClaude Haiku 5.5が利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/07/Claude-Haiku-55-is-now-available-on-AWS/thumbnail.png"
+      },
+      {
         "id": "2026-10-06-AWS-Client-VPN-now-supports-device-posture-assessm",
         "title": "AWS Client VPNがデバイスポスチャ評価をサポート",
         "date": "2026-10-06",
@@ -7141,8 +7152,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-10-07T20:17:08.023Z",
-    "totalCount": 649
+    "updatedAt": "2026-10-08T00:32:25.405Z",
+    "totalCount": 650
   },
   "metadata:months": [
     "2026/10",
@@ -7180,6 +7191,17 @@
         "path": "2026/10/07/AWS-Control-Tower-AFT-now-supports-plan-only-custo",
         "summary": "AWS Control Tower AFTがplan onlyカスタマイズ実行をサポート",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/07/AWS-Control-Tower-AFT-now-supports-plan-only-custo/thumbnail.png"
+      },
+      {
+        "id": "2026-10-07-Claude-Haiku-55-is-now-available-on-AWS",
+        "title": "Amazon BedrockとClaude Platform on AWSでClaude Haiku 5.5が利用可能に",
+        "date": "2026-10-07",
+        "year": 2026,
+        "month": 10,
+        "day": 7,
+        "path": "2026/10/07/Claude-Haiku-55-is-now-available-on-AWS",
+        "summary": "Amazon BedrockとClaude Platform on AWSでClaude Haiku 5.5が利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/07/Claude-Haiku-55-is-now-available-on-AWS/thumbnail.png"
       },
       {
         "id": "2026-10-06-AWS-Client-VPN-now-supports-device-posture-assessm",
