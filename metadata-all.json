@@ -2,6 +2,72 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-10-10-AWS-Cost-Explorer-Budgets-and-Dashboards-now-suppo",
+        "title": "AWS Cost Explorer、Budgets、DashboardsがAmazon Bedrockの製品属性をサポート",
+        "date": "2026-10-10",
+        "year": 2026,
+        "month": 10,
+        "day": 10,
+        "path": "2026/10/10/AWS-Cost-Explorer-Budgets-and-Dashboards-now-suppo",
+        "summary": "AWS Cost Explorer、Budgets、DashboardsがAmazon Bedrockの製品属性をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/10/AWS-Cost-Explorer-Budgets-and-Dashboards-now-suppo/thumbnail.png"
+      },
+      {
+        "id": "2026-10-10-AWS-Network-Firewall-adds-wildcard-support-for-con",
+        "title": "AWS Network Firewallがコンテナ属性フィルターのワイルドカード対応を発表",
+        "date": "2026-10-10",
+        "year": 2026,
+        "month": 10,
+        "day": 10,
+        "path": "2026/10/10/AWS-Network-Firewall-adds-wildcard-support-for-con",
+        "summary": "AWS Network Firewallがコンテナ属性フィルターのワイルドカード対応を発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/10/AWS-Network-Firewall-adds-wildcard-support-for-con/thumbnail.png"
+      },
+      {
+        "id": "2026-10-10-AWS-Security-Hub-now-exports-findings-to-S3-in-CSV",
+        "title": "AWS Security Hubが検出結果のS3エクスポートをCSV/JSON形式で提供開始",
+        "date": "2026-10-10",
+        "year": 2026,
+        "month": 10,
+        "day": 10,
+        "path": "2026/10/10/AWS-Security-Hub-now-exports-findings-to-S3-in-CSV",
+        "summary": "AWS Security Hubが検出結果のS3エクスポートをCSV/JSON形式で提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/10/AWS-Security-Hub-now-exports-findings-to-S3-in-CSV/thumbnail.png"
+      },
+      {
+        "id": "2026-10-10-Amazon-Bedrock-now-supports-reasoning-summaries-fo",
+        "title": "Amazon BedrockがOpenAIモデル向けの推論要約機能をサポート",
+        "date": "2026-10-10",
+        "year": 2026,
+        "month": 10,
+        "day": 10,
+        "path": "2026/10/10/Amazon-Bedrock-now-supports-reasoning-summaries-fo",
+        "summary": "Amazon BedrockがOpenAIモデル向けの推論要約機能をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/10/Amazon-Bedrock-now-supports-reasoning-summaries-fo/thumbnail.png"
+      },
+      {
+        "id": "2026-10-10-Amazon-Quick-now-supports-brand-templates-for-on-b",
+        "title": "Amazon Quickがブランドテンプレートをサポート、オンブランド資料を組織全体で作成可能に",
+        "date": "2026-10-10",
+        "year": 2026,
+        "month": 10,
+        "day": 10,
+        "path": "2026/10/10/Amazon-Quick-now-supports-brand-templates-for-on-b",
+        "summary": "Amazon Quickがブランドテンプレートをサポート、オンブランド資料を組織全体で作成可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/10/Amazon-Quick-now-supports-brand-templates-for-on-b/thumbnail.png"
+      },
+      {
+        "id": "2026-10-10-OpenAI-GPT-61-Sol-now-supports-Ultrafast-mode-on-A",
+        "title": "Amazon BedrockのOpenAI GPT-6.1 SolがUltrafastモードに対応",
+        "date": "2026-10-10",
+        "year": 2026,
+        "month": 10,
+        "day": 10,
+        "path": "2026/10/10/OpenAI-GPT-61-Sol-now-supports-Ultrafast-mode-on-A",
+        "summary": "Amazon BedrockのOpenAI GPT 6.1 SolがUltrafastモードに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/10/OpenAI-GPT-61-Sol-now-supports-Ultrafast-mode-on-A/thumbnail.png"
+      },
+      {
         "id": "2026-10-07-AWS-Batch-now-publishes-job-metrics-to-Amazon-Clou",
         "title": "AWS Batch がジョブメトリクスを Amazon CloudWatch に公開",
         "date": "2026-10-07",
@@ -7152,8 +7218,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-10-09T23:40:14.108Z",
-    "totalCount": 650
+    "updatedAt": "2026-10-10T03:10:58.365Z",
+    "totalCount": 656
   },
   "metadata:months": [
     "2026/10",
@@ -7170,6 +7236,72 @@
     "year": 2026,
     "month": 10,
     "articles": [
+      {
+        "id": "2026-10-10-AWS-Cost-Explorer-Budgets-and-Dashboards-now-suppo",
+        "title": "AWS Cost Explorer、Budgets、DashboardsがAmazon Bedrockの製品属性をサポート",
+        "date": "2026-10-10",
+        "year": 2026,
+        "month": 10,
+        "day": 10,
+        "path": "2026/10/10/AWS-Cost-Explorer-Budgets-and-Dashboards-now-suppo",
+        "summary": "AWS Cost Explorer、Budgets、DashboardsがAmazon Bedrockの製品属性をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/10/AWS-Cost-Explorer-Budgets-and-Dashboards-now-suppo/thumbnail.png"
+      },
+      {
+        "id": "2026-10-10-AWS-Network-Firewall-adds-wildcard-support-for-con",
+        "title": "AWS Network Firewallがコンテナ属性フィルターのワイルドカード対応を発表",
+        "date": "2026-10-10",
+        "year": 2026,
+        "month": 10,
+        "day": 10,
+        "path": "2026/10/10/AWS-Network-Firewall-adds-wildcard-support-for-con",
+        "summary": "AWS Network Firewallがコンテナ属性フィルターのワイルドカード対応を発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/10/AWS-Network-Firewall-adds-wildcard-support-for-con/thumbnail.png"
+      },
+      {
+        "id": "2026-10-10-AWS-Security-Hub-now-exports-findings-to-S3-in-CSV",
+        "title": "AWS Security Hubが検出結果のS3エクスポートをCSV/JSON形式で提供開始",
+        "date": "2026-10-10",
+        "year": 2026,
+        "month": 10,
+        "day": 10,
+        "path": "2026/10/10/AWS-Security-Hub-now-exports-findings-to-S3-in-CSV",
+        "summary": "AWS Security Hubが検出結果のS3エクスポートをCSV/JSON形式で提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/10/AWS-Security-Hub-now-exports-findings-to-S3-in-CSV/thumbnail.png"
+      },
+      {
+        "id": "2026-10-10-Amazon-Bedrock-now-supports-reasoning-summaries-fo",
+        "title": "Amazon BedrockがOpenAIモデル向けの推論要約機能をサポート",
+        "date": "2026-10-10",
+        "year": 2026,
+        "month": 10,
+        "day": 10,
+        "path": "2026/10/10/Amazon-Bedrock-now-supports-reasoning-summaries-fo",
+        "summary": "Amazon BedrockがOpenAIモデル向けの推論要約機能をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/10/Amazon-Bedrock-now-supports-reasoning-summaries-fo/thumbnail.png"
+      },
+      {
+        "id": "2026-10-10-Amazon-Quick-now-supports-brand-templates-for-on-b",
+        "title": "Amazon Quickがブランドテンプレートをサポート、オンブランド資料を組織全体で作成可能に",
+        "date": "2026-10-10",
+        "year": 2026,
+        "month": 10,
+        "day": 10,
+        "path": "2026/10/10/Amazon-Quick-now-supports-brand-templates-for-on-b",
+        "summary": "Amazon Quickがブランドテンプレートをサポート、オンブランド資料を組織全体で作成可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/10/Amazon-Quick-now-supports-brand-templates-for-on-b/thumbnail.png"
+      },
+      {
+        "id": "2026-10-10-OpenAI-GPT-61-Sol-now-supports-Ultrafast-mode-on-A",
+        "title": "Amazon BedrockのOpenAI GPT-6.1 SolがUltrafastモードに対応",
+        "date": "2026-10-10",
+        "year": 2026,
+        "month": 10,
+        "day": 10,
+        "path": "2026/10/10/OpenAI-GPT-61-Sol-now-supports-Ultrafast-mode-on-A",
+        "summary": "Amazon BedrockのOpenAI GPT 6.1 SolがUltrafastモードに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/10/OpenAI-GPT-61-Sol-now-supports-Ultrafast-mode-on-A/thumbnail.png"
+      },
       {
         "id": "2026-10-07-AWS-Batch-now-publishes-job-metrics-to-Amazon-Clou",
         "title": "AWS Batch がジョブメトリクスを Amazon CloudWatch に公開",

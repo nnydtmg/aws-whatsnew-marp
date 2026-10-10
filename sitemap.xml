@@ -6,6 +6,42 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-10-AWS-Cost-Explorer-Budgets-and-Dashboards-now-suppo</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-10-AWS-Network-Firewall-adds-wildcard-support-for-con</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-10-AWS-Security-Hub-now-exports-findings-to-S3-in-CSV</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-10-Amazon-Bedrock-now-supports-reasoning-summaries-fo</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-10-Amazon-Quick-now-supports-brand-templates-for-on-b</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-10-OpenAI-GPT-61-Sol-now-supports-Ultrafast-mode-on-A</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-07-AWS-Batch-now-publishes-job-metrics-to-Amazon-Clou</loc>
     <lastmod>2026-10-07</lastmod>
     <changefreq>never</changefreq>
