@@ -24,6 +24,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/13/AWS-Transfer-Family-supports-custom-ports-for-publ/thumbnail.png"
       },
       {
+        "id": "2026-10-13-Amazon-CloudFront-now-supports-AWS-Lambda-Web-Func",
+        "title": "Amazon CloudFrontがAWS Lambda Web Functionsをオリジンとしてサポート",
+        "date": "2026-10-13",
+        "year": 2026,
+        "month": 10,
+        "day": 13,
+        "path": "2026/10/13/Amazon-CloudFront-now-supports-AWS-Lambda-Web-Func",
+        "summary": "Amazon CloudFrontがAWS Lambda Web Functionsをオリジンとしてサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/13/Amazon-CloudFront-now-supports-AWS-Lambda-Web-Func/thumbnail.png"
+      },
+      {
         "id": "2026-10-13-Amazon-ElastiCache-for-Valkey-introduces-ElastiCac",
         "title": "Amazon ElastiCache for Valkey に ElastiCache Insights が登場",
         "date": "2026-10-13",
@@ -7284,8 +7295,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-10-13T12:17:40.003Z",
-    "totalCount": 662
+    "updatedAt": "2026-10-13T19:37:16.641Z",
+    "totalCount": 663
   },
   "metadata:months": [
     "2026/10",
@@ -7323,6 +7334,17 @@
         "path": "2026/10/13/AWS-Transfer-Family-supports-custom-ports-for-publ",
         "summary": "AWS Transfer FamilyのパブリックSFTPサーバーでカスタムポートが利用可能に",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/13/AWS-Transfer-Family-supports-custom-ports-for-publ/thumbnail.png"
+      },
+      {
+        "id": "2026-10-13-Amazon-CloudFront-now-supports-AWS-Lambda-Web-Func",
+        "title": "Amazon CloudFrontがAWS Lambda Web Functionsをオリジンとしてサポート",
+        "date": "2026-10-13",
+        "year": 2026,
+        "month": 10,
+        "day": 13,
+        "path": "2026/10/13/Amazon-CloudFront-now-supports-AWS-Lambda-Web-Func",
+        "summary": "Amazon CloudFrontがAWS Lambda Web Functionsをオリジンとしてサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/13/Amazon-CloudFront-now-supports-AWS-Lambda-Web-Func/thumbnail.png"
       },
       {
         "id": "2026-10-13-Amazon-ElastiCache-for-Valkey-introduces-ElastiCac",
