@@ -2,6 +2,72 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-10-13-AWS-Lambda-announces-Lambda-Web-Functions",
+        "title": "AWS LambdaがLambda Web Functionsを発表 — HTTPリクエストを直接処理",
+        "date": "2026-10-13",
+        "year": 2026,
+        "month": 10,
+        "day": 13,
+        "path": "2026/10/13/AWS-Lambda-announces-Lambda-Web-Functions",
+        "summary": "AWS LambdaがLambda Web Functionsを発表 — HTTPリクエストを直接処理",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/13/AWS-Lambda-announces-Lambda-Web-Functions/thumbnail.png"
+      },
+      {
+        "id": "2026-10-13-AWS-Transfer-Family-supports-custom-ports-for-publ",
+        "title": "AWS Transfer FamilyのパブリックSFTPサーバーでカスタムポートが利用可能に",
+        "date": "2026-10-13",
+        "year": 2026,
+        "month": 10,
+        "day": 13,
+        "path": "2026/10/13/AWS-Transfer-Family-supports-custom-ports-for-publ",
+        "summary": "AWS Transfer FamilyのパブリックSFTPサーバーでカスタムポートが利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/13/AWS-Transfer-Family-supports-custom-ports-for-publ/thumbnail.png"
+      },
+      {
+        "id": "2026-10-13-Amazon-ElastiCache-for-Valkey-introduces-ElastiCac",
+        "title": "Amazon ElastiCache for Valkey に ElastiCache Insights が登場",
+        "date": "2026-10-13",
+        "year": 2026,
+        "month": 10,
+        "day": 13,
+        "path": "2026/10/13/Amazon-ElastiCache-for-Valkey-introduces-ElastiCac",
+        "summary": "Amazon ElastiCache for Valkey に ElastiCache Insights が登場",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/13/Amazon-ElastiCache-for-Valkey-introduces-ElastiCac/thumbnail.png"
+      },
+      {
+        "id": "2026-10-13-Amazon-OpenSearch-Service-now-supports-index-level",
+        "title": "Amazon OpenSearch Serviceがインデックスレベル暗号化をサポート",
+        "date": "2026-10-13",
+        "year": 2026,
+        "month": 10,
+        "day": 13,
+        "path": "2026/10/13/Amazon-OpenSearch-Service-now-supports-index-level",
+        "summary": "Amazon OpenSearch Serviceがインデックスレベル暗号化をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/13/Amazon-OpenSearch-Service-now-supports-index-level/thumbnail.png"
+      },
+      {
+        "id": "2026-10-13-Announcing-AWS-Lambda-Web-Functions",
+        "title": "AWS Lambda Web Functions が発表 — コード変更なしでWebアプリをデプロイ",
+        "date": "2026-10-13",
+        "year": 2026,
+        "month": 10,
+        "day": 13,
+        "path": "2026/10/13/Announcing-AWS-Lambda-Web-Functions",
+        "summary": "AWS Lambda Web Functions が発表 — コード変更なしでWebアプリをデプロイ",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/13/Announcing-AWS-Lambda-Web-Functions/thumbnail.png"
+      },
+      {
+        "id": "2026-10-13-Announcing-consumption-based-pricing-for-short-ter",
+        "title": "Amazon Bedrock AgentCoreの短期メモリに消費量ベース料金を導入",
+        "date": "2026-10-13",
+        "year": 2026,
+        "month": 10,
+        "day": 13,
+        "path": "2026/10/13/Announcing-consumption-based-pricing-for-short-ter",
+        "summary": "Amazon Bedrock AgentCoreの短期メモリに消費量ベース料金を導入",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/13/Announcing-consumption-based-pricing-for-short-ter/thumbnail.png"
+      },
+      {
         "id": "2026-10-10-AWS-Cost-Explorer-Budgets-and-Dashboards-now-suppo",
         "title": "AWS Cost Explorer、Budgets、DashboardsがAmazon Bedrockの製品属性をサポート",
         "date": "2026-10-10",
@@ -7218,8 +7284,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-10-12T23:20:00.868Z",
-    "totalCount": 656
+    "updatedAt": "2026-10-13T04:23:03.550Z",
+    "totalCount": 662
   },
   "metadata:months": [
     "2026/10",
@@ -7236,6 +7302,72 @@
     "year": 2026,
     "month": 10,
     "articles": [
+      {
+        "id": "2026-10-13-AWS-Lambda-announces-Lambda-Web-Functions",
+        "title": "AWS LambdaがLambda Web Functionsを発表 — HTTPリクエストを直接処理",
+        "date": "2026-10-13",
+        "year": 2026,
+        "month": 10,
+        "day": 13,
+        "path": "2026/10/13/AWS-Lambda-announces-Lambda-Web-Functions",
+        "summary": "AWS LambdaがLambda Web Functionsを発表 — HTTPリクエストを直接処理",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/13/AWS-Lambda-announces-Lambda-Web-Functions/thumbnail.png"
+      },
+      {
+        "id": "2026-10-13-AWS-Transfer-Family-supports-custom-ports-for-publ",
+        "title": "AWS Transfer FamilyのパブリックSFTPサーバーでカスタムポートが利用可能に",
+        "date": "2026-10-13",
+        "year": 2026,
+        "month": 10,
+        "day": 13,
+        "path": "2026/10/13/AWS-Transfer-Family-supports-custom-ports-for-publ",
+        "summary": "AWS Transfer FamilyのパブリックSFTPサーバーでカスタムポートが利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/13/AWS-Transfer-Family-supports-custom-ports-for-publ/thumbnail.png"
+      },
+      {
+        "id": "2026-10-13-Amazon-ElastiCache-for-Valkey-introduces-ElastiCac",
+        "title": "Amazon ElastiCache for Valkey に ElastiCache Insights が登場",
+        "date": "2026-10-13",
+        "year": 2026,
+        "month": 10,
+        "day": 13,
+        "path": "2026/10/13/Amazon-ElastiCache-for-Valkey-introduces-ElastiCac",
+        "summary": "Amazon ElastiCache for Valkey に ElastiCache Insights が登場",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/13/Amazon-ElastiCache-for-Valkey-introduces-ElastiCac/thumbnail.png"
+      },
+      {
+        "id": "2026-10-13-Amazon-OpenSearch-Service-now-supports-index-level",
+        "title": "Amazon OpenSearch Serviceがインデックスレベル暗号化をサポート",
+        "date": "2026-10-13",
+        "year": 2026,
+        "month": 10,
+        "day": 13,
+        "path": "2026/10/13/Amazon-OpenSearch-Service-now-supports-index-level",
+        "summary": "Amazon OpenSearch Serviceがインデックスレベル暗号化をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/13/Amazon-OpenSearch-Service-now-supports-index-level/thumbnail.png"
+      },
+      {
+        "id": "2026-10-13-Announcing-AWS-Lambda-Web-Functions",
+        "title": "AWS Lambda Web Functions が発表 — コード変更なしでWebアプリをデプロイ",
+        "date": "2026-10-13",
+        "year": 2026,
+        "month": 10,
+        "day": 13,
+        "path": "2026/10/13/Announcing-AWS-Lambda-Web-Functions",
+        "summary": "AWS Lambda Web Functions が発表 — コード変更なしでWebアプリをデプロイ",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/13/Announcing-AWS-Lambda-Web-Functions/thumbnail.png"
+      },
+      {
+        "id": "2026-10-13-Announcing-consumption-based-pricing-for-short-ter",
+        "title": "Amazon Bedrock AgentCoreの短期メモリに消費量ベース料金を導入",
+        "date": "2026-10-13",
+        "year": 2026,
+        "month": 10,
+        "day": 13,
+        "path": "2026/10/13/Announcing-consumption-based-pricing-for-short-ter",
+        "summary": "Amazon Bedrock AgentCoreの短期メモリに消費量ベース料金を導入",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/13/Announcing-consumption-based-pricing-for-short-ter/thumbnail.png"
+      },
       {
         "id": "2026-10-10-AWS-Cost-Explorer-Budgets-and-Dashboards-now-suppo",
         "title": "AWS Cost Explorer、Budgets、DashboardsがAmazon Bedrockの製品属性をサポート",
@@ -7567,7 +7699,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/01/Improve-your-secrets-security-posture-with-actiona/thumbnail.png"
       }
     ],
-    "totalPages": 3
+    "totalPages": 4
   },
   "metadata:2026/09": {
     "year": 2026,
