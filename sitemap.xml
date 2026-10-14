@@ -6,6 +6,18 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-14-AWS-Agent-Registry-now-supports-custom-metadata-fo</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-14-Amazon-ECS-adds-LiveTaskCount-and-removes-the-char</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-13-AWS-Lambda-announces-Lambda-Web-Functions</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>never</changefreq>

@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-10-14-AWS-Agent-Registry-now-supports-custom-metadata-fo",
+        "title": "AWS Agent Registryがレジストリレコードのカスタムメタデータをサポート",
+        "date": "2026-10-14",
+        "year": 2026,
+        "month": 10,
+        "day": 14,
+        "path": "2026/10/14/AWS-Agent-Registry-now-supports-custom-metadata-fo",
+        "summary": "AWS Agent Registryがレジストリレコードのカスタムメタデータをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/14/AWS-Agent-Registry-now-supports-custom-metadata-fo/thumbnail.png"
+      },
+      {
+        "id": "2026-10-14-Amazon-ECS-adds-LiveTaskCount-and-removes-the-char",
+        "title": "Amazon ECSがLiveTaskCountメトリクスを追加、RunningTaskCountを無料化",
+        "date": "2026-10-14",
+        "year": 2026,
+        "month": 10,
+        "day": 14,
+        "path": "2026/10/14/Amazon-ECS-adds-LiveTaskCount-and-removes-the-char",
+        "summary": "Amazon ECSがLiveTaskCountメトリクスを追加、RunningTaskCountを無料化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/14/Amazon-ECS-adds-LiveTaskCount-and-removes-the-char/thumbnail.png"
+      },
+      {
         "id": "2026-10-13-AWS-Lambda-announces-Lambda-Web-Functions",
         "title": "AWS LambdaがLambda Web Functionsを発表 — HTTPリクエストを直接処理",
         "date": "2026-10-13",
@@ -7295,8 +7317,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-10-13T23:29:43.282Z",
-    "totalCount": 663
+    "updatedAt": "2026-10-14T02:33:05.023Z",
+    "totalCount": 665
   },
   "metadata:months": [
     "2026/10",
@@ -7313,6 +7335,28 @@
     "year": 2026,
     "month": 10,
     "articles": [
+      {
+        "id": "2026-10-14-AWS-Agent-Registry-now-supports-custom-metadata-fo",
+        "title": "AWS Agent Registryがレジストリレコードのカスタムメタデータをサポート",
+        "date": "2026-10-14",
+        "year": 2026,
+        "month": 10,
+        "day": 14,
+        "path": "2026/10/14/AWS-Agent-Registry-now-supports-custom-metadata-fo",
+        "summary": "AWS Agent Registryがレジストリレコードのカスタムメタデータをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/14/AWS-Agent-Registry-now-supports-custom-metadata-fo/thumbnail.png"
+      },
+      {
+        "id": "2026-10-14-Amazon-ECS-adds-LiveTaskCount-and-removes-the-char",
+        "title": "Amazon ECSがLiveTaskCountメトリクスを追加、RunningTaskCountを無料化",
+        "date": "2026-10-14",
+        "year": 2026,
+        "month": 10,
+        "day": 14,
+        "path": "2026/10/14/Amazon-ECS-adds-LiveTaskCount-and-removes-the-char",
+        "summary": "Amazon ECSがLiveTaskCountメトリクスを追加、RunningTaskCountを無料化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/14/Amazon-ECS-adds-LiveTaskCount-and-removes-the-char/thumbnail.png"
+      },
       {
         "id": "2026-10-13-AWS-Lambda-announces-Lambda-Web-Functions",
         "title": "AWS LambdaがLambda Web Functionsを発表 — HTTPリクエストを直接処理",
