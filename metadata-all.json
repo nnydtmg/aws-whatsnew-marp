@@ -13,6 +13,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/14/AWS-Agent-Registry-now-supports-custom-metadata-fo/thumbnail.png"
       },
       {
+        "id": "2026-10-14-AWS-Security-Hub-now-supports-resource-criticality",
+        "title": "AWS Security Hubがリソース重要度による優先順位付けをサポート",
+        "date": "2026-10-14",
+        "year": 2026,
+        "month": 10,
+        "day": 14,
+        "path": "2026/10/14/AWS-Security-Hub-now-supports-resource-criticality",
+        "summary": "AWS Security Hubがリソース重要度による優先順位付けをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/14/AWS-Security-Hub-now-supports-resource-criticality/thumbnail.png"
+      },
+      {
         "id": "2026-10-14-Amazon-ECS-adds-LiveTaskCount-and-removes-the-char",
         "title": "Amazon ECSがLiveTaskCountメトリクスを追加、RunningTaskCountを無料化",
         "date": "2026-10-14",
@@ -7317,8 +7328,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-10-14T02:33:05.023Z",
-    "totalCount": 665
+    "updatedAt": "2026-10-14T08:08:14.494Z",
+    "totalCount": 666
   },
   "metadata:months": [
     "2026/10",
@@ -7345,6 +7356,17 @@
         "path": "2026/10/14/AWS-Agent-Registry-now-supports-custom-metadata-fo",
         "summary": "AWS Agent Registryがレジストリレコードのカスタムメタデータをサポート",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/14/AWS-Agent-Registry-now-supports-custom-metadata-fo/thumbnail.png"
+      },
+      {
+        "id": "2026-10-14-AWS-Security-Hub-now-supports-resource-criticality",
+        "title": "AWS Security Hubがリソース重要度による優先順位付けをサポート",
+        "date": "2026-10-14",
+        "year": 2026,
+        "month": 10,
+        "day": 14,
+        "path": "2026/10/14/AWS-Security-Hub-now-supports-resource-criticality",
+        "summary": "AWS Security Hubがリソース重要度による優先順位付けをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/14/AWS-Security-Hub-now-supports-resource-criticality/thumbnail.png"
       },
       {
         "id": "2026-10-14-Amazon-ECS-adds-LiveTaskCount-and-removes-the-char",
