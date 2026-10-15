@@ -13,6 +13,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/14/AWS-Agent-Registry-now-supports-custom-metadata-fo/thumbnail.png"
       },
       {
+        "id": "2026-10-14-AWS-Lambda-durable-functions-increases-durable-ope",
+        "title": "AWS Lambda durable functions が操作上限を3万件、チェックポイントを1 MBに拡大",
+        "date": "2026-10-14",
+        "year": 2026,
+        "month": 10,
+        "day": 14,
+        "path": "2026/10/14/AWS-Lambda-durable-functions-increases-durable-ope",
+        "summary": "AWS Lambda durable functions が操作上限を3万件、チェックポイントを1 MBに拡大",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/14/AWS-Lambda-durable-functions-increases-durable-ope/thumbnail.png"
+      },
+      {
         "id": "2026-10-14-AWS-Security-Hub-now-supports-resource-criticality",
         "title": "AWS Security Hubがリソース重要度による優先順位付けをサポート",
         "date": "2026-10-14",
@@ -7328,8 +7339,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-10-14T22:48:04.906Z",
-    "totalCount": 666
+    "updatedAt": "2026-10-15T01:03:57.797Z",
+    "totalCount": 667
   },
   "metadata:months": [
     "2026/10",
@@ -7356,6 +7367,17 @@
         "path": "2026/10/14/AWS-Agent-Registry-now-supports-custom-metadata-fo",
         "summary": "AWS Agent Registryがレジストリレコードのカスタムメタデータをサポート",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/14/AWS-Agent-Registry-now-supports-custom-metadata-fo/thumbnail.png"
+      },
+      {
+        "id": "2026-10-14-AWS-Lambda-durable-functions-increases-durable-ope",
+        "title": "AWS Lambda durable functions が操作上限を3万件、チェックポイントを1 MBに拡大",
+        "date": "2026-10-14",
+        "year": 2026,
+        "month": 10,
+        "day": 14,
+        "path": "2026/10/14/AWS-Lambda-durable-functions-increases-durable-ope",
+        "summary": "AWS Lambda durable functions が操作上限を3万件、チェックポイントを1 MBに拡大",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/14/AWS-Lambda-durable-functions-increases-durable-ope/thumbnail.png"
       },
       {
         "id": "2026-10-14-AWS-Security-Hub-now-supports-resource-criticality",
@@ -7787,7 +7809,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/01/Improve-your-secrets-security-posture-with-actiona/thumbnail.png"
       }
     ],
-    "totalPages": 4
+    "totalPages": 5
   },
   "metadata:2026/09": {
     "year": 2026,
