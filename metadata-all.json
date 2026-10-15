@@ -13,6 +13,50 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/15/ARC-Region-switch-adds-four-new-capabilities/thumbnail.png"
       },
       {
+        "id": "2026-10-15-AWS-HealthOmics-now-supports-shared-VPCs",
+        "title": "AWS HealthOmicsが共有VPCをサポート、中央管理VPCでワークフロー実行が可能に",
+        "date": "2026-10-15",
+        "year": 2026,
+        "month": 10,
+        "day": 15,
+        "path": "2026/10/15/AWS-HealthOmics-now-supports-shared-VPCs",
+        "summary": "AWS HealthOmicsが共有VPCをサポート、中央管理VPCでワークフロー実行が可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/15/AWS-HealthOmics-now-supports-shared-VPCs/thumbnail.png"
+      },
+      {
+        "id": "2026-10-15-AWS-Lambda-Durable-Execution-SDK-for-Go-is-now-gen",
+        "title": "AWS Lambda Durable Execution SDK for Go が一般提供開始",
+        "date": "2026-10-15",
+        "year": 2026,
+        "month": 10,
+        "day": 15,
+        "path": "2026/10/15/AWS-Lambda-Durable-Execution-SDK-for-Go-is-now-gen",
+        "summary": "AWS Lambda Durable Execution SDK for Go が一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/15/AWS-Lambda-Durable-Execution-SDK-for-Go-is-now-gen/thumbnail.png"
+      },
+      {
+        "id": "2026-10-15-AWS-Lambda-recursive-loop-detection-now-supports-A",
+        "title": "AWS Lambdaの再帰ループ検出がAmazon EventBridgeカスタムイベントバスに対応",
+        "date": "2026-10-15",
+        "year": 2026,
+        "month": 10,
+        "day": 15,
+        "path": "2026/10/15/AWS-Lambda-recursive-loop-detection-now-supports-A",
+        "summary": "AWS Lambdaの再帰ループ検出がAmazon EventBridgeカスタムイベントバスに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/15/AWS-Lambda-recursive-loop-detection-now-supports-A/thumbnail.png"
+      },
+      {
+        "id": "2026-10-15-Amazon-CloudFront-announces-dual-stack-support-for",
+        "title": "Amazon CloudFront が VPC オリジンのデュアルスタックをサポート",
+        "date": "2026-10-15",
+        "year": 2026,
+        "month": 10,
+        "day": 15,
+        "path": "2026/10/15/Amazon-CloudFront-announces-dual-stack-support-for",
+        "summary": "Amazon CloudFront が VPC オリジンのデュアルスタックをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/15/Amazon-CloudFront-announces-dual-stack-support-for/thumbnail.png"
+      },
+      {
         "id": "2026-10-15-Amazon-CloudWatch-announces-log-routing-and-chaine",
         "title": "Amazon CloudWatchパイプラインが条件付きログルーティングとチェーンパーサーをサポート",
         "date": "2026-10-15",
@@ -22,6 +66,28 @@
         "path": "2026/10/15/Amazon-CloudWatch-announces-log-routing-and-chaine",
         "summary": "Amazon CloudWatchパイプラインが条件付きログルーティングとチェーンパーサーをサポート",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/15/Amazon-CloudWatch-announces-log-routing-and-chaine/thumbnail.png"
+      },
+      {
+        "id": "2026-10-15-Amazon-Managed-Workflows-for-Apache-Airflow-now-of",
+        "title": "Amazon MWAAがAIエージェントスキルを提供、自然言語でワークフロー作成が可能に",
+        "date": "2026-10-15",
+        "year": 2026,
+        "month": 10,
+        "day": 15,
+        "path": "2026/10/15/Amazon-Managed-Workflows-for-Apache-Airflow-now-of",
+        "summary": "Amazon MWAAがAIエージェントスキルを提供、自然言語でワークフロー作成が可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/15/Amazon-Managed-Workflows-for-Apache-Airflow-now-of/thumbnail.png"
+      },
+      {
+        "id": "2026-10-15-Launch-AWS-DevOps-Agent-to-review-findings-and-tes",
+        "title": "AWS Resilience HubがAWS DevOps Agentと連携し障害評価とテスト結果の分析が可能に",
+        "date": "2026-10-15",
+        "year": 2026,
+        "month": 10,
+        "day": 15,
+        "path": "2026/10/15/Launch-AWS-DevOps-Agent-to-review-findings-and-tes",
+        "summary": "AWS Resilience HubがAWS DevOps Agentと連携し障害評価とテスト結果の分析が可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/15/Launch-AWS-DevOps-Agent-to-review-findings-and-tes/thumbnail.png"
       },
       {
         "id": "2026-10-14-AWS-Agent-Registry-now-supports-custom-metadata-fo",
@@ -7361,8 +7427,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-10-15T20:48:03.791Z",
-    "totalCount": 669
+    "updatedAt": "2026-10-15T23:24:51.431Z",
+    "totalCount": 675
   },
   "metadata:months": [
     "2026/10",
@@ -7391,6 +7457,50 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/15/ARC-Region-switch-adds-four-new-capabilities/thumbnail.png"
       },
       {
+        "id": "2026-10-15-AWS-HealthOmics-now-supports-shared-VPCs",
+        "title": "AWS HealthOmicsが共有VPCをサポート、中央管理VPCでワークフロー実行が可能に",
+        "date": "2026-10-15",
+        "year": 2026,
+        "month": 10,
+        "day": 15,
+        "path": "2026/10/15/AWS-HealthOmics-now-supports-shared-VPCs",
+        "summary": "AWS HealthOmicsが共有VPCをサポート、中央管理VPCでワークフロー実行が可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/15/AWS-HealthOmics-now-supports-shared-VPCs/thumbnail.png"
+      },
+      {
+        "id": "2026-10-15-AWS-Lambda-Durable-Execution-SDK-for-Go-is-now-gen",
+        "title": "AWS Lambda Durable Execution SDK for Go が一般提供開始",
+        "date": "2026-10-15",
+        "year": 2026,
+        "month": 10,
+        "day": 15,
+        "path": "2026/10/15/AWS-Lambda-Durable-Execution-SDK-for-Go-is-now-gen",
+        "summary": "AWS Lambda Durable Execution SDK for Go が一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/15/AWS-Lambda-Durable-Execution-SDK-for-Go-is-now-gen/thumbnail.png"
+      },
+      {
+        "id": "2026-10-15-AWS-Lambda-recursive-loop-detection-now-supports-A",
+        "title": "AWS Lambdaの再帰ループ検出がAmazon EventBridgeカスタムイベントバスに対応",
+        "date": "2026-10-15",
+        "year": 2026,
+        "month": 10,
+        "day": 15,
+        "path": "2026/10/15/AWS-Lambda-recursive-loop-detection-now-supports-A",
+        "summary": "AWS Lambdaの再帰ループ検出がAmazon EventBridgeカスタムイベントバスに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/15/AWS-Lambda-recursive-loop-detection-now-supports-A/thumbnail.png"
+      },
+      {
+        "id": "2026-10-15-Amazon-CloudFront-announces-dual-stack-support-for",
+        "title": "Amazon CloudFront が VPC オリジンのデュアルスタックをサポート",
+        "date": "2026-10-15",
+        "year": 2026,
+        "month": 10,
+        "day": 15,
+        "path": "2026/10/15/Amazon-CloudFront-announces-dual-stack-support-for",
+        "summary": "Amazon CloudFront が VPC オリジンのデュアルスタックをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/15/Amazon-CloudFront-announces-dual-stack-support-for/thumbnail.png"
+      },
+      {
         "id": "2026-10-15-Amazon-CloudWatch-announces-log-routing-and-chaine",
         "title": "Amazon CloudWatchパイプラインが条件付きログルーティングとチェーンパーサーをサポート",
         "date": "2026-10-15",
@@ -7400,6 +7510,28 @@
         "path": "2026/10/15/Amazon-CloudWatch-announces-log-routing-and-chaine",
         "summary": "Amazon CloudWatchパイプラインが条件付きログルーティングとチェーンパーサーをサポート",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/15/Amazon-CloudWatch-announces-log-routing-and-chaine/thumbnail.png"
+      },
+      {
+        "id": "2026-10-15-Amazon-Managed-Workflows-for-Apache-Airflow-now-of",
+        "title": "Amazon MWAAがAIエージェントスキルを提供、自然言語でワークフロー作成が可能に",
+        "date": "2026-10-15",
+        "year": 2026,
+        "month": 10,
+        "day": 15,
+        "path": "2026/10/15/Amazon-Managed-Workflows-for-Apache-Airflow-now-of",
+        "summary": "Amazon MWAAがAIエージェントスキルを提供、自然言語でワークフロー作成が可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/15/Amazon-Managed-Workflows-for-Apache-Airflow-now-of/thumbnail.png"
+      },
+      {
+        "id": "2026-10-15-Launch-AWS-DevOps-Agent-to-review-findings-and-tes",
+        "title": "AWS Resilience HubがAWS DevOps Agentと連携し障害評価とテスト結果の分析が可能に",
+        "date": "2026-10-15",
+        "year": 2026,
+        "month": 10,
+        "day": 15,
+        "path": "2026/10/15/Launch-AWS-DevOps-Agent-to-review-findings-and-tes",
+        "summary": "AWS Resilience HubがAWS DevOps Agentと連携し障害評価とテスト結果の分析が可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/15/Launch-AWS-DevOps-Agent-to-review-findings-and-tes/thumbnail.png"
       },
       {
         "id": "2026-10-14-AWS-Agent-Registry-now-supports-custom-metadata-fo",

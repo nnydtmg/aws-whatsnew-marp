@@ -12,7 +12,43 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-15-AWS-HealthOmics-now-supports-shared-VPCs</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-15-AWS-Lambda-Durable-Execution-SDK-for-Go-is-now-gen</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-15-AWS-Lambda-recursive-loop-detection-now-supports-A</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-15-Amazon-CloudFront-announces-dual-stack-support-for</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-15-Amazon-CloudWatch-announces-log-routing-and-chaine</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-15-Amazon-Managed-Workflows-for-Apache-Airflow-now-of</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-15-Launch-AWS-DevOps-Agent-to-review-findings-and-tes</loc>
     <lastmod>2026-10-15</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
