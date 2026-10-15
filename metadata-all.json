@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-10-15-ARC-Region-switch-adds-four-new-capabilities",
+        "title": "ARC Region switch に4つの新機能が追加、フェイルオーバーを強化",
+        "date": "2026-10-15",
+        "year": 2026,
+        "month": 10,
+        "day": 15,
+        "path": "2026/10/15/ARC-Region-switch-adds-four-new-capabilities",
+        "summary": "ARC Region switch に4つの新機能が追加、フェイルオーバーを強化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/15/ARC-Region-switch-adds-four-new-capabilities/thumbnail.png"
+      },
+      {
         "id": "2026-10-14-AWS-Agent-Registry-now-supports-custom-metadata-fo",
         "title": "AWS Agent Registryがレジストリレコードのカスタムメタデータをサポート",
         "date": "2026-10-14",
@@ -7339,8 +7350,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-10-15T01:03:57.797Z",
-    "totalCount": 667
+    "updatedAt": "2026-10-15T06:40:34.011Z",
+    "totalCount": 668
   },
   "metadata:months": [
     "2026/10",
@@ -7357,6 +7368,17 @@
     "year": 2026,
     "month": 10,
     "articles": [
+      {
+        "id": "2026-10-15-ARC-Region-switch-adds-four-new-capabilities",
+        "title": "ARC Region switch に4つの新機能が追加、フェイルオーバーを強化",
+        "date": "2026-10-15",
+        "year": 2026,
+        "month": 10,
+        "day": 15,
+        "path": "2026/10/15/ARC-Region-switch-adds-four-new-capabilities",
+        "summary": "ARC Region switch に4つの新機能が追加、フェイルオーバーを強化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/15/ARC-Region-switch-adds-four-new-capabilities/thumbnail.png"
+      },
       {
         "id": "2026-10-14-AWS-Agent-Registry-now-supports-custom-metadata-fo",
         "title": "AWS Agent Registryがレジストリレコードのカスタムメタデータをサポート",
