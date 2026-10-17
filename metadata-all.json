@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-10-17-AWS-End-User-Messaging-now-supports-Brand-Profiles",
+        "title": "AWS End User Messaging が Brand Profiles のサポートを発表",
+        "date": "2026-10-17",
+        "year": 2026,
+        "month": 10,
+        "day": 17,
+        "path": "2026/10/17/AWS-End-User-Messaging-now-supports-Brand-Profiles",
+        "summary": "AWS End User Messaging が Brand Profiles のサポートを発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/17/AWS-End-User-Messaging-now-supports-Brand-Profiles/thumbnail.png"
+      },
+      {
         "id": "2026-10-15-ARC-Region-switch-adds-four-new-capabilities",
         "title": "ARC Region switch に4つの新機能が追加、フェイルオーバーを強化",
         "date": "2026-10-15",
@@ -7427,8 +7438,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-10-17T06:32:33.903Z",
-    "totalCount": 675
+    "updatedAt": "2026-10-17T11:15:33.856Z",
+    "totalCount": 676
   },
   "metadata:months": [
     "2026/10",
@@ -7445,6 +7456,17 @@
     "year": 2026,
     "month": 10,
     "articles": [
+      {
+        "id": "2026-10-17-AWS-End-User-Messaging-now-supports-Brand-Profiles",
+        "title": "AWS End User Messaging が Brand Profiles のサポートを発表",
+        "date": "2026-10-17",
+        "year": 2026,
+        "month": 10,
+        "day": 17,
+        "path": "2026/10/17/AWS-End-User-Messaging-now-supports-Brand-Profiles",
+        "summary": "AWS End User Messaging が Brand Profiles のサポートを発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/17/AWS-End-User-Messaging-now-supports-Brand-Profiles/thumbnail.png"
+      },
       {
         "id": "2026-10-15-ARC-Region-switch-adds-four-new-capabilities",
         "title": "ARC Region switch に4つの新機能が追加、フェイルオーバーを強化",
