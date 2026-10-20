@@ -2,6 +2,39 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-10-20-AWS-IAM-Identity-Center-simplifies-identity-source",
+        "title": "IAM Identity CenterがActive Directoryからのアイデンティティソース変更を簡素化",
+        "date": "2026-10-20",
+        "year": 2026,
+        "month": 10,
+        "day": 20,
+        "path": "2026/10/20/AWS-IAM-Identity-Center-simplifies-identity-source",
+        "summary": "IAM Identity CenterがActive Directoryからのアイデンティティソース変更を簡素化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/20/AWS-IAM-Identity-Center-simplifies-identity-source/thumbnail.png"
+      },
+      {
+        "id": "2026-10-20-Introducing-Amazon-ECS-Gateway-A-fully-managed-ing",
+        "title": "Amazon ECS Gatewayが利用可能に - ECSサービスのイングレス管理を簡素化",
+        "date": "2026-10-20",
+        "year": 2026,
+        "month": 10,
+        "day": 20,
+        "path": "2026/10/20/Introducing-Amazon-ECS-Gateway-A-fully-managed-ing",
+        "summary": "Amazon ECS Gatewayが利用可能に ECSサービスのイングレス管理を簡素化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/20/Introducing-Amazon-ECS-Gateway-A-fully-managed-ing/thumbnail.png"
+      },
+      {
+        "id": "2026-10-20-Structured-outputs-for-Claude-models-available-on",
+        "title": "Amazon BedrockのすべてのClaudeモデルで構造化出力が利用可能に",
+        "date": "2026-10-20",
+        "year": 2026,
+        "month": 10,
+        "day": 20,
+        "path": "2026/10/20/Structured-outputs-for-Claude-models-available-on",
+        "summary": "Amazon BedrockのすべてのClaudeモデルで構造化出力が利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/20/Structured-outputs-for-Claude-models-available-on/thumbnail.png"
+      },
+      {
         "id": "2026-10-19-AWS-IAM-Identity-Center-now-supports-optimistic-lo",
         "title": "IAM Identity Centerのアイデンティティストアで楽観的ロックが利用可能に",
         "date": "2026-10-19",
@@ -7460,8 +7493,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-10-20T19:42:56.582Z",
-    "totalCount": 678
+    "updatedAt": "2026-10-20T22:47:46.791Z",
+    "totalCount": 681
   },
   "metadata:months": [
     "2026/10",
@@ -7478,6 +7511,39 @@
     "year": 2026,
     "month": 10,
     "articles": [
+      {
+        "id": "2026-10-20-AWS-IAM-Identity-Center-simplifies-identity-source",
+        "title": "IAM Identity CenterがActive Directoryからのアイデンティティソース変更を簡素化",
+        "date": "2026-10-20",
+        "year": 2026,
+        "month": 10,
+        "day": 20,
+        "path": "2026/10/20/AWS-IAM-Identity-Center-simplifies-identity-source",
+        "summary": "IAM Identity CenterがActive Directoryからのアイデンティティソース変更を簡素化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/20/AWS-IAM-Identity-Center-simplifies-identity-source/thumbnail.png"
+      },
+      {
+        "id": "2026-10-20-Introducing-Amazon-ECS-Gateway-A-fully-managed-ing",
+        "title": "Amazon ECS Gatewayが利用可能に - ECSサービスのイングレス管理を簡素化",
+        "date": "2026-10-20",
+        "year": 2026,
+        "month": 10,
+        "day": 20,
+        "path": "2026/10/20/Introducing-Amazon-ECS-Gateway-A-fully-managed-ing",
+        "summary": "Amazon ECS Gatewayが利用可能に ECSサービスのイングレス管理を簡素化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/20/Introducing-Amazon-ECS-Gateway-A-fully-managed-ing/thumbnail.png"
+      },
+      {
+        "id": "2026-10-20-Structured-outputs-for-Claude-models-available-on",
+        "title": "Amazon BedrockのすべてのClaudeモデルで構造化出力が利用可能に",
+        "date": "2026-10-20",
+        "year": 2026,
+        "month": 10,
+        "day": 20,
+        "path": "2026/10/20/Structured-outputs-for-Claude-models-available-on",
+        "summary": "Amazon BedrockのすべてのClaudeモデルで構造化出力が利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/20/Structured-outputs-for-Claude-models-available-on/thumbnail.png"
+      },
       {
         "id": "2026-10-19-AWS-IAM-Identity-Center-now-supports-optimistic-lo",
         "title": "IAM Identity Centerのアイデンティティストアで楽観的ロックが利用可能に",
