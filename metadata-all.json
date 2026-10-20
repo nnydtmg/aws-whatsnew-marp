@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-10-19-AWS-IAM-Identity-Center-now-supports-optimistic-lo",
+        "title": "IAM Identity Centerのアイデンティティストアで楽観的ロックが利用可能に",
+        "date": "2026-10-19",
+        "year": 2026,
+        "month": 10,
+        "day": 19,
+        "path": "2026/10/19/AWS-IAM-Identity-Center-now-supports-optimistic-lo",
+        "summary": "IAM Identity Centerのアイデンティティストアで楽観的ロックが利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/19/AWS-IAM-Identity-Center-now-supports-optimistic-lo/thumbnail.png"
+      },
+      {
+        "id": "2026-10-19-Amazon-CloudWatch-Omni-is-now-available-in-additio",
+        "title": "Amazon CloudWatch Omni が8つの追加リージョンで利用可能に",
+        "date": "2026-10-19",
+        "year": 2026,
+        "month": 10,
+        "day": 19,
+        "path": "2026/10/19/Amazon-CloudWatch-Omni-is-now-available-in-additio",
+        "summary": "Amazon CloudWatch Omni が8つの追加リージョンで利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/19/Amazon-CloudWatch-Omni-is-now-available-in-additio/thumbnail.png"
+      },
+      {
         "id": "2026-10-17-AWS-End-User-Messaging-now-supports-Brand-Profiles",
         "title": "AWS End User Messaging が Brand Profiles のサポートを発表",
         "date": "2026-10-17",
@@ -7438,8 +7460,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-10-19T20:53:15.566Z",
-    "totalCount": 676
+    "updatedAt": "2026-10-20T00:02:45.744Z",
+    "totalCount": 678
   },
   "metadata:months": [
     "2026/10",
@@ -7456,6 +7478,28 @@
     "year": 2026,
     "month": 10,
     "articles": [
+      {
+        "id": "2026-10-19-AWS-IAM-Identity-Center-now-supports-optimistic-lo",
+        "title": "IAM Identity Centerのアイデンティティストアで楽観的ロックが利用可能に",
+        "date": "2026-10-19",
+        "year": 2026,
+        "month": 10,
+        "day": 19,
+        "path": "2026/10/19/AWS-IAM-Identity-Center-now-supports-optimistic-lo",
+        "summary": "IAM Identity Centerのアイデンティティストアで楽観的ロックが利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/19/AWS-IAM-Identity-Center-now-supports-optimistic-lo/thumbnail.png"
+      },
+      {
+        "id": "2026-10-19-Amazon-CloudWatch-Omni-is-now-available-in-additio",
+        "title": "Amazon CloudWatch Omni が8つの追加リージョンで利用可能に",
+        "date": "2026-10-19",
+        "year": 2026,
+        "month": 10,
+        "day": 19,
+        "path": "2026/10/19/Amazon-CloudWatch-Omni-is-now-available-in-additio",
+        "summary": "Amazon CloudWatch Omni が8つの追加リージョンで利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/19/Amazon-CloudWatch-Omni-is-now-available-in-additio/thumbnail.png"
+      },
       {
         "id": "2026-10-17-AWS-End-User-Messaging-now-supports-Brand-Profiles",
         "title": "AWS End User Messaging が Brand Profiles のサポートを発表",
@@ -8007,7 +8051,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/01/Improve-your-secrets-security-posture-with-actiona/thumbnail.png"
       }
     ],
-    "totalPages": 5
+    "totalPages": 6
   },
   "metadata:2026/09": {
     "year": 2026,
