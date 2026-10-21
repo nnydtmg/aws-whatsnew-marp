@@ -2,6 +2,83 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-10-21-Amazon-Bedrock-Advanced-Prompt-Optimization-now-su",
+        "title": "Amazon Bedrock Advanced Prompt Optimizationがプロンプト短縮をサポート",
+        "date": "2026-10-21",
+        "year": 2026,
+        "month": 10,
+        "day": 21,
+        "path": "2026/10/21/Amazon-Bedrock-Advanced-Prompt-Optimization-now-su",
+        "summary": "Amazon Bedrock Advanced Prompt Optimizationがプロンプト短縮をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/21/Amazon-Bedrock-Advanced-Prompt-Optimization-now-su/thumbnail.png"
+      },
+      {
+        "id": "2026-10-21-Amazon-Bedrock-AgentCore-Memory-now-supports-confi",
+        "title": "Amazon Bedrock AgentCore Memoryが長期メモリの設定可能なTTLをサポート",
+        "date": "2026-10-21",
+        "year": 2026,
+        "month": 10,
+        "day": 21,
+        "path": "2026/10/21/Amazon-Bedrock-AgentCore-Memory-now-supports-confi",
+        "summary": "Amazon Bedrock AgentCore Memoryが長期メモリの設定可能なTTLをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/21/Amazon-Bedrock-AgentCore-Memory-now-supports-confi/thumbnail.png"
+      },
+      {
+        "id": "2026-10-21-Amazon-Bedrock-Guardrails-now-supports-Standard-ti",
+        "title": "Amazon Bedrock GuardrailsがコンテキストグラウンディングチェックのStandardティアをサポート",
+        "date": "2026-10-21",
+        "year": 2026,
+        "month": 10,
+        "day": 21,
+        "path": "2026/10/21/Amazon-Bedrock-Guardrails-now-supports-Standard-ti",
+        "summary": "Amazon Bedrock GuardrailsがコンテキストグラウンディングチェックのStandardティアをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/21/Amazon-Bedrock-Guardrails-now-supports-Standard-ti/thumbnail.png"
+      },
+      {
+        "id": "2026-10-21-Amazon-CloudWatch-Alarms-now-supports-tags-in-alar",
+        "title": "Amazon CloudWatch Alarmsがアラームアクションのペイロードでタグをサポート",
+        "date": "2026-10-21",
+        "year": 2026,
+        "month": 10,
+        "day": 21,
+        "path": "2026/10/21/Amazon-CloudWatch-Alarms-now-supports-tags-in-alar",
+        "summary": "Amazon CloudWatch Alarmsがアラームアクションのペイロードでタグをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/21/Amazon-CloudWatch-Alarms-now-supports-tags-in-alar/thumbnail.png"
+      },
+      {
+        "id": "2026-10-21-Amazon-DynamoDB-global-tables-now-support-disassoc",
+        "title": "Amazon DynamoDB グローバルテーブルがレプリカの切り離しをサポート",
+        "date": "2026-10-21",
+        "year": 2026,
+        "month": 10,
+        "day": 21,
+        "path": "2026/10/21/Amazon-DynamoDB-global-tables-now-support-disassoc",
+        "summary": "Amazon DynamoDB グローバルテーブルがレプリカの切り離しをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/21/Amazon-DynamoDB-global-tables-now-support-disassoc/thumbnail.png"
+      },
+      {
+        "id": "2026-10-21-Amazon-ElastiCache-Serverless-for-Valkey-now-suppo",
+        "title": "Amazon ElastiCache Serverless for Valkeyがゼロダウンタイムのオンライン移行をサポート",
+        "date": "2026-10-21",
+        "year": 2026,
+        "month": 10,
+        "day": 21,
+        "path": "2026/10/21/Amazon-ElastiCache-Serverless-for-Valkey-now-suppo",
+        "summary": "Amazon ElastiCache Serverless for Valkeyがゼロダウンタイムのオンライン移行をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/21/Amazon-ElastiCache-Serverless-for-Valkey-now-suppo/thumbnail.png"
+      },
+      {
+        "id": "2026-10-21-Announcing-Amazon-ECS-Gateway-a-managed-ingress-so",
+        "title": "Amazon ECS Gatewayを発表 — ECS向けマネージドイングレス",
+        "date": "2026-10-21",
+        "year": 2026,
+        "month": 10,
+        "day": 21,
+        "path": "2026/10/21/Announcing-Amazon-ECS-Gateway-a-managed-ingress-so",
+        "summary": "Amazon ECS Gatewayを発表 — ECS向けマネージドイングレス",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/21/Announcing-Amazon-ECS-Gateway-a-managed-ingress-so/thumbnail.png"
+      },
+      {
         "id": "2026-10-20-AWS-IAM-Identity-Center-simplifies-identity-source",
         "title": "IAM Identity CenterがActive Directoryからのアイデンティティソース変更を簡素化",
         "date": "2026-10-20",
@@ -7493,8 +7570,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-10-21T06:44:07.234Z",
-    "totalCount": 681
+    "updatedAt": "2026-10-21T12:32:41.301Z",
+    "totalCount": 688
   },
   "metadata:months": [
     "2026/10",
@@ -7511,6 +7588,83 @@
     "year": 2026,
     "month": 10,
     "articles": [
+      {
+        "id": "2026-10-21-Amazon-Bedrock-Advanced-Prompt-Optimization-now-su",
+        "title": "Amazon Bedrock Advanced Prompt Optimizationがプロンプト短縮をサポート",
+        "date": "2026-10-21",
+        "year": 2026,
+        "month": 10,
+        "day": 21,
+        "path": "2026/10/21/Amazon-Bedrock-Advanced-Prompt-Optimization-now-su",
+        "summary": "Amazon Bedrock Advanced Prompt Optimizationがプロンプト短縮をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/21/Amazon-Bedrock-Advanced-Prompt-Optimization-now-su/thumbnail.png"
+      },
+      {
+        "id": "2026-10-21-Amazon-Bedrock-AgentCore-Memory-now-supports-confi",
+        "title": "Amazon Bedrock AgentCore Memoryが長期メモリの設定可能なTTLをサポート",
+        "date": "2026-10-21",
+        "year": 2026,
+        "month": 10,
+        "day": 21,
+        "path": "2026/10/21/Amazon-Bedrock-AgentCore-Memory-now-supports-confi",
+        "summary": "Amazon Bedrock AgentCore Memoryが長期メモリの設定可能なTTLをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/21/Amazon-Bedrock-AgentCore-Memory-now-supports-confi/thumbnail.png"
+      },
+      {
+        "id": "2026-10-21-Amazon-Bedrock-Guardrails-now-supports-Standard-ti",
+        "title": "Amazon Bedrock GuardrailsがコンテキストグラウンディングチェックのStandardティアをサポート",
+        "date": "2026-10-21",
+        "year": 2026,
+        "month": 10,
+        "day": 21,
+        "path": "2026/10/21/Amazon-Bedrock-Guardrails-now-supports-Standard-ti",
+        "summary": "Amazon Bedrock GuardrailsがコンテキストグラウンディングチェックのStandardティアをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/21/Amazon-Bedrock-Guardrails-now-supports-Standard-ti/thumbnail.png"
+      },
+      {
+        "id": "2026-10-21-Amazon-CloudWatch-Alarms-now-supports-tags-in-alar",
+        "title": "Amazon CloudWatch Alarmsがアラームアクションのペイロードでタグをサポート",
+        "date": "2026-10-21",
+        "year": 2026,
+        "month": 10,
+        "day": 21,
+        "path": "2026/10/21/Amazon-CloudWatch-Alarms-now-supports-tags-in-alar",
+        "summary": "Amazon CloudWatch Alarmsがアラームアクションのペイロードでタグをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/21/Amazon-CloudWatch-Alarms-now-supports-tags-in-alar/thumbnail.png"
+      },
+      {
+        "id": "2026-10-21-Amazon-DynamoDB-global-tables-now-support-disassoc",
+        "title": "Amazon DynamoDB グローバルテーブルがレプリカの切り離しをサポート",
+        "date": "2026-10-21",
+        "year": 2026,
+        "month": 10,
+        "day": 21,
+        "path": "2026/10/21/Amazon-DynamoDB-global-tables-now-support-disassoc",
+        "summary": "Amazon DynamoDB グローバルテーブルがレプリカの切り離しをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/21/Amazon-DynamoDB-global-tables-now-support-disassoc/thumbnail.png"
+      },
+      {
+        "id": "2026-10-21-Amazon-ElastiCache-Serverless-for-Valkey-now-suppo",
+        "title": "Amazon ElastiCache Serverless for Valkeyがゼロダウンタイムのオンライン移行をサポート",
+        "date": "2026-10-21",
+        "year": 2026,
+        "month": 10,
+        "day": 21,
+        "path": "2026/10/21/Amazon-ElastiCache-Serverless-for-Valkey-now-suppo",
+        "summary": "Amazon ElastiCache Serverless for Valkeyがゼロダウンタイムのオンライン移行をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/21/Amazon-ElastiCache-Serverless-for-Valkey-now-suppo/thumbnail.png"
+      },
+      {
+        "id": "2026-10-21-Announcing-Amazon-ECS-Gateway-a-managed-ingress-so",
+        "title": "Amazon ECS Gatewayを発表 — ECS向けマネージドイングレス",
+        "date": "2026-10-21",
+        "year": 2026,
+        "month": 10,
+        "day": 21,
+        "path": "2026/10/21/Announcing-Amazon-ECS-Gateway-a-managed-ingress-so",
+        "summary": "Amazon ECS Gatewayを発表 — ECS向けマネージドイングレス",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/21/Announcing-Amazon-ECS-Gateway-a-managed-ingress-so/thumbnail.png"
+      },
       {
         "id": "2026-10-20-AWS-IAM-Identity-Center-simplifies-identity-source",
         "title": "IAM Identity CenterがActive Directoryからのアイデンティティソース変更を簡素化",
@@ -8117,7 +8271,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/01/Improve-your-secrets-security-posture-with-actiona/thumbnail.png"
       }
     ],
-    "totalPages": 6
+    "totalPages": 7
   },
   "metadata:2026/09": {
     "year": 2026,

@@ -6,6 +6,48 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-21-Amazon-Bedrock-Advanced-Prompt-Optimization-now-su</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-21-Amazon-Bedrock-AgentCore-Memory-now-supports-confi</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-21-Amazon-Bedrock-Guardrails-now-supports-Standard-ti</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-21-Amazon-CloudWatch-Alarms-now-supports-tags-in-alar</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-21-Amazon-DynamoDB-global-tables-now-support-disassoc</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-21-Amazon-ElastiCache-Serverless-for-Valkey-now-suppo</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-21-Announcing-Amazon-ECS-Gateway-a-managed-ingress-so</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-20-AWS-IAM-Identity-Center-simplifies-identity-source</loc>
     <lastmod>2026-10-20</lastmod>
     <changefreq>never</changefreq>
