@@ -6,6 +6,18 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-21-AWS-Transform-adds-storage-migration-assessments-f</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-21-Amazon-Aurora-and-Amazon-RDS-now-support-On-Demand</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-21-Amazon-Bedrock-Advanced-Prompt-Optimization-now-su</loc>
     <lastmod>2026-10-21</lastmod>
     <changefreq>never</changefreq>
@@ -37,6 +49,18 @@
   </url>
   <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-21-Amazon-ElastiCache-Serverless-for-Valkey-now-suppo</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-21-Amazon-S3-server-access-log-delivery-to-Amazon-Clo</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-10-21-Amazon-WorkSpaces-simplifies-secure-AI-agent-acces</loc>
     <lastmod>2026-10-21</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>

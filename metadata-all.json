@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-10-21-AWS-Transform-adds-storage-migration-assessments-f",
+        "title": "AWS TransformがAmazon S3、EBS、EFS、FSx向けストレージ移行アセスメントを追加",
+        "date": "2026-10-21",
+        "year": 2026,
+        "month": 10,
+        "day": 21,
+        "path": "2026/10/21/AWS-Transform-adds-storage-migration-assessments-f",
+        "summary": "AWS TransformがAmazon S3、EBS、EFS、FSx向けストレージ移行アセスメントを追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/21/AWS-Transform-adds-storage-migration-assessments-f/thumbnail.png"
+      },
+      {
+        "id": "2026-10-21-Amazon-Aurora-and-Amazon-RDS-now-support-On-Demand",
+        "title": "Amazon AuroraとAmazon RDSがOn-Demand Capacity Reservationに対応",
+        "date": "2026-10-21",
+        "year": 2026,
+        "month": 10,
+        "day": 21,
+        "path": "2026/10/21/Amazon-Aurora-and-Amazon-RDS-now-support-On-Demand",
+        "summary": "Amazon AuroraとAmazon RDSがOn Demand Capacity Reservationに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/21/Amazon-Aurora-and-Amazon-RDS-now-support-On-Demand/thumbnail.png"
+      },
+      {
         "id": "2026-10-21-Amazon-Bedrock-Advanced-Prompt-Optimization-now-su",
         "title": "Amazon Bedrock Advanced Prompt Optimizationがプロンプト短縮をサポート",
         "date": "2026-10-21",
@@ -66,6 +88,28 @@
         "path": "2026/10/21/Amazon-ElastiCache-Serverless-for-Valkey-now-suppo",
         "summary": "Amazon ElastiCache Serverless for Valkeyがゼロダウンタイムのオンライン移行をサポート",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/21/Amazon-ElastiCache-Serverless-for-Valkey-now-suppo/thumbnail.png"
+      },
+      {
+        "id": "2026-10-21-Amazon-S3-server-access-log-delivery-to-Amazon-Clo",
+        "title": "Amazon S3 サーバーアクセスログの CloudWatch Logs 配信が5つの追加リージョンで利用可能に",
+        "date": "2026-10-21",
+        "year": 2026,
+        "month": 10,
+        "day": 21,
+        "path": "2026/10/21/Amazon-S3-server-access-log-delivery-to-Amazon-Clo",
+        "summary": "Amazon S3 サーバーアクセスログの CloudWatch Logs 配信が5つの追加リージョンで利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/21/Amazon-S3-server-access-log-delivery-to-Amazon-Clo/thumbnail.png"
+      },
+      {
+        "id": "2026-10-21-Amazon-WorkSpaces-simplifies-secure-AI-agent-acces",
+        "title": "Amazon WorkSpacesがAIエージェントのOAuth接続管理を簡素化",
+        "date": "2026-10-21",
+        "year": 2026,
+        "month": 10,
+        "day": 21,
+        "path": "2026/10/21/Amazon-WorkSpaces-simplifies-secure-AI-agent-acces",
+        "summary": "Amazon WorkSpacesがAIエージェントのOAuth接続管理を簡素化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/21/Amazon-WorkSpaces-simplifies-secure-AI-agent-acces/thumbnail.png"
       },
       {
         "id": "2026-10-21-Announcing-Amazon-ECS-Gateway-a-managed-ingress-so",
@@ -7570,8 +7614,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-10-21T20:59:35.296Z",
-    "totalCount": 688
+    "updatedAt": "2026-10-21T23:55:07.820Z",
+    "totalCount": 692
   },
   "metadata:months": [
     "2026/10",
@@ -7588,6 +7632,28 @@
     "year": 2026,
     "month": 10,
     "articles": [
+      {
+        "id": "2026-10-21-AWS-Transform-adds-storage-migration-assessments-f",
+        "title": "AWS TransformがAmazon S3、EBS、EFS、FSx向けストレージ移行アセスメントを追加",
+        "date": "2026-10-21",
+        "year": 2026,
+        "month": 10,
+        "day": 21,
+        "path": "2026/10/21/AWS-Transform-adds-storage-migration-assessments-f",
+        "summary": "AWS TransformがAmazon S3、EBS、EFS、FSx向けストレージ移行アセスメントを追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/21/AWS-Transform-adds-storage-migration-assessments-f/thumbnail.png"
+      },
+      {
+        "id": "2026-10-21-Amazon-Aurora-and-Amazon-RDS-now-support-On-Demand",
+        "title": "Amazon AuroraとAmazon RDSがOn-Demand Capacity Reservationに対応",
+        "date": "2026-10-21",
+        "year": 2026,
+        "month": 10,
+        "day": 21,
+        "path": "2026/10/21/Amazon-Aurora-and-Amazon-RDS-now-support-On-Demand",
+        "summary": "Amazon AuroraとAmazon RDSがOn Demand Capacity Reservationに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/21/Amazon-Aurora-and-Amazon-RDS-now-support-On-Demand/thumbnail.png"
+      },
       {
         "id": "2026-10-21-Amazon-Bedrock-Advanced-Prompt-Optimization-now-su",
         "title": "Amazon Bedrock Advanced Prompt Optimizationがプロンプト短縮をサポート",
@@ -7653,6 +7719,28 @@
         "path": "2026/10/21/Amazon-ElastiCache-Serverless-for-Valkey-now-suppo",
         "summary": "Amazon ElastiCache Serverless for Valkeyがゼロダウンタイムのオンライン移行をサポート",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/21/Amazon-ElastiCache-Serverless-for-Valkey-now-suppo/thumbnail.png"
+      },
+      {
+        "id": "2026-10-21-Amazon-S3-server-access-log-delivery-to-Amazon-Clo",
+        "title": "Amazon S3 サーバーアクセスログの CloudWatch Logs 配信が5つの追加リージョンで利用可能に",
+        "date": "2026-10-21",
+        "year": 2026,
+        "month": 10,
+        "day": 21,
+        "path": "2026/10/21/Amazon-S3-server-access-log-delivery-to-Amazon-Clo",
+        "summary": "Amazon S3 サーバーアクセスログの CloudWatch Logs 配信が5つの追加リージョンで利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/21/Amazon-S3-server-access-log-delivery-to-Amazon-Clo/thumbnail.png"
+      },
+      {
+        "id": "2026-10-21-Amazon-WorkSpaces-simplifies-secure-AI-agent-acces",
+        "title": "Amazon WorkSpacesがAIエージェントのOAuth接続管理を簡素化",
+        "date": "2026-10-21",
+        "year": 2026,
+        "month": 10,
+        "day": 21,
+        "path": "2026/10/21/Amazon-WorkSpaces-simplifies-secure-AI-agent-acces",
+        "summary": "Amazon WorkSpacesがAIエージェントのOAuth接続管理を簡素化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/21/Amazon-WorkSpaces-simplifies-secure-AI-agent-acces/thumbnail.png"
       },
       {
         "id": "2026-10-21-Announcing-Amazon-ECS-Gateway-a-managed-ingress-so",
