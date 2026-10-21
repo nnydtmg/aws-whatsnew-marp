@@ -190,36 +190,39 @@ jobs:
           node .github/scripts/generate-sitemap.mjs metadata-all.json > sitemap.xml
           echo "Generated sitemap.xml ($(grep -c '<url>' sitemap.xml) URLs)"
 
-      # Wrangler CLIでKVを更新
+      # cf CLI は Node 22 以上が必要。ここまでの処理は Node 20 のまま動かす
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install cf CLI
+        run: npm install -g cf@1.0.0-beta.12
+
+      # cf CLIでKVを更新
       - name: Update Workers KV
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
         run: |
-          npm install -g wrangler
-
           # metadata:index を更新
           cat metadata-all.json | jq '."metadata:index"' | \
-            wrangler kv key put "metadata:index" \
+            cf kv keys put "metadata:index" \
               --namespace-id=${{ secrets.KV_NAMESPACE_ID }} \
-              --remote \
-              --path=/dev/stdin
+              --file /dev/stdin
 
           # metadata:months を更新
           cat metadata-all.json | jq '."metadata:months"' | \
-            wrangler kv key put "metadata:months" \
+            cf kv keys put "metadata:months" \
               --namespace-id=${{ secrets.KV_NAMESPACE_ID }} \
-              --remote \
-              --path=/dev/stdin
+              --file /dev/stdin
 
           # 各月のメタデータを更新
           cat metadata-all.json | jq -r 'keys[] | select(startswith("metadata:") and (. != "metadata:index") and (. != "metadata:months"))' | while read key; do
             echo "Updating $key..."
             cat metadata-all.json | jq ".\"$key\"" | \
-              wrangler kv key put "$key" \
+              cf kv keys put "$key" \
                 --namespace-id=${{ secrets.KV_NAMESPACE_ID }} \
-                --remote \
-                --path=/dev/stdin
+                --file /dev/stdin
           done
       
       # 生成したサムネイルをR2にアップロード
@@ -240,7 +243,7 @@ jobs:
             # 例: 2026/02/06/Topic/thumbnail.png
             key=${file#./}
             echo "Uploading $file to R2 as $key..."
-            wrangler r2 object put "$R2_BUCKET/$key" --remote --file "$file"
+            cf r2 objects put "$key" --bucket-name "$R2_BUCKET" --file "$file" --content-type image/png
           done < "$newly_generated_list"
 
       # HTMLファイルをコミット
