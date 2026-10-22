@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-10-22-AWS-Network-Firewall-now-supports-Route-53-Resolve",
+        "title": "AWS Network FirewallがRoute 53 Resolved IP Validationをサポート",
+        "date": "2026-10-22",
+        "year": 2026,
+        "month": 10,
+        "day": 22,
+        "path": "2026/10/22/AWS-Network-Firewall-now-supports-Route-53-Resolve",
+        "summary": "AWS Network FirewallがRoute 53 Resolved IP Validationをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/22/AWS-Network-Firewall-now-supports-Route-53-Resolve/thumbnail.png"
+      },
+      {
         "id": "2026-10-21-AWS-Transform-adds-storage-migration-assessments-f",
         "title": "AWS TransformがAmazon S3、EBS、EFS、FSx向けストレージ移行アセスメントを追加",
         "date": "2026-10-21",
@@ -7614,8 +7625,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-10-22T08:04:29.052Z",
-    "totalCount": 692
+    "updatedAt": "2026-10-22T14:12:28.283Z",
+    "totalCount": 693
   },
   "metadata:months": [
     "2026/10",
@@ -7632,6 +7643,17 @@
     "year": 2026,
     "month": 10,
     "articles": [
+      {
+        "id": "2026-10-22-AWS-Network-Firewall-now-supports-Route-53-Resolve",
+        "title": "AWS Network FirewallがRoute 53 Resolved IP Validationをサポート",
+        "date": "2026-10-22",
+        "year": 2026,
+        "month": 10,
+        "day": 22,
+        "path": "2026/10/22/AWS-Network-Firewall-now-supports-Route-53-Resolve",
+        "summary": "AWS Network FirewallがRoute 53 Resolved IP Validationをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/22/AWS-Network-Firewall-now-supports-Route-53-Resolve/thumbnail.png"
+      },
       {
         "id": "2026-10-21-AWS-Transform-adds-storage-migration-assessments-f",
         "title": "AWS TransformがAmazon S3、EBS、EFS、FSx向けストレージ移行アセスメントを追加",
