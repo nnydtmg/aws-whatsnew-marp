@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-10-23-AgentCore-Gateway-now-supports-Bedrock-InvokeModel",
+        "title": "AgentCore Gateway が Bedrock InvokeModel API とモデルフォールバックに対応",
+        "date": "2026-10-23",
+        "year": 2026,
+        "month": 10,
+        "day": 23,
+        "path": "2026/10/23/AgentCore-Gateway-now-supports-Bedrock-InvokeModel",
+        "summary": "AgentCore Gateway が Bedrock InvokeModel API とモデルフォールバックに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/23/AgentCore-Gateway-now-supports-Bedrock-InvokeModel/thumbnail.png"
+      },
+      {
         "id": "2026-10-22-AWS-CloudFormation-now-simplifies-stack-update-rol",
         "title": "AWS CloudFormationがスタック更新のロールバック操作を簡素化",
         "date": "2026-10-22",
@@ -7647,8 +7658,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-10-23T05:32:46.796Z",
-    "totalCount": 695
+    "updatedAt": "2026-10-23T10:40:11.092Z",
+    "totalCount": 696
   },
   "metadata:months": [
     "2026/10",
@@ -7665,6 +7676,17 @@
     "year": 2026,
     "month": 10,
     "articles": [
+      {
+        "id": "2026-10-23-AgentCore-Gateway-now-supports-Bedrock-InvokeModel",
+        "title": "AgentCore Gateway が Bedrock InvokeModel API とモデルフォールバックに対応",
+        "date": "2026-10-23",
+        "year": 2026,
+        "month": 10,
+        "day": 23,
+        "path": "2026/10/23/AgentCore-Gateway-now-supports-Bedrock-InvokeModel",
+        "summary": "AgentCore Gateway が Bedrock InvokeModel API とモデルフォールバックに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/23/AgentCore-Gateway-now-supports-Bedrock-InvokeModel/thumbnail.png"
+      },
       {
         "id": "2026-10-22-AWS-CloudFormation-now-simplifies-stack-update-rol",
         "title": "AWS CloudFormationがスタック更新のロールバック操作を簡素化",
