@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-10-22-AWS-CloudFormation-now-simplifies-stack-update-rol",
+        "title": "AWS CloudFormationがスタック更新のロールバック操作を簡素化",
+        "date": "2026-10-22",
+        "year": 2026,
+        "month": 10,
+        "day": 22,
+        "path": "2026/10/22/AWS-CloudFormation-now-simplifies-stack-update-rol",
+        "summary": "AWS CloudFormationがスタック更新のロールバック操作を簡素化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/22/AWS-CloudFormation-now-simplifies-stack-update-rol/thumbnail.png"
+      },
+      {
+        "id": "2026-10-22-AWS-Continuum-for-code-vulnerabilities-is-now-gene",
+        "title": "AWS Continuum for code vulnerabilities が一般提供開始",
+        "date": "2026-10-22",
+        "year": 2026,
+        "month": 10,
+        "day": 22,
+        "path": "2026/10/22/AWS-Continuum-for-code-vulnerabilities-is-now-gene",
+        "summary": "AWS Continuum for code vulnerabilities が一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/22/AWS-Continuum-for-code-vulnerabilities-is-now-gene/thumbnail.png"
+      },
+      {
         "id": "2026-10-22-AWS-Network-Firewall-now-supports-Route-53-Resolve",
         "title": "AWS Network FirewallがRoute 53 Resolved IP Validationをサポート",
         "date": "2026-10-22",
@@ -7625,8 +7647,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-10-22T22:00:12.669Z",
-    "totalCount": 693
+    "updatedAt": "2026-10-23T00:26:05.343Z",
+    "totalCount": 695
   },
   "metadata:months": [
     "2026/10",
@@ -7643,6 +7665,28 @@
     "year": 2026,
     "month": 10,
     "articles": [
+      {
+        "id": "2026-10-22-AWS-CloudFormation-now-simplifies-stack-update-rol",
+        "title": "AWS CloudFormationがスタック更新のロールバック操作を簡素化",
+        "date": "2026-10-22",
+        "year": 2026,
+        "month": 10,
+        "day": 22,
+        "path": "2026/10/22/AWS-CloudFormation-now-simplifies-stack-update-rol",
+        "summary": "AWS CloudFormationがスタック更新のロールバック操作を簡素化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/22/AWS-CloudFormation-now-simplifies-stack-update-rol/thumbnail.png"
+      },
+      {
+        "id": "2026-10-22-AWS-Continuum-for-code-vulnerabilities-is-now-gene",
+        "title": "AWS Continuum for code vulnerabilities が一般提供開始",
+        "date": "2026-10-22",
+        "year": 2026,
+        "month": 10,
+        "day": 22,
+        "path": "2026/10/22/AWS-Continuum-for-code-vulnerabilities-is-now-gene",
+        "summary": "AWS Continuum for code vulnerabilities が一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/22/AWS-Continuum-for-code-vulnerabilities-is-now-gene/thumbnail.png"
+      },
       {
         "id": "2026-10-22-AWS-Network-Firewall-now-supports-Route-53-Resolve",
         "title": "AWS Network FirewallがRoute 53 Resolved IP Validationをサポート",
