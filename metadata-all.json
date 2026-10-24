@@ -2,6 +2,39 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-10-24-AWS-Transit-Gateway-and-AWS-Cloud-WAN-now-support",
+        "title": "AWS Transit GatewayとAWS Cloud WANが1:1 NATをサポート",
+        "date": "2026-10-24",
+        "year": 2026,
+        "month": 10,
+        "day": 24,
+        "path": "2026/10/24/AWS-Transit-Gateway-and-AWS-Cloud-WAN-now-support",
+        "summary": "AWS Transit GatewayとAWS Cloud WANが1:1 NATをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/24/AWS-Transit-Gateway-and-AWS-Cloud-WAN-now-support/thumbnail.png"
+      },
+      {
+        "id": "2026-10-24-Amazon-OpenSearch-Service-introduces-intelligent-i",
+        "title": "Amazon OpenSearch ServiceがS3上のログ・ドキュメント向けインテリジェント取り込みを発表",
+        "date": "2026-10-24",
+        "year": 2026,
+        "month": 10,
+        "day": 24,
+        "path": "2026/10/24/Amazon-OpenSearch-Service-introduces-intelligent-i",
+        "summary": "Amazon OpenSearch ServiceがS3上のログ・ドキュメント向けインテリジェント取り込みを発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/24/Amazon-OpenSearch-Service-introduces-intelligent-i/thumbnail.png"
+      },
+      {
+        "id": "2026-10-24-Web-Search-on-AWS-Bedrock-now-supports-domain-filt",
+        "title": "Amazon BedrockのWeb Searchがドメインフィルタとユーザーロケーションに対応",
+        "date": "2026-10-24",
+        "year": 2026,
+        "month": 10,
+        "day": 24,
+        "path": "2026/10/24/Web-Search-on-AWS-Bedrock-now-supports-domain-filt",
+        "summary": "Amazon BedrockのWeb Searchがドメインフィルタとユーザーロケーションに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/24/Web-Search-on-AWS-Bedrock-now-supports-domain-filt/thumbnail.png"
+      },
+      {
         "id": "2026-10-23-AgentCore-Gateway-now-supports-Bedrock-InvokeModel",
         "title": "AgentCore Gateway が Bedrock InvokeModel API とモデルフォールバックに対応",
         "date": "2026-10-23",
@@ -7658,8 +7691,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-10-24T11:42:50.157Z",
-    "totalCount": 696
+    "updatedAt": "2026-10-24T15:01:28.180Z",
+    "totalCount": 699
   },
   "metadata:months": [
     "2026/10",
@@ -7676,6 +7709,39 @@
     "year": 2026,
     "month": 10,
     "articles": [
+      {
+        "id": "2026-10-24-AWS-Transit-Gateway-and-AWS-Cloud-WAN-now-support",
+        "title": "AWS Transit GatewayとAWS Cloud WANが1:1 NATをサポート",
+        "date": "2026-10-24",
+        "year": 2026,
+        "month": 10,
+        "day": 24,
+        "path": "2026/10/24/AWS-Transit-Gateway-and-AWS-Cloud-WAN-now-support",
+        "summary": "AWS Transit GatewayとAWS Cloud WANが1:1 NATをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/24/AWS-Transit-Gateway-and-AWS-Cloud-WAN-now-support/thumbnail.png"
+      },
+      {
+        "id": "2026-10-24-Amazon-OpenSearch-Service-introduces-intelligent-i",
+        "title": "Amazon OpenSearch ServiceがS3上のログ・ドキュメント向けインテリジェント取り込みを発表",
+        "date": "2026-10-24",
+        "year": 2026,
+        "month": 10,
+        "day": 24,
+        "path": "2026/10/24/Amazon-OpenSearch-Service-introduces-intelligent-i",
+        "summary": "Amazon OpenSearch ServiceがS3上のログ・ドキュメント向けインテリジェント取り込みを発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/24/Amazon-OpenSearch-Service-introduces-intelligent-i/thumbnail.png"
+      },
+      {
+        "id": "2026-10-24-Web-Search-on-AWS-Bedrock-now-supports-domain-filt",
+        "title": "Amazon BedrockのWeb Searchがドメインフィルタとユーザーロケーションに対応",
+        "date": "2026-10-24",
+        "year": 2026,
+        "month": 10,
+        "day": 24,
+        "path": "2026/10/24/Web-Search-on-AWS-Bedrock-now-supports-domain-filt",
+        "summary": "Amazon BedrockのWeb Searchがドメインフィルタとユーザーロケーションに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/24/Web-Search-on-AWS-Bedrock-now-supports-domain-filt/thumbnail.png"
+      },
       {
         "id": "2026-10-23-AgentCore-Gateway-now-supports-Bedrock-InvokeModel",
         "title": "AgentCore Gateway が Bedrock InvokeModel API とモデルフォールバックに対応",
@@ -8447,7 +8513,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/01/Improve-your-secrets-security-posture-with-actiona/thumbnail.png"
       }
     ],
-    "totalPages": 7
+    "totalPages": 8
   },
   "metadata:2026/09": {
     "year": 2026,
