@@ -2,6 +2,61 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-10-27-AWS-Elemental-MediaConnect-Router-now-supports-end",
+        "title": "AWS Elemental MediaConnect Routerがエンドポイント接続管理をサポート",
+        "date": "2026-10-27",
+        "year": 2026,
+        "month": 10,
+        "day": 27,
+        "path": "2026/10/27/AWS-Elemental-MediaConnect-Router-now-supports-end",
+        "summary": "AWS Elemental MediaConnect Routerがエンドポイント接続管理をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/27/AWS-Elemental-MediaConnect-Router-now-supports-end/thumbnail.png"
+      },
+      {
+        "id": "2026-10-27-AWS-Glue-Data-Catalog-now-supports-OAuth-for-Apach",
+        "title": "AWS Glue Data CatalogがApache Iceberg REST Catalog API向けにOAuth認証をサポート",
+        "date": "2026-10-27",
+        "year": 2026,
+        "month": 10,
+        "day": 27,
+        "path": "2026/10/27/AWS-Glue-Data-Catalog-now-supports-OAuth-for-Apach",
+        "summary": "AWS Glue Data CatalogがApache Iceberg REST Catalog API向けにOAuth認証をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/27/AWS-Glue-Data-Catalog-now-supports-OAuth-for-Apach/thumbnail.png"
+      },
+      {
+        "id": "2026-10-27-AWS-IAM-Identity-Center-now-supports-cross-Region",
+        "title": "AWS IAM Identity Centerがクロスリージョンの信頼されたアイデンティティ伝播をサポート",
+        "date": "2026-10-27",
+        "year": 2026,
+        "month": 10,
+        "day": 27,
+        "path": "2026/10/27/AWS-IAM-Identity-Center-now-supports-cross-Region",
+        "summary": "AWS IAM Identity Centerがクロスリージョンの信頼されたアイデンティティ伝播をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/27/AWS-IAM-Identity-Center-now-supports-cross-Region/thumbnail.png"
+      },
+      {
+        "id": "2026-10-27-Amazon-ECR-now-supports-replication-backfill-for-e",
+        "title": "Amazon ECRが既存コンテナイメージのレプリケーションバックフィルをサポート",
+        "date": "2026-10-27",
+        "year": 2026,
+        "month": 10,
+        "day": 27,
+        "path": "2026/10/27/Amazon-ECR-now-supports-replication-backfill-for-e",
+        "summary": "Amazon ECRが既存コンテナイメージのレプリケーションバックフィルをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/27/Amazon-ECR-now-supports-replication-backfill-for-e/thumbnail.png"
+      },
+      {
+        "id": "2026-10-27-OpenAI-GPT-61-Terra-is-now-generally-available-on",
+        "title": "OpenAI GPT-6.1 Terra が Amazon Bedrock で一般提供開始",
+        "date": "2026-10-27",
+        "year": 2026,
+        "month": 10,
+        "day": 27,
+        "path": "2026/10/27/OpenAI-GPT-61-Terra-is-now-generally-available-on",
+        "summary": "OpenAI GPT 6.1 Terra が Amazon Bedrock で一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/27/OpenAI-GPT-61-Terra-is-now-generally-available-on/thumbnail.png"
+      },
+      {
         "id": "2026-10-24-AWS-Transit-Gateway-and-AWS-Cloud-WAN-now-support",
         "title": "AWS Transit GatewayとAWS Cloud WANが1:1 NATをサポート",
         "date": "2026-10-24",
@@ -7691,8 +7746,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-10-27T22:44:25.128Z",
-    "totalCount": 699
+    "updatedAt": "2026-10-28T01:54:35.433Z",
+    "totalCount": 704
   },
   "metadata:months": [
     "2026/10",
@@ -7709,6 +7764,61 @@
     "year": 2026,
     "month": 10,
     "articles": [
+      {
+        "id": "2026-10-27-AWS-Elemental-MediaConnect-Router-now-supports-end",
+        "title": "AWS Elemental MediaConnect Routerがエンドポイント接続管理をサポート",
+        "date": "2026-10-27",
+        "year": 2026,
+        "month": 10,
+        "day": 27,
+        "path": "2026/10/27/AWS-Elemental-MediaConnect-Router-now-supports-end",
+        "summary": "AWS Elemental MediaConnect Routerがエンドポイント接続管理をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/27/AWS-Elemental-MediaConnect-Router-now-supports-end/thumbnail.png"
+      },
+      {
+        "id": "2026-10-27-AWS-Glue-Data-Catalog-now-supports-OAuth-for-Apach",
+        "title": "AWS Glue Data CatalogがApache Iceberg REST Catalog API向けにOAuth認証をサポート",
+        "date": "2026-10-27",
+        "year": 2026,
+        "month": 10,
+        "day": 27,
+        "path": "2026/10/27/AWS-Glue-Data-Catalog-now-supports-OAuth-for-Apach",
+        "summary": "AWS Glue Data CatalogがApache Iceberg REST Catalog API向けにOAuth認証をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/27/AWS-Glue-Data-Catalog-now-supports-OAuth-for-Apach/thumbnail.png"
+      },
+      {
+        "id": "2026-10-27-AWS-IAM-Identity-Center-now-supports-cross-Region",
+        "title": "AWS IAM Identity Centerがクロスリージョンの信頼されたアイデンティティ伝播をサポート",
+        "date": "2026-10-27",
+        "year": 2026,
+        "month": 10,
+        "day": 27,
+        "path": "2026/10/27/AWS-IAM-Identity-Center-now-supports-cross-Region",
+        "summary": "AWS IAM Identity Centerがクロスリージョンの信頼されたアイデンティティ伝播をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/27/AWS-IAM-Identity-Center-now-supports-cross-Region/thumbnail.png"
+      },
+      {
+        "id": "2026-10-27-Amazon-ECR-now-supports-replication-backfill-for-e",
+        "title": "Amazon ECRが既存コンテナイメージのレプリケーションバックフィルをサポート",
+        "date": "2026-10-27",
+        "year": 2026,
+        "month": 10,
+        "day": 27,
+        "path": "2026/10/27/Amazon-ECR-now-supports-replication-backfill-for-e",
+        "summary": "Amazon ECRが既存コンテナイメージのレプリケーションバックフィルをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/27/Amazon-ECR-now-supports-replication-backfill-for-e/thumbnail.png"
+      },
+      {
+        "id": "2026-10-27-OpenAI-GPT-61-Terra-is-now-generally-available-on",
+        "title": "OpenAI GPT-6.1 Terra が Amazon Bedrock で一般提供開始",
+        "date": "2026-10-27",
+        "year": 2026,
+        "month": 10,
+        "day": 27,
+        "path": "2026/10/27/OpenAI-GPT-61-Terra-is-now-generally-available-on",
+        "summary": "OpenAI GPT 6.1 Terra が Amazon Bedrock で一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/27/OpenAI-GPT-61-Terra-is-now-generally-available-on/thumbnail.png"
+      },
       {
         "id": "2026-10-24-AWS-Transit-Gateway-and-AWS-Cloud-WAN-now-support",
         "title": "AWS Transit GatewayとAWS Cloud WANが1:1 NATをサポート",
