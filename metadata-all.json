@@ -2,6 +2,72 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-10-28-AWS-Lambda-durable-functions-now-exports-live-tele",
+        "title": "AWS Lambda durable functionsが実行洞察向けライブテレメトリを提供開始",
+        "date": "2026-10-28",
+        "year": 2026,
+        "month": 10,
+        "day": 28,
+        "path": "2026/10/28/AWS-Lambda-durable-functions-now-exports-live-tele",
+        "summary": "AWS Lambda durable functionsが実行洞察向けライブテレメトリを提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/28/AWS-Lambda-durable-functions-now-exports-live-tele/thumbnail.png"
+      },
+      {
+        "id": "2026-10-28-AWS-Lambda-supports-Seekable-OCI-SOCI-lazy-loading",
+        "title": "AWS Lambda Managed Instances で Seekable OCI (SOCI) 遅延読み込みが利用可能に",
+        "date": "2026-10-28",
+        "year": 2026,
+        "month": 10,
+        "day": 28,
+        "path": "2026/10/28/AWS-Lambda-supports-Seekable-OCI-SOCI-lazy-loading",
+        "summary": "AWS Lambda Managed Instances で Seekable OCI (SOCI) 遅延読み込みが利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/28/AWS-Lambda-supports-Seekable-OCI-SOCI-lazy-loading/thumbnail.png"
+      },
+      {
+        "id": "2026-10-28-Amazon-ECS-Managed-Instances-adds-cross-instance-a",
+        "title": "Amazon ECS Managed InstancesがクロスインスタンスとSpot統合を追加",
+        "date": "2026-10-28",
+        "year": 2026,
+        "month": 10,
+        "day": 28,
+        "path": "2026/10/28/Amazon-ECS-Managed-Instances-adds-cross-instance-a",
+        "summary": "Amazon ECS Managed InstancesがクロスインスタンスとSpot統合を追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/28/Amazon-ECS-Managed-Instances-adds-cross-instance-a/thumbnail.png"
+      },
+      {
+        "id": "2026-10-28-Amazon-EKS-Auto-Mode-now-supports-Kubernetes-Gatew",
+        "title": "Amazon EKS Auto Mode が Kubernetes Gateway API のサポートを開始",
+        "date": "2026-10-28",
+        "year": 2026,
+        "month": 10,
+        "day": 28,
+        "path": "2026/10/28/Amazon-EKS-Auto-Mode-now-supports-Kubernetes-Gatew",
+        "summary": "Amazon EKS Auto Mode が Kubernetes Gateway API のサポートを開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/28/Amazon-EKS-Auto-Mode-now-supports-Kubernetes-Gatew/thumbnail.png"
+      },
+      {
+        "id": "2026-10-28-Amazon-EKS-Dashboard-now-provides-fleet-wide-visib",
+        "title": "Amazon EKS DashboardがCAローテーションのフリート全体可視化に対応",
+        "date": "2026-10-28",
+        "year": 2026,
+        "month": 10,
+        "day": 28,
+        "path": "2026/10/28/Amazon-EKS-Dashboard-now-provides-fleet-wide-visib",
+        "summary": "Amazon EKS DashboardがCAローテーションのフリート全体可視化に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/28/Amazon-EKS-Dashboard-now-provides-fleet-wide-visib/thumbnail.png"
+      },
+      {
+        "id": "2026-10-28-Quick-now-supports-smart-approvals-for-agentic-act",
+        "title": "Amazon Quickがエージェントアクションのスマート承認をサポート",
+        "date": "2026-10-28",
+        "year": 2026,
+        "month": 10,
+        "day": 28,
+        "path": "2026/10/28/Quick-now-supports-smart-approvals-for-agentic-act",
+        "summary": "Amazon Quickがエージェントアクションのスマート承認をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/28/Quick-now-supports-smart-approvals-for-agentic-act/thumbnail.png"
+      },
+      {
         "id": "2026-10-27-AWS-Elemental-MediaConnect-Router-now-supports-end",
         "title": "AWS Elemental MediaConnect Routerがエンドポイント接続管理をサポート",
         "date": "2026-10-27",
@@ -7746,8 +7812,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-10-28T19:58:46.415Z",
-    "totalCount": 704
+    "updatedAt": "2026-10-28T23:52:11.868Z",
+    "totalCount": 710
   },
   "metadata:months": [
     "2026/10",
@@ -7764,6 +7830,72 @@
     "year": 2026,
     "month": 10,
     "articles": [
+      {
+        "id": "2026-10-28-AWS-Lambda-durable-functions-now-exports-live-tele",
+        "title": "AWS Lambda durable functionsが実行洞察向けライブテレメトリを提供開始",
+        "date": "2026-10-28",
+        "year": 2026,
+        "month": 10,
+        "day": 28,
+        "path": "2026/10/28/AWS-Lambda-durable-functions-now-exports-live-tele",
+        "summary": "AWS Lambda durable functionsが実行洞察向けライブテレメトリを提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/28/AWS-Lambda-durable-functions-now-exports-live-tele/thumbnail.png"
+      },
+      {
+        "id": "2026-10-28-AWS-Lambda-supports-Seekable-OCI-SOCI-lazy-loading",
+        "title": "AWS Lambda Managed Instances で Seekable OCI (SOCI) 遅延読み込みが利用可能に",
+        "date": "2026-10-28",
+        "year": 2026,
+        "month": 10,
+        "day": 28,
+        "path": "2026/10/28/AWS-Lambda-supports-Seekable-OCI-SOCI-lazy-loading",
+        "summary": "AWS Lambda Managed Instances で Seekable OCI (SOCI) 遅延読み込みが利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/28/AWS-Lambda-supports-Seekable-OCI-SOCI-lazy-loading/thumbnail.png"
+      },
+      {
+        "id": "2026-10-28-Amazon-ECS-Managed-Instances-adds-cross-instance-a",
+        "title": "Amazon ECS Managed InstancesがクロスインスタンスとSpot統合を追加",
+        "date": "2026-10-28",
+        "year": 2026,
+        "month": 10,
+        "day": 28,
+        "path": "2026/10/28/Amazon-ECS-Managed-Instances-adds-cross-instance-a",
+        "summary": "Amazon ECS Managed InstancesがクロスインスタンスとSpot統合を追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/28/Amazon-ECS-Managed-Instances-adds-cross-instance-a/thumbnail.png"
+      },
+      {
+        "id": "2026-10-28-Amazon-EKS-Auto-Mode-now-supports-Kubernetes-Gatew",
+        "title": "Amazon EKS Auto Mode が Kubernetes Gateway API のサポートを開始",
+        "date": "2026-10-28",
+        "year": 2026,
+        "month": 10,
+        "day": 28,
+        "path": "2026/10/28/Amazon-EKS-Auto-Mode-now-supports-Kubernetes-Gatew",
+        "summary": "Amazon EKS Auto Mode が Kubernetes Gateway API のサポートを開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/28/Amazon-EKS-Auto-Mode-now-supports-Kubernetes-Gatew/thumbnail.png"
+      },
+      {
+        "id": "2026-10-28-Amazon-EKS-Dashboard-now-provides-fleet-wide-visib",
+        "title": "Amazon EKS DashboardがCAローテーションのフリート全体可視化に対応",
+        "date": "2026-10-28",
+        "year": 2026,
+        "month": 10,
+        "day": 28,
+        "path": "2026/10/28/Amazon-EKS-Dashboard-now-provides-fleet-wide-visib",
+        "summary": "Amazon EKS DashboardがCAローテーションのフリート全体可視化に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/28/Amazon-EKS-Dashboard-now-provides-fleet-wide-visib/thumbnail.png"
+      },
+      {
+        "id": "2026-10-28-Quick-now-supports-smart-approvals-for-agentic-act",
+        "title": "Amazon Quickがエージェントアクションのスマート承認をサポート",
+        "date": "2026-10-28",
+        "year": 2026,
+        "month": 10,
+        "day": 28,
+        "path": "2026/10/28/Quick-now-supports-smart-approvals-for-agentic-act",
+        "summary": "Amazon Quickがエージェントアクションのスマート承認をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/28/Quick-now-supports-smart-approvals-for-agentic-act/thumbnail.png"
+      },
       {
         "id": "2026-10-27-AWS-Elemental-MediaConnect-Router-now-supports-end",
         "title": "AWS Elemental MediaConnect Routerがエンドポイント接続管理をサポート",
@@ -8623,7 +8755,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/01/Improve-your-secrets-security-posture-with-actiona/thumbnail.png"
       }
     ],
-    "totalPages": 8
+    "totalPages": 9
   },
   "metadata:2026/09": {
     "year": 2026,
