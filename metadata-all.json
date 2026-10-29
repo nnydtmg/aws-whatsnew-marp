@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-10-29-Amazon-Bedrock-AgentCore-CLI-version-10-is-now-ava",
+        "title": "Amazon Bedrock AgentCore CLI 1.0が一般提供開始",
+        "date": "2026-10-29",
+        "year": 2026,
+        "month": 10,
+        "day": 29,
+        "path": "2026/10/29/Amazon-Bedrock-AgentCore-CLI-version-10-is-now-ava",
+        "summary": "Amazon Bedrock AgentCore CLI 1.0が一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/29/Amazon-Bedrock-AgentCore-CLI-version-10-is-now-ava/thumbnail.png"
+      },
+      {
         "id": "2026-10-28-AWS-Lambda-durable-functions-now-exports-live-tele",
         "title": "AWS Lambda durable functionsが実行洞察向けライブテレメトリを提供開始",
         "date": "2026-10-28",
@@ -7812,8 +7823,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-10-28T23:52:11.868Z",
-    "totalCount": 710
+    "updatedAt": "2026-10-29T03:19:25.578Z",
+    "totalCount": 711
   },
   "metadata:months": [
     "2026/10",
@@ -7830,6 +7841,17 @@
     "year": 2026,
     "month": 10,
     "articles": [
+      {
+        "id": "2026-10-29-Amazon-Bedrock-AgentCore-CLI-version-10-is-now-ava",
+        "title": "Amazon Bedrock AgentCore CLI 1.0が一般提供開始",
+        "date": "2026-10-29",
+        "year": 2026,
+        "month": 10,
+        "day": 29,
+        "path": "2026/10/29/Amazon-Bedrock-AgentCore-CLI-version-10-is-now-ava",
+        "summary": "Amazon Bedrock AgentCore CLI 1.0が一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/29/Amazon-Bedrock-AgentCore-CLI-version-10-is-now-ava/thumbnail.png"
+      },
       {
         "id": "2026-10-28-AWS-Lambda-durable-functions-now-exports-live-tele",
         "title": "AWS Lambda durable functionsが実行洞察向けライブテレメトリを提供開始",
