@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-10-29-AWS-Step-Functions-workflows-now-available-as-AI-a",
+        "title": "AWS Step Functions ワークフローが AI エージェントのツールとして利用可能に",
+        "date": "2026-10-29",
+        "year": 2026,
+        "month": 10,
+        "day": 29,
+        "path": "2026/10/29/AWS-Step-Functions-workflows-now-available-as-AI-a",
+        "summary": "AWS Step Functions ワークフローが AI エージェントのツールとして利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/29/AWS-Step-Functions-workflows-now-available-as-AI-a/thumbnail.png"
+      },
+      {
         "id": "2026-10-29-Amazon-Bedrock-AgentCore-CLI-version-10-is-now-ava",
         "title": "Amazon Bedrock AgentCore CLI 1.0が一般提供開始",
         "date": "2026-10-29",
@@ -7823,8 +7834,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-10-29T22:10:54.739Z",
-    "totalCount": 711
+    "updatedAt": "2026-10-30T09:14:16.448Z",
+    "totalCount": 712
   },
   "metadata:months": [
     "2026/10",
@@ -7841,6 +7852,17 @@
     "year": 2026,
     "month": 10,
     "articles": [
+      {
+        "id": "2026-10-29-AWS-Step-Functions-workflows-now-available-as-AI-a",
+        "title": "AWS Step Functions ワークフローが AI エージェントのツールとして利用可能に",
+        "date": "2026-10-29",
+        "year": 2026,
+        "month": 10,
+        "day": 29,
+        "path": "2026/10/29/AWS-Step-Functions-workflows-now-available-as-AI-a",
+        "summary": "AWS Step Functions ワークフローが AI エージェントのツールとして利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/29/AWS-Step-Functions-workflows-now-available-as-AI-a/thumbnail.png"
+      },
       {
         "id": "2026-10-29-Amazon-Bedrock-AgentCore-CLI-version-10-is-now-ava",
         "title": "Amazon Bedrock AgentCore CLI 1.0が一般提供開始",
