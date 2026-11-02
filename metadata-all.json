@@ -2,6 +2,50 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-11-02-AWS-WAF-announces-automatic-SDK-integration-for-Am",
+        "title": "AWS WAFがAmazon CloudFront向け自動SDK統合を発表",
+        "date": "2026-11-02",
+        "year": 2026,
+        "month": 11,
+        "day": 2,
+        "path": "2026/11/02/AWS-WAF-announces-automatic-SDK-integration-for-Am",
+        "summary": "AWS WAFがAmazon CloudFront向け自動SDK統合を発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/02/AWS-WAF-announces-automatic-SDK-integration-for-Am/thumbnail.png"
+      },
+      {
+        "id": "2026-11-02-Amazon-CloudFront-now-provides-viewer-ISP-and-post",
+        "title": "Amazon CloudFrontが閲覧者ISP名と耐量子TLS詳細の転送に対応",
+        "date": "2026-11-02",
+        "year": 2026,
+        "month": 11,
+        "day": 2,
+        "path": "2026/11/02/Amazon-CloudFront-now-provides-viewer-ISP-and-post",
+        "summary": "Amazon CloudFrontが閲覧者ISP名と耐量子TLS詳細の転送に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/02/Amazon-CloudFront-now-provides-viewer-ISP-and-post/thumbnail.png"
+      },
+      {
+        "id": "2026-11-02-Amazon-Connect-Customer-now-supports-versioning-an",
+        "title": "Amazon Connect Customerがフローのバージョニングとエイリアシングをサポート",
+        "date": "2026-11-02",
+        "year": 2026,
+        "month": 11,
+        "day": 2,
+        "path": "2026/11/02/Amazon-Connect-Customer-now-supports-versioning-an",
+        "summary": "Amazon Connect Customerがフローのバージョニングとエイリアシングをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/02/Amazon-Connect-Customer-now-supports-versioning-an/thumbnail.png"
+      },
+      {
+        "id": "2026-11-02-Amazon-RDS-for-Oracle-no-longer-requires-automatic",
+        "title": "Amazon RDS for OracleでJVM・Spatial等の自動マイナーアップグレードが任意に",
+        "date": "2026-11-02",
+        "year": 2026,
+        "month": 11,
+        "day": 2,
+        "path": "2026/11/02/Amazon-RDS-for-Oracle-no-longer-requires-automatic",
+        "summary": "Amazon RDS for OracleでJVM・Spatial等の自動マイナーアップグレードが任意に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/02/Amazon-RDS-for-Oracle-no-longer-requires-automatic/thumbnail.png"
+      },
+      {
         "id": "2026-10-29-AWS-Step-Functions-workflows-now-available-as-AI-a",
         "title": "AWS Step Functions ワークフローが AI エージェントのツールとして利用可能に",
         "date": "2026-10-29",
@@ -7834,10 +7878,11 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-11-01T23:16:06.779Z",
-    "totalCount": 712
+    "updatedAt": "2026-11-02T03:11:18.351Z",
+    "totalCount": 716
   },
   "metadata:months": [
+    "2026/11",
     "2026/10",
     "2026/09",
     "2026/08",
@@ -7848,6 +7893,57 @@
     "2026/03",
     "2026/02"
   ],
+  "metadata:2026/11": {
+    "year": 2026,
+    "month": 11,
+    "articles": [
+      {
+        "id": "2026-11-02-AWS-WAF-announces-automatic-SDK-integration-for-Am",
+        "title": "AWS WAFがAmazon CloudFront向け自動SDK統合を発表",
+        "date": "2026-11-02",
+        "year": 2026,
+        "month": 11,
+        "day": 2,
+        "path": "2026/11/02/AWS-WAF-announces-automatic-SDK-integration-for-Am",
+        "summary": "AWS WAFがAmazon CloudFront向け自動SDK統合を発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/02/AWS-WAF-announces-automatic-SDK-integration-for-Am/thumbnail.png"
+      },
+      {
+        "id": "2026-11-02-Amazon-CloudFront-now-provides-viewer-ISP-and-post",
+        "title": "Amazon CloudFrontが閲覧者ISP名と耐量子TLS詳細の転送に対応",
+        "date": "2026-11-02",
+        "year": 2026,
+        "month": 11,
+        "day": 2,
+        "path": "2026/11/02/Amazon-CloudFront-now-provides-viewer-ISP-and-post",
+        "summary": "Amazon CloudFrontが閲覧者ISP名と耐量子TLS詳細の転送に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/02/Amazon-CloudFront-now-provides-viewer-ISP-and-post/thumbnail.png"
+      },
+      {
+        "id": "2026-11-02-Amazon-Connect-Customer-now-supports-versioning-an",
+        "title": "Amazon Connect Customerがフローのバージョニングとエイリアシングをサポート",
+        "date": "2026-11-02",
+        "year": 2026,
+        "month": 11,
+        "day": 2,
+        "path": "2026/11/02/Amazon-Connect-Customer-now-supports-versioning-an",
+        "summary": "Amazon Connect Customerがフローのバージョニングとエイリアシングをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/02/Amazon-Connect-Customer-now-supports-versioning-an/thumbnail.png"
+      },
+      {
+        "id": "2026-11-02-Amazon-RDS-for-Oracle-no-longer-requires-automatic",
+        "title": "Amazon RDS for OracleでJVM・Spatial等の自動マイナーアップグレードが任意に",
+        "date": "2026-11-02",
+        "year": 2026,
+        "month": 11,
+        "day": 2,
+        "path": "2026/11/02/Amazon-RDS-for-Oracle-no-longer-requires-automatic",
+        "summary": "Amazon RDS for OracleでJVM・Spatial等の自動マイナーアップグレードが任意に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/02/Amazon-RDS-for-Oracle-no-longer-requires-automatic/thumbnail.png"
+      }
+    ],
+    "totalPages": 1
+  },
   "metadata:2026/10": {
     "year": 2026,
     "month": 10,
