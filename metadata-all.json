@@ -2,6 +2,39 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-11-03-Amazon-CloudFront-now-supports-self-service-increa",
+        "title": "Amazon CloudFrontがAWS Service Quotasでのセルフサービス引き上げに対応",
+        "date": "2026-11-03",
+        "year": 2026,
+        "month": 11,
+        "day": 3,
+        "path": "2026/11/03/Amazon-CloudFront-now-supports-self-service-increa",
+        "summary": "Amazon CloudFrontがAWS Service Quotasでのセルフサービス引き上げに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/03/Amazon-CloudFront-now-supports-self-service-increa/thumbnail.png"
+      },
+      {
+        "id": "2026-11-03-Amazon-Quick-on-desktop-now-uses-your-organization",
+        "title": "Amazon Quick デスクトップが組織の既存サインインを利用可能に",
+        "date": "2026-11-03",
+        "year": 2026,
+        "month": 11,
+        "day": 3,
+        "path": "2026/11/03/Amazon-Quick-on-desktop-now-uses-your-organization",
+        "summary": "Amazon Quick デスクトップが組織の既存サインインを利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/03/Amazon-Quick-on-desktop-now-uses-your-organization/thumbnail.png"
+      },
+      {
+        "id": "2026-11-03-Announcing-AWS-for-Fluent-Bit-300-based-on-Fluent",
+        "title": "AWS for Fluent Bit 3.0.0 が Fluent Bit 4.1.1 ベースで提供開始",
+        "date": "2026-11-03",
+        "year": 2026,
+        "month": 11,
+        "day": 3,
+        "path": "2026/11/03/Announcing-AWS-for-Fluent-Bit-300-based-on-Fluent",
+        "summary": "AWS for Fluent Bit 3.0.0 が Fluent Bit 4.1.1 ベースで提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/03/Announcing-AWS-for-Fluent-Bit-300-based-on-Fluent/thumbnail.png"
+      },
+      {
         "id": "2026-11-02-AWS-WAF-announces-automatic-SDK-integration-for-Am",
         "title": "AWS WAFがAmazon CloudFront向け自動SDK統合を発表",
         "date": "2026-11-02",
@@ -44,6 +77,17 @@
         "path": "2026/11/02/Amazon-RDS-for-Oracle-no-longer-requires-automatic",
         "summary": "Amazon RDS for OracleでJVM・Spatial等の自動マイナーアップグレードが任意に",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/02/Amazon-RDS-for-Oracle-no-longer-requires-automatic/thumbnail.png"
+      },
+      {
+        "id": "2026-10-30-Amazon-Quick-Introduces-Quick-Essentials",
+        "title": "Amazon Quick が企業向け Quick Essentials を発表",
+        "date": "2026-10-30",
+        "year": 2026,
+        "month": 10,
+        "day": 30,
+        "path": "2026/10/30/Amazon-Quick-Introduces-Quick-Essentials",
+        "summary": "Amazon Quick が企業向け Quick Essentials を発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/30/Amazon-Quick-Introduces-Quick-Essentials/thumbnail.png"
       },
       {
         "id": "2026-10-29-AWS-Step-Functions-workflows-now-available-as-AI-a",
@@ -7878,8 +7922,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-11-03T02:45:58.863Z",
-    "totalCount": 716
+    "updatedAt": "2026-11-03T10:15:13.701Z",
+    "totalCount": 720
   },
   "metadata:months": [
     "2026/11",
@@ -7897,6 +7941,39 @@
     "year": 2026,
     "month": 11,
     "articles": [
+      {
+        "id": "2026-11-03-Amazon-CloudFront-now-supports-self-service-increa",
+        "title": "Amazon CloudFrontがAWS Service Quotasでのセルフサービス引き上げに対応",
+        "date": "2026-11-03",
+        "year": 2026,
+        "month": 11,
+        "day": 3,
+        "path": "2026/11/03/Amazon-CloudFront-now-supports-self-service-increa",
+        "summary": "Amazon CloudFrontがAWS Service Quotasでのセルフサービス引き上げに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/03/Amazon-CloudFront-now-supports-self-service-increa/thumbnail.png"
+      },
+      {
+        "id": "2026-11-03-Amazon-Quick-on-desktop-now-uses-your-organization",
+        "title": "Amazon Quick デスクトップが組織の既存サインインを利用可能に",
+        "date": "2026-11-03",
+        "year": 2026,
+        "month": 11,
+        "day": 3,
+        "path": "2026/11/03/Amazon-Quick-on-desktop-now-uses-your-organization",
+        "summary": "Amazon Quick デスクトップが組織の既存サインインを利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/03/Amazon-Quick-on-desktop-now-uses-your-organization/thumbnail.png"
+      },
+      {
+        "id": "2026-11-03-Announcing-AWS-for-Fluent-Bit-300-based-on-Fluent",
+        "title": "AWS for Fluent Bit 3.0.0 が Fluent Bit 4.1.1 ベースで提供開始",
+        "date": "2026-11-03",
+        "year": 2026,
+        "month": 11,
+        "day": 3,
+        "path": "2026/11/03/Announcing-AWS-for-Fluent-Bit-300-based-on-Fluent",
+        "summary": "AWS for Fluent Bit 3.0.0 が Fluent Bit 4.1.1 ベースで提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/03/Announcing-AWS-for-Fluent-Bit-300-based-on-Fluent/thumbnail.png"
+      },
       {
         "id": "2026-11-02-AWS-WAF-announces-automatic-SDK-integration-for-Am",
         "title": "AWS WAFがAmazon CloudFront向け自動SDK統合を発表",
@@ -7948,6 +8025,17 @@
     "year": 2026,
     "month": 10,
     "articles": [
+      {
+        "id": "2026-10-30-Amazon-Quick-Introduces-Quick-Essentials",
+        "title": "Amazon Quick が企業向け Quick Essentials を発表",
+        "date": "2026-10-30",
+        "year": 2026,
+        "month": 10,
+        "day": 30,
+        "path": "2026/10/30/Amazon-Quick-Introduces-Quick-Essentials",
+        "summary": "Amazon Quick が企業向け Quick Essentials を発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/10/30/Amazon-Quick-Introduces-Quick-Essentials/thumbnail.png"
+      },
       {
         "id": "2026-10-29-AWS-Step-Functions-workflows-now-available-as-AI-a",
         "title": "AWS Step Functions ワークフローが AI エージェントのツールとして利用可能に",
