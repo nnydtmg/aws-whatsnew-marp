@@ -6,6 +6,36 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-04-AWS-DataSync-Enhanced-mode-supports-OpenID-Connect</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-04-Amazon-CloudWatch-now-supports-API-keys-for-OpenTe</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-04-Amazon-EC2-and-VPC-now-display-related-resources-f</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-04-Amazon-ECS-Managed-Daemons-can-now-collect-json-fi</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-04-New-features-for-Amazon-EC2-Capacity-Manager</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-03-Amazon-CloudFront-now-supports-self-service-increa</loc>
     <lastmod>2026-11-03</lastmod>
     <changefreq>never</changefreq>

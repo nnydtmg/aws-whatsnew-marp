@@ -2,6 +2,61 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-11-04-AWS-DataSync-Enhanced-mode-supports-OpenID-Connect",
+        "title": "AWS DataSync EnhancedモードがGoogle CloudとAzure向けOIDC認証をサポート",
+        "date": "2026-11-04",
+        "year": 2026,
+        "month": 11,
+        "day": 4,
+        "path": "2026/11/04/AWS-DataSync-Enhanced-mode-supports-OpenID-Connect",
+        "summary": "AWS DataSync EnhancedモードがGoogle CloudとAzure向けOIDC認証をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/04/AWS-DataSync-Enhanced-mode-supports-OpenID-Connect/thumbnail.png"
+      },
+      {
+        "id": "2026-11-04-Amazon-CloudWatch-now-supports-API-keys-for-OpenTe",
+        "title": "Amazon CloudWatchがOpenTelemetryトレース向けAPIキー認証をサポート",
+        "date": "2026-11-04",
+        "year": 2026,
+        "month": 11,
+        "day": 4,
+        "path": "2026/11/04/Amazon-CloudWatch-now-supports-API-keys-for-OpenTe",
+        "summary": "Amazon CloudWatchがOpenTelemetryトレース向けAPIキー認証をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/04/Amazon-CloudWatch-now-supports-API-keys-for-OpenTe/thumbnail.png"
+      },
+      {
+        "id": "2026-11-04-Amazon-EC2-and-VPC-now-display-related-resources-f",
+        "title": "Amazon EC2とVPCで全リソースタイプの関連リソース表示が可能に",
+        "date": "2026-11-04",
+        "year": 2026,
+        "month": 11,
+        "day": 4,
+        "path": "2026/11/04/Amazon-EC2-and-VPC-now-display-related-resources-f",
+        "summary": "Amazon EC2とVPCで全リソースタイプの関連リソース表示が可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/04/Amazon-EC2-and-VPC-now-display-related-resources-f/thumbnail.png"
+      },
+      {
+        "id": "2026-11-04-Amazon-ECS-Managed-Daemons-can-now-collect-json-fi",
+        "title": "Amazon ECS Managed Daemonsがjson-fileログ収集をサポート",
+        "date": "2026-11-04",
+        "year": 2026,
+        "month": 11,
+        "day": 4,
+        "path": "2026/11/04/Amazon-ECS-Managed-Daemons-can-now-collect-json-fi",
+        "summary": "Amazon ECS Managed Daemonsがjson fileログ収集をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/04/Amazon-ECS-Managed-Daemons-can-now-collect-json-fi/thumbnail.png"
+      },
+      {
+        "id": "2026-11-04-New-features-for-Amazon-EC2-Capacity-Manager",
+        "title": "Amazon EC2 Capacity Managerがリアルタイムサポート可能性チェックとフルフィルメントメトリクスを提供",
+        "date": "2026-11-04",
+        "year": 2026,
+        "month": 11,
+        "day": 4,
+        "path": "2026/11/04/New-features-for-Amazon-EC2-Capacity-Manager",
+        "summary": "Amazon EC2 Capacity Managerがリアルタイムサポート可能性チェックとフルフィルメントメトリクスを提供",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/04/New-features-for-Amazon-EC2-Capacity-Manager/thumbnail.png"
+      },
+      {
         "id": "2026-11-03-Amazon-CloudFront-now-supports-self-service-increa",
         "title": "Amazon CloudFrontがAWS Service Quotasでのセルフサービス引き上げに対応",
         "date": "2026-11-03",
@@ -7933,8 +7988,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-11-04T19:00:35.169Z",
-    "totalCount": 721
+    "updatedAt": "2026-11-05T00:11:49.824Z",
+    "totalCount": 726
   },
   "metadata:months": [
     "2026/11",
@@ -7952,6 +8007,61 @@
     "year": 2026,
     "month": 11,
     "articles": [
+      {
+        "id": "2026-11-04-AWS-DataSync-Enhanced-mode-supports-OpenID-Connect",
+        "title": "AWS DataSync EnhancedモードがGoogle CloudとAzure向けOIDC認証をサポート",
+        "date": "2026-11-04",
+        "year": 2026,
+        "month": 11,
+        "day": 4,
+        "path": "2026/11/04/AWS-DataSync-Enhanced-mode-supports-OpenID-Connect",
+        "summary": "AWS DataSync EnhancedモードがGoogle CloudとAzure向けOIDC認証をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/04/AWS-DataSync-Enhanced-mode-supports-OpenID-Connect/thumbnail.png"
+      },
+      {
+        "id": "2026-11-04-Amazon-CloudWatch-now-supports-API-keys-for-OpenTe",
+        "title": "Amazon CloudWatchがOpenTelemetryトレース向けAPIキー認証をサポート",
+        "date": "2026-11-04",
+        "year": 2026,
+        "month": 11,
+        "day": 4,
+        "path": "2026/11/04/Amazon-CloudWatch-now-supports-API-keys-for-OpenTe",
+        "summary": "Amazon CloudWatchがOpenTelemetryトレース向けAPIキー認証をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/04/Amazon-CloudWatch-now-supports-API-keys-for-OpenTe/thumbnail.png"
+      },
+      {
+        "id": "2026-11-04-Amazon-EC2-and-VPC-now-display-related-resources-f",
+        "title": "Amazon EC2とVPCで全リソースタイプの関連リソース表示が可能に",
+        "date": "2026-11-04",
+        "year": 2026,
+        "month": 11,
+        "day": 4,
+        "path": "2026/11/04/Amazon-EC2-and-VPC-now-display-related-resources-f",
+        "summary": "Amazon EC2とVPCで全リソースタイプの関連リソース表示が可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/04/Amazon-EC2-and-VPC-now-display-related-resources-f/thumbnail.png"
+      },
+      {
+        "id": "2026-11-04-Amazon-ECS-Managed-Daemons-can-now-collect-json-fi",
+        "title": "Amazon ECS Managed Daemonsがjson-fileログ収集をサポート",
+        "date": "2026-11-04",
+        "year": 2026,
+        "month": 11,
+        "day": 4,
+        "path": "2026/11/04/Amazon-ECS-Managed-Daemons-can-now-collect-json-fi",
+        "summary": "Amazon ECS Managed Daemonsがjson fileログ収集をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/04/Amazon-ECS-Managed-Daemons-can-now-collect-json-fi/thumbnail.png"
+      },
+      {
+        "id": "2026-11-04-New-features-for-Amazon-EC2-Capacity-Manager",
+        "title": "Amazon EC2 Capacity Managerがリアルタイムサポート可能性チェックとフルフィルメントメトリクスを提供",
+        "date": "2026-11-04",
+        "year": 2026,
+        "month": 11,
+        "day": 4,
+        "path": "2026/11/04/New-features-for-Amazon-EC2-Capacity-Manager",
+        "summary": "Amazon EC2 Capacity Managerがリアルタイムサポート可能性チェックとフルフィルメントメトリクスを提供",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/04/New-features-for-Amazon-EC2-Capacity-Manager/thumbnail.png"
+      },
       {
         "id": "2026-11-03-Amazon-CloudFront-now-supports-self-service-increa",
         "title": "Amazon CloudFrontがAWS Service Quotasでのセルフサービス引き上げに対応",
@@ -8041,7 +8151,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/02/Amazon-RDS-for-Oracle-no-longer-requires-automatic/thumbnail.png"
       }
     ],
-    "totalPages": 1
+    "totalPages": 2
   },
   "metadata:2026/10": {
     "year": 2026,
