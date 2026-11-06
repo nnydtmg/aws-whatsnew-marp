@@ -2,6 +2,72 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-11-06-AWS-WAF-AI-traffic-monetization-now-supports-fiat",
+        "title": "AWS WAFのAIトラフィック収益化がStripeによる法定通貨払い出しに対応",
+        "date": "2026-11-06",
+        "year": 2026,
+        "month": 11,
+        "day": 6,
+        "path": "2026/11/06/AWS-WAF-AI-traffic-monetization-now-supports-fiat",
+        "summary": "AWS WAFのAIトラフィック収益化がStripeによる法定通貨払い出しに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/06/AWS-WAF-AI-traffic-monetization-now-supports-fiat/thumbnail.png"
+      },
+      {
+        "id": "2026-11-06-Announcing-Web-Answer-on-Amazon-Bedrock-AgentCore",
+        "title": "Amazon Bedrock AgentCore の Web Answer が一般提供開始",
+        "date": "2026-11-06",
+        "year": 2026,
+        "month": 11,
+        "day": 6,
+        "path": "2026/11/06/Announcing-Web-Answer-on-Amazon-Bedrock-AgentCore",
+        "summary": "Amazon Bedrock AgentCore の Web Answer が一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/06/Announcing-Web-Answer-on-Amazon-Bedrock-AgentCore/thumbnail.png"
+      },
+      {
+        "id": "2026-11-05-Amazon-Cognito-announces-9999-Service-Level-Agreem",
+        "title": "Amazon Cognito Plusプランで99.99% SLAが利用可能に",
+        "date": "2026-11-05",
+        "year": 2026,
+        "month": 11,
+        "day": 5,
+        "path": "2026/11/05/Amazon-Cognito-announces-9999-Service-Level-Agreem",
+        "summary": "Amazon Cognito Plusプランで99.99% SLAが利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/05/Amazon-Cognito-announces-9999-Service-Level-Agreem/thumbnail.png"
+      },
+      {
+        "id": "2026-11-05-Amazon-DynamoDB-now-supports-bulk-put-items",
+        "title": "Amazon DynamoDBが既存テーブルへのバルクプットアイテム機能を一般提供開始",
+        "date": "2026-11-05",
+        "year": 2026,
+        "month": 11,
+        "day": 5,
+        "path": "2026/11/05/Amazon-DynamoDB-now-supports-bulk-put-items",
+        "summary": "Amazon DynamoDBが既存テーブルへのバルクプットアイテム機能を一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/05/Amazon-DynamoDB-now-supports-bulk-put-items/thumbnail.png"
+      },
+      {
+        "id": "2026-11-05-Amazon-MWAA-now-supports-cost-allocation-tags",
+        "title": "Amazon MWAAがコスト配分タグをサポート開始",
+        "date": "2026-11-05",
+        "year": 2026,
+        "month": 11,
+        "day": 5,
+        "path": "2026/11/05/Amazon-MWAA-now-supports-cost-allocation-tags",
+        "summary": "Amazon MWAAがコスト配分タグをサポート開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/05/Amazon-MWAA-now-supports-cost-allocation-tags/thumbnail.png"
+      },
+      {
+        "id": "2026-11-05-Amazon-OpenSearch-Service-optimized-engine-now-sup",
+        "title": "Amazon OpenSearch Service最適化エンジンがログとトレースに対応",
+        "date": "2026-11-05",
+        "year": 2026,
+        "month": 11,
+        "day": 5,
+        "path": "2026/11/05/Amazon-OpenSearch-Service-optimized-engine-now-sup",
+        "summary": "Amazon OpenSearch Service最適化エンジンがログとトレースに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/05/Amazon-OpenSearch-Service-optimized-engine-now-sup/thumbnail.png"
+      },
+      {
         "id": "2026-11-04-AWS-DataSync-Enhanced-mode-supports-OpenID-Connect",
         "title": "AWS DataSync EnhancedモードがGoogle CloudとAzure向けOIDC認証をサポート",
         "date": "2026-11-04",
@@ -7988,8 +8054,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-11-05T21:40:31.538Z",
-    "totalCount": 726
+    "updatedAt": "2026-11-06T01:54:08.749Z",
+    "totalCount": 732
   },
   "metadata:months": [
     "2026/11",
@@ -8007,6 +8073,72 @@
     "year": 2026,
     "month": 11,
     "articles": [
+      {
+        "id": "2026-11-06-AWS-WAF-AI-traffic-monetization-now-supports-fiat",
+        "title": "AWS WAFのAIトラフィック収益化がStripeによる法定通貨払い出しに対応",
+        "date": "2026-11-06",
+        "year": 2026,
+        "month": 11,
+        "day": 6,
+        "path": "2026/11/06/AWS-WAF-AI-traffic-monetization-now-supports-fiat",
+        "summary": "AWS WAFのAIトラフィック収益化がStripeによる法定通貨払い出しに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/06/AWS-WAF-AI-traffic-monetization-now-supports-fiat/thumbnail.png"
+      },
+      {
+        "id": "2026-11-06-Announcing-Web-Answer-on-Amazon-Bedrock-AgentCore",
+        "title": "Amazon Bedrock AgentCore の Web Answer が一般提供開始",
+        "date": "2026-11-06",
+        "year": 2026,
+        "month": 11,
+        "day": 6,
+        "path": "2026/11/06/Announcing-Web-Answer-on-Amazon-Bedrock-AgentCore",
+        "summary": "Amazon Bedrock AgentCore の Web Answer が一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/06/Announcing-Web-Answer-on-Amazon-Bedrock-AgentCore/thumbnail.png"
+      },
+      {
+        "id": "2026-11-05-Amazon-Cognito-announces-9999-Service-Level-Agreem",
+        "title": "Amazon Cognito Plusプランで99.99% SLAが利用可能に",
+        "date": "2026-11-05",
+        "year": 2026,
+        "month": 11,
+        "day": 5,
+        "path": "2026/11/05/Amazon-Cognito-announces-9999-Service-Level-Agreem",
+        "summary": "Amazon Cognito Plusプランで99.99% SLAが利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/05/Amazon-Cognito-announces-9999-Service-Level-Agreem/thumbnail.png"
+      },
+      {
+        "id": "2026-11-05-Amazon-DynamoDB-now-supports-bulk-put-items",
+        "title": "Amazon DynamoDBが既存テーブルへのバルクプットアイテム機能を一般提供開始",
+        "date": "2026-11-05",
+        "year": 2026,
+        "month": 11,
+        "day": 5,
+        "path": "2026/11/05/Amazon-DynamoDB-now-supports-bulk-put-items",
+        "summary": "Amazon DynamoDBが既存テーブルへのバルクプットアイテム機能を一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/05/Amazon-DynamoDB-now-supports-bulk-put-items/thumbnail.png"
+      },
+      {
+        "id": "2026-11-05-Amazon-MWAA-now-supports-cost-allocation-tags",
+        "title": "Amazon MWAAがコスト配分タグをサポート開始",
+        "date": "2026-11-05",
+        "year": 2026,
+        "month": 11,
+        "day": 5,
+        "path": "2026/11/05/Amazon-MWAA-now-supports-cost-allocation-tags",
+        "summary": "Amazon MWAAがコスト配分タグをサポート開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/05/Amazon-MWAA-now-supports-cost-allocation-tags/thumbnail.png"
+      },
+      {
+        "id": "2026-11-05-Amazon-OpenSearch-Service-optimized-engine-now-sup",
+        "title": "Amazon OpenSearch Service最適化エンジンがログとトレースに対応",
+        "date": "2026-11-05",
+        "year": 2026,
+        "month": 11,
+        "day": 5,
+        "path": "2026/11/05/Amazon-OpenSearch-Service-optimized-engine-now-sup",
+        "summary": "Amazon OpenSearch Service最適化エンジンがログとトレースに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/05/Amazon-OpenSearch-Service-optimized-engine-now-sup/thumbnail.png"
+      },
       {
         "id": "2026-11-04-AWS-DataSync-Enhanced-mode-supports-OpenID-Connect",
         "title": "AWS DataSync EnhancedモードがGoogle CloudとAzure向けOIDC認証をサポート",

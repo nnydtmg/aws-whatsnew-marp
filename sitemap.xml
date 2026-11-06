@@ -6,6 +6,42 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-06-AWS-WAF-AI-traffic-monetization-now-supports-fiat</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-06-Announcing-Web-Answer-on-Amazon-Bedrock-AgentCore</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-05-Amazon-Cognito-announces-9999-Service-Level-Agreem</loc>
+    <lastmod>2026-11-05</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-05-Amazon-DynamoDB-now-supports-bulk-put-items</loc>
+    <lastmod>2026-11-05</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-05-Amazon-MWAA-now-supports-cost-allocation-tags</loc>
+    <lastmod>2026-11-05</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-05-Amazon-OpenSearch-Service-optimized-engine-now-sup</loc>
+    <lastmod>2026-11-05</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-04-AWS-DataSync-Enhanced-mode-supports-OpenID-Connect</loc>
     <lastmod>2026-11-04</lastmod>
     <changefreq>never</changefreq>
