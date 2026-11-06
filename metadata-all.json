@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-11-06-AWS-Lambda-durable-functions-increases-default-exe",
+        "title": "AWS Lambda durable functions のデフォルト実行・APIクォータが引き上げ",
+        "date": "2026-11-06",
+        "year": 2026,
+        "month": 11,
+        "day": 6,
+        "path": "2026/11/06/AWS-Lambda-durable-functions-increases-default-exe",
+        "summary": "AWS Lambda durable functions のデフォルト実行・APIクォータが引き上げ",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/06/AWS-Lambda-durable-functions-increases-default-exe/thumbnail.png"
+      },
+      {
+        "id": "2026-11-06-AWS-Security-Hub-now-provides-an-SBOM-inventory-fo",
+        "title": "AWS Security HubがコンピュートリソースのSBOMインベントリを提供開始",
+        "date": "2026-11-06",
+        "year": 2026,
+        "month": 11,
+        "day": 6,
+        "path": "2026/11/06/AWS-Security-Hub-now-provides-an-SBOM-inventory-fo",
+        "summary": "AWS Security HubがコンピュートリソースのSBOMインベントリを提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/06/AWS-Security-Hub-now-provides-an-SBOM-inventory-fo/thumbnail.png"
+      },
+      {
         "id": "2026-11-06-AWS-WAF-AI-traffic-monetization-now-supports-fiat",
         "title": "AWS WAFのAIトラフィック収益化がStripeによる法定通貨払い出しに対応",
         "date": "2026-11-06",
@@ -11,6 +33,17 @@
         "path": "2026/11/06/AWS-WAF-AI-traffic-monetization-now-supports-fiat",
         "summary": "AWS WAFのAIトラフィック収益化がStripeによる法定通貨払い出しに対応",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/06/AWS-WAF-AI-traffic-monetization-now-supports-fiat/thumbnail.png"
+      },
+      {
+        "id": "2026-11-06-Amazon-Q-Developer-in-console-is-now-the-AWS-assis",
+        "title": "Amazon Q DeveloperがAWSアシスタントに名称変更、コンソールで無料提供",
+        "date": "2026-11-06",
+        "year": 2026,
+        "month": 11,
+        "day": 6,
+        "path": "2026/11/06/Amazon-Q-Developer-in-console-is-now-the-AWS-assis",
+        "summary": "Amazon Q DeveloperがAWSアシスタントに名称変更、コンソールで無料提供",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/06/Amazon-Q-Developer-in-console-is-now-the-AWS-assis/thumbnail.png"
       },
       {
         "id": "2026-11-06-Announcing-Web-Answer-on-Amazon-Bedrock-AgentCore",
@@ -8054,8 +8087,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-11-06T01:54:08.749Z",
-    "totalCount": 732
+    "updatedAt": "2026-11-06T08:49:57.130Z",
+    "totalCount": 735
   },
   "metadata:months": [
     "2026/11",
@@ -8074,6 +8107,28 @@
     "month": 11,
     "articles": [
       {
+        "id": "2026-11-06-AWS-Lambda-durable-functions-increases-default-exe",
+        "title": "AWS Lambda durable functions のデフォルト実行・APIクォータが引き上げ",
+        "date": "2026-11-06",
+        "year": 2026,
+        "month": 11,
+        "day": 6,
+        "path": "2026/11/06/AWS-Lambda-durable-functions-increases-default-exe",
+        "summary": "AWS Lambda durable functions のデフォルト実行・APIクォータが引き上げ",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/06/AWS-Lambda-durable-functions-increases-default-exe/thumbnail.png"
+      },
+      {
+        "id": "2026-11-06-AWS-Security-Hub-now-provides-an-SBOM-inventory-fo",
+        "title": "AWS Security HubがコンピュートリソースのSBOMインベントリを提供開始",
+        "date": "2026-11-06",
+        "year": 2026,
+        "month": 11,
+        "day": 6,
+        "path": "2026/11/06/AWS-Security-Hub-now-provides-an-SBOM-inventory-fo",
+        "summary": "AWS Security HubがコンピュートリソースのSBOMインベントリを提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/06/AWS-Security-Hub-now-provides-an-SBOM-inventory-fo/thumbnail.png"
+      },
+      {
         "id": "2026-11-06-AWS-WAF-AI-traffic-monetization-now-supports-fiat",
         "title": "AWS WAFのAIトラフィック収益化がStripeによる法定通貨払い出しに対応",
         "date": "2026-11-06",
@@ -8083,6 +8138,17 @@
         "path": "2026/11/06/AWS-WAF-AI-traffic-monetization-now-supports-fiat",
         "summary": "AWS WAFのAIトラフィック収益化がStripeによる法定通貨払い出しに対応",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/06/AWS-WAF-AI-traffic-monetization-now-supports-fiat/thumbnail.png"
+      },
+      {
+        "id": "2026-11-06-Amazon-Q-Developer-in-console-is-now-the-AWS-assis",
+        "title": "Amazon Q DeveloperがAWSアシスタントに名称変更、コンソールで無料提供",
+        "date": "2026-11-06",
+        "year": 2026,
+        "month": 11,
+        "day": 6,
+        "path": "2026/11/06/Amazon-Q-Developer-in-console-is-now-the-AWS-assis",
+        "summary": "Amazon Q DeveloperがAWSアシスタントに名称変更、コンソールで無料提供",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/06/Amazon-Q-Developer-in-console-is-now-the-AWS-assis/thumbnail.png"
       },
       {
         "id": "2026-11-06-Announcing-Web-Answer-on-Amazon-Bedrock-AgentCore",
@@ -8283,7 +8349,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/02/Amazon-RDS-for-Oracle-no-longer-requires-automatic/thumbnail.png"
       }
     ],
-    "totalPages": 2
+    "totalPages": 3
   },
   "metadata:2026/10": {
     "year": 2026,
