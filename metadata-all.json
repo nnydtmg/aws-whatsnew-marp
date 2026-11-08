@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-11-08-AWS-Elemental-MediaConvert-adds-a-native-integrati",
+        "title": "AWS Elemental MediaConvertがSmart Subtitlesとのネイティブ統合を発表",
+        "date": "2026-11-08",
+        "year": 2026,
+        "month": 11,
+        "day": 8,
+        "path": "2026/11/08/AWS-Elemental-MediaConvert-adds-a-native-integrati",
+        "summary": "AWS Elemental MediaConvertがSmart Subtitlesとのネイティブ統合を発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/08/AWS-Elemental-MediaConvert-adds-a-native-integrati/thumbnail.png"
+      },
+      {
+        "id": "2026-11-08-Kimi-K31-Pro-Highspeed-now-available-on-Amazon-Bed",
+        "title": "Amazon Bedrock で Moonshot AI の Kimi K3.1 Pro が利用可能に",
+        "date": "2026-11-08",
+        "year": 2026,
+        "month": 11,
+        "day": 8,
+        "path": "2026/11/08/Kimi-K31-Pro-Highspeed-now-available-on-Amazon-Bed",
+        "summary": "Amazon Bedrock で Moonshot AI の Kimi K3.1 Pro が利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/08/Kimi-K31-Pro-Highspeed-now-available-on-Amazon-Bed/thumbnail.png"
+      },
+      {
         "id": "2026-11-06-AWS-Lambda-durable-functions-increases-default-exe",
         "title": "AWS Lambda durable functions のデフォルト実行・APIクォータが引き上げ",
         "date": "2026-11-06",
@@ -8087,8 +8109,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-11-08T10:51:22.834Z",
-    "totalCount": 735
+    "updatedAt": "2026-11-08T16:50:01.461Z",
+    "totalCount": 737
   },
   "metadata:months": [
     "2026/11",
@@ -8106,6 +8128,28 @@
     "year": 2026,
     "month": 11,
     "articles": [
+      {
+        "id": "2026-11-08-AWS-Elemental-MediaConvert-adds-a-native-integrati",
+        "title": "AWS Elemental MediaConvertがSmart Subtitlesとのネイティブ統合を発表",
+        "date": "2026-11-08",
+        "year": 2026,
+        "month": 11,
+        "day": 8,
+        "path": "2026/11/08/AWS-Elemental-MediaConvert-adds-a-native-integrati",
+        "summary": "AWS Elemental MediaConvertがSmart Subtitlesとのネイティブ統合を発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/08/AWS-Elemental-MediaConvert-adds-a-native-integrati/thumbnail.png"
+      },
+      {
+        "id": "2026-11-08-Kimi-K31-Pro-Highspeed-now-available-on-Amazon-Bed",
+        "title": "Amazon Bedrock で Moonshot AI の Kimi K3.1 Pro が利用可能に",
+        "date": "2026-11-08",
+        "year": 2026,
+        "month": 11,
+        "day": 8,
+        "path": "2026/11/08/Kimi-K31-Pro-Highspeed-now-available-on-Amazon-Bed",
+        "summary": "Amazon Bedrock で Moonshot AI の Kimi K3.1 Pro が利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/08/Kimi-K31-Pro-Highspeed-now-available-on-Amazon-Bed/thumbnail.png"
+      },
       {
         "id": "2026-11-06-AWS-Lambda-durable-functions-increases-default-exe",
         "title": "AWS Lambda durable functions のデフォルト実行・APIクォータが引き上げ",
