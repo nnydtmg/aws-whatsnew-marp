@@ -2,6 +2,72 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-11-10-AWS-Sign-In-now-supports-OAuth-20-Token-Exchange",
+        "title": "AWS Sign-InがOAuth 2.0 Token Exchangeをサポート",
+        "date": "2026-11-10",
+        "year": 2026,
+        "month": 11,
+        "day": 10,
+        "path": "2026/11/10/AWS-Sign-In-now-supports-OAuth-20-Token-Exchange",
+        "summary": "AWS Sign InがOAuth 2.0 Token Exchangeをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/10/AWS-Sign-In-now-supports-OAuth-20-Token-Exchange/thumbnail.png"
+      },
+      {
+        "id": "2026-11-10-Amazon-Bedrock-AgentCore-now-offers-a-Web-Search-A",
+        "title": "Amazon Bedrock AgentCore が Web Search API の一般提供を開始",
+        "date": "2026-11-10",
+        "year": 2026,
+        "month": 11,
+        "day": 10,
+        "path": "2026/11/10/Amazon-Bedrock-AgentCore-now-offers-a-Web-Search-A",
+        "summary": "Amazon Bedrock AgentCore が Web Search API の一般提供を開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/10/Amazon-Bedrock-AgentCore-now-offers-a-Web-Search-A/thumbnail.png"
+      },
+      {
+        "id": "2026-11-10-Amazon-CloudWatch-Logs-announces-account-level-ret",
+        "title": "Amazon CloudWatch Logsがアカウントレベル保持ポリシーを発表",
+        "date": "2026-11-10",
+        "year": 2026,
+        "month": 11,
+        "day": 10,
+        "path": "2026/11/10/Amazon-CloudWatch-Logs-announces-account-level-ret",
+        "summary": "Amazon CloudWatch Logsがアカウントレベル保持ポリシーを発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/10/Amazon-CloudWatch-Logs-announces-account-level-ret/thumbnail.png"
+      },
+      {
+        "id": "2026-11-10-Amazon-MWAA-now-supports-DuckDB-operators",
+        "title": "Amazon MWAAがDuckDBオペレーターのネイティブサポートを開始",
+        "date": "2026-11-10",
+        "year": 2026,
+        "month": 11,
+        "day": 10,
+        "path": "2026/11/10/Amazon-MWAA-now-supports-DuckDB-operators",
+        "summary": "Amazon MWAAがDuckDBオペレーターのネイティブサポートを開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/10/Amazon-MWAA-now-supports-DuckDB-operators/thumbnail.png"
+      },
+      {
+        "id": "2026-11-10-Amazon-Quick-is-now-AWS-Quick",
+        "title": "Amazon QuickがAWS Quickへ名称変更、既存設定・料金は据え置き",
+        "date": "2026-11-10",
+        "year": 2026,
+        "month": 11,
+        "day": 10,
+        "path": "2026/11/10/Amazon-Quick-is-now-AWS-Quick",
+        "summary": "Amazon QuickがAWS Quickへ名称変更、既存設定・料金は据え置き",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/10/Amazon-Quick-is-now-AWS-Quick/thumbnail.png"
+      },
+      {
+        "id": "2026-11-10-Amazon-Route-53-Profiles-now-supports-multiple-Pro",
+        "title": "Amazon Route 53 ProfilesがVPCあたり複数プロファイルの関連付けをサポート",
+        "date": "2026-11-10",
+        "year": 2026,
+        "month": 11,
+        "day": 10,
+        "path": "2026/11/10/Amazon-Route-53-Profiles-now-supports-multiple-Pro",
+        "summary": "Amazon Route 53 ProfilesがVPCあたり複数プロファイルの関連付けをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/10/Amazon-Route-53-Profiles-now-supports-multiple-Pro/thumbnail.png"
+      },
+      {
         "id": "2026-11-09-AWS-STS-now-supports-cross-partition-federation-fo",
         "title": "AWS STSがクロスパーティションフェデレーションに対応",
         "date": "2026-11-09",
@@ -8153,8 +8219,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-11-10T08:02:32.518Z",
-    "totalCount": 741
+    "updatedAt": "2026-11-10T16:08:48.470Z",
+    "totalCount": 747
   },
   "metadata:months": [
     "2026/11",
@@ -8172,6 +8238,72 @@
     "year": 2026,
     "month": 11,
     "articles": [
+      {
+        "id": "2026-11-10-AWS-Sign-In-now-supports-OAuth-20-Token-Exchange",
+        "title": "AWS Sign-InがOAuth 2.0 Token Exchangeをサポート",
+        "date": "2026-11-10",
+        "year": 2026,
+        "month": 11,
+        "day": 10,
+        "path": "2026/11/10/AWS-Sign-In-now-supports-OAuth-20-Token-Exchange",
+        "summary": "AWS Sign InがOAuth 2.0 Token Exchangeをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/10/AWS-Sign-In-now-supports-OAuth-20-Token-Exchange/thumbnail.png"
+      },
+      {
+        "id": "2026-11-10-Amazon-Bedrock-AgentCore-now-offers-a-Web-Search-A",
+        "title": "Amazon Bedrock AgentCore が Web Search API の一般提供を開始",
+        "date": "2026-11-10",
+        "year": 2026,
+        "month": 11,
+        "day": 10,
+        "path": "2026/11/10/Amazon-Bedrock-AgentCore-now-offers-a-Web-Search-A",
+        "summary": "Amazon Bedrock AgentCore が Web Search API の一般提供を開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/10/Amazon-Bedrock-AgentCore-now-offers-a-Web-Search-A/thumbnail.png"
+      },
+      {
+        "id": "2026-11-10-Amazon-CloudWatch-Logs-announces-account-level-ret",
+        "title": "Amazon CloudWatch Logsがアカウントレベル保持ポリシーを発表",
+        "date": "2026-11-10",
+        "year": 2026,
+        "month": 11,
+        "day": 10,
+        "path": "2026/11/10/Amazon-CloudWatch-Logs-announces-account-level-ret",
+        "summary": "Amazon CloudWatch Logsがアカウントレベル保持ポリシーを発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/10/Amazon-CloudWatch-Logs-announces-account-level-ret/thumbnail.png"
+      },
+      {
+        "id": "2026-11-10-Amazon-MWAA-now-supports-DuckDB-operators",
+        "title": "Amazon MWAAがDuckDBオペレーターのネイティブサポートを開始",
+        "date": "2026-11-10",
+        "year": 2026,
+        "month": 11,
+        "day": 10,
+        "path": "2026/11/10/Amazon-MWAA-now-supports-DuckDB-operators",
+        "summary": "Amazon MWAAがDuckDBオペレーターのネイティブサポートを開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/10/Amazon-MWAA-now-supports-DuckDB-operators/thumbnail.png"
+      },
+      {
+        "id": "2026-11-10-Amazon-Quick-is-now-AWS-Quick",
+        "title": "Amazon QuickがAWS Quickへ名称変更、既存設定・料金は据え置き",
+        "date": "2026-11-10",
+        "year": 2026,
+        "month": 11,
+        "day": 10,
+        "path": "2026/11/10/Amazon-Quick-is-now-AWS-Quick",
+        "summary": "Amazon QuickがAWS Quickへ名称変更、既存設定・料金は据え置き",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/10/Amazon-Quick-is-now-AWS-Quick/thumbnail.png"
+      },
+      {
+        "id": "2026-11-10-Amazon-Route-53-Profiles-now-supports-multiple-Pro",
+        "title": "Amazon Route 53 ProfilesがVPCあたり複数プロファイルの関連付けをサポート",
+        "date": "2026-11-10",
+        "year": 2026,
+        "month": 11,
+        "day": 10,
+        "path": "2026/11/10/Amazon-Route-53-Profiles-now-supports-multiple-Pro",
+        "summary": "Amazon Route 53 ProfilesがVPCあたり複数プロファイルの関連付けをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/10/Amazon-Route-53-Profiles-now-supports-multiple-Pro/thumbnail.png"
+      },
       {
         "id": "2026-11-09-AWS-STS-now-supports-cross-partition-federation-fo",
         "title": "AWS STSがクロスパーティションフェデレーションに対応",
@@ -8481,7 +8613,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/02/Amazon-RDS-for-Oracle-no-longer-requires-automatic/thumbnail.png"
       }
     ],
-    "totalPages": 3
+    "totalPages": 4
   },
   "metadata:2026/10": {
     "year": 2026,
