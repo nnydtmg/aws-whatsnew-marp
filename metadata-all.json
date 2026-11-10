@@ -2,6 +2,50 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-11-09-AWS-STS-now-supports-cross-partition-federation-fo",
+        "title": "AWS STSがクロスパーティションフェデレーションに対応",
+        "date": "2026-11-09",
+        "year": 2026,
+        "month": 11,
+        "day": 9,
+        "path": "2026/11/09/AWS-STS-now-supports-cross-partition-federation-fo",
+        "summary": "AWS STSがクロスパーティションフェデレーションに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/09/AWS-STS-now-supports-cross-partition-federation-fo/thumbnail.png"
+      },
+      {
+        "id": "2026-11-09-Amazon-Athena-introduces-system-tables-for-observa",
+        "title": "Amazon Athenaがオブザーバビリティ・監柄・利用分析向けシステムテーブルを発表",
+        "date": "2026-11-09",
+        "year": 2026,
+        "month": 11,
+        "day": 9,
+        "path": "2026/11/09/Amazon-Athena-introduces-system-tables-for-observa",
+        "summary": "Amazon Athenaがオブザーバビリティ・監柄・利用分析向けシステムテーブルを発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/09/Amazon-Athena-introduces-system-tables-for-observa/thumbnail.png"
+      },
+      {
+        "id": "2026-11-09-Amazon-EKS-Auto-Mode-and-Karpenter-now-support-Dyn",
+        "title": "Amazon EKS Auto ModeとKarpenterがDRAをサポート",
+        "date": "2026-11-09",
+        "year": 2026,
+        "month": 11,
+        "day": 9,
+        "path": "2026/11/09/Amazon-EKS-Auto-Mode-and-Karpenter-now-support-Dyn",
+        "summary": "Amazon EKS Auto ModeとKarpenterがDRAをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/09/Amazon-EKS-Auto-Mode-and-Karpenter-now-support-Dyn/thumbnail.png"
+      },
+      {
+        "id": "2026-11-09-Claude-Fable-52-is-now-available-on-AWS",
+        "title": "Claude Fable 5.2 が Amazon Bedrock と Claude Platform で利用可能に",
+        "date": "2026-11-09",
+        "year": 2026,
+        "month": 11,
+        "day": 9,
+        "path": "2026/11/09/Claude-Fable-52-is-now-available-on-AWS",
+        "summary": "Claude Fable 5.2 が Amazon Bedrock と Claude Platform で利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/09/Claude-Fable-52-is-now-available-on-AWS/thumbnail.png"
+      },
+      {
         "id": "2026-11-08-AWS-Elemental-MediaConvert-adds-a-native-integrati",
         "title": "AWS Elemental MediaConvertがSmart Subtitlesとのネイティブ統合を発表",
         "date": "2026-11-08",
@@ -8109,8 +8153,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-11-09T17:56:31.548Z",
-    "totalCount": 737
+    "updatedAt": "2026-11-10T00:59:31.119Z",
+    "totalCount": 741
   },
   "metadata:months": [
     "2026/11",
@@ -8128,6 +8172,50 @@
     "year": 2026,
     "month": 11,
     "articles": [
+      {
+        "id": "2026-11-09-AWS-STS-now-supports-cross-partition-federation-fo",
+        "title": "AWS STSがクロスパーティションフェデレーションに対応",
+        "date": "2026-11-09",
+        "year": 2026,
+        "month": 11,
+        "day": 9,
+        "path": "2026/11/09/AWS-STS-now-supports-cross-partition-federation-fo",
+        "summary": "AWS STSがクロスパーティションフェデレーションに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/09/AWS-STS-now-supports-cross-partition-federation-fo/thumbnail.png"
+      },
+      {
+        "id": "2026-11-09-Amazon-Athena-introduces-system-tables-for-observa",
+        "title": "Amazon Athenaがオブザーバビリティ・監柄・利用分析向けシステムテーブルを発表",
+        "date": "2026-11-09",
+        "year": 2026,
+        "month": 11,
+        "day": 9,
+        "path": "2026/11/09/Amazon-Athena-introduces-system-tables-for-observa",
+        "summary": "Amazon Athenaがオブザーバビリティ・監柄・利用分析向けシステムテーブルを発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/09/Amazon-Athena-introduces-system-tables-for-observa/thumbnail.png"
+      },
+      {
+        "id": "2026-11-09-Amazon-EKS-Auto-Mode-and-Karpenter-now-support-Dyn",
+        "title": "Amazon EKS Auto ModeとKarpenterがDRAをサポート",
+        "date": "2026-11-09",
+        "year": 2026,
+        "month": 11,
+        "day": 9,
+        "path": "2026/11/09/Amazon-EKS-Auto-Mode-and-Karpenter-now-support-Dyn",
+        "summary": "Amazon EKS Auto ModeとKarpenterがDRAをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/09/Amazon-EKS-Auto-Mode-and-Karpenter-now-support-Dyn/thumbnail.png"
+      },
+      {
+        "id": "2026-11-09-Claude-Fable-52-is-now-available-on-AWS",
+        "title": "Claude Fable 5.2 が Amazon Bedrock と Claude Platform で利用可能に",
+        "date": "2026-11-09",
+        "year": 2026,
+        "month": 11,
+        "day": 9,
+        "path": "2026/11/09/Claude-Fable-52-is-now-available-on-AWS",
+        "summary": "Claude Fable 5.2 が Amazon Bedrock と Claude Platform で利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/09/Claude-Fable-52-is-now-available-on-AWS/thumbnail.png"
+      },
       {
         "id": "2026-11-08-AWS-Elemental-MediaConvert-adds-a-native-integrati",
         "title": "AWS Elemental MediaConvertがSmart Subtitlesとのネイティブ統合を発表",
