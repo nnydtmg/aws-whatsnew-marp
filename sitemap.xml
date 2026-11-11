@@ -6,13 +6,49 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-11-AWS-Cloud-WAN-now-supports-Flow-Logs</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-11-AWS-Emulator-is-now-available-for-building-and-tes</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-11-AWS-Lambda-MicroVMs-now-supports-the-x86-CPU-archi</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-11-AWS-Network-Firewall-launches-next-generation-fire</loc>
     <lastmod>2026-11-11</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-11-Amazon-Bedrock-adds-bedrock-runtime-endpoint-suppo</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-11-Amazon-EKS-Auto-Mode-now-supports-security-groups</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-11-Amazon-S3-Tables-now-support-S3-server-access-logg</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-11-Amazon-SES-now-supports-higher-limits-for-email-id</loc>
     <lastmod>2026-11-11</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>

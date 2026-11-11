@@ -2,6 +2,39 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-11-11-AWS-Cloud-WAN-now-supports-Flow-Logs",
+        "title": "AWS Cloud WANがFlow Logsに対応、グローバルネットワークのIPトラフィックを一元可視化",
+        "date": "2026-11-11",
+        "year": 2026,
+        "month": 11,
+        "day": 11,
+        "path": "2026/11/11/AWS-Cloud-WAN-now-supports-Flow-Logs",
+        "summary": "AWS Cloud WANがFlow Logsに対応、グローバルネットワークのIPトラフィックを一元可視化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/11/AWS-Cloud-WAN-now-supports-Flow-Logs/thumbnail.png"
+      },
+      {
+        "id": "2026-11-11-AWS-Emulator-is-now-available-for-building-and-tes",
+        "title": "AWS Emulatorが利用可能に - アカウント不要でローカル構築・テスト",
+        "date": "2026-11-11",
+        "year": 2026,
+        "month": 11,
+        "day": 11,
+        "path": "2026/11/11/AWS-Emulator-is-now-available-for-building-and-tes",
+        "summary": "AWS Emulatorが利用可能に アカウント不要でローカル構築・テスト",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/11/AWS-Emulator-is-now-available-for-building-and-tes/thumbnail.png"
+      },
+      {
+        "id": "2026-11-11-AWS-Lambda-MicroVMs-now-supports-the-x86-CPU-archi",
+        "title": "AWS Lambda MicroVMs が x86 CPU アーキテクチャのサポートを開始",
+        "date": "2026-11-11",
+        "year": 2026,
+        "month": 11,
+        "day": 11,
+        "path": "2026/11/11/AWS-Lambda-MicroVMs-now-supports-the-x86-CPU-archi",
+        "summary": "AWS Lambda MicroVMs が x86 CPU アーキテクチャのサポートを開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/11/AWS-Lambda-MicroVMs-now-supports-the-x86-CPU-archi/thumbnail.png"
+      },
+      {
         "id": "2026-11-11-AWS-Network-Firewall-launches-next-generation-fire",
         "title": "AWS Network Firewall が次世代ファイアウォールポリシーを発表",
         "date": "2026-11-11",
@@ -13,6 +46,28 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/11/AWS-Network-Firewall-launches-next-generation-fire/thumbnail.png"
       },
       {
+        "id": "2026-11-11-Amazon-Bedrock-adds-bedrock-runtime-endpoint-suppo",
+        "title": "Amazon Bedrockのbedrock-runtimeでOpenAI Daybreakが利用可能に",
+        "date": "2026-11-11",
+        "year": 2026,
+        "month": 11,
+        "day": 11,
+        "path": "2026/11/11/Amazon-Bedrock-adds-bedrock-runtime-endpoint-suppo",
+        "summary": "Amazon Bedrockのbedrock runtimeでOpenAI Daybreakが利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/11/Amazon-Bedrock-adds-bedrock-runtime-endpoint-suppo/thumbnail.png"
+      },
+      {
+        "id": "2026-11-11-Amazon-EKS-Auto-Mode-now-supports-security-groups",
+        "title": "Amazon EKS Auto ModeがPod向けセキュリティグループをサポート",
+        "date": "2026-11-11",
+        "year": 2026,
+        "month": 11,
+        "day": 11,
+        "path": "2026/11/11/Amazon-EKS-Auto-Mode-now-supports-security-groups",
+        "summary": "Amazon EKS Auto ModeがPod向けセキュリティグループをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/11/Amazon-EKS-Auto-Mode-now-supports-security-groups/thumbnail.png"
+      },
+      {
         "id": "2026-11-11-Amazon-S3-Tables-now-support-S3-server-access-logg",
         "title": "Amazon S3 Tables がサーバーアクセスログをサポート",
         "date": "2026-11-11",
@@ -22,6 +77,17 @@
         "path": "2026/11/11/Amazon-S3-Tables-now-support-S3-server-access-logg",
         "summary": "Amazon S3 Tables がサーバーアクセスログをサポート",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/11/Amazon-S3-Tables-now-support-S3-server-access-logg/thumbnail.png"
+      },
+      {
+        "id": "2026-11-11-Amazon-SES-now-supports-higher-limits-for-email-id",
+        "title": "Amazon SESがメールID・テナント・設定セットの上限を引き上げ",
+        "date": "2026-11-11",
+        "year": 2026,
+        "month": 11,
+        "day": 11,
+        "path": "2026/11/11/Amazon-SES-now-supports-higher-limits-for-email-id",
+        "summary": "Amazon SESがメールID・テナント・設定セットの上限を引き上げ",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/11/Amazon-SES-now-supports-higher-limits-for-email-id/thumbnail.png"
       },
       {
         "id": "2026-11-10-AWS-Sign-In-now-supports-OAuth-20-Token-Exchange",
@@ -8252,8 +8318,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-11-11T17:40:22.433Z",
-    "totalCount": 750
+    "updatedAt": "2026-11-11T23:49:16.248Z",
+    "totalCount": 756
   },
   "metadata:months": [
     "2026/11",
@@ -8272,6 +8338,39 @@
     "month": 11,
     "articles": [
       {
+        "id": "2026-11-11-AWS-Cloud-WAN-now-supports-Flow-Logs",
+        "title": "AWS Cloud WANがFlow Logsに対応、グローバルネットワークのIPトラフィックを一元可視化",
+        "date": "2026-11-11",
+        "year": 2026,
+        "month": 11,
+        "day": 11,
+        "path": "2026/11/11/AWS-Cloud-WAN-now-supports-Flow-Logs",
+        "summary": "AWS Cloud WANがFlow Logsに対応、グローバルネットワークのIPトラフィックを一元可視化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/11/AWS-Cloud-WAN-now-supports-Flow-Logs/thumbnail.png"
+      },
+      {
+        "id": "2026-11-11-AWS-Emulator-is-now-available-for-building-and-tes",
+        "title": "AWS Emulatorが利用可能に - アカウント不要でローカル構築・テスト",
+        "date": "2026-11-11",
+        "year": 2026,
+        "month": 11,
+        "day": 11,
+        "path": "2026/11/11/AWS-Emulator-is-now-available-for-building-and-tes",
+        "summary": "AWS Emulatorが利用可能に アカウント不要でローカル構築・テスト",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/11/AWS-Emulator-is-now-available-for-building-and-tes/thumbnail.png"
+      },
+      {
+        "id": "2026-11-11-AWS-Lambda-MicroVMs-now-supports-the-x86-CPU-archi",
+        "title": "AWS Lambda MicroVMs が x86 CPU アーキテクチャのサポートを開始",
+        "date": "2026-11-11",
+        "year": 2026,
+        "month": 11,
+        "day": 11,
+        "path": "2026/11/11/AWS-Lambda-MicroVMs-now-supports-the-x86-CPU-archi",
+        "summary": "AWS Lambda MicroVMs が x86 CPU アーキテクチャのサポートを開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/11/AWS-Lambda-MicroVMs-now-supports-the-x86-CPU-archi/thumbnail.png"
+      },
+      {
         "id": "2026-11-11-AWS-Network-Firewall-launches-next-generation-fire",
         "title": "AWS Network Firewall が次世代ファイアウォールポリシーを発表",
         "date": "2026-11-11",
@@ -8283,6 +8382,28 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/11/AWS-Network-Firewall-launches-next-generation-fire/thumbnail.png"
       },
       {
+        "id": "2026-11-11-Amazon-Bedrock-adds-bedrock-runtime-endpoint-suppo",
+        "title": "Amazon Bedrockのbedrock-runtimeでOpenAI Daybreakが利用可能に",
+        "date": "2026-11-11",
+        "year": 2026,
+        "month": 11,
+        "day": 11,
+        "path": "2026/11/11/Amazon-Bedrock-adds-bedrock-runtime-endpoint-suppo",
+        "summary": "Amazon Bedrockのbedrock runtimeでOpenAI Daybreakが利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/11/Amazon-Bedrock-adds-bedrock-runtime-endpoint-suppo/thumbnail.png"
+      },
+      {
+        "id": "2026-11-11-Amazon-EKS-Auto-Mode-now-supports-security-groups",
+        "title": "Amazon EKS Auto ModeがPod向けセキュリティグループをサポート",
+        "date": "2026-11-11",
+        "year": 2026,
+        "month": 11,
+        "day": 11,
+        "path": "2026/11/11/Amazon-EKS-Auto-Mode-now-supports-security-groups",
+        "summary": "Amazon EKS Auto ModeがPod向けセキュリティグループをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/11/Amazon-EKS-Auto-Mode-now-supports-security-groups/thumbnail.png"
+      },
+      {
         "id": "2026-11-11-Amazon-S3-Tables-now-support-S3-server-access-logg",
         "title": "Amazon S3 Tables がサーバーアクセスログをサポート",
         "date": "2026-11-11",
@@ -8292,6 +8413,17 @@
         "path": "2026/11/11/Amazon-S3-Tables-now-support-S3-server-access-logg",
         "summary": "Amazon S3 Tables がサーバーアクセスログをサポート",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/11/Amazon-S3-Tables-now-support-S3-server-access-logg/thumbnail.png"
+      },
+      {
+        "id": "2026-11-11-Amazon-SES-now-supports-higher-limits-for-email-id",
+        "title": "Amazon SESがメールID・テナント・設定セットの上限を引き上げ",
+        "date": "2026-11-11",
+        "year": 2026,
+        "month": 11,
+        "day": 11,
+        "path": "2026/11/11/Amazon-SES-now-supports-higher-limits-for-email-id",
+        "summary": "Amazon SESがメールID・テナント・設定セットの上限を引き上げ",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/11/Amazon-SES-now-supports-higher-limits-for-email-id/thumbnail.png"
       },
       {
         "id": "2026-11-10-AWS-Sign-In-now-supports-OAuth-20-Token-Exchange",
@@ -8679,7 +8811,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/02/Amazon-RDS-for-Oracle-no-longer-requires-automatic/thumbnail.png"
       }
     ],
-    "totalPages": 4
+    "totalPages": 5
   },
   "metadata:2026/10": {
     "year": 2026,
