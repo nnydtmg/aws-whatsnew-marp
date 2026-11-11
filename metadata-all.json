@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-11-11-AWS-Network-Firewall-launches-next-generation-fire",
+        "title": "AWS Network Firewall が次世代ファイアウォールポリシーを発表",
+        "date": "2026-11-11",
+        "year": 2026,
+        "month": 11,
+        "day": 11,
+        "path": "2026/11/11/AWS-Network-Firewall-launches-next-generation-fire",
+        "summary": "AWS Network Firewall が次世代ファイアウォールポリシーを発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/11/AWS-Network-Firewall-launches-next-generation-fire/thumbnail.png"
+      },
+      {
+        "id": "2026-11-11-Amazon-S3-Tables-now-support-S3-server-access-logg",
+        "title": "Amazon S3 Tables がサーバーアクセスログをサポート",
+        "date": "2026-11-11",
+        "year": 2026,
+        "month": 11,
+        "day": 11,
+        "path": "2026/11/11/Amazon-S3-Tables-now-support-S3-server-access-logg",
+        "summary": "Amazon S3 Tables がサーバーアクセスログをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/11/Amazon-S3-Tables-now-support-S3-server-access-logg/thumbnail.png"
+      },
+      {
         "id": "2026-11-10-AWS-Sign-In-now-supports-OAuth-20-Token-Exchange",
         "title": "AWS Sign-InがOAuth 2.0 Token Exchangeをサポート",
         "date": "2026-11-10",
@@ -33,6 +55,17 @@
         "path": "2026/11/10/Amazon-CloudWatch-Logs-announces-account-level-ret",
         "summary": "Amazon CloudWatch Logsがアカウントレベル保持ポリシーを発表",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/10/Amazon-CloudWatch-Logs-announces-account-level-ret/thumbnail.png"
+      },
+      {
+        "id": "2026-11-10-Amazon-ElastiCache-Serverless-now-supports-vector",
+        "title": "Amazon ElastiCache Serverlessがベクトル・全文・ハイブリッド検索と集計をサポート",
+        "date": "2026-11-10",
+        "year": 2026,
+        "month": 11,
+        "day": 10,
+        "path": "2026/11/10/Amazon-ElastiCache-Serverless-now-supports-vector",
+        "summary": "Amazon ElastiCache Serverlessがベクトル・全文・ハイブリッド検索と集計をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/10/Amazon-ElastiCache-Serverless-now-supports-vector/thumbnail.png"
       },
       {
         "id": "2026-11-10-Amazon-MWAA-now-supports-DuckDB-operators",
@@ -8219,8 +8252,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-11-10T22:00:57.981Z",
-    "totalCount": 747
+    "updatedAt": "2026-11-11T02:21:23.113Z",
+    "totalCount": 750
   },
   "metadata:months": [
     "2026/11",
@@ -8238,6 +8271,28 @@
     "year": 2026,
     "month": 11,
     "articles": [
+      {
+        "id": "2026-11-11-AWS-Network-Firewall-launches-next-generation-fire",
+        "title": "AWS Network Firewall が次世代ファイアウォールポリシーを発表",
+        "date": "2026-11-11",
+        "year": 2026,
+        "month": 11,
+        "day": 11,
+        "path": "2026/11/11/AWS-Network-Firewall-launches-next-generation-fire",
+        "summary": "AWS Network Firewall が次世代ファイアウォールポリシーを発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/11/AWS-Network-Firewall-launches-next-generation-fire/thumbnail.png"
+      },
+      {
+        "id": "2026-11-11-Amazon-S3-Tables-now-support-S3-server-access-logg",
+        "title": "Amazon S3 Tables がサーバーアクセスログをサポート",
+        "date": "2026-11-11",
+        "year": 2026,
+        "month": 11,
+        "day": 11,
+        "path": "2026/11/11/Amazon-S3-Tables-now-support-S3-server-access-logg",
+        "summary": "Amazon S3 Tables がサーバーアクセスログをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/11/Amazon-S3-Tables-now-support-S3-server-access-logg/thumbnail.png"
+      },
       {
         "id": "2026-11-10-AWS-Sign-In-now-supports-OAuth-20-Token-Exchange",
         "title": "AWS Sign-InがOAuth 2.0 Token Exchangeをサポート",
@@ -8270,6 +8325,17 @@
         "path": "2026/11/10/Amazon-CloudWatch-Logs-announces-account-level-ret",
         "summary": "Amazon CloudWatch Logsがアカウントレベル保持ポリシーを発表",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/10/Amazon-CloudWatch-Logs-announces-account-level-ret/thumbnail.png"
+      },
+      {
+        "id": "2026-11-10-Amazon-ElastiCache-Serverless-now-supports-vector",
+        "title": "Amazon ElastiCache Serverlessがベクトル・全文・ハイブリッド検索と集計をサポート",
+        "date": "2026-11-10",
+        "year": 2026,
+        "month": 11,
+        "day": 10,
+        "path": "2026/11/10/Amazon-ElastiCache-Serverless-now-supports-vector",
+        "summary": "Amazon ElastiCache Serverlessがベクトル・全文・ハイブリッド検索と集計をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/10/Amazon-ElastiCache-Serverless-now-supports-vector/thumbnail.png"
       },
       {
         "id": "2026-11-10-Amazon-MWAA-now-supports-DuckDB-operators",

@@ -6,6 +6,18 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-11-AWS-Network-Firewall-launches-next-generation-fire</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-11-Amazon-S3-Tables-now-support-S3-server-access-logg</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-10-AWS-Sign-In-now-supports-OAuth-20-Token-Exchange</loc>
     <lastmod>2026-11-10</lastmod>
     <changefreq>never</changefreq>
@@ -19,6 +31,12 @@
   </url>
   <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-10-Amazon-CloudWatch-Logs-announces-account-level-ret</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-10-Amazon-ElastiCache-Serverless-now-supports-vector</loc>
     <lastmod>2026-11-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
