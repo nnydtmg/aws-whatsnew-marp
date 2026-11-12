@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-11-12-Amazon-Cognito-now-supports-user-pool-session-mana",
+        "title": "Amazon Cognitoがユーザープールのセッション管理をサポート",
+        "date": "2026-11-12",
+        "year": 2026,
+        "month": 11,
+        "day": 12,
+        "path": "2026/11/12/Amazon-Cognito-now-supports-user-pool-session-mana",
+        "summary": "Amazon Cognitoがユーザープールのセッション管理をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/12/Amazon-Cognito-now-supports-user-pool-session-mana/thumbnail.png"
+      },
+      {
+        "id": "2026-11-12-DeepSeek-V4-Pro-DeepSeek-V4-Flash-and-DeepSeek-V41",
+        "title": "DeepSeek-V4-Pro、V4-Flash、V4.1-FlashがAmazon SageMaker JumpStartで利用可能に",
+        "date": "2026-11-12",
+        "year": 2026,
+        "month": 11,
+        "day": 12,
+        "path": "2026/11/12/DeepSeek-V4-Pro-DeepSeek-V4-Flash-and-DeepSeek-V41",
+        "summary": "DeepSeek V4 Pro、V4 Flash、V4.1 FlashがAmazon SageMaker JumpStartで利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/12/DeepSeek-V4-Pro-DeepSeek-V4-Flash-and-DeepSeek-V41/thumbnail.png"
+      },
+      {
         "id": "2026-11-11-AWS-Cloud-WAN-now-supports-Flow-Logs",
         "title": "AWS Cloud WANがFlow Logsに対応、グローバルネットワークのIPトラフィックを一元可視化",
         "date": "2026-11-11",
@@ -8318,8 +8340,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-11-11T23:49:16.248Z",
-    "totalCount": 756
+    "updatedAt": "2026-11-12T04:45:57.952Z",
+    "totalCount": 758
   },
   "metadata:months": [
     "2026/11",
@@ -8337,6 +8359,28 @@
     "year": 2026,
     "month": 11,
     "articles": [
+      {
+        "id": "2026-11-12-Amazon-Cognito-now-supports-user-pool-session-mana",
+        "title": "Amazon Cognitoがユーザープールのセッション管理をサポート",
+        "date": "2026-11-12",
+        "year": 2026,
+        "month": 11,
+        "day": 12,
+        "path": "2026/11/12/Amazon-Cognito-now-supports-user-pool-session-mana",
+        "summary": "Amazon Cognitoがユーザープールのセッション管理をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/12/Amazon-Cognito-now-supports-user-pool-session-mana/thumbnail.png"
+      },
+      {
+        "id": "2026-11-12-DeepSeek-V4-Pro-DeepSeek-V4-Flash-and-DeepSeek-V41",
+        "title": "DeepSeek-V4-Pro、V4-Flash、V4.1-FlashがAmazon SageMaker JumpStartで利用可能に",
+        "date": "2026-11-12",
+        "year": 2026,
+        "month": 11,
+        "day": 12,
+        "path": "2026/11/12/DeepSeek-V4-Pro-DeepSeek-V4-Flash-and-DeepSeek-V41",
+        "summary": "DeepSeek V4 Pro、V4 Flash、V4.1 FlashがAmazon SageMaker JumpStartで利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/12/DeepSeek-V4-Pro-DeepSeek-V4-Flash-and-DeepSeek-V41/thumbnail.png"
+      },
       {
         "id": "2026-11-11-AWS-Cloud-WAN-now-supports-Flow-Logs",
         "title": "AWS Cloud WANがFlow Logsに対応、グローバルネットワークのIPトラフィックを一元可視化",
