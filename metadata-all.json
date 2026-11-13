@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-11-13-Amazon-Cognito-now-supports-OAuth-20-token-exchang",
+        "title": "Amazon CognitoがOAuth 2.0トークン交換をサポート",
+        "date": "2026-11-13",
+        "year": 2026,
+        "month": 11,
+        "day": 13,
+        "path": "2026/11/13/Amazon-Cognito-now-supports-OAuth-20-token-exchang",
+        "summary": "Amazon CognitoがOAuth 2.0トークン交換をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/13/Amazon-Cognito-now-supports-OAuth-20-token-exchang/thumbnail.png"
+      },
+      {
         "id": "2026-11-12-AWS-Cloud-WAN-now-supports-BGP-communities-on-Dire",
         "title": "AWS Cloud WANがDirect ConnectでBGPコミュニティをサポート",
         "date": "2026-11-12",
@@ -8406,8 +8417,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-11-13T02:16:31.574Z",
-    "totalCount": 764
+    "updatedAt": "2026-11-13T10:16:11.402Z",
+    "totalCount": 765
   },
   "metadata:months": [
     "2026/11",
@@ -8425,6 +8436,17 @@
     "year": 2026,
     "month": 11,
     "articles": [
+      {
+        "id": "2026-11-13-Amazon-Cognito-now-supports-OAuth-20-token-exchang",
+        "title": "Amazon CognitoがOAuth 2.0トークン交換をサポート",
+        "date": "2026-11-13",
+        "year": 2026,
+        "month": 11,
+        "day": 13,
+        "path": "2026/11/13/Amazon-Cognito-now-supports-OAuth-20-token-exchang",
+        "summary": "Amazon CognitoがOAuth 2.0トークン交換をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/13/Amazon-Cognito-now-supports-OAuth-20-token-exchang/thumbnail.png"
+      },
       {
         "id": "2026-11-12-AWS-Cloud-WAN-now-supports-BGP-communities-on-Dire",
         "title": "AWS Cloud WANがDirect ConnectでBGPコミュニティをサポート",
