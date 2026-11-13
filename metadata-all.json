@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-11-12-AWS-Cloud-WAN-now-supports-BGP-communities-on-Dire",
+        "title": "AWS Cloud WANがDirect ConnectでBGPコミュニティをサポート",
+        "date": "2026-11-12",
+        "year": 2026,
+        "month": 11,
+        "day": 12,
+        "path": "2026/11/12/AWS-Cloud-WAN-now-supports-BGP-communities-on-Dire",
+        "summary": "AWS Cloud WANがDirect ConnectでBGPコミュニティをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/12/AWS-Cloud-WAN-now-supports-BGP-communities-on-Dire/thumbnail.png"
+      },
+      {
+        "id": "2026-11-12-AWS-Quick-enhances-granular-governance-with-the-ab",
+        "title": "AWS Quickが構造化データソースの制限機能を発表、きめ細かなガバナンスを強化",
+        "date": "2026-11-12",
+        "year": 2026,
+        "month": 11,
+        "day": 12,
+        "path": "2026/11/12/AWS-Quick-enhances-granular-governance-with-the-ab",
+        "summary": "AWS Quickが構造化データソースの制限機能を発表、きめ細かなガバナンスを強化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/12/AWS-Quick-enhances-granular-governance-with-the-ab/thumbnail.png"
+      },
+      {
         "id": "2026-11-12-Amazon-Cognito-now-supports-user-pool-session-mana",
         "title": "Amazon Cognitoがユーザープールのセッション管理をサポート",
         "date": "2026-11-12",
@@ -13,6 +35,28 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/12/Amazon-Cognito-now-supports-user-pool-session-mana/thumbnail.png"
       },
       {
+        "id": "2026-11-12-Amazon-MWAA-Serverless-supports-DuckDB-operators",
+        "title": "Amazon MWAA ServerlessがDuckDBオペレーターをサポート",
+        "date": "2026-11-12",
+        "year": 2026,
+        "month": 11,
+        "day": 12,
+        "path": "2026/11/12/Amazon-MWAA-Serverless-supports-DuckDB-operators",
+        "summary": "Amazon MWAA ServerlessがDuckDBオペレーターをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/12/Amazon-MWAA-Serverless-supports-DuckDB-operators/thumbnail.png"
+      },
+      {
+        "id": "2026-11-12-Amazon-Route-53-Domains-now-supports-self-service",
+        "title": "Amazon Route 53 Domainsが期限切れ・削除ドメインのセルフサービス復元に対応",
+        "date": "2026-11-12",
+        "year": 2026,
+        "month": 11,
+        "day": 12,
+        "path": "2026/11/12/Amazon-Route-53-Domains-now-supports-self-service",
+        "summary": "Amazon Route 53 Domainsが期限切れ・削除ドメインのセルフサービス復元に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/12/Amazon-Route-53-Domains-now-supports-self-service/thumbnail.png"
+      },
+      {
         "id": "2026-11-12-DeepSeek-V4-Pro-DeepSeek-V4-Flash-and-DeepSeek-V41",
         "title": "DeepSeek-V4-Pro、V4-Flash、V4.1-FlashがAmazon SageMaker JumpStartで利用可能に",
         "date": "2026-11-12",
@@ -22,6 +66,28 @@
         "path": "2026/11/12/DeepSeek-V4-Pro-DeepSeek-V4-Flash-and-DeepSeek-V41",
         "summary": "DeepSeek V4 Pro、V4 Flash、V4.1 FlashがAmazon SageMaker JumpStartで利用可能に",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/12/DeepSeek-V4-Pro-DeepSeek-V4-Flash-and-DeepSeek-V41/thumbnail.png"
+      },
+      {
+        "id": "2026-11-12-EC2-Image-Builder-console-now-integrates-with-the",
+        "title": "EC2 Image BuilderがDevOps Agentと統合し障害診断とリソース作成に対応",
+        "date": "2026-11-12",
+        "year": 2026,
+        "month": 11,
+        "day": 12,
+        "path": "2026/11/12/EC2-Image-Builder-console-now-integrates-with-the",
+        "summary": "EC2 Image BuilderがDevOps Agentと統合し障害診断とリソース作成に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/12/EC2-Image-Builder-console-now-integrates-with-the/thumbnail.png"
+      },
+      {
+        "id": "2026-11-12-The-next-generation-AgentCore-runtime-is-now-the-d",
+        "title": "Amazon Bedrock AgentCoreの次世代ランタイムがデフォルトに",
+        "date": "2026-11-12",
+        "year": 2026,
+        "month": 11,
+        "day": 12,
+        "path": "2026/11/12/The-next-generation-AgentCore-runtime-is-now-the-d",
+        "summary": "Amazon Bedrock AgentCoreの次世代ランタイムがデフォルトに",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/12/The-next-generation-AgentCore-runtime-is-now-the-d/thumbnail.png"
       },
       {
         "id": "2026-11-11-AWS-Cloud-WAN-now-supports-Flow-Logs",
@@ -8340,8 +8406,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-11-12T21:13:48.485Z",
-    "totalCount": 758
+    "updatedAt": "2026-11-13T02:16:31.574Z",
+    "totalCount": 764
   },
   "metadata:months": [
     "2026/11",
@@ -8360,6 +8426,28 @@
     "month": 11,
     "articles": [
       {
+        "id": "2026-11-12-AWS-Cloud-WAN-now-supports-BGP-communities-on-Dire",
+        "title": "AWS Cloud WANがDirect ConnectでBGPコミュニティをサポート",
+        "date": "2026-11-12",
+        "year": 2026,
+        "month": 11,
+        "day": 12,
+        "path": "2026/11/12/AWS-Cloud-WAN-now-supports-BGP-communities-on-Dire",
+        "summary": "AWS Cloud WANがDirect ConnectでBGPコミュニティをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/12/AWS-Cloud-WAN-now-supports-BGP-communities-on-Dire/thumbnail.png"
+      },
+      {
+        "id": "2026-11-12-AWS-Quick-enhances-granular-governance-with-the-ab",
+        "title": "AWS Quickが構造化データソースの制限機能を発表、きめ細かなガバナンスを強化",
+        "date": "2026-11-12",
+        "year": 2026,
+        "month": 11,
+        "day": 12,
+        "path": "2026/11/12/AWS-Quick-enhances-granular-governance-with-the-ab",
+        "summary": "AWS Quickが構造化データソースの制限機能を発表、きめ細かなガバナンスを強化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/12/AWS-Quick-enhances-granular-governance-with-the-ab/thumbnail.png"
+      },
+      {
         "id": "2026-11-12-Amazon-Cognito-now-supports-user-pool-session-mana",
         "title": "Amazon Cognitoがユーザープールのセッション管理をサポート",
         "date": "2026-11-12",
@@ -8371,6 +8459,28 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/12/Amazon-Cognito-now-supports-user-pool-session-mana/thumbnail.png"
       },
       {
+        "id": "2026-11-12-Amazon-MWAA-Serverless-supports-DuckDB-operators",
+        "title": "Amazon MWAA ServerlessがDuckDBオペレーターをサポート",
+        "date": "2026-11-12",
+        "year": 2026,
+        "month": 11,
+        "day": 12,
+        "path": "2026/11/12/Amazon-MWAA-Serverless-supports-DuckDB-operators",
+        "summary": "Amazon MWAA ServerlessがDuckDBオペレーターをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/12/Amazon-MWAA-Serverless-supports-DuckDB-operators/thumbnail.png"
+      },
+      {
+        "id": "2026-11-12-Amazon-Route-53-Domains-now-supports-self-service",
+        "title": "Amazon Route 53 Domainsが期限切れ・削除ドメインのセルフサービス復元に対応",
+        "date": "2026-11-12",
+        "year": 2026,
+        "month": 11,
+        "day": 12,
+        "path": "2026/11/12/Amazon-Route-53-Domains-now-supports-self-service",
+        "summary": "Amazon Route 53 Domainsが期限切れ・削除ドメインのセルフサービス復元に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/12/Amazon-Route-53-Domains-now-supports-self-service/thumbnail.png"
+      },
+      {
         "id": "2026-11-12-DeepSeek-V4-Pro-DeepSeek-V4-Flash-and-DeepSeek-V41",
         "title": "DeepSeek-V4-Pro、V4-Flash、V4.1-FlashがAmazon SageMaker JumpStartで利用可能に",
         "date": "2026-11-12",
@@ -8380,6 +8490,28 @@
         "path": "2026/11/12/DeepSeek-V4-Pro-DeepSeek-V4-Flash-and-DeepSeek-V41",
         "summary": "DeepSeek V4 Pro、V4 Flash、V4.1 FlashがAmazon SageMaker JumpStartで利用可能に",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/12/DeepSeek-V4-Pro-DeepSeek-V4-Flash-and-DeepSeek-V41/thumbnail.png"
+      },
+      {
+        "id": "2026-11-12-EC2-Image-Builder-console-now-integrates-with-the",
+        "title": "EC2 Image BuilderがDevOps Agentと統合し障害診断とリソース作成に対応",
+        "date": "2026-11-12",
+        "year": 2026,
+        "month": 11,
+        "day": 12,
+        "path": "2026/11/12/EC2-Image-Builder-console-now-integrates-with-the",
+        "summary": "EC2 Image BuilderがDevOps Agentと統合し障害診断とリソース作成に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/12/EC2-Image-Builder-console-now-integrates-with-the/thumbnail.png"
+      },
+      {
+        "id": "2026-11-12-The-next-generation-AgentCore-runtime-is-now-the-d",
+        "title": "Amazon Bedrock AgentCoreの次世代ランタイムがデフォルトに",
+        "date": "2026-11-12",
+        "year": 2026,
+        "month": 11,
+        "day": 12,
+        "path": "2026/11/12/The-next-generation-AgentCore-runtime-is-now-the-d",
+        "summary": "Amazon Bedrock AgentCoreの次世代ランタイムがデフォルトに",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/12/The-next-generation-AgentCore-runtime-is-now-the-d/thumbnail.png"
       },
       {
         "id": "2026-11-11-AWS-Cloud-WAN-now-supports-Flow-Logs",
@@ -8855,7 +8987,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/02/Amazon-RDS-for-Oracle-no-longer-requires-automatic/thumbnail.png"
       }
     ],
-    "totalPages": 5
+    "totalPages": 6
   },
   "metadata:2026/10": {
     "year": 2026,
