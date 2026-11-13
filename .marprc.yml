@@ -1,0 +1,12 @@
+# Marp CLI 設定（ワークフロー / npm scripts 共通）
+#
+# slide.md は LLM エージェントが生成するため、生 HTML を全面許可（--html）せず、
+# 既存スライドが実際に使っているタグ・属性だけを allowlist で許可する。
+# 調査時点（765 枚）で使われていた生 HTML は <div> / <div class="..."> のみ
+# （columns / columns-2 / columns-3 の段組み）。<br> は Marp Core の既定 allowlist に含まれるため残す。
+# ここに無いタグ（<script>, <iframe>, <img>, <a> など）や属性（on*=, style= など）はエスケープされる。
+html:
+  div:
+    - class
+  br: []
+theme: ./themes/aws-whatsnew.css
