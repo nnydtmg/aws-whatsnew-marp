@@ -1,8 +1,10 @@
 {
-"scripts": {
-    "build:html": "marp --html --allow-local-files --theme ./themes/aws-whatsnew.css --input-dir . --output ."
-},
-"devDependencies": {
-    "@marp-team/marp-cli": "^3.4.0"
-}
+  "private": true,
+  "scripts": {
+    "build:html": "marp --config-file ./.marprc.yml --input-dir . --output ."
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "4.5.1",
+    "wrangler": "4.152.0"
+  }
 }

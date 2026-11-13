@@ -2,24 +2,30 @@ name: Generate HTML and Update Metadata
 
 on:
   schedule:
-    # 毎日 9:00 に実行
+    # 毎時 0 分（UTC）に実行
     - cron: '0 * * * *'
   workflow_dispatch: # 手動実行を許可
 
+# 生成物を push するため contents: write のみ付与する（Issues / PR は操作しない）
 permissions:
-  contents: write     # リポジトリ内容: read/write/none (pushするためwriteが必要)
-  issues: write       # Issues: read/write/none
-  pull-requests: write # PR: read/write/none
+  contents: write
+
+# 毎時実行が重なって push が競合しないよう直列化する
+concurrency:
+  group: marp-to-html-and-sync
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      # Actions はタグではなくコミット SHA で固定（更新は Dependabot）
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6.1.0
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@249970729cb0ef3589644e2896645e5dc5ba9c38 # v6.5.0
         with:
           node-version: '20'
+          cache: npm
 
       # 日本語フォントをインストール（Marp/Puppeteer によるPNGレンダリングに必要）
       - name: Install Japanese fonts
@@ -28,9 +34,10 @@ jobs:
           sudo apt-get install -y fonts-noto-cjk
           fc-cache -fv
 
-      # Marp CLIでHTMLを生成
-      - name: Install Marp CLI
-        run: npm install -g @marp-team/marp-cli
+      # Marp CLI / Wrangler は package.json + package-lock.json でバージョン固定
+      # （install スクリプトは実行しない。Chrome はランナー同梱のものを使う）
+      - name: Install dependencies
+        run: npm ci --ignore-scripts
 
       - name: Generate slide.html from slide.md
         run: |
@@ -42,13 +49,13 @@ jobs:
           failed_files=""
 
           echo "Processing slide.md files without HTML..."
-          mapfile -d '' files < <(find . -type f -name "slide.md" -print0)
+          mapfile -d '' files < <(find . -path ./node_modules -prune -o -type f -name "slide.md" -print0)
           for file in "${files[@]}"; do
             dir=$(dirname "$file")
             html_file="$dir/slide.html"
             if [ ! -f "$html_file" ]; then
               echo "  ✓ Converting $file..."
-              if marp --html --allow-local-files --theme ./themes/aws-whatsnew.css "$file" -o "$html_file" < /dev/null; then
+              if npx --no-install marp --config-file ./.marprc.yml -o "$html_file" -- "$file" < /dev/null; then
                 converted_count=$((converted_count + 1))
                 converted_files="${converted_files}\n  - ${file}"
               else
@@ -101,7 +108,7 @@ jobs:
           newly_generated_list="/tmp/new_thumbnails.txt"
           : > "$newly_generated_list"
 
-          mapfile -d '' files < <(find . -type f -name "slide.md" -print0)
+          mapfile -d '' files < <(find . -path ./node_modules -prune -o -type f -name "slide.md" -print0)
           for file in "${files[@]}"; do
             dir=$(dirname "$file")
             summary_md="$dir/summary.md"
@@ -124,7 +131,7 @@ jobs:
                 fi
               fi
               echo "Generating thumbnail for $file..."
-              if marp --image png --allow-local-files --theme ./themes/aws-whatsnew.css "$file" -o "$dir/thumbnail.png" < /dev/null; then
+              if npx --no-install marp --config-file ./.marprc.yml --image png -o "$dir/thumbnail.png" -- "$file" < /dev/null; then
                 if [ "$is_regenerate" = "true" ]; then
                   regenerated_count=$((regenerated_count + 1))
                   regenerated_files="${regenerated_files}\n  - ${file}"
@@ -191,37 +198,35 @@ jobs:
           echo "Generated sitemap.xml ($(grep -c '<url>' sitemap.xml) URLs)"
 
       # Wrangler CLIでKVを更新
+      # secrets は run スクリプトへ式展開で直接埋め込まず env 経由で渡す（シェル解釈・ログ混入を避ける）
       - name: Update Workers KV
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          KV_NAMESPACE_ID: ${{ secrets.KV_NAMESPACE_ID }}
         run: |
-          npm install -g wrangler
+          set -euo pipefail
 
-          # metadata:index を更新
-          cat metadata-all.json | jq '."metadata:index"' | \
-            wrangler kv key put "metadata:index" \
-              --namespace-id=${{ secrets.KV_NAMESPACE_ID }} \
-              --remote \
-              --path=/dev/stdin
-
-          # metadata:months を更新
-          cat metadata-all.json | jq '."metadata:months"' | \
-            wrangler kv key put "metadata:months" \
-              --namespace-id=${{ secrets.KV_NAMESPACE_ID }} \
-              --remote \
-              --path=/dev/stdin
-
-          # 各月のメタデータを更新
-          cat metadata-all.json | jq -r 'keys[] | select(startswith("metadata:") and (. != "metadata:index") and (. != "metadata:months"))' | while read key; do
-            echo "Updating $key..."
-            cat metadata-all.json | jq ".\"$key\"" | \
-              wrangler kv key put "$key" \
-                --namespace-id=${{ secrets.KV_NAMESPACE_ID }} \
+          put_kv() {
+            # $1: KV キー（metadata-all.json のキー名をそのまま使う）
+            jq --arg k "$1" '.[$k]' metadata-all.json | \
+              npx --no-install wrangler kv key put "$1" \
+                --namespace-id="$KV_NAMESPACE_ID" \
                 --remote \
                 --path=/dev/stdin
-          done
-      
+          }
+
+          # metadata:index / metadata:months を更新
+          put_kv "metadata:index"
+          put_kv "metadata:months"
+
+          # 各月のメタデータを更新
+          jq -r 'keys[] | select(startswith("metadata:") and (. != "metadata:index") and (. != "metadata:months"))' metadata-all.json | \
+            while IFS= read -r key; do
+              echo "Updating $key..."
+              put_kv "$key"
+            done
+
       # 生成したサムネイルをR2にアップロード
       - name: Upload thumbnails to R2
         env:
@@ -235,12 +240,12 @@ jobs:
             exit 0
           fi
 
-          while read file; do
+          while IFS= read -r file; do
             [ -z "$file" ] && continue
             # 例: 2026/02/06/Topic/thumbnail.png
             key=${file#./}
             echo "Uploading $file to R2 as $key..."
-            wrangler r2 object put "$R2_BUCKET/$key" --remote --file "$file"
+            npx --no-install wrangler r2 object put "$R2_BUCKET/$key" --remote --file "$file"
           done < "$newly_generated_list"
 
       # HTMLファイルをコミット
