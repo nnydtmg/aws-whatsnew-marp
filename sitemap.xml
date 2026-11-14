@@ -6,6 +6,54 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-14-AWS-Batch-on-Amazon-EKS-adds-Linux-capabilities-se</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-14-AWS-Secrets-Manager-now-supports-cross-account-rep</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-14-AWS-Security-Hub-CSPM-now-supports-centralized-con</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-14-AWS-Systems-Manager-simplifies-onboarding-of-Googl</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-14-Amazon-Bedrock-AgentCore-Identity-now-supports-OAu</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-14-Amazon-Route-53-now-supports-record-set-protection</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-14-Announcing-Accelerated-Compute-Insights-for-Amazon</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-14-Aurora-PostgreSQL-with-express-configuration-now-s</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-13-Amazon-Cognito-now-supports-OAuth-20-token-exchang</loc>
     <lastmod>2026-11-13</lastmod>
     <changefreq>never</changefreq>

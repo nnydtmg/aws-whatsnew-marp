@@ -2,6 +2,94 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-11-14-AWS-Batch-on-Amazon-EKS-adds-Linux-capabilities-se",
+        "title": "AWS Batch on Amazon EKSがLinux capabilitiesとseccompをサポート",
+        "date": "2026-11-14",
+        "year": 2026,
+        "month": 11,
+        "day": 14,
+        "path": "2026/11/14/AWS-Batch-on-Amazon-EKS-adds-Linux-capabilities-se",
+        "summary": "AWS Batch on Amazon EKSがLinux capabilitiesとseccompをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/14/AWS-Batch-on-Amazon-EKS-adds-Linux-capabilities-se/thumbnail.png"
+      },
+      {
+        "id": "2026-11-14-AWS-Secrets-Manager-now-supports-cross-account-rep",
+        "title": "AWS Secrets Managerがクロスアカウントレプリケーションをサポート",
+        "date": "2026-11-14",
+        "year": 2026,
+        "month": 11,
+        "day": 14,
+        "path": "2026/11/14/AWS-Secrets-Manager-now-supports-cross-account-rep",
+        "summary": "AWS Secrets Managerがクロスアカウントレプリケーションをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/14/AWS-Secrets-Manager-now-supports-cross-account-rep/thumbnail.png"
+      },
+      {
+        "id": "2026-11-14-AWS-Security-Hub-CSPM-now-supports-centralized-con",
+        "title": "AWS Security Hub CSPMがAWS Organizationsの宣言型ポリシーによる一元設定をサポート",
+        "date": "2026-11-14",
+        "year": 2026,
+        "month": 11,
+        "day": 14,
+        "path": "2026/11/14/AWS-Security-Hub-CSPM-now-supports-centralized-con",
+        "summary": "AWS Security Hub CSPMがAWS Organizationsの宣言型ポリシーによる一元設定をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/14/AWS-Security-Hub-CSPM-now-supports-centralized-con/thumbnail.png"
+      },
+      {
+        "id": "2026-11-14-AWS-Systems-Manager-simplifies-onboarding-of-Googl",
+        "title": "AWS Systems ManagerがGoogle Cloud VMのオンボーディングを簡素化",
+        "date": "2026-11-14",
+        "year": 2026,
+        "month": 11,
+        "day": 14,
+        "path": "2026/11/14/AWS-Systems-Manager-simplifies-onboarding-of-Googl",
+        "summary": "AWS Systems ManagerがGoogle Cloud VMのオンボーディングを簡素化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/14/AWS-Systems-Manager-simplifies-onboarding-of-Googl/thumbnail.png"
+      },
+      {
+        "id": "2026-11-14-Amazon-Bedrock-AgentCore-Identity-now-supports-OAu",
+        "title": "Amazon Bedrock AgentCore IdentityがOAuth 2.0ディスカバリーURLに対応",
+        "date": "2026-11-14",
+        "year": 2026,
+        "month": 11,
+        "day": 14,
+        "path": "2026/11/14/Amazon-Bedrock-AgentCore-Identity-now-supports-OAu",
+        "summary": "Amazon Bedrock AgentCore IdentityがOAuth 2.0ディスカバリーURLに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/14/Amazon-Bedrock-AgentCore-Identity-now-supports-OAu/thumbnail.png"
+      },
+      {
+        "id": "2026-11-14-Amazon-Route-53-now-supports-record-set-protection",
+        "title": "Amazon Route 53 がレコードセット保護をサポート",
+        "date": "2026-11-14",
+        "year": 2026,
+        "month": 11,
+        "day": 14,
+        "path": "2026/11/14/Amazon-Route-53-now-supports-record-set-protection",
+        "summary": "Amazon Route 53 がレコードセット保護をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/14/Amazon-Route-53-now-supports-record-set-protection/thumbnail.png"
+      },
+      {
+        "id": "2026-11-14-Announcing-Accelerated-Compute-Insights-for-Amazon",
+        "title": "Amazon CloudWatch で Accelerated Compute Insights が利用可能に",
+        "date": "2026-11-14",
+        "year": 2026,
+        "month": 11,
+        "day": 14,
+        "path": "2026/11/14/Announcing-Accelerated-Compute-Insights-for-Amazon",
+        "summary": "Amazon CloudWatch で Accelerated Compute Insights が利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/14/Announcing-Accelerated-Compute-Insights-for-Amazon/thumbnail.png"
+      },
+      {
+        "id": "2026-11-14-Aurora-PostgreSQL-with-express-configuration-now-s",
+        "title": "Aurora PostgreSQLのエクスプレス設定がCloudFormationで利用可能に",
+        "date": "2026-11-14",
+        "year": 2026,
+        "month": 11,
+        "day": 14,
+        "path": "2026/11/14/Aurora-PostgreSQL-with-express-configuration-now-s",
+        "summary": "Aurora PostgreSQLのエクスプレス設定がCloudFormationで利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/14/Aurora-PostgreSQL-with-express-configuration-now-s/thumbnail.png"
+      },
+      {
         "id": "2026-11-13-Amazon-Cognito-now-supports-OAuth-20-token-exchang",
         "title": "Amazon CognitoがOAuth 2.0トークン交換をサポート",
         "date": "2026-11-13",
@@ -8417,8 +8505,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-11-14T00:00:40.279Z",
-    "totalCount": 765
+    "updatedAt": "2026-11-14T05:28:06.259Z",
+    "totalCount": 773
   },
   "metadata:months": [
     "2026/11",
@@ -8436,6 +8524,94 @@
     "year": 2026,
     "month": 11,
     "articles": [
+      {
+        "id": "2026-11-14-AWS-Batch-on-Amazon-EKS-adds-Linux-capabilities-se",
+        "title": "AWS Batch on Amazon EKSがLinux capabilitiesとseccompをサポート",
+        "date": "2026-11-14",
+        "year": 2026,
+        "month": 11,
+        "day": 14,
+        "path": "2026/11/14/AWS-Batch-on-Amazon-EKS-adds-Linux-capabilities-se",
+        "summary": "AWS Batch on Amazon EKSがLinux capabilitiesとseccompをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/14/AWS-Batch-on-Amazon-EKS-adds-Linux-capabilities-se/thumbnail.png"
+      },
+      {
+        "id": "2026-11-14-AWS-Secrets-Manager-now-supports-cross-account-rep",
+        "title": "AWS Secrets Managerがクロスアカウントレプリケーションをサポート",
+        "date": "2026-11-14",
+        "year": 2026,
+        "month": 11,
+        "day": 14,
+        "path": "2026/11/14/AWS-Secrets-Manager-now-supports-cross-account-rep",
+        "summary": "AWS Secrets Managerがクロスアカウントレプリケーションをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/14/AWS-Secrets-Manager-now-supports-cross-account-rep/thumbnail.png"
+      },
+      {
+        "id": "2026-11-14-AWS-Security-Hub-CSPM-now-supports-centralized-con",
+        "title": "AWS Security Hub CSPMがAWS Organizationsの宣言型ポリシーによる一元設定をサポート",
+        "date": "2026-11-14",
+        "year": 2026,
+        "month": 11,
+        "day": 14,
+        "path": "2026/11/14/AWS-Security-Hub-CSPM-now-supports-centralized-con",
+        "summary": "AWS Security Hub CSPMがAWS Organizationsの宣言型ポリシーによる一元設定をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/14/AWS-Security-Hub-CSPM-now-supports-centralized-con/thumbnail.png"
+      },
+      {
+        "id": "2026-11-14-AWS-Systems-Manager-simplifies-onboarding-of-Googl",
+        "title": "AWS Systems ManagerがGoogle Cloud VMのオンボーディングを簡素化",
+        "date": "2026-11-14",
+        "year": 2026,
+        "month": 11,
+        "day": 14,
+        "path": "2026/11/14/AWS-Systems-Manager-simplifies-onboarding-of-Googl",
+        "summary": "AWS Systems ManagerがGoogle Cloud VMのオンボーディングを簡素化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/14/AWS-Systems-Manager-simplifies-onboarding-of-Googl/thumbnail.png"
+      },
+      {
+        "id": "2026-11-14-Amazon-Bedrock-AgentCore-Identity-now-supports-OAu",
+        "title": "Amazon Bedrock AgentCore IdentityがOAuth 2.0ディスカバリーURLに対応",
+        "date": "2026-11-14",
+        "year": 2026,
+        "month": 11,
+        "day": 14,
+        "path": "2026/11/14/Amazon-Bedrock-AgentCore-Identity-now-supports-OAu",
+        "summary": "Amazon Bedrock AgentCore IdentityがOAuth 2.0ディスカバリーURLに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/14/Amazon-Bedrock-AgentCore-Identity-now-supports-OAu/thumbnail.png"
+      },
+      {
+        "id": "2026-11-14-Amazon-Route-53-now-supports-record-set-protection",
+        "title": "Amazon Route 53 がレコードセット保護をサポート",
+        "date": "2026-11-14",
+        "year": 2026,
+        "month": 11,
+        "day": 14,
+        "path": "2026/11/14/Amazon-Route-53-now-supports-record-set-protection",
+        "summary": "Amazon Route 53 がレコードセット保護をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/14/Amazon-Route-53-now-supports-record-set-protection/thumbnail.png"
+      },
+      {
+        "id": "2026-11-14-Announcing-Accelerated-Compute-Insights-for-Amazon",
+        "title": "Amazon CloudWatch で Accelerated Compute Insights が利用可能に",
+        "date": "2026-11-14",
+        "year": 2026,
+        "month": 11,
+        "day": 14,
+        "path": "2026/11/14/Announcing-Accelerated-Compute-Insights-for-Amazon",
+        "summary": "Amazon CloudWatch で Accelerated Compute Insights が利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/14/Announcing-Accelerated-Compute-Insights-for-Amazon/thumbnail.png"
+      },
+      {
+        "id": "2026-11-14-Aurora-PostgreSQL-with-express-configuration-now-s",
+        "title": "Aurora PostgreSQLのエクスプレス設定がCloudFormationで利用可能に",
+        "date": "2026-11-14",
+        "year": 2026,
+        "month": 11,
+        "day": 14,
+        "path": "2026/11/14/Aurora-PostgreSQL-with-express-configuration-now-s",
+        "summary": "Aurora PostgreSQLのエクスプレス設定がCloudFormationで利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/14/Aurora-PostgreSQL-with-express-configuration-now-s/thumbnail.png"
+      },
       {
         "id": "2026-11-13-Amazon-Cognito-now-supports-OAuth-20-token-exchang",
         "title": "Amazon CognitoがOAuth 2.0トークン交換をサポート",
