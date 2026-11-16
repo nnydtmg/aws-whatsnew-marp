@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-11-15-Apache-Airflow-UI-available-in-Amazon-MWAA-Serverl",
+        "title": "Amazon MWAA ServerlessでApache Airflow UIが利用可能に",
+        "date": "2026-11-15",
+        "year": 2026,
+        "month": 11,
+        "day": 15,
+        "path": "2026/11/15/Apache-Airflow-UI-available-in-Amazon-MWAA-Serverl",
+        "summary": "Amazon MWAA ServerlessでApache Airflow UIが利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/15/Apache-Airflow-UI-available-in-Amazon-MWAA-Serverl/thumbnail.png"
+      },
+      {
         "id": "2026-11-14-AWS-Batch-on-Amazon-EKS-adds-Linux-capabilities-se",
         "title": "AWS Batch on Amazon EKSがLinux capabilitiesとseccompをサポート",
         "date": "2026-11-14",
@@ -8505,8 +8516,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-11-15T22:15:06.801Z",
-    "totalCount": 773
+    "updatedAt": "2026-11-16T02:28:36.784Z",
+    "totalCount": 774
   },
   "metadata:months": [
     "2026/11",
@@ -8524,6 +8535,17 @@
     "year": 2026,
     "month": 11,
     "articles": [
+      {
+        "id": "2026-11-15-Apache-Airflow-UI-available-in-Amazon-MWAA-Serverl",
+        "title": "Amazon MWAA ServerlessでApache Airflow UIが利用可能に",
+        "date": "2026-11-15",
+        "year": 2026,
+        "month": 11,
+        "day": 15,
+        "path": "2026/11/15/Apache-Airflow-UI-available-in-Amazon-MWAA-Serverl",
+        "summary": "Amazon MWAA ServerlessでApache Airflow UIが利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/15/Apache-Airflow-UI-available-in-Amazon-MWAA-Serverl/thumbnail.png"
+      },
       {
         "id": "2026-11-14-AWS-Batch-on-Amazon-EKS-adds-Linux-capabilities-se",
         "title": "AWS Batch on Amazon EKSがLinux capabilitiesとseccompをサポート",
@@ -9185,7 +9207,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/02/Amazon-RDS-for-Oracle-no-longer-requires-automatic/thumbnail.png"
       }
     ],
-    "totalPages": 6
+    "totalPages": 7
   },
   "metadata:2026/10": {
     "year": 2026,
