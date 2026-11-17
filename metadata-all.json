@@ -2,6 +2,39 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-11-17-AWS-announces-Networking-Flexible-Cost-Allocation",
+        "title": "Amazon VPC で Networking Flexible Cost Allocation が利用可能に",
+        "date": "2026-11-17",
+        "year": 2026,
+        "month": 11,
+        "day": 17,
+        "path": "2026/11/17/AWS-announces-Networking-Flexible-Cost-Allocation",
+        "summary": "Amazon VPC で Networking Flexible Cost Allocation が利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/17/AWS-announces-Networking-Flexible-Cost-Allocation/thumbnail.png"
+      },
+      {
+        "id": "2026-11-17-Amazon-ECR-now-replicates-image-deletions-across-r",
+        "title": "Amazon ECR がリージョン・アカウント間でイメージ削除のレプリケーションをサポート",
+        "date": "2026-11-17",
+        "year": 2026,
+        "month": 11,
+        "day": 17,
+        "path": "2026/11/17/Amazon-ECR-now-replicates-image-deletions-across-r",
+        "summary": "Amazon ECR がリージョン・アカウント間でイメージ削除のレプリケーションをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/17/Amazon-ECR-now-replicates-image-deletions-across-r/thumbnail.png"
+      },
+      {
+        "id": "2026-11-17-IAM-Identity-Center-now-supports-VPC-endpoints-and",
+        "title": "IAM Identity CenterがVPCエンドポイントとネットワークアクセス制御に対応",
+        "date": "2026-11-17",
+        "year": 2026,
+        "month": 11,
+        "day": 17,
+        "path": "2026/11/17/IAM-Identity-Center-now-supports-VPC-endpoints-and",
+        "summary": "IAM Identity CenterがVPCエンドポイントとネットワークアクセス制御に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/17/IAM-Identity-Center-now-supports-VPC-endpoints-and/thumbnail.png"
+      },
+      {
         "id": "2026-11-15-Apache-Airflow-UI-available-in-Amazon-MWAA-Serverl",
         "title": "Amazon MWAA ServerlessでApache Airflow UIが利用可能に",
         "date": "2026-11-15",
@@ -8516,8 +8549,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-11-17T03:17:41.369Z",
-    "totalCount": 774
+    "updatedAt": "2026-11-17T12:37:10.288Z",
+    "totalCount": 777
   },
   "metadata:months": [
     "2026/11",
@@ -8535,6 +8568,39 @@
     "year": 2026,
     "month": 11,
     "articles": [
+      {
+        "id": "2026-11-17-AWS-announces-Networking-Flexible-Cost-Allocation",
+        "title": "Amazon VPC で Networking Flexible Cost Allocation が利用可能に",
+        "date": "2026-11-17",
+        "year": 2026,
+        "month": 11,
+        "day": 17,
+        "path": "2026/11/17/AWS-announces-Networking-Flexible-Cost-Allocation",
+        "summary": "Amazon VPC で Networking Flexible Cost Allocation が利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/17/AWS-announces-Networking-Flexible-Cost-Allocation/thumbnail.png"
+      },
+      {
+        "id": "2026-11-17-Amazon-ECR-now-replicates-image-deletions-across-r",
+        "title": "Amazon ECR がリージョン・アカウント間でイメージ削除のレプリケーションをサポート",
+        "date": "2026-11-17",
+        "year": 2026,
+        "month": 11,
+        "day": 17,
+        "path": "2026/11/17/Amazon-ECR-now-replicates-image-deletions-across-r",
+        "summary": "Amazon ECR がリージョン・アカウント間でイメージ削除のレプリケーションをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/17/Amazon-ECR-now-replicates-image-deletions-across-r/thumbnail.png"
+      },
+      {
+        "id": "2026-11-17-IAM-Identity-Center-now-supports-VPC-endpoints-and",
+        "title": "IAM Identity CenterがVPCエンドポイントとネットワークアクセス制御に対応",
+        "date": "2026-11-17",
+        "year": 2026,
+        "month": 11,
+        "day": 17,
+        "path": "2026/11/17/IAM-Identity-Center-now-supports-VPC-endpoints-and",
+        "summary": "IAM Identity CenterがVPCエンドポイントとネットワークアクセス制御に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/17/IAM-Identity-Center-now-supports-VPC-endpoints-and/thumbnail.png"
+      },
       {
         "id": "2026-11-15-Apache-Airflow-UI-available-in-Amazon-MWAA-Serverl",
         "title": "Amazon MWAA ServerlessでApache Airflow UIが利用可能に",

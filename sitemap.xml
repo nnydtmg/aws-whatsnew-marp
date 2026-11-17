@@ -6,6 +6,24 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-17-AWS-announces-Networking-Flexible-Cost-Allocation</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-17-Amazon-ECR-now-replicates-image-deletions-across-r</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-17-IAM-Identity-Center-now-supports-VPC-endpoints-and</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-15-Apache-Airflow-UI-available-in-Amazon-MWAA-Serverl</loc>
     <lastmod>2026-11-15</lastmod>
     <changefreq>never</changefreq>
