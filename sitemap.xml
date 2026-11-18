@@ -6,7 +6,91 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-17-AWS-Config-announces-managed-conformance-packs</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-17-AWS-IAM-announces-Access-Troubleshooter-to-debug-a</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-17-AWS-Network-Firewall-now-supports-context-aware-ru</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-17-AWS-Security-Hub-extends-unified-security-manageme</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-17-AWS-Security-Hub-now-detects-when-vulnerable-softw</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-17-AWS-Security-Hub-now-infers-resource-criticality-f</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-17-AWS-Split-Cost-Allocation-Data-now-supports-Amazon</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-17-AWS-Transit-Gateway-now-shares-resource-context-wi</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-17-AWS-announces-Networking-Flexible-Cost-Allocation</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-17-AWS-announces-consistent-sharing-controls-for-cred</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-17-AWS-launches-credit-splitting-and-transfers</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-17-Amazon-API-Gateway-REST-APIs-now-support-JWT-autho</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-17-Amazon-Bedrock-AgentCore-Memory-now-provides-full</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-17-Amazon-Bedrock-AgentCore-Memory-now-supports-short</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-17-Amazon-Bedrock-AgentCore-now-offers-free-monthly-w</loc>
     <lastmod>2026-11-17</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
@@ -18,7 +102,19 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-17-Amazon-VPC-AWS-Transit-Gateway-and-AWS-Cloud-WAN-n</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-17-IAM-Identity-Center-now-supports-VPC-endpoints-and</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-17-OpenAI-GPT-62-Astra-and-GPT-62-Sol-are-now-general</loc>
     <lastmod>2026-11-17</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
