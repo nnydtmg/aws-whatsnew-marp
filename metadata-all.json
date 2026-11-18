@@ -2,6 +2,149 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-11-18-AWS-Elemental-MediaConnect-expands-routing-control",
+        "title": "AWS Elemental MediaConnectがRTMP対応とルーティング制御を拡充",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/AWS-Elemental-MediaConnect-expands-routing-control",
+        "summary": "AWS Elemental MediaConnectがRTMP対応とルーティング制御を拡充",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/AWS-Elemental-MediaConnect-expands-routing-control/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-AWS-Lambda-durable-functions-now-supports-pausing",
+        "title": "AWS Lambda durable functionsが実行の一時停止と削除をサポート",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/AWS-Lambda-durable-functions-now-supports-pausing",
+        "summary": "AWS Lambda durable functionsが実行の一時停止と削除をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/AWS-Lambda-durable-functions-now-supports-pausing/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-AWS-Lambda-now-supports-scale-to-and-from-zero-for",
+        "title": "AWS Lambda Managed Instances がゼロへのスケールをサポート",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/AWS-Lambda-now-supports-scale-to-and-from-zero-for",
+        "summary": "AWS Lambda Managed Instances がゼロへのスケールをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/AWS-Lambda-now-supports-scale-to-and-from-zero-for/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-AWS-Transform-now-accelerates-migration-deals-for",
+        "title": "AWS TransformがMAP案件の資格認定からインセンティブ支払いまでを一気通貫で加速",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/AWS-Transform-now-accelerates-migration-deals-for",
+        "summary": "AWS TransformがMAP案件の資格認定からインセンティブ支払いまでを一気通貫で加速",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/AWS-Transform-now-accelerates-migration-deals-for/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-AWS-Transit-Gateway-supports-native-integration-wi",
+        "title": "AWS Transit GatewayがGateway Load Balancerとのネイティブ統合をサポート",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/AWS-Transit-Gateway-supports-native-integration-wi",
+        "summary": "AWS Transit GatewayがGateway Load Balancerとのネイティブ統合をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/AWS-Transit-Gateway-supports-native-integration-wi/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-AWS-WAF-announces-simplified-onboarding-for-Bot-Co",
+        "title": "AWS WAF が Bot Control のターゲット保護向け簡素化オンボーディングを発表",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/AWS-WAF-announces-simplified-onboarding-for-Bot-Co",
+        "summary": "AWS WAF が Bot Control のターゲット保護向け簡素化オンボーディングを発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/AWS-WAF-announces-simplified-onboarding-for-Bot-Co/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-Amazon-DynamoDB-caching-is-now-available-with-Amaz",
+        "title": "Amazon DynamoDB のキャッシングが ElastiCache Serverless for Valkey で利用可能に",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/Amazon-DynamoDB-caching-is-now-available-with-Amaz",
+        "summary": "Amazon DynamoDB のキャッシングが ElastiCache Serverless for Valkey で利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/Amazon-DynamoDB-caching-is-now-available-with-Amaz/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-Amazon-ECR-now-supports-global-authentication-toke",
+        "title": "Amazon ECRがプライベートレジストリ向けグローバル認証トークンをサポート",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/Amazon-ECR-now-supports-global-authentication-toke",
+        "summary": "Amazon ECRがプライベートレジストリ向けグローバル認証トークンをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/Amazon-ECR-now-supports-global-authentication-toke/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-Amazon-Kinesis-Data-Streams-announces-queues-to-si",
+        "title": "Amazon Kinesis Data Streamsがキュー機能を発表、リアルタイム処理を簡素化",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/Amazon-Kinesis-Data-Streams-announces-queues-to-si",
+        "summary": "Amazon Kinesis Data Streamsがキュー機能を発表、リアルタイム処理を簡素化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/Amazon-Kinesis-Data-Streams-announces-queues-to-si/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-Amazon-Route-53-Global-Resolver-is-now-available-o",
+        "title": "Amazon Route 53 Global Resolver が AWS Cloud WAN 経由でハイブリッドネットワーク向けに利用可能に",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/Amazon-Route-53-Global-Resolver-is-now-available-o",
+        "summary": "Amazon Route 53 Global Resolver が AWS Cloud WAN 経由でハイブリッドネットワーク向けに利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/Amazon-Route-53-Global-Resolver-is-now-available-o/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-Amazon-Route-53-Resolver-DNS-Firewall-now-supports",
+        "title": "Amazon Route 53 Resolver DNS Firewallが許可リストの自動生成をサポート",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/Amazon-Route-53-Resolver-DNS-Firewall-now-supports",
+        "summary": "Amazon Route 53 Resolver DNS Firewallが許可リストの自動生成をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/Amazon-Route-53-Resolver-DNS-Firewall-now-supports/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-Amazon-S3-now-provides-post-quantum-TLS-visibility",
+        "title": "Amazon S3がAWS CloudTrailでポスト量子TLSの可視性を提供開始",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/Amazon-S3-now-provides-post-quantum-TLS-visibility",
+        "summary": "Amazon S3がAWS CloudTrailでポスト量子TLSの可視性を提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/Amazon-S3-now-provides-post-quantum-TLS-visibility/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-Cost-Optimization-Hub-now-supports-stopping-idle-A",
+        "title": "Cost Optimization HubがアイドルEC2インスタンスの直接停止に対応",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/Cost-Optimization-Hub-now-supports-stopping-idle-A",
+        "summary": "Cost Optimization HubがアイドルEC2インスタンスの直接停止に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/Cost-Optimization-Hub-now-supports-stopping-idle-A/thumbnail.png"
+      },
+      {
         "id": "2026-11-17-AWS-Config-announces-managed-conformance-packs",
         "title": "AWS Configがマネージドコンフォーマンスパックを発表",
         "date": "2026-11-17",
@@ -176,6 +319,17 @@
         "path": "2026/11/17/Amazon-ECR-now-replicates-image-deletions-across-r",
         "summary": "Amazon ECR がリージョン・アカウント間でイメージ削除のレプリケーションをサポート",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/17/Amazon-ECR-now-replicates-image-deletions-across-r/thumbnail.png"
+      },
+      {
+        "id": "2026-11-17-Amazon-S3-adds-post-quantum-TLS-key-exchange-suppo",
+        "title": "Amazon S3がS3 VectorsとPrivateLinkでポスト量子TLS鍵交換をサポート",
+        "date": "2026-11-17",
+        "year": 2026,
+        "month": 11,
+        "day": 17,
+        "path": "2026/11/17/Amazon-S3-adds-post-quantum-TLS-key-exchange-suppo",
+        "summary": "Amazon S3がS3 VectorsとPrivateLinkでポスト量子TLS鍵交換をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/17/Amazon-S3-adds-post-quantum-TLS-key-exchange-suppo/thumbnail.png"
       },
       {
         "id": "2026-11-17-Amazon-VPC-AWS-Transit-Gateway-and-AWS-Cloud-WAN-n",
@@ -8725,8 +8879,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-11-18T03:14:01.744Z",
-    "totalCount": 793
+    "updatedAt": "2026-11-18T12:26:30.830Z",
+    "totalCount": 807
   },
   "metadata:months": [
     "2026/11",
@@ -8744,6 +8898,149 @@
     "year": 2026,
     "month": 11,
     "articles": [
+      {
+        "id": "2026-11-18-AWS-Elemental-MediaConnect-expands-routing-control",
+        "title": "AWS Elemental MediaConnectがRTMP対応とルーティング制御を拡充",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/AWS-Elemental-MediaConnect-expands-routing-control",
+        "summary": "AWS Elemental MediaConnectがRTMP対応とルーティング制御を拡充",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/AWS-Elemental-MediaConnect-expands-routing-control/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-AWS-Lambda-durable-functions-now-supports-pausing",
+        "title": "AWS Lambda durable functionsが実行の一時停止と削除をサポート",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/AWS-Lambda-durable-functions-now-supports-pausing",
+        "summary": "AWS Lambda durable functionsが実行の一時停止と削除をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/AWS-Lambda-durable-functions-now-supports-pausing/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-AWS-Lambda-now-supports-scale-to-and-from-zero-for",
+        "title": "AWS Lambda Managed Instances がゼロへのスケールをサポート",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/AWS-Lambda-now-supports-scale-to-and-from-zero-for",
+        "summary": "AWS Lambda Managed Instances がゼロへのスケールをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/AWS-Lambda-now-supports-scale-to-and-from-zero-for/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-AWS-Transform-now-accelerates-migration-deals-for",
+        "title": "AWS TransformがMAP案件の資格認定からインセンティブ支払いまでを一気通貫で加速",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/AWS-Transform-now-accelerates-migration-deals-for",
+        "summary": "AWS TransformがMAP案件の資格認定からインセンティブ支払いまでを一気通貫で加速",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/AWS-Transform-now-accelerates-migration-deals-for/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-AWS-Transit-Gateway-supports-native-integration-wi",
+        "title": "AWS Transit GatewayがGateway Load Balancerとのネイティブ統合をサポート",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/AWS-Transit-Gateway-supports-native-integration-wi",
+        "summary": "AWS Transit GatewayがGateway Load Balancerとのネイティブ統合をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/AWS-Transit-Gateway-supports-native-integration-wi/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-AWS-WAF-announces-simplified-onboarding-for-Bot-Co",
+        "title": "AWS WAF が Bot Control のターゲット保護向け簡素化オンボーディングを発表",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/AWS-WAF-announces-simplified-onboarding-for-Bot-Co",
+        "summary": "AWS WAF が Bot Control のターゲット保護向け簡素化オンボーディングを発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/AWS-WAF-announces-simplified-onboarding-for-Bot-Co/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-Amazon-DynamoDB-caching-is-now-available-with-Amaz",
+        "title": "Amazon DynamoDB のキャッシングが ElastiCache Serverless for Valkey で利用可能に",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/Amazon-DynamoDB-caching-is-now-available-with-Amaz",
+        "summary": "Amazon DynamoDB のキャッシングが ElastiCache Serverless for Valkey で利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/Amazon-DynamoDB-caching-is-now-available-with-Amaz/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-Amazon-ECR-now-supports-global-authentication-toke",
+        "title": "Amazon ECRがプライベートレジストリ向けグローバル認証トークンをサポート",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/Amazon-ECR-now-supports-global-authentication-toke",
+        "summary": "Amazon ECRがプライベートレジストリ向けグローバル認証トークンをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/Amazon-ECR-now-supports-global-authentication-toke/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-Amazon-Kinesis-Data-Streams-announces-queues-to-si",
+        "title": "Amazon Kinesis Data Streamsがキュー機能を発表、リアルタイム処理を簡素化",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/Amazon-Kinesis-Data-Streams-announces-queues-to-si",
+        "summary": "Amazon Kinesis Data Streamsがキュー機能を発表、リアルタイム処理を簡素化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/Amazon-Kinesis-Data-Streams-announces-queues-to-si/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-Amazon-Route-53-Global-Resolver-is-now-available-o",
+        "title": "Amazon Route 53 Global Resolver が AWS Cloud WAN 経由でハイブリッドネットワーク向けに利用可能に",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/Amazon-Route-53-Global-Resolver-is-now-available-o",
+        "summary": "Amazon Route 53 Global Resolver が AWS Cloud WAN 経由でハイブリッドネットワーク向けに利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/Amazon-Route-53-Global-Resolver-is-now-available-o/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-Amazon-Route-53-Resolver-DNS-Firewall-now-supports",
+        "title": "Amazon Route 53 Resolver DNS Firewallが許可リストの自動生成をサポート",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/Amazon-Route-53-Resolver-DNS-Firewall-now-supports",
+        "summary": "Amazon Route 53 Resolver DNS Firewallが許可リストの自動生成をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/Amazon-Route-53-Resolver-DNS-Firewall-now-supports/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-Amazon-S3-now-provides-post-quantum-TLS-visibility",
+        "title": "Amazon S3がAWS CloudTrailでポスト量子TLSの可視性を提供開始",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/Amazon-S3-now-provides-post-quantum-TLS-visibility",
+        "summary": "Amazon S3がAWS CloudTrailでポスト量子TLSの可視性を提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/Amazon-S3-now-provides-post-quantum-TLS-visibility/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-Cost-Optimization-Hub-now-supports-stopping-idle-A",
+        "title": "Cost Optimization HubがアイドルEC2インスタンスの直接停止に対応",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/Cost-Optimization-Hub-now-supports-stopping-idle-A",
+        "summary": "Cost Optimization HubがアイドルEC2インスタンスの直接停止に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/Cost-Optimization-Hub-now-supports-stopping-idle-A/thumbnail.png"
+      },
       {
         "id": "2026-11-17-AWS-Config-announces-managed-conformance-packs",
         "title": "AWS Configがマネージドコンフォーマンスパックを発表",
@@ -8919,6 +9216,17 @@
         "path": "2026/11/17/Amazon-ECR-now-replicates-image-deletions-across-r",
         "summary": "Amazon ECR がリージョン・アカウント間でイメージ削除のレプリケーションをサポート",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/17/Amazon-ECR-now-replicates-image-deletions-across-r/thumbnail.png"
+      },
+      {
+        "id": "2026-11-17-Amazon-S3-adds-post-quantum-TLS-key-exchange-suppo",
+        "title": "Amazon S3がS3 VectorsとPrivateLinkでポスト量子TLS鍵交換をサポート",
+        "date": "2026-11-17",
+        "year": 2026,
+        "month": 11,
+        "day": 17,
+        "path": "2026/11/17/Amazon-S3-adds-post-quantum-TLS-key-exchange-suppo",
+        "summary": "Amazon S3がS3 VectorsとPrivateLinkでポスト量子TLS鍵交換をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/17/Amazon-S3-adds-post-quantum-TLS-key-exchange-suppo/thumbnail.png"
       },
       {
         "id": "2026-11-17-Amazon-VPC-AWS-Transit-Gateway-and-AWS-Cloud-WAN-n",
@@ -9625,7 +9933,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/02/Amazon-RDS-for-Oracle-no-longer-requires-automatic/thumbnail.png"
       }
     ],
-    "totalPages": 8
+    "totalPages": 10
   },
   "metadata:2026/10": {
     "year": 2026,

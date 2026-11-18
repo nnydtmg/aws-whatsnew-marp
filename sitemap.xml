@@ -6,6 +6,84 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-18-AWS-Elemental-MediaConnect-expands-routing-control</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-18-AWS-Lambda-durable-functions-now-supports-pausing</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-18-AWS-Lambda-now-supports-scale-to-and-from-zero-for</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-18-AWS-Transform-now-accelerates-migration-deals-for</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-18-AWS-Transit-Gateway-supports-native-integration-wi</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-18-AWS-WAF-announces-simplified-onboarding-for-Bot-Co</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-18-Amazon-DynamoDB-caching-is-now-available-with-Amaz</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-18-Amazon-ECR-now-supports-global-authentication-toke</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-18-Amazon-Kinesis-Data-Streams-announces-queues-to-si</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-18-Amazon-Route-53-Global-Resolver-is-now-available-o</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-18-Amazon-Route-53-Resolver-DNS-Firewall-now-supports</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-18-Amazon-S3-now-provides-post-quantum-TLS-visibility</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-18-Cost-Optimization-Hub-now-supports-stopping-idle-A</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-17-AWS-Config-announces-managed-conformance-packs</loc>
     <lastmod>2026-11-17</lastmod>
     <changefreq>never</changefreq>
@@ -97,6 +175,12 @@
   </url>
   <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-17-Amazon-ECR-now-replicates-image-deletions-across-r</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-17-Amazon-S3-adds-post-quantum-TLS-key-exchange-suppo</loc>
     <lastmod>2026-11-17</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
