@@ -2,6 +2,50 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-11-19-AWS-IAM-account-access-manager-is-now-even-easier",
+        "title": "AWS IAM account access managerの導入と利用がさらに容易に",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/AWS-IAM-account-access-manager-is-now-even-easier",
+        "summary": "AWS IAM account access managerの導入と利用がさらに容易に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/AWS-IAM-account-access-manager-is-now-even-easier/thumbnail.png"
+      },
+      {
+        "id": "2026-11-19-AWS-announces-ExtendDB-10",
+        "title": "AWSがExtendDB 1.0を発表 — DynamoDB互換アダプターが本番利用可能に",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/AWS-announces-ExtendDB-10",
+        "summary": "AWSがExtendDB 1.0を発表 — DynamoDB互換アダプターが本番利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/AWS-announces-ExtendDB-10/thumbnail.png"
+      },
+      {
+        "id": "2026-11-19-Amazon-CloudFront-standard-logging-now-supports-CM",
+        "title": "Amazon CloudFront の標準ログが CMCD と追加フィールドをサポート",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/Amazon-CloudFront-standard-logging-now-supports-CM",
+        "summary": "Amazon CloudFront の標準ログが CMCD と追加フィールドをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/Amazon-CloudFront-standard-logging-now-supports-CM/thumbnail.png"
+      },
+      {
+        "id": "2026-11-19-Amazon-CloudWatch-simplifies-network-performance-m",
+        "title": "Amazon CloudWatch が VPC 向けネットワークパフォーマンス監視を簡素化",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/Amazon-CloudWatch-simplifies-network-performance-m",
+        "summary": "Amazon CloudWatch が VPC 向けネットワークパフォーマンス監視を簡素化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/Amazon-CloudWatch-simplifies-network-performance-m/thumbnail.png"
+      },
+      {
         "id": "2026-11-18-AWS-Control-Tower-now-supports-existing-Amazon-S3",
         "title": "AWS Control Towerが既存のAmazon S3バケットでのログ配信をサポート",
         "date": "2026-11-18",
@@ -8967,8 +9011,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-11-19T02:13:11.666Z",
-    "totalCount": 815
+    "updatedAt": "2026-11-19T10:53:04.100Z",
+    "totalCount": 819
   },
   "metadata:months": [
     "2026/11",
@@ -8986,6 +9030,50 @@
     "year": 2026,
     "month": 11,
     "articles": [
+      {
+        "id": "2026-11-19-AWS-IAM-account-access-manager-is-now-even-easier",
+        "title": "AWS IAM account access managerの導入と利用がさらに容易に",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/AWS-IAM-account-access-manager-is-now-even-easier",
+        "summary": "AWS IAM account access managerの導入と利用がさらに容易に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/AWS-IAM-account-access-manager-is-now-even-easier/thumbnail.png"
+      },
+      {
+        "id": "2026-11-19-AWS-announces-ExtendDB-10",
+        "title": "AWSがExtendDB 1.0を発表 — DynamoDB互換アダプターが本番利用可能に",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/AWS-announces-ExtendDB-10",
+        "summary": "AWSがExtendDB 1.0を発表 — DynamoDB互換アダプターが本番利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/AWS-announces-ExtendDB-10/thumbnail.png"
+      },
+      {
+        "id": "2026-11-19-Amazon-CloudFront-standard-logging-now-supports-CM",
+        "title": "Amazon CloudFront の標準ログが CMCD と追加フィールドをサポート",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/Amazon-CloudFront-standard-logging-now-supports-CM",
+        "summary": "Amazon CloudFront の標準ログが CMCD と追加フィールドをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/Amazon-CloudFront-standard-logging-now-supports-CM/thumbnail.png"
+      },
+      {
+        "id": "2026-11-19-Amazon-CloudWatch-simplifies-network-performance-m",
+        "title": "Amazon CloudWatch が VPC 向けネットワークパフォーマンス監視を簡素化",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/Amazon-CloudWatch-simplifies-network-performance-m",
+        "summary": "Amazon CloudWatch が VPC 向けネットワークパフォーマンス監視を簡素化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/Amazon-CloudWatch-simplifies-network-performance-m/thumbnail.png"
+      },
       {
         "id": "2026-11-18-AWS-Control-Tower-now-supports-existing-Amazon-S3",
         "title": "AWS Control Towerが既存のAmazon S3バケットでのログ配信をサポート",
