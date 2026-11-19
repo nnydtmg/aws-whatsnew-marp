@@ -2,6 +2,17 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-11-18-AWS-Control-Tower-now-supports-existing-Amazon-S3",
+        "title": "AWS Control Towerが既存のAmazon S3バケットでのログ配信をサポート",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/AWS-Control-Tower-now-supports-existing-Amazon-S3",
+        "summary": "AWS Control Towerが既存のAmazon S3バケットでのログ配信をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/AWS-Control-Tower-now-supports-existing-Amazon-S3/thumbnail.png"
+      },
+      {
         "id": "2026-11-18-AWS-Elemental-MediaConnect-expands-routing-control",
         "title": "AWS Elemental MediaConnectがRTMP対応とルーティング制御を拡充",
         "date": "2026-11-18",
@@ -11,6 +22,17 @@
         "path": "2026/11/18/AWS-Elemental-MediaConnect-expands-routing-control",
         "summary": "AWS Elemental MediaConnectがRTMP対応とルーティング制御を拡充",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/AWS-Elemental-MediaConnect-expands-routing-control/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-AWS-Lambda-adds-support-for-GPU-instances-on-Lambd",
+        "title": "AWS Lambda Managed Instances が GPU インスタンスをサポート",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/AWS-Lambda-adds-support-for-GPU-instances-on-Lambd",
+        "summary": "AWS Lambda Managed Instances が GPU インスタンスをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/AWS-Lambda-adds-support-for-GPU-instances-on-Lambd/thumbnail.png"
       },
       {
         "id": "2026-11-18-AWS-Lambda-durable-functions-now-supports-pausing",
@@ -68,6 +90,61 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/AWS-WAF-announces-simplified-onboarding-for-Bot-Co/thumbnail.png"
       },
       {
+        "id": "2026-11-18-Amazon-Aurora-DSQL-now-supports-audit-logging",
+        "title": "Amazon Aurora DSQLが監査ログ機能をサポート開始",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/Amazon-Aurora-DSQL-now-supports-audit-logging",
+        "summary": "Amazon Aurora DSQLが監査ログ機能をサポート開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/Amazon-Aurora-DSQL-now-supports-audit-logging/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-Amazon-CloudFront-Announces-WebSocket-and-gRPC-Sup",
+        "title": "Amazon CloudFrontがOrigin mTLSでWebSocketとgRPCのサポートを発表",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/Amazon-CloudFront-Announces-WebSocket-and-gRPC-Sup",
+        "summary": "Amazon CloudFrontがOrigin mTLSでWebSocketとgRPCのサポートを発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/Amazon-CloudFront-Announces-WebSocket-and-gRPC-Sup/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-Amazon-CloudFront-Functions-now-supports-network-c",
+        "title": "Amazon CloudFront Functionsがネットワーク呼び出しに対応",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/Amazon-CloudFront-Functions-now-supports-network-c",
+        "summary": "Amazon CloudFront Functionsがネットワーク呼び出しに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/Amazon-CloudFront-Functions-now-supports-network-c/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-Amazon-Cognito-now-supports-authentication-level-a",
+        "title": "Amazon CognitoがACR/AMRトークンクレームのサポートを開始",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/Amazon-Cognito-now-supports-authentication-level-a",
+        "summary": "Amazon CognitoがACR/AMRトークンクレームのサポートを開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/Amazon-Cognito-now-supports-authentication-level-a/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-Amazon-Cognito-now-supports-point-in-time-recovery",
+        "title": "Amazon Cognitoがポイントインタイムリカバリをサポート",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/Amazon-Cognito-now-supports-point-in-time-recovery",
+        "summary": "Amazon Cognitoがポイントインタイムリカバリをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/Amazon-Cognito-now-supports-point-in-time-recovery/thumbnail.png"
+      },
+      {
         "id": "2026-11-18-Amazon-DynamoDB-caching-is-now-available-with-Amaz",
         "title": "Amazon DynamoDB のキャッシングが ElastiCache Serverless for Valkey で利用可能に",
         "date": "2026-11-18",
@@ -99,6 +176,17 @@
         "path": "2026/11/18/Amazon-Kinesis-Data-Streams-announces-queues-to-si",
         "summary": "Amazon Kinesis Data Streamsがキュー機能を発表、リアルタイム処理を簡素化",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/Amazon-Kinesis-Data-Streams-announces-queues-to-si/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-Amazon-OpenSearch-Memory-is-now-generally-availabl",
+        "title": "Amazon OpenSearch Memoryが一般提供開始、AIエージェントに永続メモリを追加",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/Amazon-OpenSearch-Memory-is-now-generally-availabl",
+        "summary": "Amazon OpenSearch Memoryが一般提供開始、AIエージェントに永続メモリを追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/Amazon-OpenSearch-Memory-is-now-generally-availabl/thumbnail.png"
       },
       {
         "id": "2026-11-18-Amazon-Route-53-Global-Resolver-is-now-available-o",
@@ -8879,8 +8967,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-11-18T20:58:35.385Z",
-    "totalCount": 807
+    "updatedAt": "2026-11-19T02:13:11.666Z",
+    "totalCount": 815
   },
   "metadata:months": [
     "2026/11",
@@ -8899,6 +8987,17 @@
     "month": 11,
     "articles": [
       {
+        "id": "2026-11-18-AWS-Control-Tower-now-supports-existing-Amazon-S3",
+        "title": "AWS Control Towerが既存のAmazon S3バケットでのログ配信をサポート",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/AWS-Control-Tower-now-supports-existing-Amazon-S3",
+        "summary": "AWS Control Towerが既存のAmazon S3バケットでのログ配信をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/AWS-Control-Tower-now-supports-existing-Amazon-S3/thumbnail.png"
+      },
+      {
         "id": "2026-11-18-AWS-Elemental-MediaConnect-expands-routing-control",
         "title": "AWS Elemental MediaConnectがRTMP対応とルーティング制御を拡充",
         "date": "2026-11-18",
@@ -8908,6 +9007,17 @@
         "path": "2026/11/18/AWS-Elemental-MediaConnect-expands-routing-control",
         "summary": "AWS Elemental MediaConnectがRTMP対応とルーティング制御を拡充",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/AWS-Elemental-MediaConnect-expands-routing-control/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-AWS-Lambda-adds-support-for-GPU-instances-on-Lambd",
+        "title": "AWS Lambda Managed Instances が GPU インスタンスをサポート",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/AWS-Lambda-adds-support-for-GPU-instances-on-Lambd",
+        "summary": "AWS Lambda Managed Instances が GPU インスタンスをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/AWS-Lambda-adds-support-for-GPU-instances-on-Lambd/thumbnail.png"
       },
       {
         "id": "2026-11-18-AWS-Lambda-durable-functions-now-supports-pausing",
@@ -8965,6 +9075,61 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/AWS-WAF-announces-simplified-onboarding-for-Bot-Co/thumbnail.png"
       },
       {
+        "id": "2026-11-18-Amazon-Aurora-DSQL-now-supports-audit-logging",
+        "title": "Amazon Aurora DSQLが監査ログ機能をサポート開始",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/Amazon-Aurora-DSQL-now-supports-audit-logging",
+        "summary": "Amazon Aurora DSQLが監査ログ機能をサポート開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/Amazon-Aurora-DSQL-now-supports-audit-logging/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-Amazon-CloudFront-Announces-WebSocket-and-gRPC-Sup",
+        "title": "Amazon CloudFrontがOrigin mTLSでWebSocketとgRPCのサポートを発表",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/Amazon-CloudFront-Announces-WebSocket-and-gRPC-Sup",
+        "summary": "Amazon CloudFrontがOrigin mTLSでWebSocketとgRPCのサポートを発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/Amazon-CloudFront-Announces-WebSocket-and-gRPC-Sup/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-Amazon-CloudFront-Functions-now-supports-network-c",
+        "title": "Amazon CloudFront Functionsがネットワーク呼び出しに対応",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/Amazon-CloudFront-Functions-now-supports-network-c",
+        "summary": "Amazon CloudFront Functionsがネットワーク呼び出しに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/Amazon-CloudFront-Functions-now-supports-network-c/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-Amazon-Cognito-now-supports-authentication-level-a",
+        "title": "Amazon CognitoがACR/AMRトークンクレームのサポートを開始",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/Amazon-Cognito-now-supports-authentication-level-a",
+        "summary": "Amazon CognitoがACR/AMRトークンクレームのサポートを開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/Amazon-Cognito-now-supports-authentication-level-a/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-Amazon-Cognito-now-supports-point-in-time-recovery",
+        "title": "Amazon Cognitoがポイントインタイムリカバリをサポート",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/Amazon-Cognito-now-supports-point-in-time-recovery",
+        "summary": "Amazon Cognitoがポイントインタイムリカバリをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/Amazon-Cognito-now-supports-point-in-time-recovery/thumbnail.png"
+      },
+      {
         "id": "2026-11-18-Amazon-DynamoDB-caching-is-now-available-with-Amaz",
         "title": "Amazon DynamoDB のキャッシングが ElastiCache Serverless for Valkey で利用可能に",
         "date": "2026-11-18",
@@ -8996,6 +9161,17 @@
         "path": "2026/11/18/Amazon-Kinesis-Data-Streams-announces-queues-to-si",
         "summary": "Amazon Kinesis Data Streamsがキュー機能を発表、リアルタイム処理を簡素化",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/Amazon-Kinesis-Data-Streams-announces-queues-to-si/thumbnail.png"
+      },
+      {
+        "id": "2026-11-18-Amazon-OpenSearch-Memory-is-now-generally-availabl",
+        "title": "Amazon OpenSearch Memoryが一般提供開始、AIエージェントに永続メモリを追加",
+        "date": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "path": "2026/11/18/Amazon-OpenSearch-Memory-is-now-generally-availabl",
+        "summary": "Amazon OpenSearch Memoryが一般提供開始、AIエージェントに永続メモリを追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/18/Amazon-OpenSearch-Memory-is-now-generally-availabl/thumbnail.png"
       },
       {
         "id": "2026-11-18-Amazon-Route-53-Global-Resolver-is-now-available-o",
@@ -9933,7 +10109,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/02/Amazon-RDS-for-Oracle-no-longer-requires-automatic/thumbnail.png"
       }
     ],
-    "totalPages": 10
+    "totalPages": 11
   },
   "metadata:2026/10": {
     "year": 2026,

@@ -6,7 +6,19 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-18-AWS-Control-Tower-now-supports-existing-Amazon-S3</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-18-AWS-Elemental-MediaConnect-expands-routing-control</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-18-AWS-Lambda-adds-support-for-GPU-instances-on-Lambd</loc>
     <lastmod>2026-11-18</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
@@ -42,6 +54,36 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-18-Amazon-Aurora-DSQL-now-supports-audit-logging</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-18-Amazon-CloudFront-Announces-WebSocket-and-gRPC-Sup</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-18-Amazon-CloudFront-Functions-now-supports-network-c</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-18-Amazon-Cognito-now-supports-authentication-level-a</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-18-Amazon-Cognito-now-supports-point-in-time-recovery</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-18-Amazon-DynamoDB-caching-is-now-available-with-Amaz</loc>
     <lastmod>2026-11-18</lastmod>
     <changefreq>never</changefreq>
@@ -55,6 +97,12 @@
   </url>
   <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-18-Amazon-Kinesis-Data-Streams-announces-queues-to-si</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-18-Amazon-OpenSearch-Memory-is-now-generally-availabl</loc>
     <lastmod>2026-11-18</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
