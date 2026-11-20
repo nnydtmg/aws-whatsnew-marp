@@ -13,6 +13,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-Continuum-for-Penetration-Testing-now-supports/thumbnail.png"
       },
       {
+        "id": "2026-11-20-AWS-DevOps-Agent-now-supports-Slack-code-channels",
+        "title": "AWS DevOps AgentがSlackコードチャネルとTeams双方向会話をサポート",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-DevOps-Agent-now-supports-Slack-code-channels",
+        "summary": "AWS DevOps AgentがSlackコードチャネルとTeams双方向会話をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-DevOps-Agent-now-supports-Slack-code-channels/thumbnail.png"
+      },
+      {
         "id": "2026-11-20-AWS-Lambda-durable-functions-now-supports-OpenTele",
         "title": "AWS Lambda durable functionsが OpenTelemetry トレーシングに対応",
         "date": "2026-11-20",
@@ -9330,8 +9341,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-11-20T09:28:58.429Z",
-    "totalCount": 848
+    "updatedAt": "2026-11-20T18:24:13.321Z",
+    "totalCount": 849
   },
   "metadata:months": [
     "2026/11",
@@ -9359,6 +9370,17 @@
         "path": "2026/11/20/AWS-Continuum-for-Penetration-Testing-now-supports",
         "summary": "AWS Continuum for Penetration Testing が一時停止と再開をサポート",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-Continuum-for-Penetration-Testing-now-supports/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-AWS-DevOps-Agent-now-supports-Slack-code-channels",
+        "title": "AWS DevOps AgentがSlackコードチャネルとTeams双方向会話をサポート",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-DevOps-Agent-now-supports-Slack-code-channels",
+        "summary": "AWS DevOps AgentがSlackコードチャネルとTeams双方向会話をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-DevOps-Agent-now-supports-Slack-code-channels/thumbnail.png"
       },
       {
         "id": "2026-11-20-AWS-Lambda-durable-functions-now-supports-OpenTele",
