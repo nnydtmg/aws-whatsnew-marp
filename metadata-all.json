@@ -2,6 +2,160 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-11-20-AWS-Continuum-for-Penetration-Testing-now-supports",
+        "title": "AWS Continuum for Penetration Testing が一時停止と再開をサポート",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-Continuum-for-Penetration-Testing-now-supports",
+        "summary": "AWS Continuum for Penetration Testing が一時停止と再開をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-Continuum-for-Penetration-Testing-now-supports/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-AWS-Lambda-durable-functions-now-supports-OpenTele",
+        "title": "AWS Lambda durable functionsが OpenTelemetry トレーシングに対応",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-Lambda-durable-functions-now-supports-OpenTele",
+        "summary": "AWS Lambda durable functionsが OpenTelemetry トレーシングに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-Lambda-durable-functions-now-supports-OpenTele/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-AWS-Network-Firewall-launches-explicit-proxy-funct",
+        "title": "AWS Network Firewallが明示的プロキシとNAT Gateway連携を開始",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-Network-Firewall-launches-explicit-proxy-funct",
+        "summary": "AWS Network Firewallが明示的プロキシとNAT Gateway連携を開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-Network-Firewall-launches-explicit-proxy-funct/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-AWS-Network-Load-Balancer-now-supports-mutual-TLS",
+        "title": "Network Load Balancer が相互TLS（mTLS）認証をサポート",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-Network-Load-Balancer-now-supports-mutual-TLS",
+        "summary": "Network Load Balancer が相互TLS（mTLS）認証をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-Network-Load-Balancer-now-supports-mutual-TLS/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-AWS-STS-announces-GetScopedCredentials-to-scope-do",
+        "title": "AWS STS が GetScopedCredentials を発表、実行時の権限絞り込みが可能に",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-STS-announces-GetScopedCredentials-to-scope-do",
+        "summary": "AWS STS が GetScopedCredentials を発表、実行時の権限絞り込みが可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-STS-announces-GetScopedCredentials-to-scope-do/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-AWS-WAF-launches-new-Security-Analytics-Dashboard",
+        "title": "AWS WAFがリアルタイム調査向けSecurity Analytics Dashboardを発表",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-WAF-launches-new-Security-Analytics-Dashboard",
+        "summary": "AWS WAFがリアルタイム調査向けSecurity Analytics Dashboardを発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-WAF-launches-new-Security-Analytics-Dashboard/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-AgentCore-runtime-instances-now-support-Nested-Vir",
+        "title": "Amazon Bedrock AgentCoreランタイムでNested Virtualizationが利用可能に",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AgentCore-runtime-instances-now-support-Nested-Vir",
+        "summary": "Amazon Bedrock AgentCoreランタイムでNested Virtualizationが利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AgentCore-runtime-instances-now-support-Nested-Vir/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-Amazon-Aurora-now-supports-moving-clusters-to-a-di",
+        "title": "Amazon Auroraがクラスターの別VPCへの移動をサポート",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/Amazon-Aurora-now-supports-moving-clusters-to-a-di",
+        "summary": "Amazon Auroraがクラスターの別VPCへの移動をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Amazon-Aurora-now-supports-moving-clusters-to-a-di/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-Amazon-Bedrock-AgentCore-Identity-adds-private-cer",
+        "title": "Amazon Bedrock AgentCore Identity がプライベート認証局をサポート",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/Amazon-Bedrock-AgentCore-Identity-adds-private-cer",
+        "summary": "Amazon Bedrock AgentCore Identity がプライベート認証局をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Amazon-Bedrock-AgentCore-Identity-adds-private-cer/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-Amazon-CloudFront-adds-IP-based-routing-and-connec",
+        "title": "Amazon CloudFront が SaaS Manager に IPベースルーティングと接続ログを追加",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/Amazon-CloudFront-adds-IP-based-routing-and-connec",
+        "summary": "Amazon CloudFront が SaaS Manager に IPベースルーティングと接続ログを追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Amazon-CloudFront-adds-IP-based-routing-and-connec/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-Amazon-CloudFront-simplifies-domain-moves-and-onbo",
+        "title": "Amazon CloudFrontがSaaS Manager向けドメイン無停止移行をサポート",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/Amazon-CloudFront-simplifies-domain-moves-and-onbo",
+        "summary": "Amazon CloudFrontがSaaS Manager向けドメイン無停止移行をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Amazon-CloudFront-simplifies-domain-moves-and-onbo/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-Amazon-Cognito-now-supports-AWS-Secrets-Manager-fo",
+        "title": "Amazon CognitoがAWS Secrets Managerでアプリクライアントシークレット管理に対応",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/Amazon-Cognito-now-supports-AWS-Secrets-Manager-fo",
+        "summary": "Amazon CognitoがAWS Secrets Managerでアプリクライアントシークレット管理に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Amazon-Cognito-now-supports-AWS-Secrets-Manager-fo/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-Amazon-Cognito-now-supports-client-ID-metadata-doc",
+        "title": "Amazon CognitoがクライアントIDメタデータドキュメント（CIMD）をサポート",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/Amazon-Cognito-now-supports-client-ID-metadata-doc",
+        "summary": "Amazon CognitoがクライアントIDメタデータドキュメント（CIMD）をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Amazon-Cognito-now-supports-client-ID-metadata-doc/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-Amazon-Cognito-now-supports-dynamic-client-registr",
+        "title": "Amazon CognitoがOAuth動的クライアント登録（DCR）をサポート",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/Amazon-Cognito-now-supports-dynamic-client-registr",
+        "summary": "Amazon CognitoがOAuth動的クライアント登録（DCR）をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Amazon-Cognito-now-supports-dynamic-client-registr/thumbnail.png"
+      },
+      {
         "id": "2026-11-19-AWS-AppConfig-launches-support-for-managing-native",
         "title": "AWS AppConfigがAIモデル呼び出しとプロンプト設定の管理をサポート",
         "date": "2026-11-19",
@@ -9176,8 +9330,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-11-20T01:30:16.971Z",
-    "totalCount": 834
+    "updatedAt": "2026-11-20T09:28:58.429Z",
+    "totalCount": 848
   },
   "metadata:months": [
     "2026/11",
@@ -9195,6 +9349,160 @@
     "year": 2026,
     "month": 11,
     "articles": [
+      {
+        "id": "2026-11-20-AWS-Continuum-for-Penetration-Testing-now-supports",
+        "title": "AWS Continuum for Penetration Testing が一時停止と再開をサポート",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-Continuum-for-Penetration-Testing-now-supports",
+        "summary": "AWS Continuum for Penetration Testing が一時停止と再開をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-Continuum-for-Penetration-Testing-now-supports/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-AWS-Lambda-durable-functions-now-supports-OpenTele",
+        "title": "AWS Lambda durable functionsが OpenTelemetry トレーシングに対応",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-Lambda-durable-functions-now-supports-OpenTele",
+        "summary": "AWS Lambda durable functionsが OpenTelemetry トレーシングに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-Lambda-durable-functions-now-supports-OpenTele/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-AWS-Network-Firewall-launches-explicit-proxy-funct",
+        "title": "AWS Network Firewallが明示的プロキシとNAT Gateway連携を開始",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-Network-Firewall-launches-explicit-proxy-funct",
+        "summary": "AWS Network Firewallが明示的プロキシとNAT Gateway連携を開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-Network-Firewall-launches-explicit-proxy-funct/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-AWS-Network-Load-Balancer-now-supports-mutual-TLS",
+        "title": "Network Load Balancer が相互TLS（mTLS）認証をサポート",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-Network-Load-Balancer-now-supports-mutual-TLS",
+        "summary": "Network Load Balancer が相互TLS（mTLS）認証をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-Network-Load-Balancer-now-supports-mutual-TLS/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-AWS-STS-announces-GetScopedCredentials-to-scope-do",
+        "title": "AWS STS が GetScopedCredentials を発表、実行時の権限絞り込みが可能に",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-STS-announces-GetScopedCredentials-to-scope-do",
+        "summary": "AWS STS が GetScopedCredentials を発表、実行時の権限絞り込みが可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-STS-announces-GetScopedCredentials-to-scope-do/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-AWS-WAF-launches-new-Security-Analytics-Dashboard",
+        "title": "AWS WAFがリアルタイム調査向けSecurity Analytics Dashboardを発表",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-WAF-launches-new-Security-Analytics-Dashboard",
+        "summary": "AWS WAFがリアルタイム調査向けSecurity Analytics Dashboardを発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-WAF-launches-new-Security-Analytics-Dashboard/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-AgentCore-runtime-instances-now-support-Nested-Vir",
+        "title": "Amazon Bedrock AgentCoreランタイムでNested Virtualizationが利用可能に",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AgentCore-runtime-instances-now-support-Nested-Vir",
+        "summary": "Amazon Bedrock AgentCoreランタイムでNested Virtualizationが利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AgentCore-runtime-instances-now-support-Nested-Vir/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-Amazon-Aurora-now-supports-moving-clusters-to-a-di",
+        "title": "Amazon Auroraがクラスターの別VPCへの移動をサポート",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/Amazon-Aurora-now-supports-moving-clusters-to-a-di",
+        "summary": "Amazon Auroraがクラスターの別VPCへの移動をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Amazon-Aurora-now-supports-moving-clusters-to-a-di/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-Amazon-Bedrock-AgentCore-Identity-adds-private-cer",
+        "title": "Amazon Bedrock AgentCore Identity がプライベート認証局をサポート",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/Amazon-Bedrock-AgentCore-Identity-adds-private-cer",
+        "summary": "Amazon Bedrock AgentCore Identity がプライベート認証局をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Amazon-Bedrock-AgentCore-Identity-adds-private-cer/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-Amazon-CloudFront-adds-IP-based-routing-and-connec",
+        "title": "Amazon CloudFront が SaaS Manager に IPベースルーティングと接続ログを追加",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/Amazon-CloudFront-adds-IP-based-routing-and-connec",
+        "summary": "Amazon CloudFront が SaaS Manager に IPベースルーティングと接続ログを追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Amazon-CloudFront-adds-IP-based-routing-and-connec/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-Amazon-CloudFront-simplifies-domain-moves-and-onbo",
+        "title": "Amazon CloudFrontがSaaS Manager向けドメイン無停止移行をサポート",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/Amazon-CloudFront-simplifies-domain-moves-and-onbo",
+        "summary": "Amazon CloudFrontがSaaS Manager向けドメイン無停止移行をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Amazon-CloudFront-simplifies-domain-moves-and-onbo/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-Amazon-Cognito-now-supports-AWS-Secrets-Manager-fo",
+        "title": "Amazon CognitoがAWS Secrets Managerでアプリクライアントシークレット管理に対応",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/Amazon-Cognito-now-supports-AWS-Secrets-Manager-fo",
+        "summary": "Amazon CognitoがAWS Secrets Managerでアプリクライアントシークレット管理に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Amazon-Cognito-now-supports-AWS-Secrets-Manager-fo/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-Amazon-Cognito-now-supports-client-ID-metadata-doc",
+        "title": "Amazon CognitoがクライアントIDメタデータドキュメント（CIMD）をサポート",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/Amazon-Cognito-now-supports-client-ID-metadata-doc",
+        "summary": "Amazon CognitoがクライアントIDメタデータドキュメント（CIMD）をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Amazon-Cognito-now-supports-client-ID-metadata-doc/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-Amazon-Cognito-now-supports-dynamic-client-registr",
+        "title": "Amazon CognitoがOAuth動的クライアント登録（DCR）をサポート",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/Amazon-Cognito-now-supports-dynamic-client-registr",
+        "summary": "Amazon CognitoがOAuth動的クライアント登録（DCR）をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Amazon-Cognito-now-supports-dynamic-client-registr/thumbnail.png"
+      },
       {
         "id": "2026-11-19-AWS-AppConfig-launches-support-for-managing-native",
         "title": "AWS AppConfigがAIモデル呼び出しとプロンプト設定の管理をサポート",
@@ -10527,7 +10835,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/02/Amazon-RDS-for-Oracle-no-longer-requires-automatic/thumbnail.png"
       }
     ],
-    "totalPages": 13
+    "totalPages": 14
   },
   "metadata:2026/10": {
     "year": 2026,
