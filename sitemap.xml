@@ -6,13 +6,79 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-19-AWS-AppConfig-launches-support-for-managing-native</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-19-AWS-DevOps-Agent-now-supports-Slack-code-channels</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-19-AWS-Health-now-supports-resource-and-account-tags</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-19-AWS-IAM-account-access-manager-is-now-even-easier</loc>
     <lastmod>2026-11-19</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-19-AWS-Lambda-now-supports-a-30-minute-timeout-for-on</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-19-AWS-Partner-Central-Agents-now-guide-partners-to-h</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-19-AWS-Partner-Central-now-supports-AI-assisted-listi</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-19-AWS-Revenue-Measurement-now-supports-Identity-Tagg</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-19-AWS-Revenue-Measurement-now-supports-closed-source</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-19-AWS-Systems-Manager-Parameter-Store-raises-API-thr</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-19-AWS-announces-ExtendDB-10</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-19-AgentCore-runtime-instances-now-support-privileged</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-19-Amazon-Aurora-DSQL-now-supports-multi-Region-peeri</loc>
     <lastmod>2026-11-19</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
@@ -25,6 +91,30 @@
   </url>
   <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-19-Amazon-CloudWatch-simplifies-network-performance-m</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-19-Amazon-Polly-now-supports-voice-cloning</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-19-Amazon-Route-53-now-supports-health-checks-for-pri</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-19-Amazon-VPC-Flow-Logs-now-supports-Amazon-EKS-metad</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-19-Aurora-PostgreSQL-with-express-configuration-now-s</loc>
     <lastmod>2026-11-19</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>

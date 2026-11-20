@@ -2,6 +2,39 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-11-19-AWS-AppConfig-launches-support-for-managing-native",
+        "title": "AWS AppConfigがAIモデル呼び出しとプロンプト設定の管理をサポート",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/AWS-AppConfig-launches-support-for-managing-native",
+        "summary": "AWS AppConfigがAIモデル呼び出しとプロンプト設定の管理をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/AWS-AppConfig-launches-support-for-managing-native/thumbnail.png"
+      },
+      {
+        "id": "2026-11-19-AWS-DevOps-Agent-now-supports-Slack-code-channels",
+        "title": "AWS DevOps AgentがSlackコードチャネルとMicrosoft Teams双方向会話をサポート",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/AWS-DevOps-Agent-now-supports-Slack-code-channels",
+        "summary": "AWS DevOps AgentがSlackコードチャネルとMicrosoft Teams双方向会話をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/AWS-DevOps-Agent-now-supports-Slack-code-channels/thumbnail.png"
+      },
+      {
+        "id": "2026-11-19-AWS-Health-now-supports-resource-and-account-tags",
+        "title": "AWS Healthがリソースタグとアカウントタグのサポートを開始",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/AWS-Health-now-supports-resource-and-account-tags",
+        "summary": "AWS Healthがリソースタグとアカウントタグのサポートを開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/AWS-Health-now-supports-resource-and-account-tags/thumbnail.png"
+      },
+      {
         "id": "2026-11-19-AWS-IAM-account-access-manager-is-now-even-easier",
         "title": "AWS IAM account access managerの導入と利用がさらに容易に",
         "date": "2026-11-19",
@@ -13,6 +46,72 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/AWS-IAM-account-access-manager-is-now-even-easier/thumbnail.png"
       },
       {
+        "id": "2026-11-19-AWS-Lambda-now-supports-a-30-minute-timeout-for-on",
+        "title": "AWS LambdaのオンデマンドEvent Functionsが30分タイムアウトに対応",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/AWS-Lambda-now-supports-a-30-minute-timeout-for-on",
+        "summary": "AWS LambdaのオンデマンドEvent Functionsが30分タイムアウトに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/AWS-Lambda-now-supports-a-30-minute-timeout-for-on/thumbnail.png"
+      },
+      {
+        "id": "2026-11-19-AWS-Partner-Central-Agents-now-guide-partners-to-h",
+        "title": "AWS Partner Central Agentsが共同販売機会の品質向上とモーションを案内",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/AWS-Partner-Central-Agents-now-guide-partners-to-h",
+        "summary": "AWS Partner Central Agentsが共同販売機会の品質向上とモーションを案内",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/AWS-Partner-Central-Agents-now-guide-partners-to-h/thumbnail.png"
+      },
+      {
+        "id": "2026-11-19-AWS-Partner-Central-now-supports-AI-assisted-listi",
+        "title": "AWS Partner Centralが製品・サービス・ソリューション向けAI支援リスティングを提供",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/AWS-Partner-Central-now-supports-AI-assisted-listi",
+        "summary": "AWS Partner Centralが製品・サービス・ソリューション向けAI支援リスティングを提供",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/AWS-Partner-Central-now-supports-AI-assisted-listi/thumbnail.png"
+      },
+      {
+        "id": "2026-11-19-AWS-Revenue-Measurement-now-supports-Identity-Tagg",
+        "title": "AWS Revenue Measurement が Identity Tagging をサポート",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/AWS-Revenue-Measurement-now-supports-Identity-Tagg",
+        "summary": "AWS Revenue Measurement が Identity Tagging をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/AWS-Revenue-Measurement-now-supports-Identity-Tagg/thumbnail.png"
+      },
+      {
+        "id": "2026-11-19-AWS-Revenue-Measurement-now-supports-closed-source",
+        "title": "AWS Revenue MeasurementがAmazon Bedrockのクローズドソースモデルをサポート",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/AWS-Revenue-Measurement-now-supports-closed-source",
+        "summary": "AWS Revenue MeasurementがAmazon Bedrockのクローズドソースモデルをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/AWS-Revenue-Measurement-now-supports-closed-source/thumbnail.png"
+      },
+      {
+        "id": "2026-11-19-AWS-Systems-Manager-Parameter-Store-raises-API-thr",
+        "title": "AWS Systems Manager Parameter Store が API スループット制限を引き上げ",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/AWS-Systems-Manager-Parameter-Store-raises-API-thr",
+        "summary": "AWS Systems Manager Parameter Store が API スループット制限を引き上げ",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/AWS-Systems-Manager-Parameter-Store-raises-API-thr/thumbnail.png"
+      },
+      {
         "id": "2026-11-19-AWS-announces-ExtendDB-10",
         "title": "AWSがExtendDB 1.0を発表 — DynamoDB互換アダプターが本番利用可能に",
         "date": "2026-11-19",
@@ -22,6 +121,28 @@
         "path": "2026/11/19/AWS-announces-ExtendDB-10",
         "summary": "AWSがExtendDB 1.0を発表 — DynamoDB互換アダプターが本番利用可能に",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/AWS-announces-ExtendDB-10/thumbnail.png"
+      },
+      {
+        "id": "2026-11-19-AgentCore-runtime-instances-now-support-privileged",
+        "title": "Amazon Bedrock AgentCoreがランタイムインスタンスの特権モードに対応",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/AgentCore-runtime-instances-now-support-privileged",
+        "summary": "Amazon Bedrock AgentCoreがランタイムインスタンスの特権モードに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/AgentCore-runtime-instances-now-support-privileged/thumbnail.png"
+      },
+      {
+        "id": "2026-11-19-Amazon-Aurora-DSQL-now-supports-multi-Region-peeri",
+        "title": "Amazon Aurora DSQLが大陸間マルチリージョンピアリングをサポート",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/Amazon-Aurora-DSQL-now-supports-multi-Region-peeri",
+        "summary": "Amazon Aurora DSQLが大陸間マルチリージョンピアリングをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/Amazon-Aurora-DSQL-now-supports-multi-Region-peeri/thumbnail.png"
       },
       {
         "id": "2026-11-19-Amazon-CloudFront-standard-logging-now-supports-CM",
@@ -44,6 +165,50 @@
         "path": "2026/11/19/Amazon-CloudWatch-simplifies-network-performance-m",
         "summary": "Amazon CloudWatch が VPC 向けネットワークパフォーマンス監視を簡素化",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/Amazon-CloudWatch-simplifies-network-performance-m/thumbnail.png"
+      },
+      {
+        "id": "2026-11-19-Amazon-Polly-now-supports-voice-cloning",
+        "title": "Amazon Pollyが音声クローニングをサポート、ブランド音声の作成が可能に",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/Amazon-Polly-now-supports-voice-cloning",
+        "summary": "Amazon Pollyが音声クローニングをサポート、ブランド音声の作成が可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/Amazon-Polly-now-supports-voice-cloning/thumbnail.png"
+      },
+      {
+        "id": "2026-11-19-Amazon-Route-53-now-supports-health-checks-for-pri",
+        "title": "Amazon Route 53がプライベートエンドポイントのヘルスチェックをサポート",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/Amazon-Route-53-now-supports-health-checks-for-pri",
+        "summary": "Amazon Route 53がプライベートエンドポイントのヘルスチェックをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/Amazon-Route-53-now-supports-health-checks-for-pri/thumbnail.png"
+      },
+      {
+        "id": "2026-11-19-Amazon-VPC-Flow-Logs-now-supports-Amazon-EKS-metad",
+        "title": "Amazon VPC Flow Logs が Amazon EKS メタデータをサポート",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/Amazon-VPC-Flow-Logs-now-supports-Amazon-EKS-metad",
+        "summary": "Amazon VPC Flow Logs が Amazon EKS メタデータをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/Amazon-VPC-Flow-Logs-now-supports-Amazon-EKS-metad/thumbnail.png"
+      },
+      {
+        "id": "2026-11-19-Aurora-PostgreSQL-with-express-configuration-now-s",
+        "title": "Aurora PostgreSQLのエクスプレス設定がAmazon VPCをサポート",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/Aurora-PostgreSQL-with-express-configuration-now-s",
+        "summary": "Aurora PostgreSQLのエクスプレス設定がAmazon VPCをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/Aurora-PostgreSQL-with-express-configuration-now-s/thumbnail.png"
       },
       {
         "id": "2026-11-18-AWS-Control-Tower-now-supports-existing-Amazon-S3",
@@ -9011,8 +9176,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-11-19T19:14:36.814Z",
-    "totalCount": 819
+    "updatedAt": "2026-11-20T01:30:16.971Z",
+    "totalCount": 834
   },
   "metadata:months": [
     "2026/11",
@@ -9031,6 +9196,39 @@
     "month": 11,
     "articles": [
       {
+        "id": "2026-11-19-AWS-AppConfig-launches-support-for-managing-native",
+        "title": "AWS AppConfigがAIモデル呼び出しとプロンプト設定の管理をサポート",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/AWS-AppConfig-launches-support-for-managing-native",
+        "summary": "AWS AppConfigがAIモデル呼び出しとプロンプト設定の管理をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/AWS-AppConfig-launches-support-for-managing-native/thumbnail.png"
+      },
+      {
+        "id": "2026-11-19-AWS-DevOps-Agent-now-supports-Slack-code-channels",
+        "title": "AWS DevOps AgentがSlackコードチャネルとMicrosoft Teams双方向会話をサポート",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/AWS-DevOps-Agent-now-supports-Slack-code-channels",
+        "summary": "AWS DevOps AgentがSlackコードチャネルとMicrosoft Teams双方向会話をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/AWS-DevOps-Agent-now-supports-Slack-code-channels/thumbnail.png"
+      },
+      {
+        "id": "2026-11-19-AWS-Health-now-supports-resource-and-account-tags",
+        "title": "AWS Healthがリソースタグとアカウントタグのサポートを開始",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/AWS-Health-now-supports-resource-and-account-tags",
+        "summary": "AWS Healthがリソースタグとアカウントタグのサポートを開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/AWS-Health-now-supports-resource-and-account-tags/thumbnail.png"
+      },
+      {
         "id": "2026-11-19-AWS-IAM-account-access-manager-is-now-even-easier",
         "title": "AWS IAM account access managerの導入と利用がさらに容易に",
         "date": "2026-11-19",
@@ -9042,6 +9240,72 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/AWS-IAM-account-access-manager-is-now-even-easier/thumbnail.png"
       },
       {
+        "id": "2026-11-19-AWS-Lambda-now-supports-a-30-minute-timeout-for-on",
+        "title": "AWS LambdaのオンデマンドEvent Functionsが30分タイムアウトに対応",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/AWS-Lambda-now-supports-a-30-minute-timeout-for-on",
+        "summary": "AWS LambdaのオンデマンドEvent Functionsが30分タイムアウトに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/AWS-Lambda-now-supports-a-30-minute-timeout-for-on/thumbnail.png"
+      },
+      {
+        "id": "2026-11-19-AWS-Partner-Central-Agents-now-guide-partners-to-h",
+        "title": "AWS Partner Central Agentsが共同販売機会の品質向上とモーションを案内",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/AWS-Partner-Central-Agents-now-guide-partners-to-h",
+        "summary": "AWS Partner Central Agentsが共同販売機会の品質向上とモーションを案内",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/AWS-Partner-Central-Agents-now-guide-partners-to-h/thumbnail.png"
+      },
+      {
+        "id": "2026-11-19-AWS-Partner-Central-now-supports-AI-assisted-listi",
+        "title": "AWS Partner Centralが製品・サービス・ソリューション向けAI支援リスティングを提供",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/AWS-Partner-Central-now-supports-AI-assisted-listi",
+        "summary": "AWS Partner Centralが製品・サービス・ソリューション向けAI支援リスティングを提供",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/AWS-Partner-Central-now-supports-AI-assisted-listi/thumbnail.png"
+      },
+      {
+        "id": "2026-11-19-AWS-Revenue-Measurement-now-supports-Identity-Tagg",
+        "title": "AWS Revenue Measurement が Identity Tagging をサポート",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/AWS-Revenue-Measurement-now-supports-Identity-Tagg",
+        "summary": "AWS Revenue Measurement が Identity Tagging をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/AWS-Revenue-Measurement-now-supports-Identity-Tagg/thumbnail.png"
+      },
+      {
+        "id": "2026-11-19-AWS-Revenue-Measurement-now-supports-closed-source",
+        "title": "AWS Revenue MeasurementがAmazon Bedrockのクローズドソースモデルをサポート",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/AWS-Revenue-Measurement-now-supports-closed-source",
+        "summary": "AWS Revenue MeasurementがAmazon Bedrockのクローズドソースモデルをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/AWS-Revenue-Measurement-now-supports-closed-source/thumbnail.png"
+      },
+      {
+        "id": "2026-11-19-AWS-Systems-Manager-Parameter-Store-raises-API-thr",
+        "title": "AWS Systems Manager Parameter Store が API スループット制限を引き上げ",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/AWS-Systems-Manager-Parameter-Store-raises-API-thr",
+        "summary": "AWS Systems Manager Parameter Store が API スループット制限を引き上げ",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/AWS-Systems-Manager-Parameter-Store-raises-API-thr/thumbnail.png"
+      },
+      {
         "id": "2026-11-19-AWS-announces-ExtendDB-10",
         "title": "AWSがExtendDB 1.0を発表 — DynamoDB互換アダプターが本番利用可能に",
         "date": "2026-11-19",
@@ -9051,6 +9315,28 @@
         "path": "2026/11/19/AWS-announces-ExtendDB-10",
         "summary": "AWSがExtendDB 1.0を発表 — DynamoDB互換アダプターが本番利用可能に",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/AWS-announces-ExtendDB-10/thumbnail.png"
+      },
+      {
+        "id": "2026-11-19-AgentCore-runtime-instances-now-support-privileged",
+        "title": "Amazon Bedrock AgentCoreがランタイムインスタンスの特権モードに対応",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/AgentCore-runtime-instances-now-support-privileged",
+        "summary": "Amazon Bedrock AgentCoreがランタイムインスタンスの特権モードに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/AgentCore-runtime-instances-now-support-privileged/thumbnail.png"
+      },
+      {
+        "id": "2026-11-19-Amazon-Aurora-DSQL-now-supports-multi-Region-peeri",
+        "title": "Amazon Aurora DSQLが大陸間マルチリージョンピアリングをサポート",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/Amazon-Aurora-DSQL-now-supports-multi-Region-peeri",
+        "summary": "Amazon Aurora DSQLが大陸間マルチリージョンピアリングをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/Amazon-Aurora-DSQL-now-supports-multi-Region-peeri/thumbnail.png"
       },
       {
         "id": "2026-11-19-Amazon-CloudFront-standard-logging-now-supports-CM",
@@ -9073,6 +9359,50 @@
         "path": "2026/11/19/Amazon-CloudWatch-simplifies-network-performance-m",
         "summary": "Amazon CloudWatch が VPC 向けネットワークパフォーマンス監視を簡素化",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/Amazon-CloudWatch-simplifies-network-performance-m/thumbnail.png"
+      },
+      {
+        "id": "2026-11-19-Amazon-Polly-now-supports-voice-cloning",
+        "title": "Amazon Pollyが音声クローニングをサポート、ブランド音声の作成が可能に",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/Amazon-Polly-now-supports-voice-cloning",
+        "summary": "Amazon Pollyが音声クローニングをサポート、ブランド音声の作成が可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/Amazon-Polly-now-supports-voice-cloning/thumbnail.png"
+      },
+      {
+        "id": "2026-11-19-Amazon-Route-53-now-supports-health-checks-for-pri",
+        "title": "Amazon Route 53がプライベートエンドポイントのヘルスチェックをサポート",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/Amazon-Route-53-now-supports-health-checks-for-pri",
+        "summary": "Amazon Route 53がプライベートエンドポイントのヘルスチェックをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/Amazon-Route-53-now-supports-health-checks-for-pri/thumbnail.png"
+      },
+      {
+        "id": "2026-11-19-Amazon-VPC-Flow-Logs-now-supports-Amazon-EKS-metad",
+        "title": "Amazon VPC Flow Logs が Amazon EKS メタデータをサポート",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/Amazon-VPC-Flow-Logs-now-supports-Amazon-EKS-metad",
+        "summary": "Amazon VPC Flow Logs が Amazon EKS メタデータをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/Amazon-VPC-Flow-Logs-now-supports-Amazon-EKS-metad/thumbnail.png"
+      },
+      {
+        "id": "2026-11-19-Aurora-PostgreSQL-with-express-configuration-now-s",
+        "title": "Aurora PostgreSQLのエクスプレス設定がAmazon VPCをサポート",
+        "date": "2026-11-19",
+        "year": 2026,
+        "month": 11,
+        "day": 19,
+        "path": "2026/11/19/Aurora-PostgreSQL-with-express-configuration-now-s",
+        "summary": "Aurora PostgreSQLのエクスプレス設定がAmazon VPCをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/19/Aurora-PostgreSQL-with-express-configuration-now-s/thumbnail.png"
       },
       {
         "id": "2026-11-18-AWS-Control-Tower-now-supports-existing-Amazon-S3",
@@ -10197,7 +10527,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/02/Amazon-RDS-for-Oracle-no-longer-requires-automatic/thumbnail.png"
       }
     ],
-    "totalPages": 11
+    "totalPages": 13
   },
   "metadata:2026/10": {
     "year": 2026,
