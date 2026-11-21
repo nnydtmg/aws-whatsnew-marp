@@ -2,6 +2,171 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-11-21-AWS-Agent-Registry-now-offers-naming-and-public-di",
+        "title": "AWS Agent Registryが命名と公開発見機能の提供を開始",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/AWS-Agent-Registry-now-offers-naming-and-public-di",
+        "summary": "AWS Agent Registryが命名と公開発見機能の提供を開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/AWS-Agent-Registry-now-offers-naming-and-public-di/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-AWS-Agent-Registry-now-supports-WebBotAuth-bot-reg",
+        "title": "AWS Agent Registry が WebBotAuth ボット登録をサポート",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/AWS-Agent-Registry-now-supports-WebBotAuth-bot-reg",
+        "summary": "AWS Agent Registry が WebBotAuth ボット登録をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/AWS-Agent-Registry-now-supports-WebBotAuth-bot-reg/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-AWS-Backup-now-supports-incremental-backups-for-Am",
+        "title": "AWS BackupがAmazon DynamoDBの増分バックアップに対応",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/AWS-Backup-now-supports-incremental-backups-for-Am",
+        "summary": "AWS BackupがAmazon DynamoDBの増分バックアップに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/AWS-Backup-now-supports-incremental-backups-for-Am/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-AWS-CloudFormation-increases-the-default-stacks-pe",
+        "title": "AWS CloudFormationのアカウントあたりスタック数がデフォルト30万に増加",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/AWS-CloudFormation-increases-the-default-stacks-pe",
+        "summary": "AWS CloudFormationのアカウントあたりスタック数がデフォルト30万に増加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/AWS-CloudFormation-increases-the-default-stacks-pe/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-AWS-Lambda-now-provides-cost-optimization-recommen",
+        "title": "AWS LambdaがEvent Functions向けコスト最適化レコメンデーションを提供",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/AWS-Lambda-now-provides-cost-optimization-recommen",
+        "summary": "AWS LambdaがEvent Functions向けコスト最適化レコメンデーションを提供",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/AWS-Lambda-now-provides-cost-optimization-recommen/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-AWS-Lambda-now-supports-a-batch-size-of-up-to-1000",
+        "title": "AWS LambdaがAmazon SQS FIFOキューでバッチサイズ最大10,000件をサポート",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/AWS-Lambda-now-supports-a-batch-size-of-up-to-1000",
+        "summary": "AWS LambdaがAmazon SQS FIFOキューでバッチサイズ最大10,000件をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/AWS-Lambda-now-supports-a-batch-size-of-up-to-1000/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-AWS-Network-Firewall-introduces-automated-Internet",
+        "title": "AWS Network Firewallが自動化Internetファイアウォールのパブリックプレビューを開始",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/AWS-Network-Firewall-introduces-automated-Internet",
+        "summary": "AWS Network Firewallが自動化Internetファイアウォールのパブリックプレビューを開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/AWS-Network-Firewall-introduces-automated-Internet/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-Amazon-CloudWatch-Omni-now-supports-Microsoft-Azur",
+        "title": "Amazon CloudWatch OmniがMicrosoft Azureのログ・メトリクス・トレースに対応",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/Amazon-CloudWatch-Omni-now-supports-Microsoft-Azur",
+        "summary": "Amazon CloudWatch OmniがMicrosoft Azureのログ・メトリクス・トレースに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/Amazon-CloudWatch-Omni-now-supports-Microsoft-Azur/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-Amazon-Route-53-now-offers-Advanced-Hosted-Zones",
+        "title": "Amazon Route 53 が Advanced Hosted Zones の提供を開始",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/Amazon-Route-53-now-offers-Advanced-Hosted-Zones",
+        "summary": "Amazon Route 53 が Advanced Hosted Zones の提供を開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/Amazon-Route-53-now-offers-Advanced-Hosted-Zones/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-Amazon-Route-53-now-supports-Availability-Zone-AZ",
+        "title": "Amazon Route 53 が AZ アフィニティルーティングをサポート",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/Amazon-Route-53-now-supports-Availability-Zone-AZ",
+        "summary": "Amazon Route 53 が AZ アフィニティルーティングをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/Amazon-Route-53-now-supports-Availability-Zone-AZ/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-Amazon-Route-53-private-hosted-zones-now-support-p",
+        "title": "Amazon Route 53のプライベートホストゾーンがパブリックDNSフォールバックをサポート",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/Amazon-Route-53-private-hosted-zones-now-support-p",
+        "summary": "Amazon Route 53のプライベートホストゾーンがパブリックDNSフォールバックをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/Amazon-Route-53-private-hosted-zones-now-support-p/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-Amazon-VPC-IPAM-policies-now-support-automated-int",
+        "title": "Amazon VPC IPAMポリシーがFirewallとLambdaのIP割り当てに対応",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/Amazon-VPC-IPAM-policies-now-support-automated-int",
+        "summary": "Amazon VPC IPAMポリシーがFirewallとLambdaのIP割り当てに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/Amazon-VPC-IPAM-policies-now-support-automated-int/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-Announcing-Test-Insights-for-AWS-Device-Farm",
+        "title": "AWS Device FarmにTest Insightsが登場、テスト障害の迅速な把握と解決が可能に",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/Announcing-Test-Insights-for-AWS-Device-Farm",
+        "summary": "AWS Device FarmにTest Insightsが登場、テスト障害の迅速な把握と解決が可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/Announcing-Test-Insights-for-AWS-Device-Farm/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-Announcing-a-new-skill-for-AI-agents-in-Amazon-Tex",
+        "title": "Amazon Textract CoreがAIエージェント向けスキルを発表",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/Announcing-a-new-skill-for-AI-agents-in-Amazon-Tex",
+        "summary": "Amazon Textract CoreがAIエージェント向けスキルを発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/Announcing-a-new-skill-for-AI-agents-in-Amazon-Tex/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-Web-Search-on-Amazon-Bedrock-expands-language-supp",
+        "title": "Amazon BedrockのWeb Searchが5言語対応と国別検索を拡充",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/Web-Search-on-Amazon-Bedrock-expands-language-supp",
+        "summary": "Amazon BedrockのWeb Searchが5言語対応と国別検索を拡充",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/Web-Search-on-Amazon-Bedrock-expands-language-supp/thumbnail.png"
+      },
+      {
         "id": "2026-11-20-AWS-CloudFormation-Service-Managed-StackSets-adds",
         "title": "CloudFormation のサービス管理型 StackSets がカスタム実行ロールとネストスタックをサポート",
         "date": "2026-11-20",
@@ -9550,8 +9715,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-11-21T00:27:09.661Z",
-    "totalCount": 868
+    "updatedAt": "2026-11-21T07:50:26.417Z",
+    "totalCount": 883
   },
   "metadata:months": [
     "2026/11",
@@ -9569,6 +9734,171 @@
     "year": 2026,
     "month": 11,
     "articles": [
+      {
+        "id": "2026-11-21-AWS-Agent-Registry-now-offers-naming-and-public-di",
+        "title": "AWS Agent Registryが命名と公開発見機能の提供を開始",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/AWS-Agent-Registry-now-offers-naming-and-public-di",
+        "summary": "AWS Agent Registryが命名と公開発見機能の提供を開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/AWS-Agent-Registry-now-offers-naming-and-public-di/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-AWS-Agent-Registry-now-supports-WebBotAuth-bot-reg",
+        "title": "AWS Agent Registry が WebBotAuth ボット登録をサポート",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/AWS-Agent-Registry-now-supports-WebBotAuth-bot-reg",
+        "summary": "AWS Agent Registry が WebBotAuth ボット登録をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/AWS-Agent-Registry-now-supports-WebBotAuth-bot-reg/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-AWS-Backup-now-supports-incremental-backups-for-Am",
+        "title": "AWS BackupがAmazon DynamoDBの増分バックアップに対応",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/AWS-Backup-now-supports-incremental-backups-for-Am",
+        "summary": "AWS BackupがAmazon DynamoDBの増分バックアップに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/AWS-Backup-now-supports-incremental-backups-for-Am/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-AWS-CloudFormation-increases-the-default-stacks-pe",
+        "title": "AWS CloudFormationのアカウントあたりスタック数がデフォルト30万に増加",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/AWS-CloudFormation-increases-the-default-stacks-pe",
+        "summary": "AWS CloudFormationのアカウントあたりスタック数がデフォルト30万に増加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/AWS-CloudFormation-increases-the-default-stacks-pe/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-AWS-Lambda-now-provides-cost-optimization-recommen",
+        "title": "AWS LambdaがEvent Functions向けコスト最適化レコメンデーションを提供",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/AWS-Lambda-now-provides-cost-optimization-recommen",
+        "summary": "AWS LambdaがEvent Functions向けコスト最適化レコメンデーションを提供",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/AWS-Lambda-now-provides-cost-optimization-recommen/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-AWS-Lambda-now-supports-a-batch-size-of-up-to-1000",
+        "title": "AWS LambdaがAmazon SQS FIFOキューでバッチサイズ最大10,000件をサポート",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/AWS-Lambda-now-supports-a-batch-size-of-up-to-1000",
+        "summary": "AWS LambdaがAmazon SQS FIFOキューでバッチサイズ最大10,000件をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/AWS-Lambda-now-supports-a-batch-size-of-up-to-1000/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-AWS-Network-Firewall-introduces-automated-Internet",
+        "title": "AWS Network Firewallが自動化Internetファイアウォールのパブリックプレビューを開始",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/AWS-Network-Firewall-introduces-automated-Internet",
+        "summary": "AWS Network Firewallが自動化Internetファイアウォールのパブリックプレビューを開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/AWS-Network-Firewall-introduces-automated-Internet/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-Amazon-CloudWatch-Omni-now-supports-Microsoft-Azur",
+        "title": "Amazon CloudWatch OmniがMicrosoft Azureのログ・メトリクス・トレースに対応",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/Amazon-CloudWatch-Omni-now-supports-Microsoft-Azur",
+        "summary": "Amazon CloudWatch OmniがMicrosoft Azureのログ・メトリクス・トレースに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/Amazon-CloudWatch-Omni-now-supports-Microsoft-Azur/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-Amazon-Route-53-now-offers-Advanced-Hosted-Zones",
+        "title": "Amazon Route 53 が Advanced Hosted Zones の提供を開始",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/Amazon-Route-53-now-offers-Advanced-Hosted-Zones",
+        "summary": "Amazon Route 53 が Advanced Hosted Zones の提供を開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/Amazon-Route-53-now-offers-Advanced-Hosted-Zones/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-Amazon-Route-53-now-supports-Availability-Zone-AZ",
+        "title": "Amazon Route 53 が AZ アフィニティルーティングをサポート",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/Amazon-Route-53-now-supports-Availability-Zone-AZ",
+        "summary": "Amazon Route 53 が AZ アフィニティルーティングをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/Amazon-Route-53-now-supports-Availability-Zone-AZ/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-Amazon-Route-53-private-hosted-zones-now-support-p",
+        "title": "Amazon Route 53のプライベートホストゾーンがパブリックDNSフォールバックをサポート",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/Amazon-Route-53-private-hosted-zones-now-support-p",
+        "summary": "Amazon Route 53のプライベートホストゾーンがパブリックDNSフォールバックをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/Amazon-Route-53-private-hosted-zones-now-support-p/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-Amazon-VPC-IPAM-policies-now-support-automated-int",
+        "title": "Amazon VPC IPAMポリシーがFirewallとLambdaのIP割り当てに対応",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/Amazon-VPC-IPAM-policies-now-support-automated-int",
+        "summary": "Amazon VPC IPAMポリシーがFirewallとLambdaのIP割り当てに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/Amazon-VPC-IPAM-policies-now-support-automated-int/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-Announcing-Test-Insights-for-AWS-Device-Farm",
+        "title": "AWS Device FarmにTest Insightsが登場、テスト障害の迅速な把握と解決が可能に",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/Announcing-Test-Insights-for-AWS-Device-Farm",
+        "summary": "AWS Device FarmにTest Insightsが登場、テスト障害の迅速な把握と解決が可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/Announcing-Test-Insights-for-AWS-Device-Farm/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-Announcing-a-new-skill-for-AI-agents-in-Amazon-Tex",
+        "title": "Amazon Textract CoreがAIエージェント向けスキルを発表",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/Announcing-a-new-skill-for-AI-agents-in-Amazon-Tex",
+        "summary": "Amazon Textract CoreがAIエージェント向けスキルを発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/Announcing-a-new-skill-for-AI-agents-in-Amazon-Tex/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-Web-Search-on-Amazon-Bedrock-expands-language-supp",
+        "title": "Amazon BedrockのWeb Searchが5言語対応と国別検索を拡充",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/Web-Search-on-Amazon-Bedrock-expands-language-supp",
+        "summary": "Amazon BedrockのWeb Searchが5言語対応と国別検索を拡充",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/Web-Search-on-Amazon-Bedrock-expands-language-supp/thumbnail.png"
+      },
       {
         "id": "2026-11-20-AWS-CloudFormation-Service-Managed-StackSets-adds",
         "title": "CloudFormation のサービス管理型 StackSets がカスタム実行ロールとネストスタックをサポート",
@@ -11275,7 +11605,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/02/Amazon-RDS-for-Oracle-no-longer-requires-automatic/thumbnail.png"
       }
     ],
-    "totalPages": 16
+    "totalPages": 17
   },
   "metadata:2026/10": {
     "year": 2026,
