@@ -6,13 +6,49 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-20-AWS-CloudFormation-Service-Managed-StackSets-adds</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-20-AWS-Continuum-for-Penetration-Testing-now-estimate</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-20-AWS-Continuum-for-Penetration-Testing-now-supports</loc>
     <lastmod>2026-11-20</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-20-AWS-DevOps-Agent-adds-community-and-partner-tools</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-20-AWS-DevOps-Agent-adds-new-chat-capabilities</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-20-AWS-DevOps-Agent-now-supports-Slack-code-channels</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-20-AWS-DevOps-Agent-reduces-investigation-latency</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-20-AWS-Glue-Data-Catalog-introduces-data-quality-moni</loc>
     <lastmod>2026-11-20</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
@@ -36,6 +72,24 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-20-AWS-Partners-can-now-manage-their-AWS-partnership</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-20-AWS-Quick-introduces-enterprise-guardrails-preview</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-20-AWS-Quick-now-supports-group-assignments-for-custo</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-20-AWS-STS-announces-GetScopedCredentials-to-scope-do</loc>
     <lastmod>2026-11-20</lastmod>
     <changefreq>never</changefreq>
@@ -43,6 +97,12 @@
   </url>
   <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-20-AWS-WAF-launches-new-Security-Analytics-Dashboard</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-20-AWS-launches-standardized-cost-and-rate-columns-in</loc>
     <lastmod>2026-11-20</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
@@ -78,6 +138,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-20-Amazon-CloudWatch-Observability-EKS-add-on-now-sup</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-20-Amazon-Cognito-now-supports-AWS-Secrets-Manager-fo</loc>
     <lastmod>2026-11-20</lastmod>
     <changefreq>never</changefreq>
@@ -91,6 +157,54 @@
   </url>
   <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-20-Amazon-Cognito-now-supports-dynamic-client-registr</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-20-Amazon-EventBridge-Custom-event-bus-now-supports-A</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-20-Amazon-EventBridge-Custom-event-bus-now-supports-W</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-20-Amazon-EventBridge-Scheduler-adds-589-new-API-acti</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-20-Amazon-Textract-Insights-is-now-generally-availabl</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-20-Amazon-Transcribe-announces-a-synchronous-transcri</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-20-Amazon-VPC-Lattice-now-supports-CloudWatch-metrics</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-20-IAM-Roles-Anywhere-now-supports-aliases-to-simplif</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-20-Spend-limits-in-the-new-AWS-experience-now-support</loc>
     <lastmod>2026-11-20</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>

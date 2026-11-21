@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-11-20-AWS-CloudFormation-Service-Managed-StackSets-adds",
+        "title": "CloudFormation のサービス管理型 StackSets がカスタム実行ロールとネストスタックをサポート",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-CloudFormation-Service-Managed-StackSets-adds",
+        "summary": "CloudFormation のサービス管理型 StackSets がカスタム実行ロールとネストスタックをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-CloudFormation-Service-Managed-StackSets-adds/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-AWS-Continuum-for-Penetration-Testing-now-estimate",
+        "title": "AWS Continuum for Penetration Testingがテスト実行前のタスク時間見積もりに対応",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-Continuum-for-Penetration-Testing-now-estimate",
+        "summary": "AWS Continuum for Penetration Testingがテスト実行前のタスク時間見積もりに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-Continuum-for-Penetration-Testing-now-estimate/thumbnail.png"
+      },
+      {
         "id": "2026-11-20-AWS-Continuum-for-Penetration-Testing-now-supports",
         "title": "AWS Continuum for Penetration Testing が一時停止と再開をサポート",
         "date": "2026-11-20",
@@ -13,6 +35,28 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-Continuum-for-Penetration-Testing-now-supports/thumbnail.png"
       },
       {
+        "id": "2026-11-20-AWS-DevOps-Agent-adds-community-and-partner-tools",
+        "title": "AWS DevOps Agent がコミュニティ・パートナー向けツールリポジトリを追加",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-DevOps-Agent-adds-community-and-partner-tools",
+        "summary": "AWS DevOps Agent がコミュニティ・パートナー向けツールリポジトリを追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-DevOps-Agent-adds-community-and-partner-tools/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-AWS-DevOps-Agent-adds-new-chat-capabilities",
+        "title": "AWS DevOps Agentが新しいチャット機能を追加",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-DevOps-Agent-adds-new-chat-capabilities",
+        "summary": "AWS DevOps Agentが新しいチャット機能を追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-DevOps-Agent-adds-new-chat-capabilities/thumbnail.png"
+      },
+      {
         "id": "2026-11-20-AWS-DevOps-Agent-now-supports-Slack-code-channels",
         "title": "AWS DevOps AgentがSlackコードチャネルとTeams双方向会話をサポート",
         "date": "2026-11-20",
@@ -22,6 +66,28 @@
         "path": "2026/11/20/AWS-DevOps-Agent-now-supports-Slack-code-channels",
         "summary": "AWS DevOps AgentがSlackコードチャネルとTeams双方向会話をサポート",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-DevOps-Agent-now-supports-Slack-code-channels/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-AWS-DevOps-Agent-reduces-investigation-latency",
+        "title": "AWS DevOps Agentがインシデント調査を高速化、リアルタイムサマリーに対応",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-DevOps-Agent-reduces-investigation-latency",
+        "summary": "AWS DevOps Agentがインシデント調査を高速化、リアルタイムサマリーに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-DevOps-Agent-reduces-investigation-latency/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-AWS-Glue-Data-Catalog-introduces-data-quality-moni",
+        "title": "AWS Glue Data Catalogがカタログとデータベースのデータ品質監視を発表",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-Glue-Data-Catalog-introduces-data-quality-moni",
+        "summary": "AWS Glue Data Catalogがカタログとデータベースのデータ品質監視を発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-Glue-Data-Catalog-introduces-data-quality-moni/thumbnail.png"
       },
       {
         "id": "2026-11-20-AWS-Lambda-durable-functions-now-supports-OpenTele",
@@ -57,6 +123,39 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-Network-Load-Balancer-now-supports-mutual-TLS/thumbnail.png"
       },
       {
+        "id": "2026-11-20-AWS-Partners-can-now-manage-their-AWS-partnership",
+        "title": "AWS QuickがAWSパートナーシップ管理に対応",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-Partners-can-now-manage-their-AWS-partnership",
+        "summary": "AWS QuickがAWSパートナーシップ管理に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-Partners-can-now-manage-their-AWS-partnership/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-AWS-Quick-introduces-enterprise-guardrails-preview",
+        "title": "AWS Quickがエンタープライズガードレールをプレビュー提供開始",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-Quick-introduces-enterprise-guardrails-preview",
+        "summary": "AWS Quickがエンタープライズガードレールをプレビュー提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-Quick-introduces-enterprise-guardrails-preview/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-AWS-Quick-now-supports-group-assignments-for-custo",
+        "title": "AWS Quickがカスタム権限と制限プロファイルのグループ割り当てに対応",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-Quick-now-supports-group-assignments-for-custo",
+        "summary": "AWS Quickがカスタム権限と制限プロファイルのグループ割り当てに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-Quick-now-supports-group-assignments-for-custo/thumbnail.png"
+      },
+      {
         "id": "2026-11-20-AWS-STS-announces-GetScopedCredentials-to-scope-do",
         "title": "AWS STS が GetScopedCredentials を発表、実行時の権限絞り込みが可能に",
         "date": "2026-11-20",
@@ -77,6 +176,17 @@
         "path": "2026/11/20/AWS-WAF-launches-new-Security-Analytics-Dashboard",
         "summary": "AWS WAFがリアルタイム調査向けSecurity Analytics Dashboardを発表",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-WAF-launches-new-Security-Analytics-Dashboard/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-AWS-launches-standardized-cost-and-rate-columns-in",
+        "title": "CUR 2.0とCost Explorerに標準コスト・レート列が追加",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-launches-standardized-cost-and-rate-columns-in",
+        "summary": "CUR 2.0とCost Explorerに標準コスト・レート列が追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-launches-standardized-cost-and-rate-columns-in/thumbnail.png"
       },
       {
         "id": "2026-11-20-AgentCore-runtime-instances-now-support-Nested-Vir",
@@ -134,6 +244,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Amazon-CloudFront-simplifies-domain-moves-and-onbo/thumbnail.png"
       },
       {
+        "id": "2026-11-20-Amazon-CloudWatch-Observability-EKS-add-on-now-sup",
+        "title": "Amazon CloudWatch Observability EKSアドオンがテレメトリフィルタリングをサポート",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/Amazon-CloudWatch-Observability-EKS-add-on-now-sup",
+        "summary": "Amazon CloudWatch Observability EKSアドオンがテレメトリフィルタリングをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Amazon-CloudWatch-Observability-EKS-add-on-now-sup/thumbnail.png"
+      },
+      {
         "id": "2026-11-20-Amazon-Cognito-now-supports-AWS-Secrets-Manager-fo",
         "title": "Amazon CognitoがAWS Secrets Managerでアプリクライアントシークレット管理に対応",
         "date": "2026-11-20",
@@ -165,6 +286,94 @@
         "path": "2026/11/20/Amazon-Cognito-now-supports-dynamic-client-registr",
         "summary": "Amazon CognitoがOAuth動的クライアント登録（DCR）をサポート",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Amazon-Cognito-now-supports-dynamic-client-registr/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-Amazon-EventBridge-Custom-event-bus-now-supports-A",
+        "title": "Amazon EventBridge が Amazon MSK をターゲットとしてサポート",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/Amazon-EventBridge-Custom-event-bus-now-supports-A",
+        "summary": "Amazon EventBridge が Amazon MSK をターゲットとしてサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Amazon-EventBridge-Custom-event-bus-now-supports-A/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-Amazon-EventBridge-Custom-event-bus-now-supports-W",
+        "title": "Amazon EventBridge のカスタムイベントバスが Webhook Events をサポート",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/Amazon-EventBridge-Custom-event-bus-now-supports-W",
+        "summary": "Amazon EventBridge のカスタムイベントバスが Webhook Events をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Amazon-EventBridge-Custom-event-bus-now-supports-W/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-Amazon-EventBridge-Scheduler-adds-589-new-API-acti",
+        "title": "Amazon EventBridge Schedulerが589の新APIアクションとイベントバスターゲットを追加",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/Amazon-EventBridge-Scheduler-adds-589-new-API-acti",
+        "summary": "Amazon EventBridge Schedulerが589の新APIアクションとイベントバスターゲットを追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Amazon-EventBridge-Scheduler-adds-589-new-API-acti/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-Amazon-Textract-Insights-is-now-generally-availabl",
+        "title": "Amazon Textract Insights が一般提供開始、単一リクエストで文書理解を実現",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/Amazon-Textract-Insights-is-now-generally-availabl",
+        "summary": "Amazon Textract Insights が一般提供開始、単一リクエストで文書理解を実現",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Amazon-Textract-Insights-is-now-generally-availabl/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-Amazon-Transcribe-announces-a-synchronous-transcri",
+        "title": "Amazon Transcribeが同期文字起こしAPI「TranscribeAudio」を発表",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/Amazon-Transcribe-announces-a-synchronous-transcri",
+        "summary": "Amazon Transcribeが同期文字起こしAPI「TranscribeAudio」を発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Amazon-Transcribe-announces-a-synchronous-transcri/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-Amazon-VPC-Lattice-now-supports-CloudWatch-metrics",
+        "title": "Amazon VPC LatticeがVPCリソース向けCloudWatchメトリクスをサポート",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/Amazon-VPC-Lattice-now-supports-CloudWatch-metrics",
+        "summary": "Amazon VPC LatticeがVPCリソース向けCloudWatchメトリクスをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Amazon-VPC-Lattice-now-supports-CloudWatch-metrics/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-IAM-Roles-Anywhere-now-supports-aliases-to-simplif",
+        "title": "IAM Roles Anywhere がエイリアスをサポートしワークロード設定を簡素化",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/IAM-Roles-Anywhere-now-supports-aliases-to-simplif",
+        "summary": "IAM Roles Anywhere がエイリアスをサポートしワークロード設定を簡素化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/IAM-Roles-Anywhere-now-supports-aliases-to-simplif/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-Spend-limits-in-the-new-AWS-experience-now-support",
+        "title": "新しいAWS体験の利用限度額がSMSアラートに対応",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/Spend-limits-in-the-new-AWS-experience-now-support",
+        "summary": "新しいAWS体験の利用限度額がSMSアラートに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Spend-limits-in-the-new-AWS-experience-now-support/thumbnail.png"
       },
       {
         "id": "2026-11-19-AWS-AppConfig-launches-support-for-managing-native",
@@ -9341,8 +9550,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-11-20T18:24:13.321Z",
-    "totalCount": 849
+    "updatedAt": "2026-11-21T00:27:09.661Z",
+    "totalCount": 868
   },
   "metadata:months": [
     "2026/11",
@@ -9361,6 +9570,28 @@
     "month": 11,
     "articles": [
       {
+        "id": "2026-11-20-AWS-CloudFormation-Service-Managed-StackSets-adds",
+        "title": "CloudFormation のサービス管理型 StackSets がカスタム実行ロールとネストスタックをサポート",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-CloudFormation-Service-Managed-StackSets-adds",
+        "summary": "CloudFormation のサービス管理型 StackSets がカスタム実行ロールとネストスタックをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-CloudFormation-Service-Managed-StackSets-adds/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-AWS-Continuum-for-Penetration-Testing-now-estimate",
+        "title": "AWS Continuum for Penetration Testingがテスト実行前のタスク時間見積もりに対応",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-Continuum-for-Penetration-Testing-now-estimate",
+        "summary": "AWS Continuum for Penetration Testingがテスト実行前のタスク時間見積もりに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-Continuum-for-Penetration-Testing-now-estimate/thumbnail.png"
+      },
+      {
         "id": "2026-11-20-AWS-Continuum-for-Penetration-Testing-now-supports",
         "title": "AWS Continuum for Penetration Testing が一時停止と再開をサポート",
         "date": "2026-11-20",
@@ -9372,6 +9603,28 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-Continuum-for-Penetration-Testing-now-supports/thumbnail.png"
       },
       {
+        "id": "2026-11-20-AWS-DevOps-Agent-adds-community-and-partner-tools",
+        "title": "AWS DevOps Agent がコミュニティ・パートナー向けツールリポジトリを追加",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-DevOps-Agent-adds-community-and-partner-tools",
+        "summary": "AWS DevOps Agent がコミュニティ・パートナー向けツールリポジトリを追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-DevOps-Agent-adds-community-and-partner-tools/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-AWS-DevOps-Agent-adds-new-chat-capabilities",
+        "title": "AWS DevOps Agentが新しいチャット機能を追加",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-DevOps-Agent-adds-new-chat-capabilities",
+        "summary": "AWS DevOps Agentが新しいチャット機能を追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-DevOps-Agent-adds-new-chat-capabilities/thumbnail.png"
+      },
+      {
         "id": "2026-11-20-AWS-DevOps-Agent-now-supports-Slack-code-channels",
         "title": "AWS DevOps AgentがSlackコードチャネルとTeams双方向会話をサポート",
         "date": "2026-11-20",
@@ -9381,6 +9634,28 @@
         "path": "2026/11/20/AWS-DevOps-Agent-now-supports-Slack-code-channels",
         "summary": "AWS DevOps AgentがSlackコードチャネルとTeams双方向会話をサポート",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-DevOps-Agent-now-supports-Slack-code-channels/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-AWS-DevOps-Agent-reduces-investigation-latency",
+        "title": "AWS DevOps Agentがインシデント調査を高速化、リアルタイムサマリーに対応",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-DevOps-Agent-reduces-investigation-latency",
+        "summary": "AWS DevOps Agentがインシデント調査を高速化、リアルタイムサマリーに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-DevOps-Agent-reduces-investigation-latency/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-AWS-Glue-Data-Catalog-introduces-data-quality-moni",
+        "title": "AWS Glue Data Catalogがカタログとデータベースのデータ品質監視を発表",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-Glue-Data-Catalog-introduces-data-quality-moni",
+        "summary": "AWS Glue Data Catalogがカタログとデータベースのデータ品質監視を発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-Glue-Data-Catalog-introduces-data-quality-moni/thumbnail.png"
       },
       {
         "id": "2026-11-20-AWS-Lambda-durable-functions-now-supports-OpenTele",
@@ -9416,6 +9691,39 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-Network-Load-Balancer-now-supports-mutual-TLS/thumbnail.png"
       },
       {
+        "id": "2026-11-20-AWS-Partners-can-now-manage-their-AWS-partnership",
+        "title": "AWS QuickがAWSパートナーシップ管理に対応",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-Partners-can-now-manage-their-AWS-partnership",
+        "summary": "AWS QuickがAWSパートナーシップ管理に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-Partners-can-now-manage-their-AWS-partnership/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-AWS-Quick-introduces-enterprise-guardrails-preview",
+        "title": "AWS Quickがエンタープライズガードレールをプレビュー提供開始",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-Quick-introduces-enterprise-guardrails-preview",
+        "summary": "AWS Quickがエンタープライズガードレールをプレビュー提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-Quick-introduces-enterprise-guardrails-preview/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-AWS-Quick-now-supports-group-assignments-for-custo",
+        "title": "AWS Quickがカスタム権限と制限プロファイルのグループ割り当てに対応",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-Quick-now-supports-group-assignments-for-custo",
+        "summary": "AWS Quickがカスタム権限と制限プロファイルのグループ割り当てに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-Quick-now-supports-group-assignments-for-custo/thumbnail.png"
+      },
+      {
         "id": "2026-11-20-AWS-STS-announces-GetScopedCredentials-to-scope-do",
         "title": "AWS STS が GetScopedCredentials を発表、実行時の権限絞り込みが可能に",
         "date": "2026-11-20",
@@ -9436,6 +9744,17 @@
         "path": "2026/11/20/AWS-WAF-launches-new-Security-Analytics-Dashboard",
         "summary": "AWS WAFがリアルタイム調査向けSecurity Analytics Dashboardを発表",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-WAF-launches-new-Security-Analytics-Dashboard/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-AWS-launches-standardized-cost-and-rate-columns-in",
+        "title": "CUR 2.0とCost Explorerに標準コスト・レート列が追加",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/AWS-launches-standardized-cost-and-rate-columns-in",
+        "summary": "CUR 2.0とCost Explorerに標準コスト・レート列が追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/AWS-launches-standardized-cost-and-rate-columns-in/thumbnail.png"
       },
       {
         "id": "2026-11-20-AgentCore-runtime-instances-now-support-Nested-Vir",
@@ -9493,6 +9812,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Amazon-CloudFront-simplifies-domain-moves-and-onbo/thumbnail.png"
       },
       {
+        "id": "2026-11-20-Amazon-CloudWatch-Observability-EKS-add-on-now-sup",
+        "title": "Amazon CloudWatch Observability EKSアドオンがテレメトリフィルタリングをサポート",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/Amazon-CloudWatch-Observability-EKS-add-on-now-sup",
+        "summary": "Amazon CloudWatch Observability EKSアドオンがテレメトリフィルタリングをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Amazon-CloudWatch-Observability-EKS-add-on-now-sup/thumbnail.png"
+      },
+      {
         "id": "2026-11-20-Amazon-Cognito-now-supports-AWS-Secrets-Manager-fo",
         "title": "Amazon CognitoがAWS Secrets Managerでアプリクライアントシークレット管理に対応",
         "date": "2026-11-20",
@@ -9524,6 +9854,94 @@
         "path": "2026/11/20/Amazon-Cognito-now-supports-dynamic-client-registr",
         "summary": "Amazon CognitoがOAuth動的クライアント登録（DCR）をサポート",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Amazon-Cognito-now-supports-dynamic-client-registr/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-Amazon-EventBridge-Custom-event-bus-now-supports-A",
+        "title": "Amazon EventBridge が Amazon MSK をターゲットとしてサポート",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/Amazon-EventBridge-Custom-event-bus-now-supports-A",
+        "summary": "Amazon EventBridge が Amazon MSK をターゲットとしてサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Amazon-EventBridge-Custom-event-bus-now-supports-A/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-Amazon-EventBridge-Custom-event-bus-now-supports-W",
+        "title": "Amazon EventBridge のカスタムイベントバスが Webhook Events をサポート",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/Amazon-EventBridge-Custom-event-bus-now-supports-W",
+        "summary": "Amazon EventBridge のカスタムイベントバスが Webhook Events をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Amazon-EventBridge-Custom-event-bus-now-supports-W/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-Amazon-EventBridge-Scheduler-adds-589-new-API-acti",
+        "title": "Amazon EventBridge Schedulerが589の新APIアクションとイベントバスターゲットを追加",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/Amazon-EventBridge-Scheduler-adds-589-new-API-acti",
+        "summary": "Amazon EventBridge Schedulerが589の新APIアクションとイベントバスターゲットを追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Amazon-EventBridge-Scheduler-adds-589-new-API-acti/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-Amazon-Textract-Insights-is-now-generally-availabl",
+        "title": "Amazon Textract Insights が一般提供開始、単一リクエストで文書理解を実現",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/Amazon-Textract-Insights-is-now-generally-availabl",
+        "summary": "Amazon Textract Insights が一般提供開始、単一リクエストで文書理解を実現",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Amazon-Textract-Insights-is-now-generally-availabl/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-Amazon-Transcribe-announces-a-synchronous-transcri",
+        "title": "Amazon Transcribeが同期文字起こしAPI「TranscribeAudio」を発表",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/Amazon-Transcribe-announces-a-synchronous-transcri",
+        "summary": "Amazon Transcribeが同期文字起こしAPI「TranscribeAudio」を発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Amazon-Transcribe-announces-a-synchronous-transcri/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-Amazon-VPC-Lattice-now-supports-CloudWatch-metrics",
+        "title": "Amazon VPC LatticeがVPCリソース向けCloudWatchメトリクスをサポート",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/Amazon-VPC-Lattice-now-supports-CloudWatch-metrics",
+        "summary": "Amazon VPC LatticeがVPCリソース向けCloudWatchメトリクスをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Amazon-VPC-Lattice-now-supports-CloudWatch-metrics/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-IAM-Roles-Anywhere-now-supports-aliases-to-simplif",
+        "title": "IAM Roles Anywhere がエイリアスをサポートしワークロード設定を簡素化",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/IAM-Roles-Anywhere-now-supports-aliases-to-simplif",
+        "summary": "IAM Roles Anywhere がエイリアスをサポートしワークロード設定を簡素化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/IAM-Roles-Anywhere-now-supports-aliases-to-simplif/thumbnail.png"
+      },
+      {
+        "id": "2026-11-20-Spend-limits-in-the-new-AWS-experience-now-support",
+        "title": "新しいAWS体験の利用限度額がSMSアラートに対応",
+        "date": "2026-11-20",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "path": "2026/11/20/Spend-limits-in-the-new-AWS-experience-now-support",
+        "summary": "新しいAWS体験の利用限度額がSMSアラートに対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/20/Spend-limits-in-the-new-AWS-experience-now-support/thumbnail.png"
       },
       {
         "id": "2026-11-19-AWS-AppConfig-launches-support-for-managing-native",
@@ -10857,7 +11275,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/02/Amazon-RDS-for-Oracle-no-longer-requires-automatic/thumbnail.png"
       }
     ],
-    "totalPages": 14
+    "totalPages": 16
   },
   "metadata:2026/10": {
     "year": 2026,
