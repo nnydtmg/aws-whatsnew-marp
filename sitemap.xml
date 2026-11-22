@@ -36,6 +36,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-21-AWS-Lambda-now-publishes-Event-Function-state-chan</loc>
+    <lastmod>2026-11-21</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-21-AWS-Lambda-now-supports-a-batch-size-of-up-to-1000</loc>
     <lastmod>2026-11-21</lastmod>
     <changefreq>never</changefreq>
@@ -43,6 +49,24 @@
   </url>
   <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-21-AWS-Network-Firewall-introduces-automated-Internet</loc>
+    <lastmod>2026-11-21</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-21-AWS-Quick-launches-a-new-web-experience-with-updat</loc>
+    <lastmod>2026-11-21</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-21-AWS-Quick-now-supports-Japanese-German-Vietnamese</loc>
+    <lastmod>2026-11-21</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-21-AWS-Quick-now-supports-plugins-to-bundle-agents-sk</loc>
     <lastmod>2026-11-21</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
@@ -85,6 +109,12 @@
   </url>
   <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-21-Announcing-a-new-skill-for-AI-agents-in-Amazon-Tex</loc>
+    <lastmod>2026-11-21</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-21-Build-more-capable-automations-through-chat-with-F</loc>
     <lastmod>2026-11-21</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>

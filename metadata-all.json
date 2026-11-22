@@ -57,6 +57,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/AWS-Lambda-now-provides-cost-optimization-recommen/thumbnail.png"
       },
       {
+        "id": "2026-11-21-AWS-Lambda-now-publishes-Event-Function-state-chan",
+        "title": "AWS LambdaがEvent Functionの状態変更イベントをAmazon EventBridgeに公開",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/AWS-Lambda-now-publishes-Event-Function-state-chan",
+        "summary": "AWS LambdaがEvent Functionの状態変更イベントをAmazon EventBridgeに公開",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/AWS-Lambda-now-publishes-Event-Function-state-chan/thumbnail.png"
+      },
+      {
         "id": "2026-11-21-AWS-Lambda-now-supports-a-batch-size-of-up-to-1000",
         "title": "AWS LambdaがAmazon SQS FIFOキューでバッチサイズ最大10,000件をサポート",
         "date": "2026-11-21",
@@ -77,6 +88,39 @@
         "path": "2026/11/21/AWS-Network-Firewall-introduces-automated-Internet",
         "summary": "AWS Network Firewallが自動化Internetファイアウォールのパブリックプレビューを開始",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/AWS-Network-Firewall-introduces-automated-Internet/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-AWS-Quick-launches-a-new-web-experience-with-updat",
+        "title": "AWS Quickが新しいWeb体験を開始、ブラウザ拡張とMicrosoft 365アドインも更新",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/AWS-Quick-launches-a-new-web-experience-with-updat",
+        "summary": "AWS Quickが新しいWeb体験を開始、ブラウザ拡張とMicrosoft 365アドインも更新",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/AWS-Quick-launches-a-new-web-experience-with-updat/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-AWS-Quick-now-supports-Japanese-German-Vietnamese",
+        "title": "AWS Quickが日本語・ドイツ語・ベトナム語・中国語に対応",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/AWS-Quick-now-supports-Japanese-German-Vietnamese",
+        "summary": "AWS Quickが日本語・ドイツ語・ベトナム語・中国語に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/AWS-Quick-now-supports-Japanese-German-Vietnamese/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-AWS-Quick-now-supports-plugins-to-bundle-agents-sk",
+        "title": "AWS Quickがプラグインをサポート、エージェントとスキルを一括導入",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/AWS-Quick-now-supports-plugins-to-bundle-agents-sk",
+        "summary": "AWS Quickがプラグインをサポート、エージェントとスキルを一括導入",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/AWS-Quick-now-supports-plugins-to-bundle-agents-sk/thumbnail.png"
       },
       {
         "id": "2026-11-21-Amazon-CloudWatch-Omni-now-supports-Microsoft-Azur",
@@ -154,6 +198,17 @@
         "path": "2026/11/21/Announcing-a-new-skill-for-AI-agents-in-Amazon-Tex",
         "summary": "Amazon Textract CoreがAIエージェント向けスキルを発表",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/Announcing-a-new-skill-for-AI-agents-in-Amazon-Tex/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-Build-more-capable-automations-through-chat-with-F",
+        "title": "AWS Quick の Flows がチャットによる自動化構築をサポート",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/Build-more-capable-automations-through-chat-with-F",
+        "summary": "AWS Quick の Flows がチャットによる自動化構築をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/Build-more-capable-automations-through-chat-with-F/thumbnail.png"
       },
       {
         "id": "2026-11-21-Web-Search-on-Amazon-Bedrock-expands-language-supp",
@@ -9715,8 +9770,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-11-21T21:16:53.299Z",
-    "totalCount": 883
+    "updatedAt": "2026-11-22T01:45:58.090Z",
+    "totalCount": 888
   },
   "metadata:months": [
     "2026/11",
@@ -9790,6 +9845,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/AWS-Lambda-now-provides-cost-optimization-recommen/thumbnail.png"
       },
       {
+        "id": "2026-11-21-AWS-Lambda-now-publishes-Event-Function-state-chan",
+        "title": "AWS LambdaがEvent Functionの状態変更イベントをAmazon EventBridgeに公開",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/AWS-Lambda-now-publishes-Event-Function-state-chan",
+        "summary": "AWS LambdaがEvent Functionの状態変更イベントをAmazon EventBridgeに公開",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/AWS-Lambda-now-publishes-Event-Function-state-chan/thumbnail.png"
+      },
+      {
         "id": "2026-11-21-AWS-Lambda-now-supports-a-batch-size-of-up-to-1000",
         "title": "AWS LambdaがAmazon SQS FIFOキューでバッチサイズ最大10,000件をサポート",
         "date": "2026-11-21",
@@ -9810,6 +9876,39 @@
         "path": "2026/11/21/AWS-Network-Firewall-introduces-automated-Internet",
         "summary": "AWS Network Firewallが自動化Internetファイアウォールのパブリックプレビューを開始",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/AWS-Network-Firewall-introduces-automated-Internet/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-AWS-Quick-launches-a-new-web-experience-with-updat",
+        "title": "AWS Quickが新しいWeb体験を開始、ブラウザ拡張とMicrosoft 365アドインも更新",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/AWS-Quick-launches-a-new-web-experience-with-updat",
+        "summary": "AWS Quickが新しいWeb体験を開始、ブラウザ拡張とMicrosoft 365アドインも更新",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/AWS-Quick-launches-a-new-web-experience-with-updat/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-AWS-Quick-now-supports-Japanese-German-Vietnamese",
+        "title": "AWS Quickが日本語・ドイツ語・ベトナム語・中国語に対応",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/AWS-Quick-now-supports-Japanese-German-Vietnamese",
+        "summary": "AWS Quickが日本語・ドイツ語・ベトナム語・中国語に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/AWS-Quick-now-supports-Japanese-German-Vietnamese/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-AWS-Quick-now-supports-plugins-to-bundle-agents-sk",
+        "title": "AWS Quickがプラグインをサポート、エージェントとスキルを一括導入",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/AWS-Quick-now-supports-plugins-to-bundle-agents-sk",
+        "summary": "AWS Quickがプラグインをサポート、エージェントとスキルを一括導入",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/AWS-Quick-now-supports-plugins-to-bundle-agents-sk/thumbnail.png"
       },
       {
         "id": "2026-11-21-Amazon-CloudWatch-Omni-now-supports-Microsoft-Azur",
@@ -9887,6 +9986,17 @@
         "path": "2026/11/21/Announcing-a-new-skill-for-AI-agents-in-Amazon-Tex",
         "summary": "Amazon Textract CoreがAIエージェント向けスキルを発表",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/Announcing-a-new-skill-for-AI-agents-in-Amazon-Tex/thumbnail.png"
+      },
+      {
+        "id": "2026-11-21-Build-more-capable-automations-through-chat-with-F",
+        "title": "AWS Quick の Flows がチャットによる自動化構築をサポート",
+        "date": "2026-11-21",
+        "year": 2026,
+        "month": 11,
+        "day": 21,
+        "path": "2026/11/21/Build-more-capable-automations-through-chat-with-F",
+        "summary": "AWS Quick の Flows がチャットによる自動化構築をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/21/Build-more-capable-automations-through-chat-with-F/thumbnail.png"
       },
       {
         "id": "2026-11-21-Web-Search-on-Amazon-Bedrock-expands-language-supp",
@@ -11605,7 +11715,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/02/Amazon-RDS-for-Oracle-no-longer-requires-automatic/thumbnail.png"
       }
     ],
-    "totalPages": 17
+    "totalPages": 18
   },
   "metadata:2026/10": {
     "year": 2026,
