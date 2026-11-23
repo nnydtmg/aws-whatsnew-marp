@@ -2,14 +2,20 @@ name: Generate HTML and Update Metadata
 
 on:
   schedule:
-    # 毎日 9:00 に実行
+    # 毎時0分に実行（GitHub側の混雑により実際の実行は遅延・間引きされることがある）
     - cron: '0 * * * *'
   workflow_dispatch: # 手動実行を許可
+    inputs:
+      force_kv_update:
+        description: '差分に関係なく全メタデータキーをKVに書き込む'
+        type: boolean
+        default: false
 
 permissions:
   contents: write     # リポジトリ内容: read/write/none (pushするためwriteが必要)
   issues: write       # Issues: read/write/none
   pull-requests: write # PR: read/write/none
+  actions: read       # 前回成功した実行のコミットを取得するため
 
 jobs:
   build:
@@ -20,6 +26,42 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
+
+      # 前回成功した実行以降に変更された記事を検出
+      # - slide.md が変更された記事の slide.html 再生成
+      # - marp-site のコンテンツキャッシュ削除（/api/sync）
+      # に使用する。チェックアウトは履歴1件のみのため、GitHub の compare API で差分を取得する
+      - name: Detect changed articles
+        id: changed
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          changed_files="$RUNNER_TEMP/changed_files.txt"
+          : > "$changed_files"
+
+          base_sha=$(gh run list \
+            --repo "$GITHUB_REPOSITORY" \
+            --workflow marp-to-html-and-sync.yml \
+            --branch main \
+            --status success \
+            --limit 1 \
+            --json headSha \
+            --jq '.[0].headSha // empty' || true)
+
+          if [ -z "$base_sha" ]; then
+            echo "No previous successful run found. Skipping change detection."
+          elif [ "$base_sha" = "$GITHUB_SHA" ]; then
+            echo "No new commits since last successful run ($base_sha)."
+          elif gh api "repos/$GITHUB_REPOSITORY/compare/${base_sha}...${GITHUB_SHA}?per_page=100" \
+              --paginate --jq '.files[].filename' > "$changed_files"; then
+            echo "Compared ${base_sha}...${GITHUB_SHA}: $(wc -l < "$changed_files") file(s) changed"
+          else
+            echo "::warning::Failed to compare ${base_sha}...${GITHUB_SHA}. Skipping change detection."
+            : > "$changed_files"
+          fi
+
+          echo "base_sha=$base_sha" >> "$GITHUB_OUTPUT"
+          echo "changed_files=$changed_files" >> "$GITHUB_OUTPUT"
 
       # 日本語フォントをインストール（Marp/Puppeteer によるPNGレンダリングに必要）
       - name: Install Japanese fonts
@@ -46,8 +88,17 @@ jobs:
           for file in "${files[@]}"; do
             dir=$(dirname "$file")
             html_file="$dir/slide.html"
-            if [ ! -f "$html_file" ]; then
-              echo "  ✓ Converting $file..."
+            # 前回成功した実行以降に slide.md が変更されていれば再生成する
+            slide_changed=false
+            if grep -qxF "${file#./}" "${{ steps.changed.outputs.changed_files }}"; then
+              slide_changed=true
+            fi
+            if [ ! -f "$html_file" ] || [ "$slide_changed" = "true" ]; then
+              if [ -f "$html_file" ]; then
+                echo "  ↻ slide.md updated, regenerating $html_file..."
+              else
+                echo "  ✓ Converting $file..."
+              fi
               if marp --html --allow-local-files --theme ./themes/aws-whatsnew.css "$file" -o "$html_file" < /dev/null; then
                 converted_count=$((converted_count + 1))
                 converted_files="${converted_files}\n  - ${file}"
@@ -181,6 +232,12 @@ jobs:
         env:
           THUMBNAIL_BASE_URL: ${{ secrets.THUMBNAIL_BASE_URL }}
         run: |
+          # 前回KVに書き込んだ内容（コミット済みの metadata-all.json）を差分比較用に退避
+          if [ -f metadata-all.json ]; then
+            cp metadata-all.json "$RUNNER_TEMP/metadata-prev.json"
+          else
+            echo '{}' > "$RUNNER_TEMP/metadata-prev.json"
+          fi
           node .github/scripts/generate-metadata.mjs . all > metadata-all.json
           echo "Generated metadata for $(cat metadata-all.json | jq -r '."metadata:index".totalCount') articles"
 
@@ -198,29 +255,32 @@ jobs:
         run: |
           npm install -g wrangler
 
-          # metadata:index を更新
-          cat metadata-all.json | jq '."metadata:index"' | \
-            wrangler kv key put "metadata:index" \
-              --namespace-id=${{ secrets.KV_NAMESPACE_ID }} \
-              --remote \
-              --path=/dev/stdin
+          prev="$RUNNER_TEMP/metadata-prev.json"
+          force="${{ github.event.inputs.force_kv_update }}"
+          updated=0
+          unchanged=0
 
-          # metadata:months を更新
-          cat metadata-all.json | jq '."metadata:months"' | \
-            wrangler kv key put "metadata:months" \
-              --namespace-id=${{ secrets.KV_NAMESPACE_ID }} \
-              --remote \
-              --path=/dev/stdin
-
-          # 各月のメタデータを更新
-          cat metadata-all.json | jq -r 'keys[] | select(startswith("metadata:") and (. != "metadata:index") and (. != "metadata:months"))' | while read key; do
+          # 内容が変わったキーのみ書き込む（KVの書き込み回数を削減するため）
+          # 対象: metadata:index / metadata:months / 各月（metadata:yyyy/mm）
+          # updatedAt は実行のたびに変わるため比較対象から除外する
+          normalize='.[$k] | if type == "object" then del(.updatedAt) else . end'
+          while read -r key; do
+            new_value=$(jq -S --arg k "$key" "$normalize" metadata-all.json)
+            old_value=$(jq -S --arg k "$key" "$normalize" "$prev")
+            if [ "$force" != "true" ] && [ "$new_value" = "$old_value" ]; then
+              unchanged=$((unchanged + 1))
+              continue
+            fi
             echo "Updating $key..."
-            cat metadata-all.json | jq ".\"$key\"" | \
+            jq --arg k "$key" '.[$k]' metadata-all.json | \
               wrangler kv key put "$key" \
                 --namespace-id=${{ secrets.KV_NAMESPACE_ID }} \
                 --remote \
                 --path=/dev/stdin
-          done
+            updated=$((updated + 1))
+          done < <(jq -r 'keys[] | select(startswith("metadata:"))' metadata-all.json)
+
+          echo "KV metadata: updated=$updated unchanged=$unchanged"
       
       # 生成したサムネイルをR2にアップロード
       - name: Upload thumbnails to R2
@@ -253,3 +313,43 @@ jobs:
           git diff --quiet && git diff --staged --quiet || \
             git commit -m "Generate HTML, metadata, and sitemap [skip ci]"
           git push
+
+      # 変更された記事の marp-site コンテンツキャッシュを削除
+      # 生成ファイルの push 後に実行する（push 前に削除すると、古い内容が再キャッシュされるため）
+      - name: Purge marp-site content cache
+        env:
+          SYNC_SECRET: ${{ secrets.SYNC_SECRET }}
+          SYNC_URL: https://whatsnew-marp.nnydtmg.com/api/sync
+        run: |
+          changed_files="${{ steps.changed.outputs.changed_files }}"
+          ids_file="$RUNNER_TEMP/purge_ids.txt"
+
+          # yyyy/mm/dd/<title>/(summary.md|slide.md|slide.html) → yyyy-mm-dd-<title>
+          # （記事IDの形式は .github/scripts/generate-metadata.mjs と同じ）
+          grep -E '^[0-9]{4}/[0-9]{2}/[0-9]{2}/[^/]+/(summary\.md|slide\.md|slide\.html)$' "$changed_files" | \
+            sed -E 's#^([0-9]{4})/([0-9]{2})/([0-9]{2})/([^/]+)/[^/]+$#\1-\2-\3-\4#' | \
+            sort -u > "$ids_file" || true
+
+          count=$(wc -l < "$ids_file")
+          if [ "$count" -eq 0 ]; then
+            echo "No changed articles. Nothing to purge."
+            exit 0
+          fi
+          if [ -z "$SYNC_SECRET" ]; then
+            echo "::warning::SYNC_SECRET is not set. Skipping cache purge for $count article(s)."
+            exit 0
+          fi
+
+          echo "Purging cache for $count article(s):"
+          cat "$ids_file"
+
+          # /api/sync は1リクエストあたり最大100記事
+          split -l 100 "$ids_file" "$RUNNER_TEMP/purge_chunk_"
+          for chunk in "$RUNNER_TEMP"/purge_chunk_*; do
+            jq -R . "$chunk" | jq -sc '{articleIds: .}' | \
+              curl -fsS -X POST "$SYNC_URL" \
+                -H "X-Sync-Secret: $SYNC_SECRET" \
+                -H 'Content-Type: application/json' \
+                --data-binary @-
+            echo
+          done
