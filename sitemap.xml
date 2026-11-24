@@ -6,6 +6,36 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-24-API-security-with-WAF</loc>
+    <lastmod>2026-11-24</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-24-AWS-Device-Farm-launches-Device-Connect-for-local</loc>
+    <lastmod>2026-11-24</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-24-AWS-Sign-In-introduces-configurable-Sign-in-durati</loc>
+    <lastmod>2026-11-24</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-24-AWS-WAF-announces-automated-discovery-and-protecti</loc>
+    <lastmod>2026-11-24</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-24-AWS-WAF-introduces-simplified-pricing</loc>
+    <lastmod>2026-11-24</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-23-AWS-CDK-Blocks-reaches-general-availability</loc>
     <lastmod>2026-11-23</lastmod>
     <changefreq>never</changefreq>

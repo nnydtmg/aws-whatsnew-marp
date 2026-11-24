@@ -2,6 +2,61 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-11-24-API-security-with-WAF",
+        "title": "AWS WAF API Security と API Portal が一般提供開始",
+        "date": "2026-11-24",
+        "year": 2026,
+        "month": 11,
+        "day": 24,
+        "path": "2026/11/24/API-security-with-WAF",
+        "summary": "AWS WAF API Security と API Portal が一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/24/API-security-with-WAF/thumbnail.png"
+      },
+      {
+        "id": "2026-11-24-AWS-Device-Farm-launches-Device-Connect-for-local",
+        "title": "AWS Device Farm が Device Connect を発表、リモート Android 端末へローカルアクセス可能に",
+        "date": "2026-11-24",
+        "year": 2026,
+        "month": 11,
+        "day": 24,
+        "path": "2026/11/24/AWS-Device-Farm-launches-Device-Connect-for-local",
+        "summary": "AWS Device Farm が Device Connect を発表、リモート Android 端末へローカルアクセス可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/24/AWS-Device-Farm-launches-Device-Connect-for-local/thumbnail.png"
+      },
+      {
+        "id": "2026-11-24-AWS-Sign-In-introduces-configurable-Sign-in-durati",
+        "title": "AWS Sign-Inが最大90日間の設定可能なサインイン期間を導入",
+        "date": "2026-11-24",
+        "year": 2026,
+        "month": 11,
+        "day": 24,
+        "path": "2026/11/24/AWS-Sign-In-introduces-configurable-Sign-in-durati",
+        "summary": "AWS Sign Inが最大90日間の設定可能なサインイン期間を導入",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/24/AWS-Sign-In-introduces-configurable-Sign-in-durati/thumbnail.png"
+      },
+      {
+        "id": "2026-11-24-AWS-WAF-announces-automated-discovery-and-protecti",
+        "title": "AWS WAFがAmazon Bedrock GuardrailsでLLM・MCP・A2Aエンドポイントの自動検出と保護を発表",
+        "date": "2026-11-24",
+        "year": 2026,
+        "month": 11,
+        "day": 24,
+        "path": "2026/11/24/AWS-WAF-announces-automated-discovery-and-protecti",
+        "summary": "AWS WAFがAmazon Bedrock GuardrailsでLLM・MCP・A2Aエンドポイントの自動検出と保護を発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/24/AWS-WAF-announces-automated-discovery-and-protecti/thumbnail.png"
+      },
+      {
+        "id": "2026-11-24-AWS-WAF-introduces-simplified-pricing",
+        "title": "AWS WAFが簡素化された新料金体系を導入、保護対象に応じた予測可能なコストに",
+        "date": "2026-11-24",
+        "year": 2026,
+        "month": 11,
+        "day": 24,
+        "path": "2026/11/24/AWS-WAF-introduces-simplified-pricing",
+        "summary": "AWS WAFが簡素化された新料金体系を導入、保護対象に応じた予測可能なコストに",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/24/AWS-WAF-introduces-simplified-pricing/thumbnail.png"
+      },
+      {
         "id": "2026-11-23-AWS-CDK-Blocks-reaches-general-availability",
         "title": "AWS CDK Blocksが一般提供開始、本番対応アプリ構築を簡素化",
         "date": "2026-11-23",
@@ -9880,8 +9935,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-11-24T11:45:53.726Z",
-    "totalCount": 898
+    "updatedAt": "2026-11-24T21:40:50.950Z",
+    "totalCount": 903
   },
   "metadata:months": [
     "2026/11",
@@ -9899,6 +9954,61 @@
     "year": 2026,
     "month": 11,
     "articles": [
+      {
+        "id": "2026-11-24-API-security-with-WAF",
+        "title": "AWS WAF API Security と API Portal が一般提供開始",
+        "date": "2026-11-24",
+        "year": 2026,
+        "month": 11,
+        "day": 24,
+        "path": "2026/11/24/API-security-with-WAF",
+        "summary": "AWS WAF API Security と API Portal が一般提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/24/API-security-with-WAF/thumbnail.png"
+      },
+      {
+        "id": "2026-11-24-AWS-Device-Farm-launches-Device-Connect-for-local",
+        "title": "AWS Device Farm が Device Connect を発表、リモート Android 端末へローカルアクセス可能に",
+        "date": "2026-11-24",
+        "year": 2026,
+        "month": 11,
+        "day": 24,
+        "path": "2026/11/24/AWS-Device-Farm-launches-Device-Connect-for-local",
+        "summary": "AWS Device Farm が Device Connect を発表、リモート Android 端末へローカルアクセス可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/24/AWS-Device-Farm-launches-Device-Connect-for-local/thumbnail.png"
+      },
+      {
+        "id": "2026-11-24-AWS-Sign-In-introduces-configurable-Sign-in-durati",
+        "title": "AWS Sign-Inが最大90日間の設定可能なサインイン期間を導入",
+        "date": "2026-11-24",
+        "year": 2026,
+        "month": 11,
+        "day": 24,
+        "path": "2026/11/24/AWS-Sign-In-introduces-configurable-Sign-in-durati",
+        "summary": "AWS Sign Inが最大90日間の設定可能なサインイン期間を導入",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/24/AWS-Sign-In-introduces-configurable-Sign-in-durati/thumbnail.png"
+      },
+      {
+        "id": "2026-11-24-AWS-WAF-announces-automated-discovery-and-protecti",
+        "title": "AWS WAFがAmazon Bedrock GuardrailsでLLM・MCP・A2Aエンドポイントの自動検出と保護を発表",
+        "date": "2026-11-24",
+        "year": 2026,
+        "month": 11,
+        "day": 24,
+        "path": "2026/11/24/AWS-WAF-announces-automated-discovery-and-protecti",
+        "summary": "AWS WAFがAmazon Bedrock GuardrailsでLLM・MCP・A2Aエンドポイントの自動検出と保護を発表",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/24/AWS-WAF-announces-automated-discovery-and-protecti/thumbnail.png"
+      },
+      {
+        "id": "2026-11-24-AWS-WAF-introduces-simplified-pricing",
+        "title": "AWS WAFが簡素化された新料金体系を導入、保護対象に応じた予測可能なコストに",
+        "date": "2026-11-24",
+        "year": 2026,
+        "month": 11,
+        "day": 24,
+        "path": "2026/11/24/AWS-WAF-introduces-simplified-pricing",
+        "summary": "AWS WAFが簡素化された新料金体系を導入、保護対象に応じた予測可能なコストに",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/24/AWS-WAF-introduces-simplified-pricing/thumbnail.png"
+      },
       {
         "id": "2026-11-23-AWS-CDK-Blocks-reaches-general-availability",
         "title": "AWS CDK Blocksが一般提供開始、本番対応アプリ構築を簡素化",
