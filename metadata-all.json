@@ -2,6 +2,116 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-11-23-AWS-CDK-Blocks-reaches-general-availability",
+        "title": "AWS CDK Blocksが一般提供開始、本番対応アプリ構築を簡素化",
+        "date": "2026-11-23",
+        "year": 2026,
+        "month": 11,
+        "day": 23,
+        "path": "2026/11/23/AWS-CDK-Blocks-reaches-general-availability",
+        "summary": "AWS CDK Blocksが一般提供開始、本番対応アプリ構築を簡素化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/23/AWS-CDK-Blocks-reaches-general-availability/thumbnail.png"
+      },
+      {
+        "id": "2026-11-23-AWS-CodeDeploy-now-supports-suspending-Amazon-EC2",
+        "title": "AWS CodeDeployがEC2 Auto Scalingプロセスの一時停止をサポート",
+        "date": "2026-11-23",
+        "year": 2026,
+        "month": 11,
+        "day": 23,
+        "path": "2026/11/23/AWS-CodeDeploy-now-supports-suspending-Amazon-EC2",
+        "summary": "AWS CodeDeployがEC2 Auto Scalingプロセスの一時停止をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/23/AWS-CodeDeploy-now-supports-suspending-Amazon-EC2/thumbnail.png"
+      },
+      {
+        "id": "2026-11-23-AWS-DevOps-Agent-adds-agent-sandboxes",
+        "title": "AWS DevOps Agent がエージェントサンドボックスを追加",
+        "date": "2026-11-23",
+        "year": 2026,
+        "month": 11,
+        "day": 23,
+        "path": "2026/11/23/AWS-DevOps-Agent-adds-agent-sandboxes",
+        "summary": "AWS DevOps Agent がエージェントサンドボックスを追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/23/AWS-DevOps-Agent-adds-agent-sandboxes/thumbnail.png"
+      },
+      {
+        "id": "2026-11-23-AWS-DevOps-Agent-adds-quality-improvement-dashboar",
+        "title": "AWS DevOps Agent に品質改善ダッシュボードとツールが追加",
+        "date": "2026-11-23",
+        "year": 2026,
+        "month": 11,
+        "day": 23,
+        "path": "2026/11/23/AWS-DevOps-Agent-adds-quality-improvement-dashboar",
+        "summary": "AWS DevOps Agent に品質改善ダッシュボードとツールが追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/23/AWS-DevOps-Agent-adds-quality-improvement-dashboar/thumbnail.png"
+      },
+      {
+        "id": "2026-11-23-AWS-Global-Accelerator-now-preserves-client-IPs-fo",
+        "title": "AWS Global AcceleratorがTLSリスナー付きNLBでクライアントIP保持をサポート",
+        "date": "2026-11-23",
+        "year": 2026,
+        "month": 11,
+        "day": 23,
+        "path": "2026/11/23/AWS-Global-Accelerator-now-preserves-client-IPs-fo",
+        "summary": "AWS Global AcceleratorがTLSリスナー付きNLBでクライアントIP保持をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/23/AWS-Global-Accelerator-now-preserves-client-IPs-fo/thumbnail.png"
+      },
+      {
+        "id": "2026-11-23-AWS-Systems-Manager-Automation-now-automates-opera",
+        "title": "AWS Systems Manager AutomationがAzureとGoogle Cloudの運用タスクを自動化",
+        "date": "2026-11-23",
+        "year": 2026,
+        "month": 11,
+        "day": 23,
+        "path": "2026/11/23/AWS-Systems-Manager-Automation-now-automates-opera",
+        "summary": "AWS Systems Manager AutomationがAzureとGoogle Cloudの運用タスクを自動化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/23/AWS-Systems-Manager-Automation-now-automates-opera/thumbnail.png"
+      },
+      {
+        "id": "2026-11-23-Amazon-CloudFront-Announces-HTTP2-Support-for-Conn",
+        "title": "Amazon CloudFrontがオリジンへのHTTP/2接続をサポート",
+        "date": "2026-11-23",
+        "year": 2026,
+        "month": 11,
+        "day": 23,
+        "path": "2026/11/23/Amazon-CloudFront-Announces-HTTP2-Support-for-Conn",
+        "summary": "Amazon CloudFrontがオリジンへのHTTP/2接続をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/23/Amazon-CloudFront-Announces-HTTP2-Support-for-Conn/thumbnail.png"
+      },
+      {
+        "id": "2026-11-23-Amazon-CloudWatch-Query-Studio-now-supports-saved",
+        "title": "Amazon CloudWatch Query Studioが保存クエリをサポート",
+        "date": "2026-11-23",
+        "year": 2026,
+        "month": 11,
+        "day": 23,
+        "path": "2026/11/23/Amazon-CloudWatch-Query-Studio-now-supports-saved",
+        "summary": "Amazon CloudWatch Query Studioが保存クエリをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/23/Amazon-CloudWatch-Query-Studio-now-supports-saved/thumbnail.png"
+      },
+      {
+        "id": "2026-11-23-Amazon-Inspector-expands-runtime-reachability-anal",
+        "title": "Amazon InspectorがECRとEC2の検出結果にランタイム到達可能性分析を拡張",
+        "date": "2026-11-23",
+        "year": 2026,
+        "month": 11,
+        "day": 23,
+        "path": "2026/11/23/Amazon-Inspector-expands-runtime-reachability-anal",
+        "summary": "Amazon InspectorがECRとEC2の検出結果にランタイム到達可能性分析を拡張",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/23/Amazon-Inspector-expands-runtime-reachability-anal/thumbnail.png"
+      },
+      {
+        "id": "2026-11-23-You-can-now-copy-data-server-side-between-Amazon-S",
+        "title": "S3 Access PointsでAmazon S3とAmazon FSx間のサーバーサイドコピーが可能に",
+        "date": "2026-11-23",
+        "year": 2026,
+        "month": 11,
+        "day": 23,
+        "path": "2026/11/23/You-can-now-copy-data-server-side-between-Amazon-S",
+        "summary": "S3 Access PointsでAmazon S3とAmazon FSx間のサーバーサイドコピーが可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/23/You-can-now-copy-data-server-side-between-Amazon-S/thumbnail.png"
+      },
+      {
         "id": "2026-11-21-AWS-Agent-Registry-now-offers-naming-and-public-di",
         "title": "AWS Agent Registryが命名と公開発見機能の提供を開始",
         "date": "2026-11-21",
@@ -9770,8 +9880,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-11-23T13:49:01.979Z",
-    "totalCount": 888
+    "updatedAt": "2026-11-24T01:20:45.187Z",
+    "totalCount": 898
   },
   "metadata:months": [
     "2026/11",
@@ -9789,6 +9899,116 @@
     "year": 2026,
     "month": 11,
     "articles": [
+      {
+        "id": "2026-11-23-AWS-CDK-Blocks-reaches-general-availability",
+        "title": "AWS CDK Blocksが一般提供開始、本番対応アプリ構築を簡素化",
+        "date": "2026-11-23",
+        "year": 2026,
+        "month": 11,
+        "day": 23,
+        "path": "2026/11/23/AWS-CDK-Blocks-reaches-general-availability",
+        "summary": "AWS CDK Blocksが一般提供開始、本番対応アプリ構築を簡素化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/23/AWS-CDK-Blocks-reaches-general-availability/thumbnail.png"
+      },
+      {
+        "id": "2026-11-23-AWS-CodeDeploy-now-supports-suspending-Amazon-EC2",
+        "title": "AWS CodeDeployがEC2 Auto Scalingプロセスの一時停止をサポート",
+        "date": "2026-11-23",
+        "year": 2026,
+        "month": 11,
+        "day": 23,
+        "path": "2026/11/23/AWS-CodeDeploy-now-supports-suspending-Amazon-EC2",
+        "summary": "AWS CodeDeployがEC2 Auto Scalingプロセスの一時停止をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/23/AWS-CodeDeploy-now-supports-suspending-Amazon-EC2/thumbnail.png"
+      },
+      {
+        "id": "2026-11-23-AWS-DevOps-Agent-adds-agent-sandboxes",
+        "title": "AWS DevOps Agent がエージェントサンドボックスを追加",
+        "date": "2026-11-23",
+        "year": 2026,
+        "month": 11,
+        "day": 23,
+        "path": "2026/11/23/AWS-DevOps-Agent-adds-agent-sandboxes",
+        "summary": "AWS DevOps Agent がエージェントサンドボックスを追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/23/AWS-DevOps-Agent-adds-agent-sandboxes/thumbnail.png"
+      },
+      {
+        "id": "2026-11-23-AWS-DevOps-Agent-adds-quality-improvement-dashboar",
+        "title": "AWS DevOps Agent に品質改善ダッシュボードとツールが追加",
+        "date": "2026-11-23",
+        "year": 2026,
+        "month": 11,
+        "day": 23,
+        "path": "2026/11/23/AWS-DevOps-Agent-adds-quality-improvement-dashboar",
+        "summary": "AWS DevOps Agent に品質改善ダッシュボードとツールが追加",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/23/AWS-DevOps-Agent-adds-quality-improvement-dashboar/thumbnail.png"
+      },
+      {
+        "id": "2026-11-23-AWS-Global-Accelerator-now-preserves-client-IPs-fo",
+        "title": "AWS Global AcceleratorがTLSリスナー付きNLBでクライアントIP保持をサポート",
+        "date": "2026-11-23",
+        "year": 2026,
+        "month": 11,
+        "day": 23,
+        "path": "2026/11/23/AWS-Global-Accelerator-now-preserves-client-IPs-fo",
+        "summary": "AWS Global AcceleratorがTLSリスナー付きNLBでクライアントIP保持をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/23/AWS-Global-Accelerator-now-preserves-client-IPs-fo/thumbnail.png"
+      },
+      {
+        "id": "2026-11-23-AWS-Systems-Manager-Automation-now-automates-opera",
+        "title": "AWS Systems Manager AutomationがAzureとGoogle Cloudの運用タスクを自動化",
+        "date": "2026-11-23",
+        "year": 2026,
+        "month": 11,
+        "day": 23,
+        "path": "2026/11/23/AWS-Systems-Manager-Automation-now-automates-opera",
+        "summary": "AWS Systems Manager AutomationがAzureとGoogle Cloudの運用タスクを自動化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/23/AWS-Systems-Manager-Automation-now-automates-opera/thumbnail.png"
+      },
+      {
+        "id": "2026-11-23-Amazon-CloudFront-Announces-HTTP2-Support-for-Conn",
+        "title": "Amazon CloudFrontがオリジンへのHTTP/2接続をサポート",
+        "date": "2026-11-23",
+        "year": 2026,
+        "month": 11,
+        "day": 23,
+        "path": "2026/11/23/Amazon-CloudFront-Announces-HTTP2-Support-for-Conn",
+        "summary": "Amazon CloudFrontがオリジンへのHTTP/2接続をサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/23/Amazon-CloudFront-Announces-HTTP2-Support-for-Conn/thumbnail.png"
+      },
+      {
+        "id": "2026-11-23-Amazon-CloudWatch-Query-Studio-now-supports-saved",
+        "title": "Amazon CloudWatch Query Studioが保存クエリをサポート",
+        "date": "2026-11-23",
+        "year": 2026,
+        "month": 11,
+        "day": 23,
+        "path": "2026/11/23/Amazon-CloudWatch-Query-Studio-now-supports-saved",
+        "summary": "Amazon CloudWatch Query Studioが保存クエリをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/23/Amazon-CloudWatch-Query-Studio-now-supports-saved/thumbnail.png"
+      },
+      {
+        "id": "2026-11-23-Amazon-Inspector-expands-runtime-reachability-anal",
+        "title": "Amazon InspectorがECRとEC2の検出結果にランタイム到達可能性分析を拡張",
+        "date": "2026-11-23",
+        "year": 2026,
+        "month": 11,
+        "day": 23,
+        "path": "2026/11/23/Amazon-Inspector-expands-runtime-reachability-anal",
+        "summary": "Amazon InspectorがECRとEC2の検出結果にランタイム到達可能性分析を拡張",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/23/Amazon-Inspector-expands-runtime-reachability-anal/thumbnail.png"
+      },
+      {
+        "id": "2026-11-23-You-can-now-copy-data-server-side-between-Amazon-S",
+        "title": "S3 Access PointsでAmazon S3とAmazon FSx間のサーバーサイドコピーが可能に",
+        "date": "2026-11-23",
+        "year": 2026,
+        "month": 11,
+        "day": 23,
+        "path": "2026/11/23/You-can-now-copy-data-server-side-between-Amazon-S",
+        "summary": "S3 Access PointsでAmazon S3とAmazon FSx間のサーバーサイドコピーが可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/23/You-can-now-copy-data-server-side-between-Amazon-S/thumbnail.png"
+      },
       {
         "id": "2026-11-21-AWS-Agent-Registry-now-offers-naming-and-public-di",
         "title": "AWS Agent Registryが命名と公開発見機能の提供を開始",
@@ -11715,7 +11935,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/02/Amazon-RDS-for-Oracle-no-longer-requires-automatic/thumbnail.png"
       }
     ],
-    "totalPages": 18
+    "totalPages": 19
   },
   "metadata:2026/10": {
     "year": 2026,

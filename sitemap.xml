@@ -6,6 +6,66 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-23-AWS-CDK-Blocks-reaches-general-availability</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-23-AWS-CodeDeploy-now-supports-suspending-Amazon-EC2</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-23-AWS-DevOps-Agent-adds-agent-sandboxes</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-23-AWS-DevOps-Agent-adds-quality-improvement-dashboar</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-23-AWS-Global-Accelerator-now-preserves-client-IPs-fo</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-23-AWS-Systems-Manager-Automation-now-automates-opera</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-23-Amazon-CloudFront-Announces-HTTP2-Support-for-Conn</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-23-Amazon-CloudWatch-Query-Studio-now-supports-saved</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-23-Amazon-Inspector-expands-runtime-reachability-anal</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-23-You-can-now-copy-data-server-side-between-Amazon-S</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://whatsnew-marp.nnydtmg.com/article/2026-11-21-AWS-Agent-Registry-now-offers-naming-and-public-di</loc>
     <lastmod>2026-11-21</lastmod>
     <changefreq>never</changefreq>
