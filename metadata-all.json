@@ -24,6 +24,17 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/25/AWS-DevOps-Agent-adds-Access-Profiles-and-AWS-Orga/thumbnail.png"
       },
       {
+        "id": "2026-11-25-AWS-IAM-extends-trusted-identity-propagation-to-IA",
+        "title": "AWS IAMがTrusted Identity Propagationを拡張しIdentity Centerを簡素化",
+        "date": "2026-11-25",
+        "year": 2026,
+        "month": 11,
+        "day": 25,
+        "path": "2026/11/25/AWS-IAM-extends-trusted-identity-propagation-to-IA",
+        "summary": "AWS IAMがTrusted Identity Propagationを拡張しIdentity Centerを簡素化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/25/AWS-IAM-extends-trusted-identity-propagation-to-IA/thumbnail.png"
+      },
+      {
         "id": "2026-11-25-AWS-Quick-adds-identity-aware-access-via-3LO-for-S",
         "title": "AWS QuickがSnowflakeとDatabricks向けに3LOによるエンドユーザー権限を追加",
         "date": "2026-11-25",
@@ -9990,8 +10001,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-11-25T15:06:32.082Z",
-    "totalCount": 908
+    "updatedAt": "2026-11-25T23:52:26.841Z",
+    "totalCount": 909
   },
   "metadata:months": [
     "2026/11",
@@ -10030,6 +10041,17 @@
         "path": "2026/11/25/AWS-DevOps-Agent-adds-Access-Profiles-and-AWS-Orga",
         "summary": "AWS DevOps AgentがAccess ProfilesとAWS Organizationsをサポート",
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/25/AWS-DevOps-Agent-adds-Access-Profiles-and-AWS-Orga/thumbnail.png"
+      },
+      {
+        "id": "2026-11-25-AWS-IAM-extends-trusted-identity-propagation-to-IA",
+        "title": "AWS IAMがTrusted Identity Propagationを拡張しIdentity Centerを簡素化",
+        "date": "2026-11-25",
+        "year": 2026,
+        "month": 11,
+        "day": 25,
+        "path": "2026/11/25/AWS-IAM-extends-trusted-identity-propagation-to-IA",
+        "summary": "AWS IAMがTrusted Identity Propagationを拡張しIdentity Centerを簡素化",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/25/AWS-IAM-extends-trusted-identity-propagation-to-IA/thumbnail.png"
       },
       {
         "id": "2026-11-25-AWS-Quick-adds-identity-aware-access-via-3LO-for-S",
