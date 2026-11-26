@@ -2,6 +2,61 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-11-26-AWS-Device-Farm-now-supports-Android-emulators-and",
+        "title": "AWS Device FarmがAndroidエミュレーターとiOSシミュレーターをサポート",
+        "date": "2026-11-26",
+        "year": 2026,
+        "month": 11,
+        "day": 26,
+        "path": "2026/11/26/AWS-Device-Farm-now-supports-Android-emulators-and",
+        "summary": "AWS Device FarmがAndroidエミュレーターとiOSシミュレーターをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/26/AWS-Device-Farm-now-supports-Android-emulators-and/thumbnail.png"
+      },
+      {
+        "id": "2026-11-26-AWS-Lambda-now-supports-orchestrating-MicroVMs-wit",
+        "title": "AWS Lambda durable functions で MicroVM のオーケストレーションが可能に",
+        "date": "2026-11-26",
+        "year": 2026,
+        "month": 11,
+        "day": 26,
+        "path": "2026/11/26/AWS-Lambda-now-supports-orchestrating-MicroVMs-wit",
+        "summary": "AWS Lambda durable functions で MicroVM のオーケストレーションが可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/26/AWS-Lambda-now-supports-orchestrating-MicroVMs-wit/thumbnail.png"
+      },
+      {
+        "id": "2026-11-26-Amazon-CloudWatch-Omni-now-integrates-with-PagerDu",
+        "title": "Amazon CloudWatch OmniがPagerDutyと連携、アラートからインシデントを自動作成",
+        "date": "2026-11-26",
+        "year": 2026,
+        "month": 11,
+        "day": 26,
+        "path": "2026/11/26/Amazon-CloudWatch-Omni-now-integrates-with-PagerDu",
+        "summary": "Amazon CloudWatch OmniがPagerDutyと連携、アラートからインシデントを自動作成",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/26/Amazon-CloudWatch-Omni-now-integrates-with-PagerDu/thumbnail.png"
+      },
+      {
+        "id": "2026-11-26-Amazon-Transcribe-Turbo-more-accurate-transcripts",
+        "title": "Amazon Transcribe Turboがパブリックプレビューで利用可能に",
+        "date": "2026-11-26",
+        "year": 2026,
+        "month": 11,
+        "day": 26,
+        "path": "2026/11/26/Amazon-Transcribe-Turbo-more-accurate-transcripts",
+        "summary": "Amazon Transcribe Turboがパブリックプレビューで利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/26/Amazon-Transcribe-Turbo-more-accurate-transcripts/thumbnail.png"
+      },
+      {
+        "id": "2026-11-26-Elastic-Load-Balancing-for-Envoy-is-now-generally",
+        "title": "ELB for Envoy が一般提供開始 — Envoyプロキシの運用をAWSが担当",
+        "date": "2026-11-26",
+        "year": 2026,
+        "month": 11,
+        "day": 26,
+        "path": "2026/11/26/Elastic-Load-Balancing-for-Envoy-is-now-generally",
+        "summary": "ELB for Envoy が一般提供開始 — Envoyプロキシの運用をAWSが担当",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/26/Elastic-Load-Balancing-for-Envoy-is-now-generally/thumbnail.png"
+      },
+      {
         "id": "2026-11-25-AWS-CloudFormation-makes-resource-coverage-compreh",
         "title": "AWS CloudFormationが206の新規リソースタイプをサポート",
         "date": "2026-11-25",
@@ -10001,8 +10056,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-11-26T05:50:10.804Z",
-    "totalCount": 909
+    "updatedAt": "2026-11-26T15:58:22.090Z",
+    "totalCount": 914
   },
   "metadata:months": [
     "2026/11",
@@ -10020,6 +10075,61 @@
     "year": 2026,
     "month": 11,
     "articles": [
+      {
+        "id": "2026-11-26-AWS-Device-Farm-now-supports-Android-emulators-and",
+        "title": "AWS Device FarmがAndroidエミュレーターとiOSシミュレーターをサポート",
+        "date": "2026-11-26",
+        "year": 2026,
+        "month": 11,
+        "day": 26,
+        "path": "2026/11/26/AWS-Device-Farm-now-supports-Android-emulators-and",
+        "summary": "AWS Device FarmがAndroidエミュレーターとiOSシミュレーターをサポート",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/26/AWS-Device-Farm-now-supports-Android-emulators-and/thumbnail.png"
+      },
+      {
+        "id": "2026-11-26-AWS-Lambda-now-supports-orchestrating-MicroVMs-wit",
+        "title": "AWS Lambda durable functions で MicroVM のオーケストレーションが可能に",
+        "date": "2026-11-26",
+        "year": 2026,
+        "month": 11,
+        "day": 26,
+        "path": "2026/11/26/AWS-Lambda-now-supports-orchestrating-MicroVMs-wit",
+        "summary": "AWS Lambda durable functions で MicroVM のオーケストレーションが可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/26/AWS-Lambda-now-supports-orchestrating-MicroVMs-wit/thumbnail.png"
+      },
+      {
+        "id": "2026-11-26-Amazon-CloudWatch-Omni-now-integrates-with-PagerDu",
+        "title": "Amazon CloudWatch OmniがPagerDutyと連携、アラートからインシデントを自動作成",
+        "date": "2026-11-26",
+        "year": 2026,
+        "month": 11,
+        "day": 26,
+        "path": "2026/11/26/Amazon-CloudWatch-Omni-now-integrates-with-PagerDu",
+        "summary": "Amazon CloudWatch OmniがPagerDutyと連携、アラートからインシデントを自動作成",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/26/Amazon-CloudWatch-Omni-now-integrates-with-PagerDu/thumbnail.png"
+      },
+      {
+        "id": "2026-11-26-Amazon-Transcribe-Turbo-more-accurate-transcripts",
+        "title": "Amazon Transcribe Turboがパブリックプレビューで利用可能に",
+        "date": "2026-11-26",
+        "year": 2026,
+        "month": 11,
+        "day": 26,
+        "path": "2026/11/26/Amazon-Transcribe-Turbo-more-accurate-transcripts",
+        "summary": "Amazon Transcribe Turboがパブリックプレビューで利用可能に",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/26/Amazon-Transcribe-Turbo-more-accurate-transcripts/thumbnail.png"
+      },
+      {
+        "id": "2026-11-26-Elastic-Load-Balancing-for-Envoy-is-now-generally",
+        "title": "ELB for Envoy が一般提供開始 — Envoyプロキシの運用をAWSが担当",
+        "date": "2026-11-26",
+        "year": 2026,
+        "month": 11,
+        "day": 26,
+        "path": "2026/11/26/Elastic-Load-Balancing-for-Envoy-is-now-generally",
+        "summary": "ELB for Envoy が一般提供開始 — Envoyプロキシの運用をAWSが担当",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/26/Elastic-Load-Balancing-for-Envoy-is-now-generally/thumbnail.png"
+      },
       {
         "id": "2026-11-25-AWS-CloudFormation-makes-resource-coverage-compreh",
         "title": "AWS CloudFormationが206の新規リソースタイプをサポート",
@@ -12177,7 +12287,7 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/02/Amazon-RDS-for-Oracle-no-longer-requires-automatic/thumbnail.png"
       }
     ],
-    "totalPages": 20
+    "totalPages": 21
   },
   "metadata:2026/10": {
     "year": 2026,
