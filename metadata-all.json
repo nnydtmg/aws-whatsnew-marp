@@ -2,6 +2,28 @@
   "metadata:index": {
     "articles": [
       {
+        "id": "2026-11-28-Amazon-OpenSearch-Service-optimised-engine-now-pub",
+        "title": "Amazon OpenSearch Serviceの最適化エンジンがAmazon S3 Tablesへのデータ公開に対応",
+        "date": "2026-11-28",
+        "year": 2026,
+        "month": 11,
+        "day": 28,
+        "path": "2026/11/28/Amazon-OpenSearch-Service-optimised-engine-now-pub",
+        "summary": "Amazon OpenSearch Serviceの最適化エンジンがAmazon S3 Tablesへのデータ公開に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/28/Amazon-OpenSearch-Service-optimised-engine-now-pub/thumbnail.png"
+      },
+      {
+        "id": "2026-11-27-Amazon-CloudWatch-announces-basic-OpenTelemetry-en",
+        "title": "Amazon CloudWatchが基本OpenTelemetryエンリッチメントを追加料金なしで提供開始",
+        "date": "2026-11-27",
+        "year": 2026,
+        "month": 11,
+        "day": 27,
+        "path": "2026/11/27/Amazon-CloudWatch-announces-basic-OpenTelemetry-en",
+        "summary": "Amazon CloudWatchが基本OpenTelemetryエンリッチメントを追加料金なしで提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/27/Amazon-CloudWatch-announces-basic-OpenTelemetry-en/thumbnail.png"
+      },
+      {
         "id": "2026-11-26-AWS-Device-Farm-now-supports-Android-emulators-and",
         "title": "AWS Device FarmがAndroidエミュレーターとiOSシミュレーターをサポート",
         "date": "2026-11-26",
@@ -10056,8 +10078,8 @@
         "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/02/05/Claude-Opus-46-now-available-in-Amazon-Bedrock/thumbnail.png"
       }
     ],
-    "updatedAt": "2026-11-27T19:14:38.080Z",
-    "totalCount": 914
+    "updatedAt": "2026-11-28T02:20:39.325Z",
+    "totalCount": 916
   },
   "metadata:months": [
     "2026/11",
@@ -10075,6 +10097,28 @@
     "year": 2026,
     "month": 11,
     "articles": [
+      {
+        "id": "2026-11-28-Amazon-OpenSearch-Service-optimised-engine-now-pub",
+        "title": "Amazon OpenSearch Serviceの最適化エンジンがAmazon S3 Tablesへのデータ公開に対応",
+        "date": "2026-11-28",
+        "year": 2026,
+        "month": 11,
+        "day": 28,
+        "path": "2026/11/28/Amazon-OpenSearch-Service-optimised-engine-now-pub",
+        "summary": "Amazon OpenSearch Serviceの最適化エンジンがAmazon S3 Tablesへのデータ公開に対応",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/28/Amazon-OpenSearch-Service-optimised-engine-now-pub/thumbnail.png"
+      },
+      {
+        "id": "2026-11-27-Amazon-CloudWatch-announces-basic-OpenTelemetry-en",
+        "title": "Amazon CloudWatchが基本OpenTelemetryエンリッチメントを追加料金なしで提供開始",
+        "date": "2026-11-27",
+        "year": 2026,
+        "month": 11,
+        "day": 27,
+        "path": "2026/11/27/Amazon-CloudWatch-announces-basic-OpenTelemetry-en",
+        "summary": "Amazon CloudWatchが基本OpenTelemetryエンリッチメントを追加料金なしで提供開始",
+        "thumbnailUrl": "https://marp-thumbnails.nnydtmg.com/2026/11/27/Amazon-CloudWatch-announces-basic-OpenTelemetry-en/thumbnail.png"
+      },
       {
         "id": "2026-11-26-AWS-Device-Farm-now-supports-Android-emulators-and",
         "title": "AWS Device FarmがAndroidエミュレーターとiOSシミュレーターをサポート",
